@@ -4,39 +4,39 @@
    "key": "team_week_high",
    "label": "Highest team score, single week (regular season)",
    "value": 218.49,
-   "holder": "brockhusk",
+   "holder": "B-Husk",
    "user_id": "710284244835979264",
-   "detail": "Week 10, 2023 vs TylerWicks"
+   "detail": "Week 10, 2023 vs Wicko"
   },
   {
    "key": "team_week_low",
    "label": "Lowest team score, single week (regular season)",
    "value": 67.01,
-   "holder": "MaxSirianni",
+   "holder": "Siri",
    "user_id": "737091087440674816",
-   "detail": "Week 4, 2023 vs Erjohnson14"
+   "detail": "Week 4, 2023 vs Johnson"
   },
   {
    "key": "blowout",
    "label": "Largest margin of victory (regular season)",
    "value": 115.2,
-   "holder": "jdrobny",
+   "holder": "Drobny",
    "user_id": "736744257179770880",
-   "detail": "Week 5, 2021 vs JSanDusky69"
+   "detail": "Week 5, 2021 vs BJ"
   },
   {
    "key": "nailbiter",
    "label": "Closest margin of victory (regular season)",
    "value": 0.11,
-   "holder": "charliekaufmann",
+   "holder": "Chuck",
    "user_id": "716698629934481408",
-   "detail": "Week 3, 2024 vs cc5597"
+   "detail": "Week 3, 2024 vs Clem"
   },
   {
    "key": "season_pf_high",
    "label": "Most points scored, season",
    "value": 2253.51,
-   "holder": "bgreenblatt",
+   "holder": "Benny G",
    "user_id": "608781531883859968",
    "detail": "2024 season"
   },
@@ -44,7 +44,7 @@
    "key": "season_pf_low",
    "label": "Fewest points scored, season",
    "value": 1605.8,
-   "holder": "MaxSirianni",
+   "holder": "Siri",
    "user_id": "737091087440674816",
    "detail": "2021 season"
   },
@@ -52,7 +52,7 @@
    "key": "season_pa_high",
    "label": "Most points allowed, season (the punching bag award)",
    "value": 2109.36,
-   "holder": "JSanDusky69",
+   "holder": "BJ",
    "user_id": "736740647758938112",
    "detail": "2024 season"
   },
@@ -60,15 +60,15 @@
    "key": "playoff_week_high",
    "label": "Highest team score, single week (playoffs)",
    "value": 222.36,
-   "holder": "akepple9",
+   "holder": "Kep",
    "user_id": "1136842855890366464",
-   "detail": "Week 16, 2025 vs TylerWicks"
+   "detail": "Week 16, 2025 vs Wicko"
   },
   {
    "key": "win_streak",
    "label": "Longest win streak (regular season)",
    "value": 12,
-   "holder": "jdrobny",
+   "holder": "Drobny",
    "user_id": "736744257179770880",
    "detail": "Week 9, 2022 - Week 6, 2023"
   },
@@ -76,7 +76,7 @@
    "key": "loss_streak",
    "label": "Longest losing streak (regular season)",
    "value": 10,
-   "holder": "jdrobny",
+   "holder": "Drobny",
    "user_id": "736744257179770880",
    "detail": "Week 13, 2023 - Week 8, 2024"
   },
@@ -84,7 +84,7 @@
    "key": "player_week_high",
    "label": "Highest player score, single week, started (regular season)",
    "value": 59.4,
-   "holder": "bgreenblatt",
+   "holder": "Benny G",
    "user_id": "608781531883859968",
    "detail": "Week 10, 2024 - Ja'Marr Chase"
   },
@@ -92,7 +92,7 @@
    "key": "player_season_high",
    "label": "Highest player total, single season",
    "value": 334.2,
-   "holder": "KingTowsk",
+   "holder": "Towsk",
    "user_id": "735974647736213504",
    "detail": "2023 season - Tyreek Hill"
   },
@@ -100,7 +100,7 @@
    "key": "bench_week_high",
    "label": "Highest player score left on the bench, single week (regular season)",
    "value": 43.0,
-   "holder": "TylerWicks",
+   "holder": "Wicko",
    "user_id": "736803054736822272",
    "detail": "Week 13, 2024 - Jerry Jeudy"
   }

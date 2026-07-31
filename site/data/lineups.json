@@ -3,7 +3,7 @@
   "2021": [
    {
     "user_id": "475399371639222272",
-    "name": "cc5597",
+    "name": "Clem",
     "actual": 1840.38,
     "optimal": 2121.1,
     "efficiency": 0.8677,
@@ -11,7 +11,7 @@
    },
    {
     "user_id": "608781531883859968",
-    "name": "bgreenblatt",
+    "name": "Benny G",
     "actual": 2000.84,
     "optimal": 2220.96,
     "efficiency": 0.9009,
@@ -19,7 +19,7 @@
    },
    {
     "user_id": "710284244835979264",
-    "name": "brockhusk",
+    "name": "B-Husk",
     "actual": 1728.8,
     "optimal": 1971.76,
     "efficiency": 0.8768,
@@ -27,7 +27,7 @@
    },
    {
     "user_id": "716698629934481408",
-    "name": "charliekaufmann",
+    "name": "Chuck",
     "actual": 1841.1,
     "optimal": 2057.38,
     "efficiency": 0.8949,
@@ -35,7 +35,7 @@
    },
    {
     "user_id": "735974647736213504",
-    "name": "KingTowsk",
+    "name": "Towsk",
     "actual": 1833.98,
     "optimal": 2117.42,
     "efficiency": 0.8661,
@@ -43,7 +43,7 @@
    },
    {
     "user_id": "736077599457026048",
-    "name": "Erjohnson14",
+    "name": "Johnson",
     "actual": 1893.72,
     "optimal": 2285.18,
     "efficiency": 0.8287,
@@ -51,7 +51,7 @@
    },
    {
     "user_id": "736740647758938112",
-    "name": "JSanDusky69",
+    "name": "BJ",
     "actual": 1836.98,
     "optimal": 2140.86,
     "efficiency": 0.8581,
@@ -59,7 +59,7 @@
    },
    {
     "user_id": "736744257179770880",
-    "name": "jdrobny",
+    "name": "Drobny",
     "actual": 1903.2,
     "optimal": 2170.86,
     "efficiency": 0.8767,
@@ -67,7 +67,7 @@
    },
    {
     "user_id": "736803054736822272",
-    "name": "TylerWicks",
+    "name": "Wicko",
     "actual": 1737.36,
     "optimal": 2030.24,
     "efficiency": 0.8557,
@@ -75,7 +75,7 @@
    },
    {
     "user_id": "737091087440674816",
-    "name": "MaxSirianni",
+    "name": "Siri",
     "actual": 1605.8,
     "optimal": 1940.46,
     "efficiency": 0.8275,
@@ -85,7 +85,7 @@
   "2022": [
    {
     "user_id": "475399371639222272",
-    "name": "cc5597",
+    "name": "Clem",
     "actual": 2085.29,
     "optimal": 2319.54,
     "efficiency": 0.899,
@@ -93,7 +93,7 @@
    },
    {
     "user_id": "608781531883859968",
-    "name": "bgreenblatt",
+    "name": "Benny G",
     "actual": 2116.16,
     "optimal": 2325.24,
     "efficiency": 0.9101,
@@ -101,7 +101,7 @@
    },
    {
     "user_id": "710284244835979264",
-    "name": "brockhusk",
+    "name": "B-Husk",
     "actual": 1905.59,
     "optimal": 2163.3,
     "efficiency": 0.8809,
@@ -109,7 +109,7 @@
    },
    {
     "user_id": "716698629934481408",
-    "name": "charliekaufmann",
+    "name": "Chuck",
     "actual": 1851.03,
     "optimal": 2111.35,
     "efficiency": 0.8767,
@@ -117,7 +117,7 @@
    },
    {
     "user_id": "735974647736213504",
-    "name": "KingTowsk",
+    "name": "Towsk",
     "actual": 2016.55,
     "optimal": 2166.83,
     "efficiency": 0.9306,
@@ -125,7 +125,7 @@
    },
    {
     "user_id": "736077599457026048",
-    "name": "Erjohnson14",
+    "name": "Johnson",
     "actual": 1862.3,
     "optimal": 2095.68,
     "efficiency": 0.8886,
@@ -133,7 +133,7 @@
    },
    {
     "user_id": "736740647758938112",
-    "name": "JSanDusky69",
+    "name": "BJ",
     "actual": 1788.35,
     "optimal": 2069.56,
     "efficiency": 0.8641,
@@ -141,7 +141,7 @@
    },
    {
     "user_id": "736744257179770880",
-    "name": "jdrobny",
+    "name": "Drobny",
     "actual": 1845.47,
     "optimal": 2103.83,
     "efficiency": 0.8772,
@@ -149,7 +149,7 @@
    },
    {
     "user_id": "736803054736822272",
-    "name": "TylerWicks",
+    "name": "Wicko",
     "actual": 1864.47,
     "optimal": 2106.73,
     "efficiency": 0.885,
@@ -157,7 +157,7 @@
    },
    {
     "user_id": "737091087440674816",
-    "name": "MaxSirianni",
+    "name": "Siri",
     "actual": 1872.56,
     "optimal": 2138.39,
     "efficiency": 0.8757,
@@ -167,7 +167,7 @@
   "2023": [
    {
     "user_id": "475399371639222272",
-    "name": "cc5597",
+    "name": "Clem",
     "actual": 1754.26,
     "optimal": 2021.19,
     "efficiency": 0.8679,
@@ -175,7 +175,7 @@
    },
    {
     "user_id": "608781531883859968",
-    "name": "bgreenblatt",
+    "name": "Benny G",
     "actual": 1925.3,
     "optimal": 2114.33,
     "efficiency": 0.9106,
@@ -183,7 +183,7 @@
    },
    {
     "user_id": "710284244835979264",
-    "name": "brockhusk",
+    "name": "B-Husk",
     "actual": 2106.38,
     "optimal": 2257.69,
     "efficiency": 0.933,
@@ -191,7 +191,7 @@
    },
    {
     "user_id": "716698629934481408",
-    "name": "charliekaufmann",
+    "name": "Chuck",
     "actual": 1812.07,
     "optimal": 2185.13,
     "efficiency": 0.8293,
@@ -199,7 +199,7 @@
    },
    {
     "user_id": "735974647736213504",
-    "name": "KingTowsk",
+    "name": "Towsk",
     "actual": 2085.31,
     "optimal": 2360.79,
     "efficiency": 0.8833,
@@ -207,7 +207,7 @@
    },
    {
     "user_id": "736077599457026048",
-    "name": "Erjohnson14",
+    "name": "Johnson",
     "actual": 1947.92,
     "optimal": 2300.6,
     "efficiency": 0.8467,
@@ -215,7 +215,7 @@
    },
    {
     "user_id": "736740647758938112",
-    "name": "JSanDusky69",
+    "name": "BJ",
     "actual": 1776.48,
     "optimal": 2041.11,
     "efficiency": 0.8703,
@@ -223,7 +223,7 @@
    },
    {
     "user_id": "736744257179770880",
-    "name": "jdrobny",
+    "name": "Drobny",
     "actual": 1981.21,
     "optimal": 2235.03,
     "efficiency": 0.8864,
@@ -231,7 +231,7 @@
    },
    {
     "user_id": "736803054736822272",
-    "name": "TylerWicks",
+    "name": "Wicko",
     "actual": 1961.91,
     "optimal": 2146.44,
     "efficiency": 0.914,
@@ -239,7 +239,7 @@
    },
    {
     "user_id": "737091087440674816",
-    "name": "MaxSirianni",
+    "name": "Siri",
     "actual": 1820.09,
     "optimal": 2105.39,
     "efficiency": 0.8645,
@@ -249,7 +249,7 @@
   "2024": [
    {
     "user_id": "475399371639222272",
-    "name": "cc5597",
+    "name": "Clem",
     "actual": 1812.7,
     "optimal": 2009.54,
     "efficiency": 0.902,
@@ -257,7 +257,7 @@
    },
    {
     "user_id": "608781531883859968",
-    "name": "bgreenblatt",
+    "name": "Benny G",
     "actual": 2253.51,
     "optimal": 2413.18,
     "efficiency": 0.9338,
@@ -265,7 +265,7 @@
    },
    {
     "user_id": "710284244835979264",
-    "name": "brockhusk",
+    "name": "B-Husk",
     "actual": 1939.52,
     "optimal": 2150.62,
     "efficiency": 0.9018,
@@ -273,7 +273,7 @@
    },
    {
     "user_id": "716698629934481408",
-    "name": "charliekaufmann",
+    "name": "Chuck",
     "actual": 1886.95,
     "optimal": 2136.63,
     "efficiency": 0.8831,
@@ -281,7 +281,7 @@
    },
    {
     "user_id": "735974647736213504",
-    "name": "KingTowsk",
+    "name": "Towsk",
     "actual": 2150.37,
     "optimal": 2333.77,
     "efficiency": 0.9214,
@@ -289,7 +289,7 @@
    },
    {
     "user_id": "736077599457026048",
-    "name": "Erjohnson14",
+    "name": "Johnson",
     "actual": 2149.7,
     "optimal": 2457.54,
     "efficiency": 0.8747,
@@ -297,7 +297,7 @@
    },
    {
     "user_id": "736740647758938112",
-    "name": "JSanDusky69",
+    "name": "BJ",
     "actual": 1888.15,
     "optimal": 2186.04,
     "efficiency": 0.8637,
@@ -305,7 +305,7 @@
    },
    {
     "user_id": "736744257179770880",
-    "name": "jdrobny",
+    "name": "Drobny",
     "actual": 1880.39,
     "optimal": 2124.19,
     "efficiency": 0.8852,
@@ -313,7 +313,7 @@
    },
    {
     "user_id": "736803054736822272",
-    "name": "TylerWicks",
+    "name": "Wicko",
     "actual": 1806.49,
     "optimal": 2068.6,
     "efficiency": 0.8733,
@@ -321,7 +321,7 @@
    },
    {
     "user_id": "737091087440674816",
-    "name": "MaxSirianni",
+    "name": "Siri",
     "actual": 1865.84,
     "optimal": 2073.53,
     "efficiency": 0.8998,
@@ -331,7 +331,7 @@
   "2025": [
    {
     "user_id": "1136842855890366464",
-    "name": "akepple9",
+    "name": "Kep",
     "actual": 1930.01,
     "optimal": 2212.24,
     "efficiency": 0.8724,
@@ -339,7 +339,7 @@
    },
    {
     "user_id": "475399371639222272",
-    "name": "cc5597",
+    "name": "Clem",
     "actual": 2098.06,
     "optimal": 2286.09,
     "efficiency": 0.9178,
@@ -347,7 +347,7 @@
    },
    {
     "user_id": "608781531883859968",
-    "name": "bgreenblatt",
+    "name": "Benny G",
     "actual": 1966.68,
     "optimal": 2122.01,
     "efficiency": 0.9268,
@@ -355,7 +355,7 @@
    },
    {
     "user_id": "710284244835979264",
-    "name": "brockhusk",
+    "name": "B-Husk",
     "actual": 1753.97,
     "optimal": 1996.27,
     "efficiency": 0.8786,
@@ -363,7 +363,7 @@
    },
    {
     "user_id": "716698629934481408",
-    "name": "charliekaufmann",
+    "name": "Chuck",
     "actual": 1680.06,
     "optimal": 1815.71,
     "efficiency": 0.9253,
@@ -371,7 +371,7 @@
    },
    {
     "user_id": "735974647736213504",
-    "name": "KingTowsk",
+    "name": "Towsk",
     "actual": 1810.33,
     "optimal": 1995.05,
     "efficiency": 0.9074,
@@ -379,7 +379,7 @@
    },
    {
     "user_id": "736077599457026048",
-    "name": "Erjohnson14",
+    "name": "Johnson",
     "actual": 1950.04,
     "optimal": 2204.49,
     "efficiency": 0.8846,
@@ -387,7 +387,7 @@
    },
    {
     "user_id": "736740647758938112",
-    "name": "JSanDusky69",
+    "name": "BJ",
     "actual": 1796.71,
     "optimal": 1968.51,
     "efficiency": 0.9127,
@@ -395,7 +395,7 @@
    },
    {
     "user_id": "736744257179770880",
-    "name": "jdrobny",
+    "name": "Drobny",
     "actual": 1738.51,
     "optimal": 2004.98,
     "efficiency": 0.8671,
@@ -403,7 +403,7 @@
    },
    {
     "user_id": "736803054736822272",
-    "name": "TylerWicks",
+    "name": "Wicko",
     "actual": 1968.88,
     "optimal": 2170.56,
     "efficiency": 0.9071,
@@ -411,7 +411,7 @@
    },
    {
     "user_id": "737091087440674816",
-    "name": "MaxSirianni",
+    "name": "Siri",
     "actual": 1775.4,
     "optimal": 2037.24,
     "efficiency": 0.8715,
@@ -419,7 +419,7 @@
    },
    {
     "user_id": "865793938542456832",
-    "name": "Jacktaco98",
+    "name": "Beaut",
     "actual": 1830.39,
     "optimal": 2016.24,
     "efficiency": 0.9078,
@@ -430,7 +430,7 @@
  "career": [
   {
    "user_id": "1136842855890366464",
-   "name": "akepple9",
+   "name": "Kep",
    "actual": 1930.01,
    "optimal": 2212.24,
    "efficiency": 0.8724,
@@ -438,7 +438,7 @@
   },
   {
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "actual": 9590.69,
    "optimal": 10757.46,
    "efficiency": 0.8915,
@@ -446,7 +446,7 @@
   },
   {
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "actual": 10262.49,
    "optimal": 11195.72,
    "efficiency": 0.9166,
@@ -454,7 +454,7 @@
   },
   {
    "user_id": "710284244835979264",
-   "name": "brockhusk",
+   "name": "B-Husk",
    "actual": 9434.26,
    "optimal": 10539.64,
    "efficiency": 0.8951,
@@ -462,7 +462,7 @@
   },
   {
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "actual": 9071.21,
    "optimal": 10306.2,
    "efficiency": 0.8802,
@@ -470,7 +470,7 @@
   },
   {
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "actual": 9896.54,
    "optimal": 10973.86,
    "efficiency": 0.9018,
@@ -478,7 +478,7 @@
   },
   {
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "actual": 9803.68,
    "optimal": 11343.49,
    "efficiency": 0.8643,
@@ -486,7 +486,7 @@
   },
   {
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "actual": 9086.67,
    "optimal": 10406.08,
    "efficiency": 0.8732,
@@ -494,7 +494,7 @@
   },
   {
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "actual": 9348.78,
    "optimal": 10638.89,
    "efficiency": 0.8787,
@@ -502,7 +502,7 @@
   },
   {
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "actual": 9339.11,
    "optimal": 10522.57,
    "efficiency": 0.8875,
@@ -510,7 +510,7 @@
   },
   {
    "user_id": "737091087440674816",
-   "name": "MaxSirianni",
+   "name": "Siri",
    "actual": 8939.69,
    "optimal": 10295.01,
    "efficiency": 0.8684,
@@ -518,7 +518,7 @@
   },
   {
    "user_id": "865793938542456832",
-   "name": "Jacktaco98",
+   "name": "Beaut",
    "actual": 1830.39,
    "optimal": 2016.24,
    "efficiency": 0.9078,
@@ -530,7 +530,7 @@
    "season": 2021,
    "week": 4,
    "user_id": "737091087440674816",
-   "name": "MaxSirianni",
+   "name": "Siri",
    "actual": 97.46,
    "optimal": 167.32,
    "delta": 69.86,
@@ -543,7 +543,7 @@
    "season": 2021,
    "week": 1,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "actual": 134.24,
    "optimal": 201.96,
    "delta": 67.72,
@@ -556,7 +556,7 @@
    "season": 2021,
    "week": 9,
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "actual": 91.12,
    "optimal": 157.74,
    "delta": 66.62,
@@ -569,7 +569,7 @@
    "season": 2022,
    "week": 14,
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "actual": 125.22,
    "optimal": 191.54,
    "delta": 66.32,
@@ -582,7 +582,7 @@
    "season": 2024,
    "week": 4,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "actual": 140.28,
    "optimal": 202.94,
    "delta": 62.66,
@@ -595,7 +595,7 @@
    "season": 2023,
    "week": 5,
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "actual": 96.71,
    "optimal": 158.65,
    "delta": 61.94,
@@ -608,7 +608,7 @@
    "season": 2025,
    "week": 2,
    "user_id": "710284244835979264",
-   "name": "brockhusk",
+   "name": "B-Husk",
    "actual": 103.25,
    "optimal": 160.58,
    "delta": 57.33,
@@ -621,7 +621,7 @@
    "season": 2023,
    "week": 14,
    "user_id": "737091087440674816",
-   "name": "MaxSirianni",
+   "name": "Siri",
    "actual": 148.06,
    "optimal": 203.68,
    "delta": 55.62,
@@ -634,7 +634,7 @@
    "season": 2021,
    "week": 4,
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "actual": 110.18,
    "optimal": 165.5,
    "delta": 55.32,
@@ -647,7 +647,7 @@
    "season": 2023,
    "week": 1,
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "actual": 112.16,
    "optimal": 166.54,
    "delta": 54.38,
@@ -660,7 +660,7 @@
    "season": 2023,
    "week": 13,
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "actual": 96.24,
    "optimal": 149.64,
    "delta": 53.4,
@@ -673,7 +673,7 @@
    "season": 2023,
    "week": 13,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "actual": 144.98,
    "optimal": 197.64,
    "delta": 52.66,
@@ -686,7 +686,7 @@
    "season": 2021,
    "week": 1,
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "actual": 115.9,
    "optimal": 167.98,
    "delta": 52.08,
@@ -699,7 +699,7 @@
    "season": 2021,
    "week": 4,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "actual": 159.32,
    "optimal": 210.84,
    "delta": 51.52,
@@ -712,7 +712,7 @@
    "season": 2021,
    "week": 9,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "actual": 122.44,
    "optimal": 172.98,
    "delta": 50.54,

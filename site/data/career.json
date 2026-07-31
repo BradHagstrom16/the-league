@@ -2,7 +2,7 @@
  "managers": [
   {
    "user_id": "865793938542456832",
-   "name": "Jacktaco98",
+   "name": "Beaut",
    "handle": "Jacktaco98",
    "avatar": "f0edbf4278f53f9425db175073df6584",
    "seasons": 1,
@@ -22,7 +22,7 @@
   },
   {
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "handle": "bgreenblatt",
    "avatar": "b30101daf7f261c4bf86da2cd1577193",
    "seasons": 5,
@@ -42,7 +42,7 @@
   },
   {
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "handle": "cc5597",
    "avatar": "8fcf0e0e6a75e96a591d2a4a4a400f41",
    "seasons": 5,
@@ -62,7 +62,7 @@
   },
   {
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "handle": "Erjohnson14",
    "avatar": "6e611998104204ee21e4b2bb3aa37a5f",
    "seasons": 5,
@@ -82,7 +82,7 @@
   },
   {
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "handle": "KingTowsk",
    "avatar": "8519622c66cb50a87823353d553d806c",
    "seasons": 5,
@@ -102,7 +102,7 @@
   },
   {
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "handle": "jdrobny",
    "avatar": "031e98053cebc51f2ca17b05f9bef39f",
    "seasons": 5,
@@ -122,7 +122,7 @@
   },
   {
    "user_id": "1136842855890366464",
-   "name": "akepple9",
+   "name": "Kep",
    "handle": "akepple9",
    "avatar": "b3338675f635c2c1f42b469621d38ec6",
    "seasons": 1,
@@ -142,7 +142,7 @@
   },
   {
    "user_id": "710284244835979264",
-   "name": "brockhusk",
+   "name": "B-Husk",
    "handle": "brockhusk",
    "avatar": "e7af4deab0289b4f5505646424895246",
    "seasons": 5,
@@ -162,7 +162,7 @@
   },
   {
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "handle": "charliekaufmann",
    "avatar": "6a807a1e5ef51c7b64f1d4d06076f7d9",
    "seasons": 5,
@@ -182,7 +182,7 @@
   },
   {
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "handle": "JSanDusky69",
    "avatar": "0f813fa81779005b70e54c8cec253a90",
    "seasons": 5,
@@ -202,7 +202,7 @@
   },
   {
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "handle": "TylerWicks",
    "avatar": "e7af4deab0289b4f5505646424895246",
    "seasons": 5,
@@ -222,7 +222,7 @@
   },
   {
    "user_id": "737091087440674816",
-   "name": "MaxSirianni",
+   "name": "Siri",
    "handle": "MaxSirianni",
    "avatar": "8e1247598f587f8f4257ed435ba089be",
    "seasons": 5,
@@ -324,41 +324,41 @@
    "season": 2021,
    "era": "10-team",
    "champion_user": "736744257179770880",
-   "champion_name": "jdrobny",
+   "champion_name": "Drobny",
    "last_user": "710284244835979264",
-   "last_name": "brockhusk"
+   "last_name": "B-Husk"
   },
   {
    "season": 2022,
    "era": "10-team",
    "champion_user": "736744257179770880",
-   "champion_name": "jdrobny",
+   "champion_name": "Drobny",
    "last_user": "736803054736822272",
-   "last_name": "TylerWicks"
+   "last_name": "Wicko"
   },
   {
    "season": 2023,
    "era": "10-team",
    "champion_user": "608781531883859968",
-   "champion_name": "bgreenblatt",
+   "champion_name": "Benny G",
    "last_user": "736740647758938112",
-   "last_name": "JSanDusky69"
+   "last_name": "BJ"
   },
   {
    "season": 2024,
    "era": "10-team",
    "champion_user": "735974647736213504",
-   "champion_name": "KingTowsk",
+   "champion_name": "Towsk",
    "last_user": "737091087440674816",
-   "last_name": "MaxSirianni"
+   "last_name": "Siri"
   },
   {
    "season": 2025,
    "era": "12-team",
    "champion_user": "736077599457026048",
-   "champion_name": "Erjohnson14",
+   "champion_name": "Johnson",
    "last_user": "736744257179770880",
-   "last_name": "jdrobny"
+   "last_name": "Drobny"
   }
  ]
 }

@@ -34,10 +34,10 @@ Sleeper's app shows the current season generically. This site holds the league's
 - Data source: public Sleeper read API only; league ID 1315570882550202368, history walked via `previous_league_id`.
 - 2021–2024 were 10-team seasons, 2025+ are 12-team; era-sensitive stats are annotated, never silently mixed.
 - Superflex keeper league: QB/2RB/2WR/TE/FLEX/SUPER_FLEX/K/DEF, 2 keepers max, $125 FAAB, 6 playoff teams.
-- Keeper rules (confirmed near-identical to the ggg-league baseline): max 2; drafted round 6+ the prior year; no back-to-back keeps; kept at drafted round, one round earlier if the player ever left the roster; no future-year pick trades.
+- Keeper rules (commissioner-confirmed 2026-07-31): max 2; drafted round 6+ the prior year; no back-to-back keeps; kept at the drafted round — this league has NO one-round-earlier penalty for players who left a roster; no future-year pick trades.
 - Static site: no auth, no server, no comments, no external CDNs/fonts/JS libraries.
 - Hand-maintained inputs: `manager_names.csv` (handle → first name; site falls back to handles), `league_lore.yml` (trophy, punishments).
-- Undecided/pending: real first names not yet filled in; trophy name and punishment history not yet provided.
+- Undecided/pending: punishment history and champion notes not yet provided (names and trophy filled 2026-07-31; punishments key off the commissioner's own loser list, not derived standings).
 
 ## Brand Commitments
 

@@ -63,15 +63,16 @@ Everything else regenerates from the API. These two do not:
 1. A manager may keep 2 players maximum.
 2. The player must have been drafted in the previous year's draft in round 6
    or later. A player may not be kept two years in a row.
-3. You keep a player at the round you drafted him — one round earlier if he
-   ever left your roster.
+3. You keep a player at the round you drafted him. (No penalty for players
+   who left a roster — commissioner-confirmed; the GGG league next door does
+   it differently.)
 4. Draft pick trading is allowed before and during the draft, including
    keepers. Future years' picks cannot be traded.
 
 Sleeper enforces none of this. The draft page audits every historical keeper
-against these rules; 19 of 69 keeps were charged their original round where
-rule 3 reads one-round-earlier. Either the penalty isn't really league law or
-history has some explaining to do — the board just posts the lines.
+against these rules: all 69 keeps in league history were charged exactly
+their drafted round. Six seasons, zero disputes. Somewhere a commissioner
+is quietly proud.
 
 ## What's in here
 

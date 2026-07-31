@@ -28,7 +28,7 @@ def _mini(tiny):
              slot_owner_roster_id=1, roster_id=1, traded_pick=0, user_id="u1",
              manager="h1", player_id="KX", player_name="KX", position="WR",
              is_keeper=True),
-        dict(season=2024, round=6, overall_pick=21, draft_slot=2,   # WRONG round: need 5
+        dict(season=2024, round=6, overall_pick=21, draft_slot=2,   # kept at drafted round: correct (no left-roster penalty in this league)
              slot_owner_roster_id=2, roster_id=2, traded_pick=0, user_id="u2",
              manager="h2", player_id="KY", player_name="KY", position="RB",
              is_keeper=True),
@@ -59,7 +59,7 @@ def test_audit(tiny):
     d = _mini(tiny)
     rows = {r["player_id"]: r for r in audit_keepers(d)}
     assert rows["KX"]["charged_ok"] and rows["KX"]["need"] == 7
-    assert not rows["KY"]["charged_ok"] and rows["KY"]["need"] == 5
+    assert rows["KY"]["charged_ok"] and rows["KY"]["need"] == 6   # left roster, but no penalty exists
     assert not rows["KZ"]["eligible_round"]
     assert not rows["KX"]["repeat_keep"]
 
@@ -77,9 +77,7 @@ def test_compute_keepers_structure(tiny):
         "A manager may keep 2 players maximum.",
         "The player must have been drafted in the previous year's draft in "
         "round 6 or later. A player may not be kept two years in a row.",
-        "You keep a player at the round you drafted him — one round earlier "
-        "if he ever left your roster (trade, drop and re-claim, or any "
-        "acquisition from another manager).",
+        "You keep a player at the round you drafted him.",
         "Draft pick trading is allowed before and during the draft, "
         "including keepers. Future years' picks cannot be traded.",
     ]
@@ -88,10 +86,10 @@ def test_compute_keepers_structure(tiny):
     # no 2023 draft record so it's ungraded and excluded from audit/summary.
     summary = out["summary"]
     assert summary["n"] == 3
-    assert summary["charged_ok"] == 2          # KX and KZ; KY was mis-charged
+    assert summary["charged_ok"] == 3          # KX, KY, KZ all charged their drafted round
     assert summary["rule_flags"]["ineligible_round"] == 1   # KZ (round 3)
     assert summary["rule_flags"]["repeat_keep"] == 0
-    assert summary["rule_flags"]["wrong_round_charge"] == 1  # KY
+    assert summary["rule_flags"]["wrong_round_charge"] == 0
     assert summary["rule_flags"]["max_keepers_exceeded"] == 0
 
     # value/by_manager cover every is_keeper pick in a played season,
@@ -135,4 +133,4 @@ def test_declared_next(tiny):
     # it must surface ONLY via declared_next, never via audit/summary.
     assert all(r["season"] != 2025 for r in out["audit"])
     assert out["summary"]["n"] == 3            # unchanged from test_compute_keepers_structure
-    assert out["summary"]["charged_ok"] == 2   # unchanged: still just KX (2024) and KZ
+    assert out["summary"]["charged_ok"] == 3   # unchanged from test_compute_keepers_structure

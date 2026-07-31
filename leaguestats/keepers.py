@@ -7,9 +7,10 @@ govern):
 1. A manager may keep 2 players maximum.
 2. The player must have been drafted in the previous year's draft in round
    6 or later. A player may not be kept two years in a row.
-3. You keep a player at the round you drafted him — one round earlier if
-   he ever left your roster (trade, drop and re-claim, or any acquisition
-   from another manager).
+3. You keep a player at the round you drafted him. (Confirmed by the
+   commissioner 2026-07-31: this league has NO one-round-earlier penalty
+   for players who left a roster — unlike the GGG league this audit port
+   came from. `left_roster` is kept as context only.)
 4. Draft pick trading is allowed before and during the draft, including
    keepers. Future years' picks cannot be traded.
 
@@ -32,9 +33,7 @@ RULES = [
     "A manager may keep 2 players maximum.",
     "The player must have been drafted in the previous year's draft in "
     "round 6 or later. A player may not be kept two years in a row.",
-    "You keep a player at the round you drafted him — one round earlier "
-    "if he ever left your roster (trade, drop and re-claim, or any "
-    "acquisition from another manager).",
+    "You keep a player at the round you drafted him.",
     "Draft pick trading is allowed before and during the draft, including "
     "keepers. Future years' picks cannot be traded.",
 ]
@@ -106,8 +105,11 @@ def audit_keepers(data: LeagueData) -> list[dict]:
             p = p.iloc[0]
 
         prev_round = int(p["round"])
+        # `left` is context only — this league confirmed there is no
+        # one-round-earlier penalty, so the required round is always the
+        # drafted round.
         left = left_roster(data, int(k.season) - 1, k.player_id, k.user_id)
-        need = prev_round - 1 if left else prev_round
+        need = prev_round
         keep_round = int(k.round)
 
         rows.append({

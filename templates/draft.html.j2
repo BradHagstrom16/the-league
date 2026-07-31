@@ -13,11 +13,11 @@
 
 <section class="section">
   <h2>The audit</h2>
-  <p class="note"><strong class="num">{{ summary.charged_ok }} of {{ summary.n }}</strong> historical keepers charged the round the written rule requires. Every miss is the same clause: a player who left his roster kept at his original round instead of one earlier. Either the penalty isn't really league law, or the commissioner owes some apologies — the board just posts the lines.</p>
+  <p class="note"><strong class="num">{{ summary.charged_ok }} of {{ summary.n }}</strong> historical keepers charged exactly their drafted round, the way the rule reads.{% if summary.charged_ok == summary.n and not flagged %} Six seasons, zero disputes. The books are clean.{% endif %}</p>
   {% if flagged %}
   <div class="board-panel">
     <table class="sortable">
-      <thead><tr><th class="num">Season</th><th>Manager</th><th>Player</th><th class="num">Drafted rd</th><th class="num">Kept at</th><th class="num">Rule says</th><th>Left roster?</th></tr></thead>
+      <thead><tr><th class="num">Season</th><th>Manager</th><th>Player</th><th class="num">Drafted rd</th><th class="num">Kept at</th><th class="num">Rule says</th><th>Flags</th></tr></thead>
       <tbody>
       {% for a in flagged %}
         <tr>
@@ -27,7 +27,7 @@
           <td class="num">{{ a.prev_round }}</td>
           <td class="num neg">{{ a.keep_round }}</td>
           <td class="num pos">{{ a.need }}</td>
-          <td>{{ 'Yes' if a.left else 'No' }}{% if not a.eligible_round %} · <span class="neg">round-ineligible</span>{% endif %}{% if a.repeat_keep %} · <span class="neg">repeat keep</span>{% endif %}</td>
+          <td>{% if not a.charged_ok %}<span class="neg">wrong round</span>{% endif %}{% if not a.eligible_round %} <span class="neg">round-ineligible</span>{% endif %}{% if a.repeat_keep %} <span class="neg">repeat keep</span>{% endif %}</td>
         </tr>
       {% endfor %}
       </tbody>

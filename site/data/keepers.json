@@ -2,14 +2,14 @@
  "rules": [
   "A manager may keep 2 players maximum.",
   "The player must have been drafted in the previous year's draft in round 6 or later. A player may not be kept two years in a row.",
-  "You keep a player at the round you drafted him \u2014 one round earlier if he ever left your roster (trade, drop and re-claim, or any acquisition from another manager).",
+  "You keep a player at the round you drafted him.",
   "Draft pick trading is allowed before and during the draft, including keepers. Future years' picks cannot be traded."
  ],
  "audit": [
   {
    "season": 2022,
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "player_id": "6770",
    "player_name": "Joe Burrow",
    "prev_round": 6,
@@ -23,7 +23,7 @@
   {
    "season": 2022,
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "player_id": "6801",
    "player_name": "Tee Higgins",
    "prev_round": 8,
@@ -37,7 +37,7 @@
   {
    "season": 2022,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_id": "3969",
    "player_name": "Leonard Fournette",
    "prev_round": 12,
@@ -51,7 +51,7 @@
   {
    "season": 2022,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_id": "7564",
    "player_name": "Ja'Marr Chase",
    "prev_round": 7,
@@ -65,7 +65,7 @@
   {
    "season": 2022,
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "player_id": "4983",
    "player_name": "DJ Moore",
    "prev_round": 7,
@@ -79,7 +79,7 @@
   {
    "season": 2022,
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "player_id": "7527",
    "player_name": "Mac Jones",
    "prev_round": 15,
@@ -93,21 +93,21 @@
   {
    "season": 2022,
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "player_id": "6819",
    "player_name": "Michael Pittman",
    "prev_round": 11,
    "keep_round": 11,
    "left": true,
-   "need": 10,
-   "charged_ok": false,
+   "need": 11,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2022,
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "player_id": "7526",
    "player_name": "Jaylen Waddle",
    "prev_round": 10,
@@ -121,7 +121,7 @@
   {
    "season": 2022,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_id": "5872",
    "player_name": "Deebo Samuel",
    "prev_round": 10,
@@ -135,21 +135,21 @@
   {
    "season": 2022,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_id": "7588",
    "player_name": "Javonte Williams",
    "prev_round": 8,
    "keep_round": 8,
    "left": true,
-   "need": 7,
-   "charged_ok": false,
+   "need": 8,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2022,
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "player_id": "2320",
    "player_name": "Melvin Gordon",
    "prev_round": 10,
@@ -163,7 +163,7 @@
   {
    "season": 2022,
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "player_id": "LAR",
    "player_name": "Los Angeles Rams",
    "prev_round": 12,
@@ -177,7 +177,7 @@
   {
    "season": 2022,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_id": "2197",
    "player_name": "Brandin Cooks",
    "prev_round": 11,
@@ -191,7 +191,7 @@
   {
    "season": 2022,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_id": "7591",
    "player_name": "Justin Fields",
    "prev_round": 9,
@@ -205,7 +205,7 @@
   {
    "season": 2022,
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "player_id": "2028",
    "player_name": "Derek Carr",
    "prev_round": 14,
@@ -219,7 +219,7 @@
   {
    "season": 2022,
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "player_id": "4993",
    "player_name": "Mike Gesicki",
    "prev_round": 11,
@@ -233,7 +233,7 @@
   {
    "season": 2022,
    "user_id": "737091087440674816",
-   "name": "MaxSirianni",
+   "name": "Siri",
    "player_id": "4068",
    "player_name": "Mike Williams",
    "prev_round": 13,
@@ -247,7 +247,7 @@
   {
    "season": 2023,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_id": "7523",
    "player_name": "Trevor Lawrence",
    "prev_round": 6,
@@ -261,7 +261,7 @@
   {
    "season": 2023,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_id": "8148",
    "player_name": "Jameson Williams",
    "prev_round": 16,
@@ -275,7 +275,7 @@
   {
    "season": 2023,
    "user_id": "710284244835979264",
-   "name": "brockhusk",
+   "name": "B-Husk",
    "player_id": "7547",
    "player_name": "Amon-Ra St. Brown",
    "prev_round": 7,
@@ -289,7 +289,7 @@
   {
    "season": 2023,
    "user_id": "710284244835979264",
-   "name": "brockhusk",
+   "name": "B-Husk",
    "player_id": "8146",
    "player_name": "Garrett Wilson",
    "prev_round": 13,
@@ -303,21 +303,21 @@
   {
    "season": 2023,
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "player_id": "1426",
    "player_name": "DeAndre Hopkins",
    "prev_round": 8,
    "keep_round": 8,
    "left": true,
-   "need": 7,
-   "charged_ok": false,
+   "need": 8,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2023,
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "player_id": "8137",
    "player_name": "George Pickens",
    "prev_round": 12,
@@ -331,35 +331,35 @@
   {
    "season": 2023,
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "player_id": "4950",
    "player_name": "Christian Kirk",
    "prev_round": 11,
    "keep_round": 10,
    "left": true,
-   "need": 10,
-   "charged_ok": true,
-   "eligible_round": true,
-   "repeat_keep": false
-  },
-  {
-   "season": 2023,
-   "user_id": "735974647736213504",
-   "name": "KingTowsk",
-   "player_id": "6803",
-   "player_name": "Brandon Aiyuk",
-   "prev_round": 11,
-   "keep_round": 11,
-   "left": true,
-   "need": 10,
+   "need": 11,
    "charged_ok": false,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2023,
+   "user_id": "735974647736213504",
+   "name": "Towsk",
+   "player_id": "6803",
+   "player_name": "Brandon Aiyuk",
+   "prev_round": 11,
+   "keep_round": 11,
+   "left": true,
+   "need": 11,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false
+  },
+  {
+   "season": 2023,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_id": "8129",
    "player_name": "Dameon Pierce",
    "prev_round": 11,
@@ -373,7 +373,7 @@
   {
    "season": 2023,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_id": "8144",
    "player_name": "Chris Olave",
    "prev_round": 12,
@@ -387,7 +387,7 @@
   {
    "season": 2023,
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "player_id": "2374",
    "player_name": "Tyler Lockett",
    "prev_round": 14,
@@ -401,7 +401,7 @@
   {
    "season": 2023,
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "player_id": "6768",
    "player_name": "Tua Tagovailoa",
    "prev_round": 6,
@@ -415,7 +415,7 @@
   {
    "season": 2023,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_id": "1837",
    "player_name": "Jimmy Garoppolo",
    "prev_round": 16,
@@ -429,7 +429,7 @@
   {
    "season": 2023,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_id": "5850",
    "player_name": "Josh Jacobs",
    "prev_round": 6,
@@ -443,7 +443,7 @@
   {
    "season": 2023,
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "player_id": "5967",
    "player_name": "Tony Pollard",
    "prev_round": 8,
@@ -457,7 +457,7 @@
   {
    "season": 2023,
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "player_id": "8121",
    "player_name": "Romeo Doubs",
    "prev_round": 15,
@@ -471,7 +471,7 @@
   {
    "season": 2023,
    "user_id": "737091087440674816",
-   "name": "MaxSirianni",
+   "name": "Siri",
    "player_id": "2309",
    "player_name": "Amari Cooper",
    "prev_round": 7,
@@ -485,7 +485,7 @@
   {
    "season": 2023,
    "user_id": "737091087440674816",
-   "name": "MaxSirianni",
+   "name": "Siri",
    "player_id": "8160",
    "player_name": "Kenny Pickett",
    "prev_round": 16,
@@ -499,35 +499,35 @@
   {
    "season": 2024,
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "player_id": "8183",
    "player_name": "Brock Purdy",
    "prev_round": 10,
    "keep_round": 10,
    "left": true,
-   "need": 9,
-   "charged_ok": false,
+   "need": 10,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2024,
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "player_id": "9758",
    "player_name": "C.J. Stroud",
    "prev_round": 12,
    "keep_round": 12,
    "left": true,
-   "need": 11,
-   "charged_ok": false,
+   "need": 12,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2024,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_id": "4035",
    "player_name": "Alvin Kamara",
    "prev_round": 7,
@@ -541,7 +541,7 @@
   {
    "season": 2024,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_id": "5849",
    "player_name": "Kyler Murray",
    "prev_round": 9,
@@ -555,7 +555,7 @@
   {
    "season": 2024,
    "user_id": "710284244835979264",
-   "name": "brockhusk",
+   "name": "B-Husk",
    "player_id": "8205",
    "player_name": "Isiah Pacheco",
    "prev_round": 9,
@@ -569,7 +569,7 @@
   {
    "season": 2024,
    "user_id": "710284244835979264",
-   "name": "brockhusk",
+   "name": "B-Husk",
    "player_id": "NYJ",
    "player_name": "New York Jets",
    "prev_round": 15,
@@ -583,91 +583,91 @@
   {
    "season": 2024,
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "player_id": "10859",
    "player_name": "Sam LaPorta",
    "prev_round": 14,
    "keep_round": 14,
    "left": true,
-   "need": 13,
-   "charged_ok": false,
+   "need": 14,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2024,
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "player_id": "8112",
    "player_name": "Drake London",
    "prev_round": 6,
    "keep_round": 6,
    "left": true,
-   "need": 5,
-   "charged_ok": false,
+   "need": 6,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2024,
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "player_id": "6819",
    "player_name": "Michael Pittman",
    "prev_round": 7,
    "keep_round": 7,
    "left": true,
-   "need": 6,
-   "charged_ok": false,
+   "need": 7,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2024,
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "player_id": "9997",
    "player_name": "Zay Flowers",
    "prev_round": 10,
    "keep_round": 10,
    "left": true,
-   "need": 9,
-   "charged_ok": false,
+   "need": 10,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2024,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_id": "6804",
    "player_name": "Jordan Love",
    "prev_round": 10,
    "keep_round": 10,
    "left": true,
-   "need": 9,
-   "charged_ok": false,
+   "need": 10,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2024,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_id": "9756",
    "player_name": "Jordan Addison",
    "prev_round": 9,
    "keep_round": 9,
    "left": true,
-   "need": 8,
-   "charged_ok": false,
+   "need": 9,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2024,
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "player_id": "5892",
    "player_name": "David Montgomery",
    "prev_round": 9,
@@ -681,21 +681,21 @@
   {
    "season": 2024,
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "player_id": "8138",
    "player_name": "James Cook",
    "prev_round": 9,
    "keep_round": 8,
    "left": true,
-   "need": 8,
-   "charged_ok": true,
+   "need": 9,
+   "charged_ok": false,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2024,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_id": "1689",
    "player_name": "Adam Thielen",
    "prev_round": 14,
@@ -709,7 +709,7 @@
   {
    "season": 2024,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_id": "8136",
    "player_name": "Rachaad White",
    "prev_round": 8,
@@ -723,21 +723,21 @@
   {
    "season": 2024,
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "player_id": "2216",
    "player_name": "Mike Evans",
    "prev_round": 8,
    "keep_round": 8,
    "left": true,
-   "need": 7,
-   "charged_ok": false,
+   "need": 8,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2024,
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "player_id": "BUF",
    "player_name": "Buffalo Bills",
    "prev_round": 14,
@@ -751,7 +751,7 @@
   {
    "season": 2024,
    "user_id": "737091087440674816",
-   "name": "MaxSirianni",
+   "name": "Siri",
    "player_id": "10236",
    "player_name": "Dalton Kincaid",
    "prev_round": 12,
@@ -765,49 +765,49 @@
   {
    "season": 2025,
    "user_id": "1136842855890366464",
-   "name": "akepple9",
+   "name": "Kep",
    "player_id": "9224",
    "player_name": "Chase Brown",
    "prev_round": 13,
    "keep_round": 13,
    "left": true,
-   "need": 12,
-   "charged_ok": false,
+   "need": 13,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2025,
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "player_id": "5967",
    "player_name": "Tony Pollard",
    "prev_round": 10,
    "keep_round": 10,
    "left": true,
-   "need": 9,
-   "charged_ok": false,
+   "need": 10,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2025,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_id": "11565",
    "player_name": "J.J. McCarthy",
    "prev_round": 14,
    "keep_round": 14,
    "left": true,
-   "need": 13,
-   "charged_ok": false,
+   "need": 14,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2025,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_id": "8148",
    "player_name": "Jameson Williams",
    "prev_round": 11,
@@ -821,7 +821,7 @@
   {
    "season": 2025,
    "user_id": "710284244835979264",
-   "name": "brockhusk",
+   "name": "B-Husk",
    "player_id": "5045",
    "player_name": "Courtland Sutton",
    "prev_round": 13,
@@ -835,7 +835,7 @@
   {
    "season": 2025,
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "player_id": "6801",
    "player_name": "Tee Higgins",
    "prev_round": 8,
@@ -849,7 +849,7 @@
   {
    "season": 2025,
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "player_id": "5844",
    "player_name": "T.J. Hockenson",
    "prev_round": 12,
@@ -863,7 +863,7 @@
   {
    "season": 2025,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_id": "11631",
    "player_name": "Brian Thomas",
    "prev_round": 11,
@@ -877,21 +877,21 @@
   {
    "season": 2025,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_id": "9488",
    "player_name": "Jaxon Smith-Njigba",
    "prev_round": 10,
    "keep_round": 10,
    "left": true,
-   "need": 9,
-   "charged_ok": false,
+   "need": 10,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2025,
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "player_id": "11604",
    "player_name": "Brock Bowers",
    "prev_round": 10,
@@ -905,7 +905,7 @@
   {
    "season": 2025,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_id": "4217",
    "player_name": "George Kittle",
    "prev_round": 6,
@@ -919,21 +919,21 @@
   {
    "season": 2025,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_id": "6806",
    "player_name": "J.K. Dobbins",
    "prev_round": 16,
    "keep_round": 16,
    "left": true,
-   "need": 15,
-   "charged_ok": false,
+   "need": 16,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   },
   {
    "season": 2025,
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "player_id": "11563",
    "player_name": "Bo Nix",
    "prev_round": 12,
@@ -947,7 +947,7 @@
   {
    "season": 2025,
    "user_id": "737091087440674816",
-   "name": "MaxSirianni",
+   "name": "Siri",
    "player_id": "11624",
    "player_name": "Xavier Worthy",
    "prev_round": 8,
@@ -961,33 +961,33 @@
   {
    "season": 2025,
    "user_id": "865793938542456832",
-   "name": "Jacktaco98",
+   "name": "Beaut",
    "player_id": "8154",
    "player_name": "Brian Robinson",
    "prev_round": 12,
    "keep_round": 12,
    "left": true,
-   "need": 11,
-   "charged_ok": false,
+   "need": 12,
+   "charged_ok": true,
    "eligible_round": true,
    "repeat_keep": false
   }
  ],
  "summary": {
   "n": 69,
-  "charged_ok": 50,
+  "charged_ok": 67,
   "rule_flags": {
    "max_keepers_exceeded": 0,
    "ineligible_round": 0,
    "repeat_keep": 0,
-   "wrong_round_charge": 19
+   "wrong_round_charge": 2
   }
  },
  "value": [
   {
    "season": 2025,
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "player_name": "Bo Nix",
    "keep_round": 12,
    "points": 232.1,
@@ -996,7 +996,7 @@
   {
    "season": 2025,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_name": "Jaxon Smith-Njigba",
    "keep_round": 10,
    "points": 292.9,
@@ -1005,7 +1005,7 @@
   {
    "season": 2022,
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "player_name": "Joe Burrow",
    "keep_round": 6,
    "points": 296.3,
@@ -1014,7 +1014,7 @@
   {
    "season": 2024,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_name": "Kyler Murray",
    "keep_round": 9,
    "points": 223.4,
@@ -1023,7 +1023,7 @@
   {
    "season": 2022,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_name": "Justin Fields",
    "keep_round": 9,
    "points": 241.8,
@@ -1032,7 +1032,7 @@
   {
    "season": 2023,
    "user_id": "710284244835979264",
-   "name": "brockhusk",
+   "name": "B-Husk",
    "player_name": "Garrett Wilson",
    "keep_round": 13,
    "points": 178.7,
@@ -1041,7 +1041,7 @@
   {
    "season": 2024,
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "player_name": "David Montgomery",
    "keep_round": 9,
    "points": 213.7,
@@ -1050,7 +1050,7 @@
   {
    "season": 2023,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_name": "Chris Olave",
    "keep_round": 12,
    "points": 189.8,
@@ -1059,7 +1059,7 @@
   {
    "season": 2025,
    "user_id": "1136842855890366464",
-   "name": "akepple9",
+   "name": "Kep",
    "player_name": "Chase Brown",
    "keep_round": 13,
    "points": 184.6,
@@ -1068,7 +1068,7 @@
   {
    "season": 2022,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_name": "Leonard Fournette",
    "keep_round": 12,
    "points": 179.9,
@@ -1077,7 +1077,7 @@
   {
    "season": 2023,
    "user_id": "710284244835979264",
-   "name": "brockhusk",
+   "name": "B-Husk",
    "player_name": "Amon-Ra St. Brown",
    "keep_round": 7,
    "points": 231.6,
@@ -1086,7 +1086,7 @@
   {
    "season": 2023,
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "player_name": "Brandon Aiyuk",
    "keep_round": 11,
    "points": 199.3,
@@ -1095,7 +1095,7 @@
   {
    "season": 2022,
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "player_name": "Derek Carr",
    "keep_round": 14,
    "points": 193.0,
@@ -1104,7 +1104,7 @@
   {
    "season": 2025,
    "user_id": "710284244835979264",
-   "name": "brockhusk",
+   "name": "B-Husk",
    "player_name": "Courtland Sutton",
    "keep_round": 13,
    "points": 167.3,
@@ -1113,7 +1113,7 @@
   {
    "season": 2024,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_name": "Alvin Kamara",
    "keep_round": 7,
    "points": 250.3,
@@ -1122,7 +1122,7 @@
   {
    "season": 2025,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_name": "Jameson Williams",
    "keep_round": 11,
    "points": 164.9,
@@ -1131,7 +1131,7 @@
   {
    "season": 2022,
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "player_name": "Tee Higgins",
    "keep_round": 8,
    "points": 179.6,
@@ -1140,7 +1140,7 @@
   {
    "season": 2024,
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "player_name": "C.J. Stroud",
    "keep_round": 12,
    "points": 181.1,
@@ -1149,7 +1149,7 @@
   {
    "season": 2023,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_name": "Trevor Lawrence",
    "keep_round": 6,
    "points": 220.8,
@@ -1158,7 +1158,7 @@
   {
    "season": 2023,
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "player_name": "Tua Tagovailoa",
    "keep_round": 6,
    "points": 219.4,
@@ -1167,7 +1167,7 @@
   {
    "season": 2023,
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "player_name": "George Pickens",
    "keep_round": 12,
    "points": 147.7,
@@ -1176,7 +1176,7 @@
   {
    "season": 2023,
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "player_name": "Romeo Doubs",
    "keep_round": 15,
    "points": 144.7,
@@ -1185,7 +1185,7 @@
   {
    "season": 2022,
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "player_name": "Jaylen Waddle",
    "keep_round": 10,
    "points": 197.5,
@@ -1194,7 +1194,7 @@
   {
    "season": 2023,
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "player_name": "DeAndre Hopkins",
    "keep_round": 8,
    "points": 187.7,
@@ -1203,7 +1203,7 @@
   {
    "season": 2022,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_name": "Ja'Marr Chase",
    "keep_round": 7,
    "points": 190.9,
@@ -1212,7 +1212,7 @@
   {
    "season": 2024,
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "player_name": "James Cook",
    "keep_round": 8,
    "points": 195.7,
@@ -1221,7 +1221,7 @@
   {
    "season": 2023,
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "player_name": "Tony Pollard",
    "keep_round": 8,
    "points": 185.6,
@@ -1230,7 +1230,7 @@
   {
    "season": 2024,
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "player_name": "Brock Purdy",
    "keep_round": 10,
    "points": 209.5,
@@ -1239,7 +1239,7 @@
   {
    "season": 2023,
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "player_name": "Tyler Lockett",
    "keep_round": 14,
    "points": 162.1,
@@ -1248,7 +1248,7 @@
   {
    "season": 2022,
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "player_name": "Michael Pittman",
    "keep_round": 11,
    "points": 161.5,
@@ -1257,7 +1257,7 @@
   {
    "season": 2025,
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "player_name": "Tee Higgins",
    "keep_round": 8,
    "points": 170.7,
@@ -1266,7 +1266,7 @@
   {
    "season": 2024,
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "player_name": "Drake London",
    "keep_round": 6,
    "points": 197.8,
@@ -1275,7 +1275,7 @@
   {
    "season": 2025,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_name": "J.K. Dobbins",
    "keep_round": 16,
    "points": 116.9,
@@ -1284,7 +1284,7 @@
   {
    "season": 2023,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_name": "Josh Jacobs",
    "keep_round": 6,
    "points": 181.6,
@@ -1293,7 +1293,7 @@
   {
    "season": 2024,
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "player_name": "Buffalo Bills",
    "keep_round": 14,
    "points": 114.8,
@@ -1302,7 +1302,7 @@
   {
    "season": 2024,
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "player_name": "Sam LaPorta",
    "keep_round": 14,
    "points": 112.0,
@@ -1311,7 +1311,7 @@
   {
    "season": 2024,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_name": "Rachaad White",
    "keep_round": 8,
    "points": 170.1,
@@ -1320,7 +1320,7 @@
   {
    "season": 2024,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_name": "Jordan Love",
    "keep_round": 10,
    "points": 186.6,
@@ -1329,7 +1329,7 @@
   {
    "season": 2022,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_name": "Deebo Samuel",
    "keep_round": 10,
    "points": 165.0,
@@ -1338,7 +1338,7 @@
   {
    "season": 2023,
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "player_name": "Christian Kirk",
    "keep_round": 10,
    "points": 151.8,
@@ -1347,7 +1347,7 @@
   {
    "season": 2025,
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "player_name": "Brock Bowers",
    "keep_round": 10,
    "points": 154.1,
@@ -1356,7 +1356,7 @@
   {
    "season": 2025,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_name": "Brian Thomas",
    "keep_round": 11,
    "points": 102.1,
@@ -1365,7 +1365,7 @@
   {
    "season": 2024,
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "player_name": "Zay Flowers",
    "keep_round": 10,
    "points": 178.2,
@@ -1374,7 +1374,7 @@
   {
    "season": 2023,
    "user_id": "737091087440674816",
-   "name": "MaxSirianni",
+   "name": "Siri",
    "player_name": "Amari Cooper",
    "keep_round": 7,
    "points": 155.6,
@@ -1383,7 +1383,7 @@
   {
    "season": 2024,
    "user_id": "710284244835979264",
-   "name": "brockhusk",
+   "name": "B-Husk",
    "player_name": "New York Jets",
    "keep_round": 15,
    "points": 86.8,
@@ -1392,7 +1392,7 @@
   {
    "season": 2022,
    "user_id": "737091087440674816",
-   "name": "MaxSirianni",
+   "name": "Siri",
    "player_name": "Mike Williams",
    "keep_round": 13,
    "points": 132.6,
@@ -1401,7 +1401,7 @@
   {
    "season": 2025,
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "player_name": "Tony Pollard",
    "keep_round": 10,
    "points": 138.4,
@@ -1410,7 +1410,7 @@
   {
    "season": 2025,
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "player_name": "T.J. Hockenson",
    "keep_round": 12,
    "points": 74.0,
@@ -1419,7 +1419,7 @@
   {
    "season": 2023,
    "user_id": "737091087440674816",
-   "name": "MaxSirianni",
+   "name": "Siri",
    "player_name": "Kenny Pickett",
    "keep_round": 16,
    "points": 64.6,
@@ -1428,7 +1428,7 @@
   {
    "season": 2024,
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "player_name": "Mike Evans",
    "keep_round": 8,
    "points": 144.5,
@@ -1437,7 +1437,7 @@
   {
    "season": 2022,
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "player_name": "DJ Moore",
    "keep_round": 7,
    "points": 137.5,
@@ -1446,7 +1446,7 @@
   {
    "season": 2024,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_name": "Jordan Addison",
    "keep_round": 9,
    "points": 100.2,
@@ -1455,7 +1455,7 @@
   {
    "season": 2023,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_name": "Jimmy Garoppolo",
    "keep_round": 16,
    "points": 52.9,
@@ -1464,7 +1464,7 @@
   {
    "season": 2025,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_name": "George Kittle",
    "keep_round": 6,
    "points": 106.3,
@@ -1473,7 +1473,7 @@
   {
    "season": 2022,
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "player_name": "Mac Jones",
    "keep_round": 15,
    "points": 54.0,
@@ -1482,7 +1482,7 @@
   {
    "season": 2025,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_name": "J.J. McCarthy",
    "keep_round": 14,
    "points": 42.2,
@@ -1491,7 +1491,7 @@
   {
    "season": 2024,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_name": "Adam Thielen",
    "keep_round": 14,
    "points": 64.2,
@@ -1500,7 +1500,7 @@
   {
    "season": 2022,
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "player_name": "Brandin Cooks",
    "keep_round": 11,
    "points": 94.5,
@@ -1509,7 +1509,7 @@
   {
    "season": 2024,
    "user_id": "737091087440674816",
-   "name": "MaxSirianni",
+   "name": "Siri",
    "player_name": "Dalton Kincaid",
    "keep_round": 12,
    "points": 80.6,
@@ -1518,7 +1518,7 @@
   {
    "season": 2022,
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "player_name": "Los Angeles Rams",
    "keep_round": 12,
    "points": 52.0,
@@ -1527,7 +1527,7 @@
   {
    "season": 2025,
    "user_id": "737091087440674816",
-   "name": "MaxSirianni",
+   "name": "Siri",
    "player_name": "Xavier Worthy",
    "keep_round": 8,
    "points": 98.2,
@@ -1536,7 +1536,7 @@
   {
    "season": 2023,
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_name": "Jameson Williams",
    "keep_round": 16,
    "points": 30.0,
@@ -1545,7 +1545,7 @@
   {
    "season": 2025,
    "user_id": "865793938542456832",
-   "name": "Jacktaco98",
+   "name": "Beaut",
    "player_name": "Brian Robinson",
    "keep_round": 12,
    "points": 25.9,
@@ -1554,7 +1554,7 @@
   {
    "season": 2023,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_name": "Dameon Pierce",
    "keep_round": 11,
    "points": 56.1,
@@ -1563,7 +1563,7 @@
   {
    "season": 2024,
    "user_id": "710284244835979264",
-   "name": "brockhusk",
+   "name": "B-Husk",
    "player_name": "Isiah Pacheco",
    "keep_round": 9,
    "points": 45.9,
@@ -1572,7 +1572,7 @@
   {
    "season": 2022,
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_name": "Javonte Williams",
    "keep_round": 8,
    "points": 42.0,
@@ -1581,7 +1581,7 @@
   {
    "season": 2024,
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "player_name": "Michael Pittman",
    "keep_round": 7,
    "points": 97.9,
@@ -1590,7 +1590,7 @@
   {
    "season": 2022,
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "player_name": "Melvin Gordon",
    "keep_round": 10,
    "points": 73.1,
@@ -1599,7 +1599,7 @@
   {
    "season": 2022,
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "player_name": "Mike Gesicki",
    "keep_round": 11,
    "points": 15.2,
@@ -1609,84 +1609,84 @@
  "by_manager": [
   {
    "user_id": "1136842855890366464",
-   "name": "akepple9",
+   "name": "Kep",
    "keeps": 1,
    "avg_surplus": 103.6,
    "hit_rate": 1.0
   },
   {
    "user_id": "475399371639222272",
-   "name": "cc5597",
+   "name": "Clem",
    "keeps": 5,
    "avg_surplus": 69.84,
    "hit_rate": 1.0
   },
   {
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "keeps": 8,
    "avg_surplus": 58.66,
    "hit_rate": 0.75
   },
   {
    "user_id": "710284244835979264",
-   "name": "brockhusk",
+   "name": "B-Husk",
    "keeps": 5,
    "avg_surplus": 50.3,
    "hit_rate": 0.8
   },
   {
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "keeps": 7,
    "avg_surplus": 43.0,
    "hit_rate": 0.8571
   },
   {
    "user_id": "716698629934481408",
-   "name": "charliekaufmann",
+   "name": "Chuck",
    "keeps": 7,
    "avg_surplus": 31.97,
    "hit_rate": 0.8571
   },
   {
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "keeps": 7,
    "avg_surplus": 30.36,
    "hit_rate": 0.7143
   },
   {
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "keeps": 8,
    "avg_surplus": 28.8,
    "hit_rate": 0.625
   },
   {
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "keeps": 7,
    "avg_surplus": 24.44,
    "hit_rate": 0.8571
   },
   {
    "user_id": "736744257179770880",
-   "name": "jdrobny",
+   "name": "Drobny",
    "keeps": 8,
    "avg_surplus": 20.52,
    "hit_rate": 0.5
   },
   {
    "user_id": "737091087440674816",
-   "name": "MaxSirianni",
+   "name": "Siri",
    "keeps": 5,
    "avg_surplus": -3.94,
    "hit_rate": 0.6
   },
   {
    "user_id": "865793938542456832",
-   "name": "Jacktaco98",
+   "name": "Beaut",
    "keeps": 1,
    "avg_surplus": -42.5,
    "hit_rate": 0.0
@@ -1695,55 +1695,55 @@
  "declared_next": [
   {
    "user_id": "1136842855890366464",
-   "name": "akepple9",
+   "name": "Kep",
    "player_name": "Chris Olave",
    "round": 6
   },
   {
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_name": "Emeka Egbuka",
    "round": 7
   },
   {
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_name": "Trevor Lawrence",
    "round": 8
   },
   {
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "player_name": "Quinshon Judkins",
    "round": 8
   },
   {
    "user_id": "736077599457026048",
-   "name": "Erjohnson14",
+   "name": "Johnson",
    "player_name": "Javonte Williams",
    "round": 9
   },
   {
    "user_id": "736803054736822272",
-   "name": "TylerWicks",
+   "name": "Wicko",
    "player_name": "Tucker Kraft",
    "round": 9
   },
   {
    "user_id": "608781531883859968",
-   "name": "bgreenblatt",
+   "name": "Benny G",
    "player_name": "Jaxson Dart",
    "round": 10
   },
   {
    "user_id": "736740647758938112",
-   "name": "JSanDusky69",
+   "name": "BJ",
    "player_name": "Kyle Pitts",
    "round": 11
   },
   {
    "user_id": "735974647736213504",
-   "name": "KingTowsk",
+   "name": "Towsk",
    "player_name": "Dalton Kincaid",
    "round": 12
   }
