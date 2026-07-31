@@ -144,6 +144,15 @@ table.sortable th:hover { color: var(--ink); }
 table.sortable th[data-dir="asc"]::after { content: " ▲"; color: var(--amber); }
 table.sortable th[data-dir="desc"]::after { content: " ▼"; color: var(--amber); }
 
+/* one ledger ruled into seasons: a group row posts the season, lines follow */
+tr.group-row th, tr.group-row td {
+  font-family: var(--display); font-weight: 600; font-size: 0.88rem;
+  letter-spacing: 0.09em; text-transform: uppercase; color: var(--ink);
+  background: var(--board-raised); border-bottom: 1px solid var(--rail-lit);
+  padding-top: 16px;
+}
+tr.group-row td { color: var(--ink-dim); font-size: 0.78rem; }
+
 /* rotation number: every manager posts under one */
 .rot {
   font-family: var(--nums); font-size: 0.78rem; color: var(--rail-lit);
@@ -270,8 +279,20 @@ tbody tr:hover td:first-child { background: #171420; }
   font-family: var(--display); font-weight: 600; letter-spacing: 0.08em;
   text-transform: uppercase; font-size: 1rem; color: var(--ink-dim); margin: 18px 0 6px;
 }
-.bracket-game { margin: 6px 0; }
-.bracket-game.title-game { font-size: 1.1rem; }
+/* the bracket ladder: rounds climb rightward, each game hung on a brass rail */
+.bracket { display: grid; grid-auto-flow: column;
+  grid-auto-columns: minmax(230px, 1fr); overflow-x: auto; }
+.bracket-round { display: flex; flex-direction: column;
+  padding: 0 20px 12px; min-width: 0; }
+.bracket-round + .bracket-round { border-left: 1px solid var(--rail); }
+.bracket-games { display: flex; flex-direction: column;
+  justify-content: space-around; gap: 14px; flex: 1; }
+.bracket-game { background: var(--board-raised); border: 1px solid var(--rail);
+  padding: 10px 14px; position: relative; }
+.bracket-game::before { content: ""; position: absolute; right: 100%; top: 50%;
+  width: 20px; height: 1px; background: var(--rail-lit); }
+.bracket-round:first-child .bracket-game::before { content: none; }
+.bracket-game.title-game { font-size: 1.1rem; border-color: var(--rail-lit); }
 
 /* rules */
 .rules { line-height: 1.8; padding-left: 1.2rem; max-width: 65ch; }

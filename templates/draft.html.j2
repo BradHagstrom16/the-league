@@ -90,7 +90,7 @@
         <thead><tr><th colspan="2">Biggest steals</th><th class="num">Rd</th><th class="num">Pts</th><th class="num">Surplus</th></tr></thead>
         <tbody>
         {% for s in d.steals %}
-          <tr><td class="num">{{ s.season }}</td><td>{{ s.player_name }} <span class="fine">({{ users[s.user_id].name if s.user_id in users else s.name }})</span></td>
+          <tr><td class="num">{{ s.season }}</td><td>{{ s.player_name }} <span class="fine">({{ users[s.manager_user].name if s.manager_user in users else s.name }})</span></td>
           <td class="num">{{ s.round }}</td><td class="num">{{ s.points|fmt0 }}</td>
           <td class="num pos">+{{ s.surplus|fmt0 }}</td></tr>
         {% endfor %}
@@ -102,7 +102,7 @@
         <thead><tr><th colspan="2">Biggest busts</th><th class="num">Rd</th><th class="num">Pts</th><th class="num">Surplus</th></tr></thead>
         <tbody>
         {% for s in d.busts %}
-          <tr><td class="num">{{ s.season }}</td><td>{{ s.player_name }} <span class="fine">({{ users[s.user_id].name if s.user_id in users else s.name }})</span></td>
+          <tr><td class="num">{{ s.season }}</td><td>{{ s.player_name }} <span class="fine">({{ users[s.manager_user].name if s.manager_user in users else s.name }})</span></td>
           <td class="num">{{ s.round }}</td><td class="num">{{ s.points|fmt0 }}</td>
           <td class="num neg">{{ s.surplus|fmt0 }}</td></tr>
         {% endfor %}
@@ -115,7 +115,21 @@
 <section class="section">
   <h2>What a round is worth</h2>
   <div class="board-panel pad">{{ by_round_chart|safe }}</div>
-  <p class="note">Average regular-season points per pick, by round, all seasons.</p>
+  <div class="board-panel">
+    <table class="sortable">
+      <thead><tr><th class="num">Rd</th><th class="num">Avg pts</th><th class="num">Hit rate</th></tr></thead>
+      <tbody>
+      {% for r in d.by_round %}
+        <tr><td class="num">{{ r.round }}</td>
+        <td class="num">{{ r.avg_points|fmt0 }}</td>
+        <td class="num">{{ r.hit_rate|pct }}</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <p class="note">Average regular-season points per pick, by round, all seasons.
+  Hit rate = the share of that round's picks that at least met the round's own
+  average — how often a pick pays its price.</p>
 </section>
 
 <section class="section">
@@ -135,18 +149,47 @@
 </section>
 
 <section class="section">
-  <h2>The superflex question</h2>
-  <p class="note">Does drafting QBs early actually win here? First QB round vs final finish, every manager-season.</p>
+  <h2>Early-round DNA</h2>
+  <p class="note">Where each manager spends rounds 1–10, as a share of their
+  non-keeper picks, all seasons pooled. Amber marks the position they can't
+  quit.</p>
   <div class="board-panel">
     <table class="sortable">
-      <thead><tr><th class="num">Season</th><th>Manager</th><th class="num">First QB rd</th><th class="num">QBs in first 5</th><th class="num">Finish</th></tr></thead>
+      <thead><tr><th>Manager</th><th class="num">QB</th><th class="num">RB</th><th class="num">WR</th><th class="num">TE</th></tr></thead>
       <tbody>
-      {% for r in d.qb_timing %}
-        <tr><td class="num">{{ r.season }}</td>
-        <td data-sort="{{ users[r.user_id].name if r.user_id in users else '' }}">{{ users[r.user_id].name if r.user_id in users else '?' }}</td>
-        <td class="num">{{ r.first_qb_round if r.first_qb_round is not none else '—' }}</td>
-        <td class="num">{{ r.qbs_in_first_5 }}</td>
-        <td class="num">{{ r.finish if r.finish is not none else '—' }}</td></tr>
+      {% for r in tendency_rows %}
+        <tr>
+          <td data-sort="{{ users[r.user_id].name }}">{{ chip(users[r.user_id].name, users[r.user_id].avatar, 'managers/' ~ users[r.user_id].slug ~ '.html') }}</td>
+          {% for p in ('QB', 'RB', 'WR', 'TE') %}
+          <td class="num{% if r[p] == r.top %} hot{% endif %}">{{ r[p]|pct }}</td>
+          {% endfor %}
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section">
+  <h2>The superflex question</h2>
+  <p class="note">Does drafting QBs early actually win here? First QB round vs
+  final finish, grouped by season — earliest reach first. Amber marks a
+  first-place finish.</p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th>Manager</th><th class="num">First QB rd</th><th class="num">QBs in first 5</th><th class="num">Finish</th></tr></thead>
+      <tbody>
+      {% for g in qb_groups %}
+        <tr class="group-row"><th scope="rowgroup">{{ g.season }}</th>
+          <td colspan="3">{{ g.teams }} teams · earliest QB first</td></tr>
+        {% for r in g.rows %}
+        <tr>
+          <td>{{ chip(users[r.user_id].name if r.user_id in users else '?', users[r.user_id].avatar if r.user_id in users else '', 'managers/' ~ users[r.user_id].slug ~ '.html' if r.user_id in users else None) }}</td>
+          <td class="num">{{ r.first_qb_round if r.first_qb_round is not none else '—' }}</td>
+          <td class="num">{{ r.qbs_in_first_5 }}</td>
+          <td class="num{% if r.finish == 1 %} hot{% endif %}">{{ r.finish if r.finish is not none else '—' }}</td>
+        </tr>
+        {% endfor %}
       {% endfor %}
       </tbody>
     </table>

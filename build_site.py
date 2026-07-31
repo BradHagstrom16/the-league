@@ -174,6 +174,8 @@ def build_pages(payload):
     seasons = payload["meta"]["seasons"]
     lore = meta.get("lore") or {}
     written = []
+    teams_by_season = dict(zip(data.settings.season.astype(int),
+                               data.settings.teams.astype(int)))
 
     def page(template, out_rel, ctx, root=""):
         out = SITE / out_rel
@@ -212,6 +214,30 @@ def build_pages(payload):
         "groups": [(t, [rec[k] for k in ks if k in rec]) for t, ks in groups],
     })
 
+    # ---- luck ---------------------------------------------------------------
+    lk = payload["luck"]
+    luck_career = sorted(lk["career"], key=lambda r: -r["luck_delta"])
+    season_groups = []
+    for s in sorted(seasons, reverse=True):
+        rows = sorted(lk["seasons"].get(str(s), []),
+                      key=lambda r: -r["luck_delta"])
+        season_groups.append({
+            "season": s,
+            "teams": teams_by_season.get(s, 12),
+            "rows": rows,
+            "hot_pct": max((r["allplay_pct"] for r in rows), default=None),
+        })
+    page("luck.html.j2", "luck.html", {
+        "active": "luck",
+        "career": luck_career,
+        "hot_pct": max(r["allplay_pct"] for r in luck_career),
+        "luckiest": luck_career[0],
+        "unluckiest": luck_career[-1],
+        "season_groups": season_groups,
+        "heists": lk["heists"],
+        "robbed": lk["robbed"],
+    })
+
     # ---- seasons ------------------------------------------------------------
     page("seasons.html.j2", "seasons.html", {
         "active": "seasons",
@@ -227,8 +253,6 @@ def build_pages(payload):
         "active": "managers",
         "roster": sorted(users.values(), key=lambda u: u["rot"]),
     })
-    teams_by_season = dict(zip(data.settings.season.astype(int),
-                               data.settings.teams.astype(int)))
     med_by_season = {s: (teams_by_season.get(s, 12) + 1) / 2 for s in seasons}
     fby = payload["career"]["finish_by_year"]
     luck_car = {r["user_id"]: r for r in payload["luck"]["career"]}
@@ -303,9 +327,22 @@ def build_pages(payload):
     audit = payload["keepers"]["audit"]
     flagged = [a for a in audit if not a["charged_ok"] or not a["eligible_round"]
                or a["repeat_keep"]]
+    positions = ("QB", "RB", "WR", "TE")
+    tendency_rows = sorted(
+        [{"user_id": uid,
+          **{p: t.get(p, 0.0) for p in positions},
+          "top": max(t.get(p, 0.0) for p in positions)}
+         for uid, t in d["tendencies"].items() if uid in users],
+        key=lambda r: users[r["user_id"]]["rot"])
+    qb_groups = [{"season": s, "teams": teams_by_season.get(s, 12),
+                  "rows": sorted([r for r in d["qb_timing"] if r["season"] == s],
+                                 key=lambda r: (r["first_qb_round"] or 99,
+                                                r["finish"] or 99))}
+                 for s in sorted(seasons, reverse=True)]
     page("draft.html.j2", "draft.html", {
         "active": "draft",
         "d": d, "by_round_chart": by_round_chart,
+        "tendency_rows": tendency_rows, "qb_groups": qb_groups,
         "keepers": payload["keepers"], "flagged": flagged,
         "summary": payload["keepers"]["summary"],
     })

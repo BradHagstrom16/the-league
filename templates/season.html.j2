@@ -56,20 +56,24 @@
 
 <section class="section">
   <h2>Bracket</h2>
+  <div class="bracket">
   {% for round, games in rounds|dictsort %}
-  <div class="bracket-round">
-    <h3>{% if games and games[0].position == 1 %}Championship{% else %}Round {{ round }}{% endif %}</h3>
-    {% for g in games %}
-    <p class="bracket-game{% if g.position == 1 %} title-game{% endif %}">
-      {{ chip(g.winner.name, g.winner.avatar) }} <span class="pos">def.</span>
-      {% if g.loser %}{{ chip(g.loser.name, g.loser.avatar) }}{% endif %}
-      {% if g.score %}<span class="num">{{ g.score }}</span>{% endif %}
-      {% if g.position == 1 %}<span class="hot">— the title</span>{% endif %}
-      {% if g.position == 3 %}<span class="fine">— third place</span>{% endif %}
-    </p>
-    {% endfor %}
-  </div>
+    <div class="bracket-round">
+      <h3>{% if games and games[0].position == 1 %}Championship{% else %}Round {{ round }}{% endif %}</h3>
+      <div class="bracket-games">
+      {% for g in games %}
+        <div class="bracket-game{% if g.position == 1 %} title-game{% endif %}">
+          {{ chip(g.winner.name, g.winner.avatar) }} <span class="pos">def.</span>
+          {% if g.loser %}{{ chip(g.loser.name, g.loser.avatar) }}{% endif %}
+          {% if g.score %}<span class="num">{{ g.score }}</span>{% endif %}
+          {% if g.position == 1 %}<span class="hot">— the title</span>{% endif %}
+          {% if g.position == 3 %}<span class="fine">— third place</span>{% endif %}
+        </div>
+      {% endfor %}
+      </div>
+    </div>
   {% endfor %}
+  </div>
 </section>
 
 {% if superlatives %}

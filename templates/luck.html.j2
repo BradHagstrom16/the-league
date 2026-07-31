@@ -1,0 +1,137 @@
+{% extends "base.html.j2" %}
+{% from "_macros.j2" import chip, delta %}
+{% block title %}Luck — The League{% endblock %}
+{% block content %}
+<h1 class="page-title">The luck ledger</h1>
+<p class="note">All-play plays every lineup against every other lineup, every
+week. Expected wins fall out of that record; luck is actual wins minus
+expected. The schedule owes some people money.</p>
+
+<section class="section post-in">
+  <div class="two-up">
+    <div class="marquee">
+      <span class="line-name">Luckiest career</span>
+      <span class="posted">{{ '%+.2f'|format(luckiest.luck_delta) }}</span>
+      <span class="detail">{% if luckiest.user_id in users %}<a href="managers/{{ users[luckiest.user_id].slug }}.html">{{ users[luckiest.user_id].name }}</a>{% else %}{{ luckiest.name }}{% endif %}
+        · {{ luckiest.actual_wins }} wins on {{ luckiest.exp_wins|fmt2 }} expected</span>
+    </div>
+    <div class="marquee shame">
+      <span class="line-name">Unluckiest career</span>
+      <span class="posted-sm">{{ '%+.2f'|format(unluckiest.luck_delta) }}</span>
+      <span class="detail">{% if unluckiest.user_id in users %}<a href="managers/{{ users[unluckiest.user_id].slug }}.html">{{ users[unluckiest.user_id].name }}</a>{% else %}{{ unluckiest.name }}{% endif %}
+        · {{ unluckiest.actual_wins }} wins on {{ unluckiest.exp_wins|fmt2 }} expected</span>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <h2>Career all-play</h2>
+  <div class="board-panel">
+    <table class="sortable">
+      <thead><tr><th>Manager</th><th class="num">All-play</th><th class="num">All-play %</th><th class="num">Exp W</th><th class="num">Actual W</th><th class="num">Luck</th><th class="num">Close</th><th class="num">SOS</th></tr></thead>
+      <tbody>
+      {% for r in career %}
+        <tr>
+          <td data-sort="{{ users[r.user_id].name if r.user_id in users else r.name }}">{{ chip(users[r.user_id].name if r.user_id in users else r.name, users[r.user_id].avatar if r.user_id in users else '', 'managers/' ~ users[r.user_id].slug ~ '.html' if r.user_id in users else None) }}</td>
+          <td class="num" data-sort="{{ r.allplay_w }}">{{ r.allplay_w }}–{{ r.allplay_l }}{% if r.allplay_t %}–{{ r.allplay_t }}{% endif %}</td>
+          <td class="num{% if r.allplay_pct == hot_pct %} hot{% endif %}">{{ r.allplay_pct|pct }}</td>
+          <td class="num">{{ r.exp_wins|fmt2 }}</td>
+          <td class="num">{{ r.actual_wins }}</td>
+          <td class="num" data-sort="{{ r.luck_delta }}">{{ delta(r.luck_delta) }}</td>
+          <td class="num" data-sort="{{ r.close_w - r.close_l }}">{{ r.close_w }}–{{ r.close_l }}</td>
+          <td class="num">{{ r.sos|pct }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <p class="note">Nine all-play opponents a week through 2024, eleven from
+  2025 — the percentages are era-safe, the raw totals are not. Close games are
+  decided by fewer than 5. SOS is the average all-play strength of the
+  schedule actually drawn.</p>
+</section>
+
+<section class="section">
+  <h2>Season by season</h2>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th>Manager</th><th class="num">All-play</th><th class="num">All-play %</th><th class="num">Exp W</th><th class="num">Actual W</th><th class="num">Luck</th><th class="num">Close</th><th class="num">SOS</th></tr></thead>
+      <tbody>
+      {% for g in season_groups %}
+        <tr class="group-row"><th scope="rowgroup">{{ g.season }}</th>
+          <td colspan="7">{{ g.teams }} teams · luckiest first</td></tr>
+        {% for r in g.rows %}
+        <tr>
+          <td>{{ chip(users[r.user_id].name if r.user_id in users else r.name, users[r.user_id].avatar if r.user_id in users else '', 'managers/' ~ users[r.user_id].slug ~ '.html' if r.user_id in users else None) }}</td>
+          <td class="num">{{ r.allplay_w }}–{{ r.allplay_l }}{% if r.allplay_t %}–{{ r.allplay_t }}{% endif %}</td>
+          <td class="num{% if r.allplay_pct == g.hot_pct %} hot{% endif %}">{{ r.allplay_pct|pct }}</td>
+          <td class="num">{{ r.exp_wins|fmt2 }}</td>
+          <td class="num">{{ r.actual_wins }}</td>
+          <td class="num">{{ delta(r.luck_delta) }}</td>
+          <td class="num">{{ r.close_w }}–{{ r.close_l }}</td>
+          <td class="num">{{ r.sos|pct }}</td>
+        </tr>
+        {% endfor %}
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <p class="note">Grouped by season, luckiest posted first — this ledger
+  doesn't sort.</p>
+</section>
+
+<section class="section">
+  <h2>Heists &amp; robberies</h2>
+  <p class="note">A heist wins a week with a score that deserved to lose; a
+  robbery loses one that deserved to win. Regular season only.</p>
+  <div class="two-up">
+    <div class="marquee">
+      <span class="line-name">Cheapest win on file</span>
+      <span class="posted">{{ heists[0].points|fmt2 }}</span>
+      <span class="detail">{{ heists[0].name }} over
+        {{ users[heists[0].opp_user_id].name if heists[0].opp_user_id in users else '?' }}
+        · week {{ heists[0].week }}, {{ heists[0].season }}</span>
+    </div>
+    <div class="marquee shame">
+      <span class="line-name">Robbed in broad daylight</span>
+      <span class="posted-sm">{{ robbed[0].points|fmt2 }}</span>
+      <span class="detail">{{ robbed[0].name }}, beaten by
+        {{ users[robbed[0].opp_user_id].name if robbed[0].opp_user_id in users else '?' }}
+        by {{ (robbed[0].opp_points - robbed[0].points)|fmt2 }}
+        · week {{ robbed[0].week }}, {{ robbed[0].season }}</span>
+    </div>
+  </div>
+  <div class="two-col">
+    <div class="board-panel">
+      <table>
+        <thead><tr><th colspan="2">Biggest heists</th><th class="num">Wk</th><th class="num">Won with</th><th>Victim</th><th class="num">Their score</th></tr></thead>
+        <tbody>
+        {% for h in heists %}
+          <tr><td class="num">{{ h.season }}</td>
+          <td>{{ chip(users[h.user_id].name if h.user_id in users else h.name, users[h.user_id].avatar if h.user_id in users else '', 'managers/' ~ users[h.user_id].slug ~ '.html' if h.user_id in users else None) }}</td>
+          <td class="num">{{ h.week }}</td>
+          <td class="num">{{ h.points|fmt2 }}</td>
+          <td>{{ chip(users[h.opp_user_id].name if h.opp_user_id in users else '?', users[h.opp_user_id].avatar if h.opp_user_id in users else '') }}</td>
+          <td class="num">{{ h.opp_points|fmt2 }}</td></tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <div class="board-panel">
+      <table>
+        <thead><tr><th colspan="2">Robbed</th><th class="num">Wk</th><th class="num">Scored</th><th>Beaten by</th><th class="num">Their score</th></tr></thead>
+        <tbody>
+        {% for r in robbed %}
+          <tr><td class="num">{{ r.season }}</td>
+          <td>{{ chip(users[r.user_id].name if r.user_id in users else r.name, users[r.user_id].avatar if r.user_id in users else '', 'managers/' ~ users[r.user_id].slug ~ '.html' if r.user_id in users else None) }}</td>
+          <td class="num">{{ r.week }}</td>
+          <td class="num">{{ r.points|fmt2 }}</td>
+          <td>{{ chip(users[r.opp_user_id].name if r.opp_user_id in users else '?', users[r.opp_user_id].avatar if r.opp_user_id in users else '') }}</td>
+          <td class="num">{{ r.opp_points|fmt2 }}</td></tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+{% endblock %}
