@@ -1,0 +1,44 @@
+name: Update data and deploy site
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  schedule:
+    # Tuesdays 14:00 UTC (~9am ET), September–January: after MNF stats settle.
+    - cron: "0 14 * 9-12,1 2"
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Pull fresh data (scheduled/manual runs only)
+        if: github.event_name != 'push'
+        run: python pull_league_data.py
+      - run: python validate_data.py
+      - run: python build_site.py
+        env:
+          BUILD_TIME: ${{ github.run_started_at }}
+      - name: Commit refreshed data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "data: scheduled refresh"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - uses: actions/deploy-pages@v4

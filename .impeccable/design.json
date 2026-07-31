@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-31T00:00:00Z",
+  "title": "Design System: The League (\"The Board\")",
+  "extensions": {
+    "colorMeta": {
+      "board": { "role": "neutral", "displayName": "Board Black", "canonical": "#0a0a0d", "tonalRamp": ["#21212b", "#3c3c4e", "#565670", "#727292", "#9494ad", "#b7b7c8", "#dadae2", "#f1f1f4"] },
+      "board-raised": { "role": "neutral", "displayName": "Raised Panel", "canonical": "#14121b", "tonalRamp": ["#221f2e", "#3d3753", "#585077", "#74699b", "#968eb4", "#b8b3cc", "#dad7e4", "#f1f0f5"] },
+      "rail": { "role": "neutral", "displayName": "Rail Unlit", "canonical": "#4a3f2e", "tonalRamp": ["#2f281d", "#554835", "#7b684c", "#9f8865", "#b7a58b", "#cec2b0", "#e6e0d6", "#f5f3ef"] },
+      "rail-lit": { "role": "neutral", "displayName": "Rail Lit", "canonical": "#8a7347", "tonalRamp": ["#332a1a", "#5b4c2f", "#836d44", "#aa8f5a", "#bfaa82", "#d4c6ab", "#e8e1d3", "#f6f4ee"] },
+      "ink": { "role": "neutral", "displayName": "Posted Ink", "canonical": "#e8e6ee", "tonalRamp": ["#231f2e", "#3e3852", "#5a5176", "#766a9a", "#988fb3", "#b9b3cb", "#dbd8e4", "#f1f0f5"] },
+      "ink-dim": { "role": "neutral", "displayName": "Dim Ink", "canonical": "#9a95a8", "tonalRamp": ["#24222a", "#423e4c", "#5f5a6d", "#7c768e", "#9c97aa", "#bcb9c6", "#dcdbe1", "#f2f1f4"] },
+      "purple-deep": { "role": "secondary", "displayName": "DGN Heritage Purple", "canonical": "#481878", "tonalRamp": ["#260d40", "#451773", "#6321a6", "#822fd5", "#a162e0", "#bf95ea", "#dec8f4", "#f2eafb"] },
+      "purple-glow": { "role": "secondary", "displayName": "Purple Glow", "canonical": "#a78bc8", "tonalRamp": ["#251934", "#432c5d", "#614087", "#7e55af", "#9e7fc2", "#bda9d6", "#ddd2ea", "#f2eef7"] },
+      "amber": { "role": "primary", "displayName": "Amber", "canonical": "#f5a018", "tonalRamp": ["#492e03", "#845306", "#bf7808", "#f59c0f", "#f7b54a", "#facd85", "#fce5bf", "#fef5e7"] },
+      "silver": { "role": "neutral", "displayName": "Silver", "canonical": "#d1d1d1", "tonalRamp": ["#262626", "#454545", "#636363", "#828282", "#a1a1a1", "#bfbfbf", "#dedede", "#f2f2f2"] },
+      "win": { "role": "semantic", "displayName": "Win Green", "canonical": "#58b368", "tonalRamp": ["#18351d", "#2b5f34", "#3e894b", "#53b164", "#7dc48a", "#a7d7b0", "#d1ead6", "#edf7ef"] },
+      "loss": { "role": "semantic", "displayName": "Loss Rust", "canonical": "#d4643f", "tonalRamp": ["#3f1a0e", "#712f19", "#a34424", "#d15a33", "#dc8365", "#e8ab97", "#f3d3c9", "#faeeea"] },
+      "chart-purple": { "role": "chart", "displayName": "Chart Purple — They Own You", "canonical": "#8f66c9", "tonalRamp": ["#231439", "#3f2466", "#5b3493", "#7846be", "#9974ce", "#baa1de", "#dbceee", "#f1ecf8"] },
+      "chart-amber": { "role": "chart", "displayName": "Chart Amber — You're The House", "canonical": "#c87f1a", "tonalRamp": ["#442b09", "#7a4d10", "#b07017", "#e29222", "#e9ac58", "#f0c78e", "#f7e2c4", "#fcf4e8"] },
+      "chart-steel": { "role": "chart", "displayName": "Chart Steel", "canonical": "#2694c9", "tonalRamp": ["#0c2f40", "#165574", "#207ba7", "#2da0d7", "#60b7e1", "#94ceeb", "#c7e6f4", "#eaf5fb"] },
+      "diverge-neutral": { "role": "chart", "displayName": "Diverge Neutral (.500)", "canonical": "#3a3743", "tonalRamp": ["#24222a", "#413e4c", "#5f5a6d", "#7c768e", "#9c97aa", "#bcb9c6", "#dcdbe1", "#f2f1f4"] }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Draft-room hero headline only; rare, one seasonal state." },
+      "headline": { "displayName": "Headline", "purpose": "Page title (.page-title), one per interior page." },
+      "title": { "displayName": "Title", "purpose": "Section heading (.section > h2), paired with a trailing brass rule." },
+      "body": { "displayName": "Body", "purpose": "Paragraph and note copy; notes cap at 72ch." },
+      "label": { "displayName": "Label", "purpose": "Nav tabs, table headers, marquee line-names, h3 sub-headings — always uppercase." },
+      "numeral": { "displayName": "Numeral", "purpose": "Every score, percentage, dollar amount, streak. The system's signature type role; silver at rest, amber when it's the number that matters." }
+    },
+    "shadows": [
+      { "name": "posted-glow", "value": "text-shadow: 0 0 14px rgba(245, 160, 24, 0.35)", "purpose": "Amber glow behind the hero posted numeral in a marquee — signals 'lit', not elevation." },
+      { "name": "lamp-glow-amber", "value": "box-shadow: 0 0 6px 1px rgba(245, 160, 24, 0.45)", "purpose": "Indicator lamp dot on a normal posted marquee line-name and the champion mark." },
+      { "name": "lamp-glow-loss", "value": "box-shadow: 0 0 6px 1px rgba(212, 100, 63, 0.45)", "purpose": "Indicator lamp dot on a .shame marquee line-name." },
+      { "name": "crest-drop", "value": "filter: drop-shadow(0 6px 24px rgba(72, 24, 120, 0.55))", "purpose": "Purple-tinted lift under the draft-room hero crest image." }
+    ],
+    "motion": [
+      { "name": "post-in", "value": "@keyframes post-in { 0% opacity:0 translateY(-3px); 40% opacity:.4; 60% opacity:.15; 100% opacity:1 translateY(0) } / animation: post-in 0.5s steps(4, end) both", "purpose": "Stepped, flickering settle-in for a freshly posted section on load; disabled entirely under prefers-reduced-motion." }
+    ],
+    "breakpoints": [
+      { "name": "sm", "value": "640px" },
+      { "name": "md", "value": "760px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Board Panel (Sortable Table)",
+      "kind": "card",
+      "refersTo": "panel",
+      "description": "The board's core unit: every stat table lives in a raised, square-cut, horizontally-scrollable panel with a sticky header and sticky first column.",
+      "html": "<div class=\"ds-board-panel\"><table class=\"ds-table\"><thead><tr><th class=\"ds-th ds-sortable\" data-dir=\"desc\">Manager</th><th class=\"ds-th ds-num\">W</th><th class=\"ds-th ds-num\">L</th><th class=\"ds-th ds-num\">Win %</th></tr></thead><tbody><tr class=\"ds-row\"><td class=\"ds-td\">Jacktaco98</td><td class=\"ds-td ds-num\">9</td><td class=\"ds-td ds-num\">5</td><td class=\"ds-td ds-num ds-hot\">64.3%</td></tr><tr class=\"ds-row\"><td class=\"ds-td\">bgreenblatt</td><td class=\"ds-td ds-num\">40</td><td class=\"ds-td ds-num\">29</td><td class=\"ds-td ds-num ds-hot\">58.0%</td></tr></tbody></table></div>",
+      "css": ".ds-board-panel { background: #14121b; border: 1px solid #4a3f2e; border-radius: 0; overflow-x: auto; } .ds-table { border-collapse: collapse; width: 100%; font-size: 0.95rem; font-family: system-ui, sans-serif; } .ds-th, .ds-td { padding: 8px 13px; text-align: left; white-space: nowrap; border-right: 1px solid #1c1922; border-bottom: 1px solid #1c1922; } .ds-th { font-family: \"Saira Condensed\", \"Arial Narrow\", sans-serif; font-weight: 600; font-size: 0.82rem; letter-spacing: 0.1em; text-transform: uppercase; color: #9a95a8; border-bottom: 1px solid #8a7347; } .ds-sortable { cursor: pointer; } .ds-sortable:hover { color: #e8e6ee; } .ds-sortable[data-dir=\"desc\"]::after { content: \" \\25BC\"; color: #f5a018; } .ds-num { text-align: right; font-family: \"Chivo Mono\", ui-monospace, monospace; font-variant-numeric: tabular-nums; color: #d1d1d1; } .ds-hot { color: #f5a018; font-weight: 600; } .ds-row:hover { background: #171420; }"
+    },
+    {
+      "name": "Manager Chip",
+      "kind": "chip",
+      "refersTo": "chip-avatar",
+      "description": "Identity unit used everywhere a manager appears: circular avatar (or initial fallback) plus linked name, optionally prefixed by a tracked rotation number.",
+      "html": "<span class=\"ds-chip\"><span class=\"ds-rot\">511</span><span class=\"ds-avatar\">J</span><a class=\"ds-chip-link\" href=\"#\">Jacktaco98</a></span>",
+      "css": ".ds-chip { display: inline-flex; align-items: center; gap: 8px; font-family: system-ui, sans-serif; } .ds-rot { font-family: \"Chivo Mono\", monospace; font-size: 0.78rem; color: #8a7347; letter-spacing: 0.05em; } .ds-avatar { width: 24px; height: 24px; border-radius: 50%; flex: none; background: #481878; color: #e8e6ee; display: inline-flex; align-items: center; justify-content: center; font-family: \"Saira Condensed\", sans-serif; font-weight: 600; font-size: 0.8rem; } .ds-chip-link { color: #a78bc8; text-decoration: none; } .ds-chip-link:hover { color: #f5a018; }"
+    },
+    {
+      "name": "Marquee (Posted Line)",
+      "kind": "custom",
+      "refersTo": "marquee",
+      "description": "The hero-stat unit: a flat raised panel posting one number at large scale, with a lit indicator lamp and an uppercase line-name label. A .shame variant swaps the lamp and value tone toward loss-red.",
+      "html": "<div class=\"ds-marquee\"><span class=\"ds-line-name\">Reigning champion — 2025</span><span class=\"ds-posted\">Erjohnson14</span><span class=\"ds-detail\">2025 season</span></div>",
+      "css": ".ds-marquee { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px 18px; background: #14121b; border: 1px solid #4a3f2e; border-radius: 0; padding: 16px 20px; font-family: system-ui, sans-serif; } .ds-line-name { font-family: \"Saira Condensed\", sans-serif; font-weight: 600; font-size: 1rem; letter-spacing: 0.08em; text-transform: uppercase; color: #9a95a8; width: 100%; display: flex; align-items: center; gap: 9px; } .ds-line-name::before { content: \"\"; width: 8px; height: 8px; border-radius: 2px; background: #f5a018; box-shadow: 0 0 6px 1px rgba(245, 160, 24, 0.45); } .ds-posted { font-family: \"Chivo Mono\", monospace; font-variant-numeric: tabular-nums; font-weight: 600; font-size: clamp(2rem, 6vw, 3.2rem); color: #f5a018; line-height: 1; text-shadow: 0 0 14px rgba(245, 160, 24, 0.35); } .ds-detail { color: #9a95a8; font-size: 0.92rem; }"
+    },
+    {
+      "name": "Stat Strip",
+      "kind": "custom",
+      "refersTo": "panel",
+      "description": "A fused grid of small posted numbers for a manager's career summary — the system's one 6px-radius container.",
+      "html": "<div class=\"ds-stat-strip\"><div><span class=\"ds-strip-label\">Record</span><span class=\"ds-strip-value\">40–29</span></div><div><span class=\"ds-strip-label\">Titles</span><span class=\"ds-strip-value ds-gold\">1</span></div><div><span class=\"ds-strip-label\">Avg finish</span><span class=\"ds-strip-value\">4.6</span></div></div>",
+      "css": ".ds-stat-strip { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 2px; background: #4a3f2e; border: 1px solid #4a3f2e; border-radius: 6px; overflow: hidden; font-family: system-ui, sans-serif; } .ds-stat-strip > div { background: #14121b; padding: 12px 14px; display: flex; flex-direction: column; gap: 4px; } .ds-strip-label { font-family: \"Saira Condensed\", sans-serif; font-weight: 600; font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: #9a95a8; } .ds-strip-value { font-family: \"Chivo Mono\", monospace; font-variant-numeric: tabular-nums; font-weight: 600; font-size: 1.3rem; color: #e8e6ee; } .ds-gold { color: #f5a018; }"
+    },
+    {
+      "name": "Board Nav",
+      "kind": "nav",
+      "refersTo": "nav-link",
+      "description": "Sticky top navigation bar. Tabs are uppercase Saira Condensed; the active tab and its 3px underline turn amber.",
+      "html": "<nav class=\"ds-nav\"><a class=\"ds-nav-link ds-active\" href=\"#\">Board</a><a class=\"ds-nav-link\" href=\"#\">Seasons</a><a class=\"ds-nav-link\" href=\"#\">Managers</a><a class=\"ds-nav-link\" href=\"#\">Head-to-Head</a></nav>",
+      "css": ".ds-nav { position: sticky; top: 0; display: flex; gap: 2px; overflow-x: auto; background: linear-gradient(#14121b, #0a0a0d); border-bottom: 2px solid #8a7347; padding: 0 16px; } .ds-nav-link { font-family: \"Saira Condensed\", sans-serif; font-weight: 600; font-size: 0.95rem; letter-spacing: 0.08em; text-transform: uppercase; color: #9a95a8; padding: 12px 14px 10px; white-space: nowrap; text-decoration: none; border-bottom: 3px solid transparent; } .ds-nav-link:hover { color: #e8e6ee; } .ds-nav-link:focus-visible { outline: 2px solid #f5a018; outline-offset: 2px; } .ds-active { color: #f5a018; border-bottom-color: #f5a018; }"
+    },
+    {
+      "name": "Champion / Shame Mark",
+      "kind": "custom",
+      "refersTo": "marquee",
+      "description": "Inline uppercase label with a glowing lamp dot instead of an icon or emoji — used to flag a champion result in standings tables.",
+      "html": "<span class=\"ds-champ-mark\">Champion</span>",
+      "css": ".ds-champ-mark { color: #f5a018; font-family: \"Saira Condensed\", sans-serif; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 7px; } .ds-champ-mark::before { content: \"\"; width: 8px; height: 8px; border-radius: 2px; background: #f5a018; box-shadow: 0 0 6px 1px rgba(245, 160, 24, 0.45); }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Board",
+    "overview": "The League is a Las Vegas sportsbook tote board that happens to carry the league's own purple. Every stat is a line posted on the board, with receipts, not a metric dropped into a KPI card — the system deliberately refuses the dashboard-tile arrangement common to sports-analytics sites. The board itself is a matte near-black field (#0a0a0d), ruled into sections by thin brass rails, with signage set in uppercase Saira Condensed and every number that matters posted in tabular Chivo Mono. Purple appears, but as the house's own tint on heritage and identity elements, not as the headline color — amber is what lights up when a number matters. Stripped of all content, the board should still read as itself: a black board of railed sections awaiting numbers.\n\nThe site is built for a group chat that opens it mid-argument, mostly on phones, to settle a bet with a specific number. Density favors legibility of many stat lines over generous whitespace; the aesthetic is a bookkeeper's ledger crossed with a casino tote board, not an editorial magazine. Trash-talk framing is confined to labels, superlatives, and lore copy — table data itself stays plain and rigorous, in line with the product's 'receipts, not vibes' principle.",
+    "keyCharacteristics": [
+      "Matte near-black board surface, sectioned by thin brass rails (unlit #4a3f2e, lit #8a7347)",
+      "Saira Condensed, uppercase and letter-spaced, on every structural label and heading",
+      "Chivo Mono, tabular-nums, carries every number that matters — the system's signature move",
+      "League purple is a heritage/identity accent (avatar fallbacks, links, playoff tint), never the primary attention color — amber owns that role",
+      "Flat, cut-corner geometry throughout; circles are reserved for human identity (avatars, crest)",
+      "No KPI cards or dashboard tiles — every stat is a 'posted line' inside a ruled board panel"
+    ],
+    "rules": [
+      { "name": "The Amber Means It Matters Rule", "body": "Amber marks the number, tab, or mark that should win the argument — the hero posted figure, the active nav tab, a hot table value, the champion mark, the focus ring. It never appears as plain decoration.", "section": "colors" },
+      { "name": "The Purple Stays Heritage Rule", "body": "Purple is lineage and navigation, not headline attention: it shows up in avatar fallbacks, link color, and the playoff-week tint — never as a hero number's color or a 'hot' highlight.", "section": "colors" },
+      { "name": "The Tabular Numerals Rule", "body": "Every quantity — scores, win percentages, dollars, streaks, deltas — renders in Chivo Mono with font-variant-numeric: tabular-nums. The body sans-serif never carries a number.", "section": "typography" },
+      { "name": "The Signage Caps Rule", "body": "Every structural label — nav tabs, table headers, section titles, line-names — is Saira Condensed, uppercase, letter-spaced. Lowercase, mixed-case text is reserved for body prose and player/manager names.", "section": "typography" },
+      { "name": "The No-Lift Rule", "body": "Surfaces never gain a shadow from being a card or being hovered. The only shadows that exist are glows on things that are already 'lit' — the posted hero number, the indicator lamps, the crest.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do route every number — score, percentage, dollar amount, streak, delta — through Chivo Mono with tabular-nums; the body sans-serif never carries a number.",
+      "Do set every structural label in uppercase, letter-spaced Saira Condensed (nav, table headers, section titles, line-names).",
+      "Do reserve amber for the value that matters (hot cells, the champion mark, the active nav tab, the hero posted number, focus rings) — never as plain decoration.",
+      "Do keep the categorical chart order fixed at purple → amber → steel (#8f66c9, #c87f1a, #2694c9) and the H2H heatmap on the purple/#3a3743-neutral/amber diverging scale; label series directly and print the value inside every heatmap cell rather than relying on color alone.",
+      "Do keep every panel, marquee, and card square (border-radius: 0); reserve circles for avatars/crest and the two named exceptions (2px lamps, the 6px stat-strip)."
+    ],
+    "donts": [
+      "Don't add a box-shadow-based lifted/hover-elevated card. Depth here is the board-to-raised-panel tone step plus a rail border, not a shadow; the only shadows that exist are 'lit' glows.",
+      "Don't substitute the UI's amber (#f5a018) or heritage purple (#481878) into a chart, or vice versa — the chart palette is a separate, validated set (#8f66c9/#c87f1a/#2694c9) tuned for the #0a0a0d surface.",
+      "Don't add buttons, form inputs, or filter/selectable chips — none exist in the shipped system. Every action is a link or a click on a sortable table header.",
+      "Don't treat a 'hot' highlight on a leaderboard column as an exact top-N count. The board flags standout values (e.g. the highest win percentages), and ties can widen that set beyond a fixed number — document it as 'the standout values,' not 'the top 3.'",
+      "Don't cover the sticky first table column's role: it is the left-edge scroll cue's replacement by design, not a rendering bug to patch."
+    ]
+  }
+}
