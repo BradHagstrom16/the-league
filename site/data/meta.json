@@ -12,8 +12,19 @@
  "generated_utc": "",
  "lore": {
   "trophy_name": "The League Trophy",
-  "punishments": {},
-  "champion_notes": {}
+  "punishments": {
+   "2021": "\ud83c\udf2d",
+   "2022": "\ud83d\udcc5\ud83e\ude72 Made a \"swimsuit edition\" calendar.",
+   "2023": "\ud83e\udd21\ud83c\udfb0",
+   "2024": "\ud83d\ude82",
+   "2025": "\ud83e\udd21"
+  },
+  "champion_notes": {
+   "2021": "*Wicks Rule + Luckiest fantasy run of all time",
+   "2022": "*Would have lost but Damar Hamlin",
+   "2024": "The Greatest Championship Ever Won",
+   "2025": "Clem blew it"
+  }
  },
  "era_boundary": 2025
 }

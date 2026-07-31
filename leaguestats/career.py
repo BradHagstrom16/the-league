@@ -60,10 +60,33 @@ def _active_ids(data: LeagueData) -> set[str]:
     return set(mgrs.user_id)
 
 
+def toilet_bowl_loser(data: LeagueData, season: int) -> str | None:
+    """user_id of the season's toilet-bowl loser, or None without a bracket.
+
+    In this league the punishment goes to the WINNER of the losers-bracket
+    position-1 game (you win your way into the punishment) — commissioner-
+    confirmed and verified against all five played seasons.
+    """
+    br = data.brackets
+    g = br[(br.season.astype(int) == int(season)) & (br.bracket == "losers")]
+    g = g[(g.position.astype("float") == 1) & g.winner.notna()]
+    if not len(g):
+        return None
+    rid = int(float(g.iloc[0].winner))
+    return data.r2u(int(season)).get(rid)
+
+
 def compute_career(data: LeagueData) -> dict:
     s = _played_standings(data)
+    # Last place = the toilet-bowl loser where a losers bracket exists;
+    # worst regular-season record only as a fallback.
+    tb_by_season = {int(season): toilet_bowl_loser(data, int(season))
+                    for season in s.season.unique()}
     s["season_worst"] = s.groupby("season")["finish"].transform("max")
-    s["is_last"] = (s.finish == s.season_worst).astype(int)
+    s["is_last"] = s.apply(
+        lambda r: int(str(r.user_id) == tb_by_season[int(r.season)])
+        if tb_by_season[int(r.season)]
+        else int(r.finish == r.season_worst), axis=1)
 
     agg = s.groupby("user_id").agg(
         seasons=("season", "nunique"),
@@ -117,8 +140,8 @@ def compute_career(data: LeagueData) -> dict:
     for season, grp in s.groupby("season"):
         champs = grp[grp.champion == 1]
         champion_user = str(champs.iloc[0].user_id) if len(champs) else None
-        last_row = grp[grp.finish == grp.finish.max()].iloc[0]
-        last_user = str(last_row.user_id)
+        last_user = tb_by_season.get(int(season)) or str(
+            grp[grp.finish == grp.finish.max()].iloc[0].user_id)
         seasons.append({
             "season": int(season),
             "era": data.era(int(season)),

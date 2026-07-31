@@ -95,7 +95,7 @@
    "avg_finish": 5.2,
    "titles": 1,
    "playoff_apps": 3,
-   "last_places": 0,
+   "last_places": 1,
    "longest_win_streak": 5,
    "longest_loss_streak": 5,
    "active": true
@@ -115,7 +115,7 @@
    "avg_finish": 6.4,
    "titles": 2,
    "playoff_apps": 3,
-   "last_places": 1,
+   "last_places": 0,
    "longest_win_streak": 12,
    "longest_loss_streak": 10,
    "active": true
@@ -155,7 +155,7 @@
    "avg_finish": 6.8,
    "titles": 0,
    "playoff_apps": 2,
-   "last_places": 1,
+   "last_places": 2,
    "longest_win_streak": 9,
    "longest_loss_streak": 8,
    "active": true
@@ -175,7 +175,7 @@
    "avg_finish": 6.6,
    "titles": 0,
    "playoff_apps": 2,
-   "last_places": 0,
+   "last_places": 1,
    "longest_win_streak": 5,
    "longest_loss_streak": 7,
    "active": true
@@ -195,7 +195,7 @@
    "avg_finish": 6.8,
    "titles": 0,
    "playoff_apps": 2,
-   "last_places": 1,
+   "last_places": 0,
    "longest_win_streak": 4,
    "longest_loss_streak": 7,
    "active": true
@@ -235,7 +235,7 @@
    "avg_finish": 8.4,
    "titles": 0,
    "playoff_apps": 0,
-   "last_places": 1,
+   "last_places": 0,
    "longest_win_streak": 3,
    "longest_loss_streak": 4,
    "active": true
@@ -341,24 +341,24 @@
    "era": "10-team",
    "champion_user": "608781531883859968",
    "champion_name": "Benny G",
-   "last_user": "736740647758938112",
-   "last_name": "BJ"
+   "last_user": "716698629934481408",
+   "last_name": "Chuck"
   },
   {
    "season": 2024,
    "era": "10-team",
    "champion_user": "735974647736213504",
    "champion_name": "Towsk",
-   "last_user": "737091087440674816",
-   "last_name": "Siri"
+   "last_user": "710284244835979264",
+   "last_name": "B-Husk"
   },
   {
    "season": 2025,
    "era": "12-team",
    "champion_user": "736077599457026048",
    "champion_name": "Johnson",
-   "last_user": "736744257179770880",
-   "last_name": "Drobny"
+   "last_user": "735974647736213504",
+   "last_name": "Towsk"
   }
  ]
 }

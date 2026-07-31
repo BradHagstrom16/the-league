@@ -1,4 +1,16 @@
-# Hand-maintained league lore. The site renders placeholders until this is filled in.
-trophy_name: "The League Trophy"            # what the champion's trophy is called
-punishments: {}            # season -> what last place had to do, e.g. 2024: "Ate a ghost pepper"
-champion_notes: {}         # season -> one-liner about that title run
+# Hand-maintained league lore. The loser each year is the toilet-bowl loser
+# (winner of the losers-bracket final — you win your way into the punishment).
+trophy_name: "The League Trophy"
+
+punishments:
+  2021: "🌭"
+  2022: "📅🩲 Made a \"swimsuit edition\" calendar."
+  2023: "🤡🎰"
+  2024: "🚂"
+  2025: "🤡"
+
+champion_notes:
+  2021: "*Wicks Rule + Luckiest fantasy run of all time"
+  2022: "*Would have lost but Damar Hamlin"
+  2024: "The Greatest Championship Ever Won"
+  2025: "Clem blew it"

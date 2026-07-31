@@ -58,7 +58,7 @@
       <span class="detail">{% if lore.trophy_name %}Holder of {{ lore.trophy_name }}.{% else %}Trophy name unrecorded; commissioner, fill in <code>league_lore.yml</code>.{% endif %}</span>
     </div>
     <div class="marquee shame">
-      <span class="line-name">Worst record — {{ reigning.season }}</span>
+      <span class="line-name">Toilet bowl loser — {{ reigning.season }}</span>
       <span class="posted">{{ chip(last_place.name, users[last_place.user_id].avatar if last_place.user_id in users else '', root ~ 'managers/' ~ users[last_place.user_id].slug ~ '.html' if last_place.user_id in users else None) }}</span>
       <span class="detail">{% if lore.punishments.get(reigning.season|string) or lore.punishments.get(reigning.season) %}{{ lore.punishments.get(reigning.season|string) or lore.punishments.get(reigning.season) }}{% else %}Punishment unrecorded. The group chat knows.{% endif %}</span>
     </div>
@@ -85,7 +85,7 @@
       <thead><tr>
         <th>Manager</th><th class="num">Seasons</th><th class="num">W</th><th class="num">L</th>
         <th class="num">Win %</th><th class="num">PF</th><th class="num">Titles</th>
-        <th class="num">Playoffs</th><th class="num">Last places</th>
+        <th class="num">Playoffs</th><th class="num">Toilet bowls</th>
       </tr></thead>
       <tbody>
       {% set top3_pct = (career.managers | map(attribute='win_pct') | sort(reverse=true) | list)[:3] %}

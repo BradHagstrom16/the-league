@@ -20,3 +20,19 @@ def test_finish_by_year_and_seasons(tiny):
     assert out["finish_by_year"]["u3"][2024] == 1
     s = out["seasons"][0]
     assert s["champion_user"] == "u1" and s["last_user"] == "u4"
+
+
+def test_toilet_bowl_overrides_standings_last(tiny):
+    import pandas as pd
+    from leaguestats.career import compute_career, toilet_bowl_loser
+    # Graft a losers-bracket final: roster 2 (u2) wins the toilet bowl, so the
+    # punishment moves off the worst record (u4) onto u2.
+    tiny.brackets = pd.concat([tiny.brackets, pd.DataFrame([dict(
+        season=2024, bracket="losers", round=1, matchup_id=9,
+        roster_id_1=2, roster_id_2=4, winner=2, loser=4, position=1)])],
+        ignore_index=True)
+    assert toilet_bowl_loser(tiny, 2024) == "u2"
+    out = compute_career(tiny)
+    by = {m["user_id"]: m for m in out["managers"]}
+    assert by["u2"]["last_places"] == 1 and by["u4"]["last_places"] == 0
+    assert out["seasons"][0]["last_user"] == "u2"
