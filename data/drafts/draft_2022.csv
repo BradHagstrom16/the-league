@@ -1,0 +1,161 @@
+season,round,pick_in_round,overall_pick,draft_slot,slot_owner_roster_id,roster_id,traded_pick,user_id,manager,team_name,player_id,player_name,position,nfl_team,years_exp,is_keeper
+2022,1,1,1,1,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,4984,Josh Allen,QB,BUF,4,False
+2022,1,2,2,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,4034,Christian McCaffrey,RB,CAR,5,False
+2022,1,3,3,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,6813,Jonathan Taylor,RB,IND,2,False
+2022,1,4,4,4,4,4,0,736744257179770880,jdrobny,Rather Be Lucky Than Good,6797,Justin Herbert,QB,LAC,2,False
+2022,1,5,5,5,1,1,0,608781531883859968,bgreenblatt,Taylor Park Boys,4881,Lamar Jackson,QB,BAL,4,False
+2022,1,6,6,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,4039,Cooper Kupp,WR,LAR,5,False
+2022,1,7,7,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,4663,Austin Ekeler,RB,LAC,5,False
+2022,1,8,8,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,4046,Patrick Mahomes,QB,KC,5,False
+2022,1,9,9,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,6794,Justin Jefferson,WR,MIN,2,False
+2022,1,10,10,10,5,5,0,716698629934481408,kaufmannc,Mar-a-lago Raiders ,3198,Derrick Henry,RB,TEN,6,False
+2022,2,10,11,10,5,5,0,716698629934481408,kaufmannc,Mar-a-lago Raiders ,2449,Stefon Diggs,WR,BUF,7,False
+2022,2,9,12,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,7528,Najee Harris,RB,PIT,1,False
+2022,2,8,13,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,4029,Dalvin Cook,RB,MIN,5,False
+2022,2,7,14,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,2133,Davante Adams,WR,LV,8,False
+2022,2,6,15,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,5849,Kyler Murray,QB,ARI,3,False
+2022,2,5,16,5,1,1,0,608781531883859968,bgreenblatt,Taylor Park Boys,1466,Travis Kelce,TE,KC,9,False
+2022,2,4,17,4,4,4,0,736744257179770880,jdrobny,Rather Be Lucky Than Good,4018,Joe Mixon,RB,CIN,5,False
+2022,2,3,18,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,6904,Jalen Hurts,QB,PHI,2,False
+2022,2,2,19,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,1234,Russell Wilson,QB,DEN,10,False
+2022,2,1,20,1,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,6790,D'Andre Swift,RB,DET,2,False
+2022,3,1,21,1,7,1,1,608781531883859968,bgreenblatt,Taylor Park Boys,4866,Saquon Barkley,RB,NYG,4,False
+2022,3,2,22,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,96,Aaron Rodgers,QB,GB,17,False
+2022,3,3,23,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,4199,Aaron Jones,RB,GB,5,False
+2022,3,4,24,4,4,4,0,736744257179770880,jdrobny,Rather Be Lucky Than Good,5012,Mark Andrews,TE,BAL,4,False
+2022,3,5,25,5,1,7,1,735974647736213504,KingTowsk,Leeroy Jenkins,167,Tom Brady,QB,TB,22,False
+2022,3,6,26,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,4035,Alvin Kamara,RB,NO,5,False
+2022,3,7,27,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,3294,Dak Prescott,QB,DAL,6,False
+2022,3,8,28,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,6786,CeeDee Lamb,WR,DAL,2,False
+2022,3,9,29,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,4988,Nick Chubb,RB,CLE,4,False
+2022,3,10,30,10,5,5,0,716698629934481408,kaufmannc,Mar-a-lago Raiders ,421,Matthew Stafford,QB,LAR,13,False
+2022,4,10,31,10,5,5,0,716698629934481408,kaufmannc,Mar-a-lago Raiders ,2216,Mike Evans,WR,TB,8,False
+2022,4,9,32,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,1166,Kirk Cousins,QB,MIN,10,False
+2022,4,8,33,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,7610,Trey Lance,QB,SF,1,False
+2022,4,7,34,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,3321,Tyreek Hill,WR,MIA,6,False
+2022,4,6,35,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,4137,James Conner,RB,ARI,5,False
+2022,4,5,36,5,1,1,0,608781531883859968,bgreenblatt,Taylor Park Boys,7543,Travis Etienne,RB,JAX,1,False
+2022,4,4,37,4,4,4,0,736744257179770880,jdrobny,Rather Be Lucky Than Good,7553,Kyle Pitts,TE,ATL,1,False
+2022,4,3,38,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,1479,Keenan Allen,WR,LAC,9,False
+2022,4,2,39,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,5859,A.J. Brown,WR,PHI,3,False
+2022,4,1,40,1,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,4217,George Kittle,TE,SF,5,False
+2022,5,1,41,1,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,3164,Ezekiel Elliott,RB,DAL,6,False
+2022,5,2,42,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,2505,Darren Waller,TE,LV,7,False
+2022,5,3,43,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,5927,Terry McLaurin,WR,WAS,3,False
+2022,5,4,44,4,4,4,0,736744257179770880,jdrobny,Rather Be Lucky Than Good,5045,Courtland Sutton,WR,DEN,4,False
+2022,5,5,45,5,1,1,0,608781531883859968,bgreenblatt,Taylor Park Boys,5848,Marquise Brown,WR,ARI,3,False
+2022,5,6,46,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,6783,Jerry Jeudy,WR,DEN,2,False
+2022,5,7,47,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,8155,Breece Hall,RB,NYJ,0,False
+2022,5,8,48,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,6938,Cam Akers,RB,LAR,2,False
+2022,5,9,49,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,5892,David Montgomery,RB,CHI,3,False
+2022,5,10,50,10,5,5,0,716698629934481408,kaufmannc,Mar-a-lago Raiders ,5844,T.J. Hockenson,TE,DET,3,False
+2022,6,10,51,10,5,5,0,716698629934481408,kaufmannc,Mar-a-lago Raiders ,7561,Elijah Mitchell,RB,SF,1,False
+2022,6,9,52,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,5001,Dalton Schultz,TE,DAL,4,False
+2022,6,8,53,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,5937,Diontae Johnson,WR,PIT,3,False
+2022,6,7,54,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,6770,Joe Burrow,QB,CIN,2,True
+2022,6,6,55,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,6768,Tua Tagovailoa,QB,MIA,2,False
+2022,6,5,56,5,1,1,0,608781531883859968,bgreenblatt,Taylor Park Boys,7523,Trevor Lawrence,QB,JAX,1,False
+2022,6,4,57,4,4,4,0,736744257179770880,jdrobny,Rather Be Lucky Than Good,5850,Josh Jacobs,RB,LV,3,False
+2022,6,3,58,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,1992,Allen Robinson,WR,LAR,8,False
+2022,6,2,59,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,5846,DK Metcalf,WR,SEA,3,False
+2022,6,1,60,1,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,6828,AJ Dillon,RB,GB,2,False
+2022,7,1,61,1,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,7571,Rashod Bateman,WR,BAL,1,False
+2022,7,2,62,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,4037,Chris Godwin,WR,TB,5,False
+2022,7,3,63,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,24,Matt Ryan,QB,IND,14,False
+2022,7,4,64,4,4,4,0,736744257179770880,jdrobny,Rather Be Lucky Than Good,6820,Clyde Edwards-Helaire,RB,KC,2,False
+2022,7,5,65,5,1,1,0,608781531883859968,bgreenblatt,Taylor Park Boys,7564,Ja'Marr Chase,WR,CIN,1,True
+2022,7,6,66,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,5022,Dallas Goedert,TE,PHI,4,False
+2022,7,7,67,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,1535,Cordarrelle Patterson,RB,ATL,9,False
+2022,7,8,68,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,7547,Amon-Ra St. Brown,WR,DET,1,False
+2022,7,9,69,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,2309,Amari Cooper,WR,CLE,7,False
+2022,7,10,70,10,5,5,0,716698629934481408,kaufmannc,Mar-a-lago Raiders ,4983,DJ Moore,WR,CAR,4,True
+2022,8,10,71,10,5,5,0,716698629934481408,kaufmannc,Mar-a-lago Raiders ,6806,J.K. Dobbins,RB,BAL,2,False
+2022,8,9,72,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,2306,Jameis Winston,QB,NO,7,False
+2022,8,8,73,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,5906,Dawson Knox,TE,BUF,3,False
+2022,8,7,74,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,6801,Tee Higgins,WR,CIN,2,True
+2022,8,6,75,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,4040,JuJu Smith-Schuster,WR,KC,5,False
+2022,8,5,76,5,1,1,0,608781531883859968,bgreenblatt,Taylor Park Boys,1426,DeAndre Hopkins,WR,ARI,9,False
+2022,8,4,77,4,4,4,0,736744257179770880,jdrobny,Rather Be Lucky Than Good,3199,Michael Thomas,WR,NO,6,False
+2022,8,3,78,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,5967,Tony Pollard,RB,DAL,3,False
+2022,8,2,79,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,7588,Javonte Williams,RB,DEN,1,True
+2022,8,1,80,1,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,7090,Darnell Mooney,WR,CHI,2,False
+2022,9,1,81,1,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,6945,Antonio Gibson,RB,WAS,2,False
+2022,9,2,82,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,6943,Gabe Davis,WR,BUF,2,False
+2022,9,3,83,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,5955,Hunter Renfrow,WR,LV,3,False
+2022,9,4,84,4,4,4,0,736744257179770880,jdrobny,Rather Be Lucky Than Good,7591,Justin Fields,QB,CHI,1,True
+2022,9,5,85,5,1,1,0,608781531883859968,bgreenblatt,Taylor Park Boys,7596,Elijah Moore,WR,NYJ,1,False
+2022,9,6,86,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,1339,Zach Ertz,TE,ARI,9,False
+2022,9,7,87,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,1689,Adam Thielen,WR,MIN,9,False
+2022,9,8,88,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,7525,DeVonta Smith,WR,PHI,1,False
+2022,9,9,89,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,5890,Damien Harris,RB,NE,3,False
+2022,9,10,90,10,5,5,0,716698629934481408,kaufmannc,Mar-a-lago Raiders ,5185,Allen Lazard,WR,GB,4,False
+2022,10,10,91,10,5,5,0,716698629934481408,kaufmannc,Mar-a-lago Raiders ,3163,Jared Goff,QB,DET,6,False
+2022,10,9,92,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,4098,Kareem Hunt,RB,CLE,5,False
+2022,10,8,93,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,8112,Drake London,WR,ATL,0,False
+2022,10,7,94,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,5000,Chase Edmonds,RB,MIA,4,False
+2022,10,6,95,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,2320,Melvin Gordon,RB,DEN,7,True
+2022,10,5,96,5,1,1,0,608781531883859968,bgreenblatt,Taylor Park Boys,8151,Kenneth Walker,RB,SEA,0,False
+2022,10,4,97,4,4,4,0,736744257179770880,jdrobny,Rather Be Lucky Than Good,6130,Devin Singletary,RB,BUF,3,False
+2022,10,3,98,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,6151,Miles Sanders,RB,PHI,3,False
+2022,10,2,99,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,5872,Deebo Samuel,WR,SF,3,True
+2022,10,1,100,1,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,7526,Jaylen Waddle,WR,MIA,1,True
+2022,11,1,101,1,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,6819,Michael Pittman,WR,IND,2,True
+2022,11,2,102,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,8129,Dameon Pierce,RB,HOU,0,False
+2022,11,3,103,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,4993,Mike Gesicki,TE,MIA,4,True
+2022,11,4,104,4,4,4,0,736744257179770880,jdrobny,Rather Be Lucky Than Good,2197,Brandin Cooks,WR,HOU,8,True
+2022,11,5,105,5,1,1,0,608781531883859968,bgreenblatt,Taylor Park Boys,6803,Brandon Aiyuk,WR,SF,2,False
+2022,11,6,106,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,7611,Rhamondre Stevenson,RB,NE,1,False
+2022,11,7,107,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,6826,Cole Kmet,TE,CHI,2,False
+2022,11,8,108,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,7607,Michael Carter,RB,NYJ,1,False
+2022,11,9,109,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,4950,Christian Kirk,WR,JAX,4,False
+2022,11,10,110,10,5,5,0,716698629934481408,kaufmannc,Mar-a-lago Raiders ,1352,Robert Woods,WR,TEN,9,False
+2022,12,10,111,10,5,5,0,716698629934481408,kaufmannc,Mar-a-lago Raiders ,8137,George Pickens,WR,PIT,0,False
+2022,12,9,112,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,8138,James Cook,RB,BUF,0,False
+2022,12,8,113,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,7600,Pat Freiermuth,TE,PIT,1,False
+2022,12,7,114,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,4985,Rashaad Penny,RB,SEA,4,False
+2022,12,6,115,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,LAR,Los Angeles Rams,DEF,LAR,,True
+2022,12,5,116,5,1,1,0,608781531883859968,bgreenblatt,Taylor Park Boys,3969,Leonard Fournette,RB,TB,5,True
+2022,12,4,117,4,4,4,0,736744257179770880,jdrobny,Rather Be Lucky Than Good,8168,Skyy Moore,WR,KC,0,False
+2022,12,3,118,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,5086,Marquez Valdes-Scantling,WR,KC,4,False
+2022,12,2,119,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,8144,Chris Olave,WR,NO,0,False
+2022,12,1,120,1,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,8135,Treylon Burks,WR,TEN,0,False
+2022,13,1,121,1,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,5870,Daniel Jones,QB,NYG,3,False
+2022,13,2,122,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,5916,Darrell Henderson,RB,LAR,3,False
+2022,13,3,123,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,BUF,Buffalo Bills,DEF,BUF,,False
+2022,13,4,124,4,4,4,0,736744257179770880,jdrobny,Rather Be Lucky Than Good,7839,Evan McPherson,K,CIN,1,False
+2022,13,5,125,5,1,1,0,608781531883859968,bgreenblatt,Taylor Park Boys,1049,Ryan Tannehill,QB,TEN,10,False
+2022,13,6,126,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,4892,Baker Mayfield,QB,CAR,4,False
+2022,13,7,127,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,7538,Zach Wilson,QB,NYJ,1,False
+2022,13,8,128,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,8146,Garrett Wilson,WR,NYJ,0,False
+2022,13,9,129,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,4068,Mike Williams,WR,LAC,5,True
+2022,13,10,130,10,5,5,0,716698629934481408,kaufmannc,Mar-a-lago Raiders ,4149,Jamaal Williams,RB,DET,5,False
+2022,14,10,131,10,5,7,1,735974647736213504,KingTowsk,Leeroy Jenkins,8167,Christian Watson,WR,GB,0,False
+2022,14,9,132,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,1264,Justin Tucker,K,BAL,10,False
+2022,14,8,133,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,4017,Deshaun Watson,QB,CLE,5,False
+2022,14,7,134,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,TB,Tampa Bay Buccaneers,DEF,TB,,False
+2022,14,6,135,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,2374,Tyler Lockett,WR,SEA,7,False
+2022,14,5,136,5,1,1,0,608781531883859968,bgreenblatt,Taylor Park Boys,5095,Daniel Carlson,K,LV,4,False
+2022,14,4,137,4,4,7,1,735974647736213504,KingTowsk,Leeroy Jenkins,5272,Greg Joseph,K,MIN,4,False
+2022,14,3,138,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,2028,Derek Carr,QB,LV,8,True
+2022,14,2,139,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,3161,Carson Wentz,QB,WAS,6,False
+2022,14,1,140,1,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,BAL,Baltimore Ravens,DEF,BAL,,False
+2022,15,1,141,1,7,4,1,736744257179770880,jdrobny,Rather Be Lucky Than Good,5347,Nyheim Hines,RB,IND,4,False
+2022,15,2,142,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,6083,Matt Gay,K,LAR,3,False
+2022,15,3,143,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,8121,Romeo Doubs,WR,GB,0,False
+2022,15,4,144,4,4,4,0,736744257179770880,jdrobny,Rather Be Lucky Than Good,IND,Indianapolis Colts,DEF,IND,,False
+2022,15,5,145,5,1,1,0,608781531883859968,bgreenblatt,Taylor Park Boys,7606,Kadarius Toney,WR,NYG,1,False
+2022,15,6,146,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,6886,Chase Claypool,WR,PIT,2,False
+2022,15,7,147,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,7042,Tyler Bass,K,BUF,2,False
+2022,15,8,148,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,SF,San Francisco 49ers,DEF,SF,,False
+2022,15,9,149,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,LAC,Los Angeles Chargers,DEF,LAC,,False
+2022,15,10,150,10,5,5,0,716698629934481408,kaufmannc,Mar-a-lago Raiders ,7527,Mac Jones,QB,NE,1,True
+2022,16,10,151,10,5,5,0,716698629934481408,kaufmannc,Mar-a-lago Raiders ,4227,Harrison Butker,K,KC,5,False
+2022,16,9,152,9,3,3,0,737091087440674816,MaxSirianni,Tucker right in the pu$$y,8160,Kenny Pickett,QB,PIT,0,False
+2022,16,8,153,8,9,9,0,710284244835979264,brockhusk,Super Flex Offenders ,17,Matt Prater,K,ARI,16,False
+2022,16,7,154,7,10,10,0,475399371639222272,cc5597,The Bengalphin Boys,7567,Kenneth Gainwell,RB,PHI,1,False
+2022,16,6,155,6,6,6,0,736740647758938112,JSanDusky69,2 Girls 0 Kupps,1433,Brandon McManus,K,DEN,9,False
+2022,16,5,156,5,1,1,0,608781531883859968,bgreenblatt,Taylor Park Boys,8148,Jameson Williams,WR,DET,0,False
+2022,16,4,157,4,4,4,0,736744257179770880,jdrobny,Rather Be Lucky Than Good,1837,Jimmy Garoppolo,QB,SF,8,False
+2022,16,3,158,3,8,8,0,736803054736822272,TylerWicks,Sick of Gesicki,391,Ryan Succop,K,TB,13,False
+2022,16,2,159,2,2,2,0,736077599457026048,Erjohnson14,Dairy Sanders,DEN,Denver Broncos,DEF,DEN,,False
+2022,16,1,160,1,7,5,1,716698629934481408,kaufmannc,Mar-a-lago Raiders ,DAL,Dallas Cowboys,DEF,DAL,,False

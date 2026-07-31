@@ -1,0 +1,161 @@
+season,round,pick_in_round,overall_pick,draft_slot,slot_owner_roster_id,roster_id,traded_pick,user_id,manager,team_name,player_id,player_name,position,nfl_team,years_exp,is_keeper
+2024,1,1,1,1,2,2,0,736077599457026048,Erjohnson14,Johnson’s Lil Johnson,4984,Josh Allen,QB,BUF,6,False
+2024,1,2,2,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,4046,Patrick Mahomes,QB,KC,7,False
+2024,1,3,3,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,6904,Jalen Hurts,QB,PHI,4,False
+2024,1,4,4,4,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,4881,Lamar Jackson,QB,BAL,6,False
+2024,1,5,5,5,3,3,0,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,4034,Christian McCaffrey,RB,SF,7,False
+2024,1,6,6,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,3321,Tyreek Hill,WR,MIA,8,False
+2024,1,7,7,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,6794,Justin Jefferson,WR,MIN,4,False
+2024,1,8,8,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,7547,Amon-Ra St. Brown,WR,DET,3,False
+2024,1,9,9,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,9509,Bijan Robinson,RB,ATL,1,False
+2024,1,10,10,10,10,10,0,475399371639222272,cc5597,The Problems,6786,CeeDee Lamb,WR,DAL,4,False
+2024,2,10,11,10,10,10,0,475399371639222272,cc5597,The Problems,8155,Breece Hall,RB,NYJ,2,False
+2024,2,9,12,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,7564,Ja'Marr Chase,WR,CIN,3,False
+2024,2,8,13,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,9229,Anthony Richardson,QB,IND,1,False
+2024,2,7,14,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,3294,Dak Prescott,QB,DAL,8,False
+2024,2,6,15,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,5859,A.J. Brown,WR,PHI,5,False
+2024,2,5,16,5,3,3,0,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,6770,Joe Burrow,QB,CIN,4,False
+2024,2,4,17,4,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,9493,Puka Nacua,WR,LAR,1,False
+2024,2,3,18,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,8146,Garrett Wilson,WR,NYJ,2,False
+2024,2,2,19,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,9221,Jahmyr Gibbs,RB,DET,1,False
+2024,2,1,20,1,2,2,0,736077599457026048,Erjohnson14,Johnson’s Lil Johnson,6813,Jonathan Taylor,RB,IND,4,False
+2024,3,1,21,1,2,2,0,736077599457026048,Erjohnson14,Johnson’s Lil Johnson,4866,Saquon Barkley,RB,PHI,6,False
+2024,3,2,22,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,11560,Caleb Williams,QB,CHI,0,False
+2024,3,3,23,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,8150,Kyren Williams,RB,LAR,2,False
+2024,3,4,24,4,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,11628,Marvin Harrison,WR,ARI,0,False
+2024,3,5,25,5,3,3,0,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,6768,Tua Tagovailoa,QB,MIA,4,False
+2024,3,6,26,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,1466,Travis Kelce,TE,KC,11,False
+2024,3,7,27,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,6797,Justin Herbert,QB,LAC,4,False
+2024,3,8,28,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,7543,Travis Etienne,RB,JAX,3,False
+2024,3,9,29,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,2133,Davante Adams,WR,LV,10,False
+2024,3,10,30,10,10,10,0,475399371639222272,cc5597,The Problems,5872,Deebo Samuel,WR,SF,5,False
+2024,4,10,31,10,10,10,0,475399371639222272,cc5597,The Problems,9226,De'Von Achane,RB,MIA,1,False
+2024,4,9,32,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,8130,Trey McBride,TE,ARI,2,False
+2024,4,8,33,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,3163,Jared Goff,QB,DET,8,False
+2024,4,7,34,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,5850,Josh Jacobs,RB,GB,5,False
+2024,4,6,35,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,2449,Stefon Diggs,WR,HOU,9,False
+2024,4,5,36,5,3,3,0,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,5846,DK Metcalf,WR,SEA,5,False
+2024,4,4,37,4,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,3198,Derrick Henry,RB,BAL,8,False
+2024,4,3,38,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,6803,Brandon Aiyuk,WR,SF,4,False
+2024,4,2,39,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,4039,Cooper Kupp,WR,LAR,7,False
+2024,4,1,40,1,2,2,0,736077599457026048,Erjohnson14,Johnson’s Lil Johnson,7569,Nico Collins,WR,HOU,3,False
+2024,5,1,41,1,2,2,0,736077599457026048,Erjohnson14,Johnson’s Lil Johnson,7526,Jaylen Waddle,WR,MIA,3,False
+2024,5,2,42,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,8144,Chris Olave,WR,NO,2,False
+2024,5,3,43,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,5012,Mark Andrews,TE,BAL,6,False
+2024,5,4,44,4,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,11566,Jayden Daniels,QB,WAS,0,False
+2024,5,5,45,5,3,3,0,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,4018,Joe Mixon,RB,HOU,7,False
+2024,5,6,46,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,4983,DJ Moore,WR,CHI,6,False
+2024,5,7,47,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,7525,DeVonta Smith,WR,PHI,3,False
+2024,5,8,48,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,8151,Kenneth Walker,RB,SEA,2,False
+2024,5,9,49,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,11632,Malik Nabers,WR,NYG,0,False
+2024,5,10,50,10,10,10,0,475399371639222272,cc5597,The Problems,2309,Amari Cooper,WR,CLE,9,False
+2024,6,10,51,10,10,10,0,475399371639222272,cc5597,The Problems,9502,Tank Dell,WR,HOU,1,False
+2024,6,9,52,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,7523,Trevor Lawrence,QB,JAX,3,False
+2024,6,8,53,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,8112,Drake London,WR,ATL,2,True
+2024,6,7,54,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,4066,Evan Engram,TE,JAX,7,False
+2024,6,6,55,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,421,Matthew Stafford,QB,LAR,15,False
+2024,6,5,56,5,3,3,0,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,8137,George Pickens,WR,PIT,2,False
+2024,6,4,57,4,7,3,1,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,1479,Keenan Allen,WR,CHI,11,False
+2024,6,3,58,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,1166,Kirk Cousins,QB,ATL,12,False
+2024,6,2,59,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,4217,George Kittle,TE,SF,7,False
+2024,6,1,60,1,2,2,0,736077599457026048,Erjohnson14,Johnson’s Lil Johnson,4137,James Conner,RB,ARI,7,False
+2024,7,1,61,1,2,2,0,736077599457026048,Erjohnson14,Johnson’s Lil Johnson,10229,Rashee Rice,WR,KC,1,False
+2024,7,2,62,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,5927,Terry McLaurin,WR,WAS,5,False
+2024,7,3,63,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,6790,D'Andre Swift,RB,CHI,4,False
+2024,7,4,64,4,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,6819,Michael Pittman,WR,IND,4,True
+2024,7,5,65,5,3,3,0,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,4199,Aaron Jones,RB,MIN,7,False
+2024,7,6,66,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,96,Aaron Rodgers,QB,NYJ,19,False
+2024,7,7,67,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,7528,Najee Harris,RB,PIT,3,False
+2024,7,8,68,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,10222,Jayden Reed,WR,GB,1,False
+2024,7,9,69,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,4035,Alvin Kamara,RB,NO,7,True
+2024,7,10,70,10,10,10,0,475399371639222272,cc5597,The Problems,7611,Rhamondre Stevenson,RB,NE,3,False
+2024,8,10,71,10,10,10,0,475399371639222272,cc5597,The Problems,7553,Kyle Pitts,TE,ATL,3,False
+2024,8,9,72,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,11620,Rome Odunze,WR,CHI,0,False
+2024,8,8,73,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,6801,Tee Higgins,WR,CIN,4,False
+2024,8,7,74,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,2216,Mike Evans,WR,TB,10,True
+2024,8,6,75,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,8138,James Cook,RB,BUF,2,True
+2024,8,5,76,5,3,3,0,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,11624,Xavier Worthy,WR,KC,0,False
+2024,8,4,77,4,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,8110,Jake Ferguson,TE,DAL,2,False
+2024,8,3,78,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,4892,Baker Mayfield,QB,TB,6,False
+2024,8,2,79,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,8136,Rachaad White,RB,TB,2,True
+2024,8,1,80,1,2,10,1,475399371639222272,cc5597,The Problems,4981,Calvin Ridley,WR,TEN,6,False
+2024,9,1,81,1,2,2,0,736077599457026048,Erjohnson14,Johnson’s Lil Johnson,9756,Jordan Addison,WR,MIN,1,True
+2024,9,2,82,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,4950,Christian Kirk,WR,JAX,6,False
+2024,9,3,83,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,8205,Isiah Pacheco,RB,KC,2,True
+2024,9,4,84,4,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,5848,Hollywood Brown,WR,KC,5,False
+2024,9,5,85,5,3,3,0,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,4037,Chris Godwin,WR,TB,7,False
+2024,9,6,86,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,5892,David Montgomery,RB,DET,5,True
+2024,9,7,87,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,11635,Ladd McConkey,WR,LAC,0,False
+2024,9,8,88,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,8139,Zamir White,RB,LV,2,False
+2024,9,9,89,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,5849,Kyler Murray,QB,ARI,5,True
+2024,9,10,90,10,10,10,0,475399371639222272,cc5597,The Problems,2749,Raheem Mostert,RB,MIA,9,False
+2024,10,10,91,10,10,10,0,475399371639222272,cc5597,The Problems,8183,Brock Purdy,QB,SF,2,True
+2024,10,9,92,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,5967,Tony Pollard,RB,TEN,5,False
+2024,10,8,93,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,11637,Keon Coleman,WR,BUF,0,False
+2024,10,7,94,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,9488,Jaxon Smith-Njigba,WR,SEA,1,False
+2024,10,6,95,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,11604,Brock Bowers,TE,LV,0,False
+2024,10,5,96,5,3,3,0,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,1373,Geno Smith,QB,SEA,11,False
+2024,10,4,97,4,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,9997,Zay Flowers,WR,BAL,1,True
+2024,10,3,98,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,5937,Diontae Johnson,WR,CAR,5,False
+2024,10,2,99,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,8228,Jaylen Warren,RB,PIT,2,False
+2024,10,1,100,1,2,2,0,736077599457026048,Erjohnson14,Johnson’s Lil Johnson,6804,Jordan Love,QB,GB,4,True
+2024,11,1,101,1,2,2,0,736077599457026048,Erjohnson14,Johnson’s Lil Johnson,11631,Brian Thomas,WR,JAX,0,False
+2024,11,2,102,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,1426,DeAndre Hopkins,WR,TEN,11,False
+2024,11,3,103,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,8167,Christian Watson,WR,GB,2,False
+2024,11,4,104,4,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,11583,Jonathon Brooks,RB,CAR,0,False
+2024,11,5,105,5,3,3,0,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,4988,Nick Chubb,RB,CLE,6,False
+2024,11,6,106,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,4663,Austin Ekeler,RB,WAS,7,False
+2024,11,7,107,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,6845,Zack Moss,RB,CIN,4,False
+2024,11,8,108,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,6130,Devin Singletary,RB,NYG,5,False
+2024,11,9,109,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,8148,Jameson Williams,WR,DET,2,False
+2024,11,10,110,10,10,10,0,475399371639222272,cc5597,The Problems,9999,Will Levis,QB,TEN,1,False
+2024,12,10,111,10,10,10,0,475399371639222272,cc5597,The Problems,9758,C.J. Stroud,QB,HOU,1,True
+2024,12,9,112,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,7588,Javonte Williams,RB,DEN,3,False
+2024,12,8,113,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,4017,Deshaun Watson,QB,CLE,7,False
+2024,12,7,114,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,11563,Bo Nix,QB,DEN,0,False
+2024,12,6,115,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,5248,Gus Edwards,RB,LAC,6,False
+2024,12,5,116,5,3,3,0,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,10236,Dalton Kincaid,TE,BUF,1,True
+2024,12,4,117,4,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,5844,T.J. Hockenson,TE,MIN,5,False
+2024,12,3,118,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,9508,Tyjae Spears,RB,TEN,1,False
+2024,12,2,119,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,8154,Brian Robinson,RB,WAS,2,False
+2024,12,1,120,1,2,2,0,736077599457026048,Erjohnson14,Johnson’s Lil Johnson,4033,David Njoku,TE,CLE,7,False
+2024,13,1,121,1,2,2,0,736077599457026048,Erjohnson14,Johnson’s Lil Johnson,9224,Chase Brown,RB,CIN,1,False
+2024,13,2,122,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,1264,Justin Tucker,K,BAL,12,False
+2024,13,3,123,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,5045,Courtland Sutton,WR,DEN,6,False
+2024,13,4,124,4,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,11589,Trey Benson,RB,ARI,0,False
+2024,13,5,125,5,3,3,0,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,11586,Blake Corum,RB,LAR,0,False
+2024,13,6,126,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,9228,Bryce Young,QB,CAR,1,False
+2024,13,7,127,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,6783,Jerry Jeudy,WR,CLE,4,False
+2024,13,8,128,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,4082,Curtis Samuel,WR,BUF,7,False
+2024,13,9,129,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,11625,Adonai Mitchell,WR,IND,0,False
+2024,13,10,130,10,10,10,0,475399371639222272,cc5597,The Problems,3164,Ezekiel Elliott,RB,DAL,8,False
+2024,14,10,131,10,10,10,0,475399371639222272,cc5597,The Problems,SF,San Francisco 49ers,DEF,SF,,False
+2024,14,9,132,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,11565,J.J. McCarthy,QB,MIN,0,False
+2024,14,8,133,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,10859,Sam LaPorta,TE,DET,1,True
+2024,14,7,134,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,BUF,Buffalo Bills,DEF,BUF,,True
+2024,14,6,135,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,8121,Romeo Doubs,WR,GB,2,False
+2024,14,5,136,5,3,3,0,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,DAL,Dallas Cowboys,DEF,DAL,,False
+2024,14,4,137,4,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,8143,Jerome Ford,RB,CLE,2,False
+2024,14,3,138,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,2374,Tyler Lockett,WR,SEA,9,False
+2024,14,2,139,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,1689,Adam Thielen,WR,CAR,11,True
+2024,14,1,140,1,2,2,0,736077599457026048,Erjohnson14,Johnson’s Lil Johnson,11533,Brandon Aubrey,K,DAL,1,False
+2024,15,1,141,1,2,2,0,736077599457026048,Erjohnson14,Johnson’s Lil Johnson,7591,Justin Fields,QB,PIT,3,False
+2024,15,2,142,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,BAL,Baltimore Ravens,DEF,BAL,,False
+2024,15,3,143,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,NYJ,New York Jets,DEF,NYJ,,True
+2024,15,4,144,4,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,11564,Drake Maye,QB,NE,0,False
+2024,15,5,145,5,3,3,0,737091087440674816,MaxSirianni,Joeybagofdonuts2.0,7839,Evan McPherson,K,CIN,3,False
+2024,15,6,146,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,4227,Harrison Butker,K,KC,7,False
+2024,15,7,147,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,9486,Dontayvion Wicks,WR,GB,1,False
+2024,15,8,148,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,4666,Younghoe Koo,K,ATL,7,False
+2024,15,9,149,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,10937,Jake Moody,K,SF,1,False
+2024,15,10,150,10,10,10,0,475399371639222272,cc5597,The Problems,5119,Jason Sanders,K,MIA,6,False
+2024,16,10,151,10,10,10,0,475399371639222272,cc5597,The Problems,5022,Dallas Goedert,TE,PHI,6,False
+2024,16,9,152,9,1,1,0,608781531883859968,bgreenblatt,Love Thy Nabers,7670,Joshua Palmer,WR,LAC,3,False
+2024,16,8,153,8,5,5,0,716698629934481408,kaufmannc,Clownin’ Around,PIT,Pittsburgh Steelers,DEF,PIT,,False
+2024,16,7,154,7,8,8,0,736803054736822272,TylerWicks,Dont stop Bo-lievin’,4195,Jake Elliott,K,PHI,7,False
+2024,16,6,155,6,6,6,0,736740647758938112,JSanDusky69,Respect Your Elders,CLE,Cleveland Browns,DEF,CLE,,False
+2024,16,5,156,5,3,7,1,735974647736213504,KingTowsk,Leeroy Jenkins,11626,Xavier Legette,WR,CAR,0,False
+2024,16,4,157,4,7,7,0,735974647736213504,KingTowsk,Leeroy Jenkins,CIN,Cincinnati Bengals,DEF,CIN,,False
+2024,16,3,158,3,9,9,0,710284244835979264,brockhusk,Brauk Tua Spit On That,7594,Chuba Hubbard,RB,CAR,3,False
+2024,16,2,159,2,4,4,0,736744257179770880,jdrobny,Stick in the Mud,6826,Cole Kmet,TE,CHI,4,False
+2024,16,1,160,1,2,2,0,736077599457026048,Erjohnson14,Johnson’s Lil Johnson,6806,J.K. Dobbins,RB,LAC,4,False

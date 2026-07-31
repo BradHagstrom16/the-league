@@ -1,0 +1,12 @@
+season,bracket,round,matchup_id,roster_id_1,roster_id_2,winner,loser,position
+2021,winners,1,1,5,6,6,5,
+2021,winners,1,2,4,2,4,2,
+2021,winners,2,3,10,6,6,10,
+2021,winners,2,4,1,4,4,1,
+2021,winners,2,5,5,2,2,5,5
+2021,winners,3,6,6,4,4,6,1
+2021,winners,3,7,10,1,1,10,3
+2021,losers,1,1,9,8,9,8,
+2021,losers,1,2,7,3,7,3,
+2021,losers,2,3,9,7,9,7,1
+2021,losers,2,4,8,3,8,3,3

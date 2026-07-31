@@ -1,0 +1,194 @@
+season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
+2025,1,bgreenblatt,Young and Beautiful ,11533,Brandon Aubrey,K,DAL,starter
+2025,1,bgreenblatt,Young and Beautiful ,11588,Jawhar Jordan,RB,HOU,bench
+2025,1,bgreenblatt,Young and Beautiful ,11647,Kimani Vidal,RB,LAC,bench
+2025,1,bgreenblatt,Young and Beautiful ,12508,Jaxson Dart,QB,NYG,starter
+2025,1,bgreenblatt,Young and Beautiful ,12514,Emeka Egbuka,WR,TB,starter
+2025,1,bgreenblatt,Young and Beautiful ,12526,Tetairoa McMillan,WR,CAR,starter
+2025,1,bgreenblatt,Young and Beautiful ,3257,Jacoby Brissett,QB,ARI,starter
+2025,1,bgreenblatt,Young and Beautiful ,6803,Brandon Aiyuk,WR,SF,bench
+2025,1,bgreenblatt,Young and Beautiful ,7021,Rico Dowdle,RB,PIT,starter
+2025,1,bgreenblatt,Young and Beautiful ,7594,Chuba Hubbard,RB,CAR,bench
+2025,1,bgreenblatt,Young and Beautiful ,8112,Drake London,WR,ATL,starter
+2025,1,bgreenblatt,Young and Beautiful ,8130,Trey McBride,TE,ARI,starter
+2025,1,bgreenblatt,Young and Beautiful ,8131,Isaiah Likely,TE,NYG,bench
+2025,1,bgreenblatt,Young and Beautiful ,8151,Kenneth Walker,RB,KC,starter
+2025,1,bgreenblatt,Young and Beautiful ,9228,Bryce Young,QB,CAR,bench
+2025,1,bgreenblatt,Young and Beautiful ,TEN,Tennessee Titans,DEF,TEN,starter
+2025,2,Erjohnson14,The TrashMen,12474,Woody Marks,RB,HOU,bench
+2025,2,Erjohnson14,The TrashMen,12507,Omarion Hampton,RB,LAC,bench
+2025,2,Erjohnson14,The TrashMen,1466,Travis Kelce,TE,KC,bench
+2025,2,Erjohnson14,The TrashMen,2307,Marcus Mariota,QB,WAS,ir
+2025,2,Erjohnson14,The TrashMen,2449,Stefon Diggs,WR,,starter
+2025,2,Erjohnson14,The TrashMen,3451,Ka'imi Fairbairn,K,HOU,starter
+2025,2,Erjohnson14,The TrashMen,5859,A.J. Brown,WR,NE,starter
+2025,2,Erjohnson14,The TrashMen,7049,Jauan Jennings,WR,MIN,bench
+2025,2,Erjohnson14,The TrashMen,7523,Trevor Lawrence,QB,JAX,starter
+2025,2,Erjohnson14,The TrashMen,7564,Ja'Marr Chase,WR,CIN,starter
+2025,2,Erjohnson14,The TrashMen,7588,Javonte Williams,RB,DAL,starter
+2025,2,Erjohnson14,The TrashMen,8161,Malik Willis,QB,MIA,starter
+2025,2,Erjohnson14,The TrashMen,9226,De'Von Achane,RB,MIA,starter
+2025,2,Erjohnson14,The TrashMen,9480,Brenton Strange,TE,JAX,starter
+2025,2,Erjohnson14,The TrashMen,PIT,Pittsburgh Steelers,DEF,PIT,starter
+2025,2,Erjohnson14,The TrashMen,SEA,Seattle Seahawks,DEF,SEA,bench
+2025,3,MaxSirianni,We Built This Griddy,11624,Xavier Worthy,WR,KC,bench
+2025,3,MaxSirianni,We Built This Griddy,11637,Keon Coleman,WR,BUF,bench
+2025,3,MaxSirianni,We Built This Griddy,11783,Ryan Flournoy,WR,DAL,bench
+2025,3,MaxSirianni,We Built This Griddy,12518,Tyler Warren,TE,IND,starter
+2025,3,MaxSirianni,We Built This Griddy,4195,Jake Elliott,K,PHI,starter
+2025,3,MaxSirianni,We Built This Griddy,4943,Sam Darnold,QB,SEA,starter
+2025,3,MaxSirianni,We Built This Griddy,5970,Greg Dortch,WR,DET,ir
+2025,3,MaxSirianni,We Built This Griddy,6794,Justin Jefferson,WR,MIN,starter
+2025,3,MaxSirianni,We Built This Griddy,6804,Jordan Love,QB,GB,starter
+2025,3,MaxSirianni,We Built This Griddy,7547,Amon-Ra St. Brown,WR,DET,starter
+2025,3,MaxSirianni,We Built This Griddy,7567,Kenny Gainwell,RB,TB,bench
+2025,3,MaxSirianni,We Built This Griddy,8126,Wan'Dale Robinson,WR,TEN,bench
+2025,3,MaxSirianni,We Built This Griddy,8138,James Cook,RB,BUF,starter
+2025,3,MaxSirianni,We Built This Griddy,8150,Kyren Williams,RB,LAR,starter
+2025,3,MaxSirianni,We Built This Griddy,9997,Zay Flowers,WR,BAL,starter
+2025,3,MaxSirianni,We Built This Griddy,CLE,Cleveland Browns,DEF,CLE,starter
+2025,4,jdrobny,Stick em up,10229,Rashee Rice,WR,KC,bench
+2025,4,jdrobny,Stick em up,11646,Jalen Coker,WR,CAR,starter
+2025,4,jdrobny,Stick em up,12481,Cam Skattebo,RB,NYG,ir
+2025,4,jdrobny,Stick em up,12493,Oronde Gadsden,TE,LAC,starter
+2025,4,jdrobny,Stick em up,12509,Tre' Harris,WR,LAC,bench
+2025,4,jdrobny,Stick em up,421,Matthew Stafford,QB,LAR,starter
+2025,4,jdrobny,Stick em up,4217,George Kittle,TE,SF,starter
+2025,4,jdrobny,Stick em up,4866,Saquon Barkley,RB,PHI,starter
+2025,4,jdrobny,Stick em up,5848,Marquise Brown,WR,PHI,bench
+2025,4,jdrobny,Stick em up,6797,Justin Herbert,QB,LAC,starter
+2025,4,jdrobny,Stick em up,7611,Rhamondre Stevenson,RB,NE,bench
+2025,4,jdrobny,Stick em up,7839,Evan McPherson,K,CIN,starter
+2025,4,jdrobny,Stick em up,9220,Evan Hull,RB,HOU,starter
+2025,4,jdrobny,Stick em up,9500,Josh Downs,WR,IND,bench
+2025,4,jdrobny,Stick em up,9508,Tyjae Spears,RB,TEN,bench
+2025,4,jdrobny,Stick em up,9754,Quentin Johnston,WR,LAC,starter
+2025,4,jdrobny,Stick em up,BUF,Buffalo Bills,DEF,BUF,starter
+2025,5,charliekaufmann,Clownin’ Around,12517,Colston Loveland,TE,CHI,starter
+2025,5,charliekaufmann,Clownin’ Around,12519,Luther Burden,WR,CHI,starter
+2025,5,charliekaufmann,Clownin’ Around,12522,Cam Ward,QB,TEN,starter
+2025,5,charliekaufmann,Clownin’ Around,12529,TreVeyon Henderson,RB,NE,starter
+2025,5,charliekaufmann,Clownin’ Around,12713,Andy Borregales,K,NE,starter
+2025,5,charliekaufmann,Clownin’ Around,4037,Chris Godwin,WR,TB,bench
+2025,5,charliekaufmann,Clownin’ Around,4983,DJ Moore,WR,BUF,bench
+2025,5,charliekaufmann,Clownin’ Around,5967,Tony Pollard,RB,TEN,bench
+2025,5,charliekaufmann,Clownin’ Around,6801,Tee Higgins,WR,CIN,starter
+2025,5,charliekaufmann,Clownin’ Around,7526,Jaylen Waddle,WR,DEN,starter
+2025,5,charliekaufmann,Clownin’ Around,7607,Michael Carter,RB,TEN,starter
+2025,5,charliekaufmann,Clownin’ Around,8110,Jake Ferguson,TE,DAL,bench
+2025,5,charliekaufmann,Clownin’ Around,8183,Brock Purdy,QB,SF,starter
+2025,5,charliekaufmann,Clownin’ Around,96,Aaron Rodgers,QB,PIT,bench
+2025,5,charliekaufmann,Clownin’ Around,9756,Jordan Addison,WR,MIN,bench
+2025,5,charliekaufmann,Clownin’ Around,LAR,Los Angeles Rams,DEF,LAR,bench
+2025,6,JSanDusky69,Manicures & Misery,11560,Caleb Williams,QB,CHI,starter
+2025,6,JSanDusky69,Manicures & Misery,11584,Bucky Irving,RB,TB,starter
+2025,6,JSanDusky69,Manicures & Misery,1166,Kirk Cousins,QB,LV,bench
+2025,6,JSanDusky69,Manicures & Misery,11786,Cam Little,K,JAX,starter
+2025,6,JSanDusky69,Manicures & Misery,12489,RJ Harvey,RB,DEN,starter
+2025,6,JSanDusky69,Manicures & Misery,12524,Shedeur Sanders,QB,CLE,starter
+2025,6,JSanDusky69,Manicures & Misery,2133,Davante Adams,WR,LAR,bench
+2025,6,JSanDusky69,Manicures & Misery,5872,Deebo Samuel,WR,SF,starter
+2025,6,JSanDusky69,Manicures & Misery,5892,David Montgomery,RB,HOU,bench
+2025,6,JSanDusky69,Manicures & Misery,6790,D'Andre Swift,RB,CHI,starter
+2025,6,JSanDusky69,Manicures & Misery,7553,Kyle Pitts,TE,ATL,starter
+2025,6,JSanDusky69,Manicures & Misery,7569,Nico Collins,WR,HOU,starter
+2025,6,JSanDusky69,Manicures & Misery,8134,Khalil Shakir,WR,BUF,bench
+2025,6,JSanDusky69,Manicures & Misery,9504,Kayshon Boutte,WR,NE,bench
+2025,6,JSanDusky69,Manicures & Misery,NE,New England Patriots,DEF,NE,starter
+2025,6,JSanDusky69,Manicures & Misery,SF,San Francisco 49ers,DEF,SF,bench
+2025,7,KingTowsk,Aaron Yeo’s future team,10222,Jayden Reed,WR,GB,bench
+2025,7,KingTowsk,Aaron Yeo’s future team,10236,Dalton Kincaid,TE,BUF,bench
+2025,7,KingTowsk,Aaron Yeo’s future team,11579,Audric Estime,RB,NO,bench
+2025,7,KingTowsk,Aaron Yeo’s future team,11631,Brian Thomas,WR,JAX,starter
+2025,7,KingTowsk,Aaron Yeo’s future team,12469,Dylan Sampson,RB,CLE,starter
+2025,7,KingTowsk,Aaron Yeo’s future team,12472,Raheim Sanders,RB,CLE,bench
+2025,7,KingTowsk,Aaron Yeo’s future team,12512,Quinshon Judkins,RB,CLE,bench
+2025,7,KingTowsk,Aaron Yeo’s future team,12534,Kyle Monangai,RB,CHI,starter
+2025,7,KingTowsk,Aaron Yeo’s future team,1373,Geno Smith,QB,NYJ,starter
+2025,7,KingTowsk,Aaron Yeo’s future team,2747,Jason Myers,K,SEA,starter
+2025,7,KingTowsk,Aaron Yeo’s future team,331,Philip Rivers,QB,,bench
+2025,7,KingTowsk,Aaron Yeo’s future team,5870,Daniel Jones,QB,IND,ir
+2025,7,KingTowsk,Aaron Yeo’s future team,6770,Joe Burrow,QB,CIN,starter
+2025,7,KingTowsk,Aaron Yeo’s future team,6786,CeeDee Lamb,WR,DAL,starter
+2025,7,KingTowsk,Aaron Yeo’s future team,8148,Jameson Williams,WR,DET,starter
+2025,7,KingTowsk,Aaron Yeo’s future team,9482,Michael Mayer,TE,LV,starter
+2025,7,KingTowsk,Aaron Yeo’s future team,DAL,Dallas Cowboys,DEF,DAL,starter
+2025,8,TylerWicks,Stopped Bo-lievin’,10219,Chris Rodriguez,RB,JAX,bench
+2025,8,TylerWicks,Stopped Bo-lievin’,10232,Michael Wilson,WR,ARI,starter
+2025,8,TylerWicks,Stopped Bo-lievin’,11435,Emanuel Wilson,RB,SEA,bench
+2025,8,TylerWicks,Stopped Bo-lievin’,11563,Bo Nix,QB,DEN,starter
+2025,8,TylerWicks,Stopped Bo-lievin’,1945,Chris Boswell,K,PIT,starter
+2025,8,TylerWicks,Stopped Bo-lievin’,3198,Derrick Henry,RB,BAL,starter
+2025,8,TylerWicks,Stopped Bo-lievin’,4034,Christian McCaffrey,RB,SF,starter
+2025,8,TylerWicks,Stopped Bo-lievin’,4039,Cooper Kupp,WR,SEA,bench
+2025,8,TylerWicks,Stopped Bo-lievin’,5012,Mark Andrews,TE,BAL,starter
+2025,8,TylerWicks,Stopped Bo-lievin’,7525,DeVonta Smith,WR,PHI,starter
+2025,8,TylerWicks,Stopped Bo-lievin’,7585,Davis Mills,QB,HOU,bench
+2025,8,TylerWicks,Stopped Bo-lievin’,8142,Alec Pierce,WR,IND,bench
+2025,8,TylerWicks,Stopped Bo-lievin’,8167,Christian Watson,WR,GB,starter
+2025,8,TylerWicks,Stopped Bo-lievin’,8408,Jordan Mason,RB,MIN,bench
+2025,8,TylerWicks,Stopped Bo-lievin’,9484,Tucker Kraft,TE,GB,ir
+2025,8,TylerWicks,Stopped Bo-lievin’,9758,C.J. Stroud,QB,HOU,starter
+2025,8,TylerWicks,Stopped Bo-lievin’,HOU,Houston Texans,DEF,HOU,starter
+2025,9,brockhusk,Just End The Season,10859,Sam LaPorta,TE,DET,ir
+2025,9,brockhusk,Just End The Season,11620,Rome Odunze,WR,CHI,bench
+2025,9,brockhusk,Just End The Season,11635,Ladd McConkey,WR,LAC,starter
+2025,9,brockhusk,Just End The Season,12527,Ashton Jeanty,RB,LV,starter
+2025,9,brockhusk,Just End The Season,12538,Brady Cook,QB,NYJ,bench
+2025,9,brockhusk,Just End The Season,4144,Jonnu Smith,TE,,bench
+2025,9,brockhusk,Just End The Season,4199,Aaron Jones,RB,MIN,starter
+2025,9,brockhusk,Just End The Season,4881,Lamar Jackson,QB,BAL,bench
+2025,9,brockhusk,Just End The Season,4892,Baker Mayfield,QB,TB,starter
+2025,9,brockhusk,Just End The Season,5045,Courtland Sutton,WR,DEN,starter
+2025,9,brockhusk,Just End The Season,6130,Devin Singletary,RB,NYG,bench
+2025,9,brockhusk,Just End The Season,6650,Chase McLaughlin,K,TB,starter
+2025,9,brockhusk,Just End The Season,6813,Jonathan Taylor,RB,IND,starter
+2025,9,brockhusk,Just End The Season,7002,Juwan Johnson,TE,NO,starter
+2025,9,brockhusk,Just End The Season,8676,Rashid Shaheed,WR,SEA,bench
+2025,9,brockhusk,Just End The Season,9487,Parker Washington,WR,JAX,starter
+2025,9,brockhusk,Just End The Season,TB,Tampa Bay Buccaneers,DEF,TB,starter
+2025,10,cc5597,Baby Dak Gibbs,11539,Jake Bates,K,DET,starter
+2025,10,cc5597,Baby Dak Gibbs,11627,Troy Franklin,WR,DEN,bench
+2025,10,cc5597,Baby Dak Gibbs,11655,Tyrone Tracy,RB,NYG,bench
+2025,10,cc5597,Baby Dak Gibbs,12545,Tyler Shough,QB,NO,bench
+2025,10,cc5597,Baby Dak Gibbs,1479,Keenan Allen,WR,,bench
+2025,10,cc5597,Baby Dak Gibbs,2216,Mike Evans,WR,SF,starter
+2025,10,cc5597,Baby Dak Gibbs,3214,Hunter Henry,TE,NE,starter
+2025,10,cc5597,Baby Dak Gibbs,3294,Dak Prescott,QB,DAL,starter
+2025,10,cc5597,Baby Dak Gibbs,4984,Josh Allen,QB,BUF,starter
+2025,10,cc5597,Baby Dak Gibbs,5927,Terry McLaurin,WR,WAS,starter
+2025,10,cc5597,Baby Dak Gibbs,9221,Jahmyr Gibbs,RB,DET,starter
+2025,10,cc5597,Baby Dak Gibbs,9488,Jaxon Smith-Njigba,WR,SEA,starter
+2025,10,cc5597,Baby Dak Gibbs,9509,Bijan Robinson,RB,ATL,starter
+2025,10,cc5597,Baby Dak Gibbs,9753,Zach Charbonnet,RB,SEA,bench
+2025,10,cc5597,Baby Dak Gibbs,DEN,Denver Broncos,DEF,DEN,starter
+2025,10,cc5597,Baby Dak Gibbs,DET,Detroit Lions,DEF,DET,bench
+2025,11,Jacktaco98,So white it hurts,11564,Drake Maye,QB,NE,starter
+2025,11,Jacktaco98,So white it hurts,11586,Blake Corum,RB,LAR,starter
+2025,11,Jacktaco98,So white it hurts,11625,Adonai Mitchell,WR,NYJ,bench
+2025,11,Jacktaco98,So white it hurts,11628,Marvin Harrison,WR,ARI,starter
+2025,11,Jacktaco98,So white it hurts,11638,Ricky Pearsall,WR,SF,bench
+2025,11,Jacktaco98,So white it hurts,4227,Harrison Butker,K,KC,starter
+2025,11,Jacktaco98,So white it hurts,5001,Dalton Schultz,TE,HOU,starter
+2025,11,Jacktaco98,So white it hurts,5850,Josh Jacobs,RB,GB,starter
+2025,11,Jacktaco98,So white it hurts,6783,Jerry Jeudy,WR,CLE,bench
+2025,11,Jacktaco98,So white it hurts,6819,Michael Pittman,WR,PIT,bench
+2025,11,Jacktaco98,So white it hurts,6865,Colby Parkinson,TE,LAR,bench
+2025,11,Jacktaco98,So white it hurts,6904,Jalen Hurts,QB,PHI,starter
+2025,11,Jacktaco98,So white it hurts,7543,Travis Etienne,RB,NO,starter
+2025,11,Jacktaco98,So white it hurts,8137,George Pickens,WR,DAL,starter
+2025,11,Jacktaco98,So white it hurts,NO,New Orleans Saints,DEF,NO,starter
+2025,12,akepple9,Something About Flacco ,12506,Harold Fannin,TE,CLE,starter
+2025,12,akepple9,Something About Flacco ,3163,Jared Goff,QB,DET,starter
+2025,12,akepple9,Something About Flacco ,4046,Patrick Mahomes,QB,KC,ir
+2025,12,akepple9,Something About Flacco ,5022,Dallas Goedert,TE,PHI,bench
+2025,12,akepple9,Something About Flacco ,5846,DK Metcalf,WR,PIT,starter
+2025,12,akepple9,Something About Flacco ,5947,Jakobi Meyers,WR,JAX,bench
+2025,12,akepple9,Something About Flacco ,6011,Gardner Minshew,QB,ARI,starter
+2025,12,akepple9,Something About Flacco ,8144,Chris Olave,WR,NO,starter
+2025,12,akepple9,Something About Flacco ,8155,Breece Hall,RB,NYJ,bench
+2025,12,akepple9,Something About Flacco ,8228,Jaylen Warren,RB,PIT,starter
+2025,12,akepple9,Something About Flacco ,8259,Cameron Dicker,K,LAC,starter
+2025,12,akepple9,Something About Flacco ,9224,Chase Brown,RB,CIN,starter
+2025,12,akepple9,Something About Flacco ,9493,Puka Nacua,WR,LAR,starter
+2025,12,akepple9,Something About Flacco ,PHI,Philadelphia Eagles,DEF,PHI,starter

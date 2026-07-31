@@ -1,0 +1,193 @@
+season,round,pick_in_round,overall_pick,draft_slot,slot_owner_roster_id,roster_id,traded_pick,user_id,manager,team_name,player_id,player_name,position,nfl_team,years_exp,is_keeper
+2025,1,1,1,1,1,10,1,475399371639222272,cc5597,Baby Dak Gibbs,4984,Josh Allen,QB,BUF,7,False
+2025,1,2,2,2,9,9,0,710284244835979264,brockhusk,Just End The Season,4881,Lamar Jackson,QB,BAL,7,False
+2025,1,3,3,3,11,11,0,865793938542456832,Jacktaco98,So white it hurts,6904,Jalen Hurts,QB,PHI,5,False
+2025,1,4,4,4,2,2,0,736077599457026048,Erjohnson14,The TrashMen,11566,Jayden Daniels,QB,WAS,1,False
+2025,1,5,5,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,6770,Joe Burrow,QB,CIN,5,False
+2025,1,6,6,6,12,12,0,1136842855890366464,akepple9,Something About Flacco ,4046,Patrick Mahomes,QB,KC,8,False
+2025,1,7,7,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,7564,Ja'Marr Chase,WR,CIN,4,False
+2025,1,8,8,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,9509,Bijan Robinson,RB,ATL,2,False
+2025,1,9,9,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,6794,Justin Jefferson,WR,MIN,5,False
+2025,1,10,10,10,4,4,0,736744257179770880,jdrobny,Stick em up,4866,Saquon Barkley,RB,PHI,7,False
+2025,1,11,11,11,10,10,0,475399371639222272,cc5597,Baby Dak Gibbs,9221,Jahmyr Gibbs,RB,DET,2,False
+2025,1,12,12,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,4034,Christian McCaffrey,RB,SF,8,False
+2025,2,12,13,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,3198,Derrick Henry,RB,BAL,9,False
+2025,2,11,14,11,10,10,0,475399371639222272,cc5597,Baby Dak Gibbs,6786,CeeDee Lamb,WR,DAL,5,False
+2025,2,10,15,10,4,4,0,736744257179770880,jdrobny,Stick em up,6797,Justin Herbert,QB,LAC,5,False
+2025,2,9,16,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,7547,Amon-Ra St. Brown,WR,DET,4,False
+2025,2,8,17,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,12527,Ashton Jeanty,RB,LV,0,False
+2025,2,7,18,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,11632,Malik Nabers,WR,NYG,1,False
+2025,2,6,19,6,12,12,0,1136842855890366464,akepple9,Something About Flacco ,9493,Puka Nacua,WR,LAR,2,False
+2025,2,5,20,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,7569,Nico Collins,WR,HOU,4,False
+2025,2,4,21,4,2,2,0,736077599457026048,Erjohnson14,The TrashMen,9226,De'Von Achane,RB,MIA,2,False
+2025,2,3,22,3,11,11,0,865793938542456832,Jacktaco98,So white it hurts,5850,Josh Jacobs,RB,GB,6,False
+2025,2,2,23,2,9,9,0,710284244835979264,brockhusk,Just End The Season,6813,Jonathan Taylor,RB,IND,5,False
+2025,2,1,24,1,1,1,0,608781531883859968,bgreenblatt,Young and Beautiful ,8112,Drake London,WR,ATL,3,False
+2025,3,1,25,1,1,1,0,608781531883859968,bgreenblatt,Young and Beautiful ,8130,Trey McBride,TE,ARI,3,False
+2025,3,2,26,2,9,9,0,710284244835979264,brockhusk,Just End The Season,11635,Ladd McConkey,WR,LAC,1,False
+2025,3,3,27,3,11,11,0,865793938542456832,Jacktaco98,So white it hurts,11628,Marvin Harrison,WR,ARI,1,False
+2025,3,4,28,4,2,2,0,736077599457026048,Erjohnson14,The TrashMen,5859,A.J. Brown,WR,PHI,6,False
+2025,3,5,29,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,11584,Bucky Irving,RB,TB,1,False
+2025,3,6,30,6,12,12,0,1136842855890366464,akepple9,Something About Flacco ,8155,Breece Hall,RB,NYJ,3,False
+2025,3,7,31,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,5849,Kyler Murray,QB,ARI,6,False
+2025,3,8,32,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,8183,Brock Purdy,QB,SF,3,False
+2025,3,9,33,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,8150,Kyren Williams,RB,LAR,3,False
+2025,3,10,34,10,4,4,0,736744257179770880,jdrobny,Stick em up,8146,Garrett Wilson,WR,NYJ,3,False
+2025,3,11,35,11,10,1,1,608781531883859968,bgreenblatt,Young and Beautiful ,4035,Alvin Kamara,RB,NO,8,False
+2025,3,12,36,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,3321,Tyreek Hill,WR,MIA,9,False
+2025,4,12,37,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,9758,C.J. Stroud,QB,HOU,2,False
+2025,4,11,38,11,10,10,0,475399371639222272,cc5597,Baby Dak Gibbs,3294,Dak Prescott,QB,DAL,9,False
+2025,4,10,39,10,4,4,0,736744257179770880,jdrobny,Stick em up,2216,Mike Evans,WR,TB,11,False
+2025,4,9,40,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,8138,James Cook,RB,BUF,3,False
+2025,4,8,41,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,5927,Terry McLaurin,WR,WAS,6,False
+2025,4,7,42,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,11560,Caleb Williams,QB,CHI,1,False
+2025,4,6,43,6,12,12,0,1136842855890366464,akepple9,Something About Flacco ,3163,Jared Goff,QB,DET,9,False
+2025,4,5,44,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,12507,Omarion Hampton,RB,LAC,0,False
+2025,4,4,45,4,2,2,0,736077599457026048,Erjohnson14,The TrashMen,7591,Justin Fields,QB,NYJ,4,False
+2025,4,3,46,3,11,11,0,865793938542456832,Jacktaco98,So white it hurts,11564,Drake Maye,QB,NE,1,False
+2025,4,2,47,2,9,9,0,710284244835979264,brockhusk,Just End The Season,12529,TreVeyon Henderson,RB,NE,0,False
+2025,4,1,48,1,1,1,0,608781531883859968,bgreenblatt,Young and Beautiful ,8151,Kenneth Walker,RB,SEA,3,False
+2025,5,1,49,1,1,1,0,608781531883859968,bgreenblatt,Young and Beautiful ,12526,Tetairoa McMillan,WR,CAR,0,False
+2025,5,2,50,2,9,9,0,710284244835979264,brockhusk,Just End The Season,10859,Sam LaPorta,TE,DET,2,False
+2025,5,3,51,3,11,11,0,865793938542456832,Jacktaco98,So white it hurts,8137,George Pickens,WR,DAL,3,False
+2025,5,4,52,4,2,2,0,736077599457026048,Erjohnson14,The TrashMen,4137,James Conner,RB,ARI,8,False
+2025,5,5,53,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,2133,Davante Adams,WR,LAR,11,False
+2025,5,6,54,6,12,12,0,1136842855890366464,akepple9,Something About Flacco ,5846,DK Metcalf,WR,PIT,6,False
+2025,5,7,55,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,12489,RJ Harvey,RB,DEN,0,False
+2025,5,8,56,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,4983,DJ Moore,WR,CHI,7,False
+2025,5,9,57,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,6804,Jordan Love,QB,GB,5,False
+2025,5,10,58,10,4,4,0,736744257179770880,jdrobny,Stick em up,10229,Rashee Rice,WR,KC,2,False
+2025,5,11,59,11,10,10,0,475399371639222272,cc5597,Baby Dak Gibbs,7526,Jaylen Waddle,WR,MIA,4,False
+2025,5,12,60,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,7525,DeVonta Smith,WR,PHI,4,False
+2025,6,12,61,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,12530,Travis Hunter,WR,JAX,0,False
+2025,6,11,62,11,10,10,0,475399371639222272,cc5597,Baby Dak Gibbs,7594,Chuba Hubbard,RB,CAR,4,False
+2025,6,10,63,10,4,4,0,736744257179770880,jdrobny,Stick em up,4217,George Kittle,TE,SF,8,True
+2025,6,9,64,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,9997,Zay Flowers,WR,BAL,2,False
+2025,6,8,65,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,8205,Isiah Pacheco,RB,KC,3,False
+2025,6,7,66,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,12504,Kaleb Johnson,RB,PIT,0,False
+2025,6,6,67,6,12,12,0,1136842855890366464,akepple9,Something About Flacco ,8144,Chris Olave,WR,NO,3,False
+2025,6,5,68,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,5892,David Montgomery,RB,DET,6,False
+2025,6,4,69,4,2,2,0,736077599457026048,Erjohnson14,The TrashMen,6790,D'Andre Swift,RB,CHI,5,False
+2025,6,3,70,3,11,11,0,865793938542456832,Jacktaco98,So white it hurts,7543,Travis Etienne,RB,JAX,4,False
+2025,6,2,71,2,9,9,0,710284244835979264,brockhusk,Just End The Season,11620,Rome Odunze,WR,CHI,1,False
+2025,6,1,72,1,1,1,0,608781531883859968,bgreenblatt,Young and Beautiful ,11655,Tyrone Tracy,RB,NYG,1,False
+2025,7,1,73,1,1,1,0,608781531883859968,bgreenblatt,Young and Beautiful ,4981,Calvin Ridley,WR,TEN,7,False
+2025,7,2,74,2,9,9,0,710284244835979264,brockhusk,Just End The Season,4199,Aaron Jones,RB,MIN,8,False
+2025,7,3,75,3,11,11,0,865793938542456832,Jacktaco98,So white it hurts,11638,Ricky Pearsall,WR,SF,1,False
+2025,7,4,76,4,2,2,0,736077599457026048,Erjohnson14,The TrashMen,1466,Travis Kelce,TE,KC,12,False
+2025,7,5,77,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,5872,Deebo Samuel,WR,WAS,6,False
+2025,7,6,78,6,12,12,0,1136842855890366464,akepple9,Something About Flacco ,12517,Colston Loveland,TE,CHI,0,False
+2025,7,7,79,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,12501,Matthew Golden,WR,GB,0,False
+2025,7,8,80,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,12522,Cam Ward,QB,TEN,0,False
+2025,7,9,81,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,12518,Tyler Warren,TE,IND,0,False
+2025,7,10,82,10,4,4,0,736744257179770880,jdrobny,Stick em up,11559,Michael Penix,QB,ATL,1,False
+2025,7,11,83,11,10,1,1,608781531883859968,bgreenblatt,Young and Beautiful ,12514,Emeka Egbuka,WR,TB,0,False
+2025,7,12,84,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,5012,Mark Andrews,TE,BAL,7,False
+2025,8,12,85,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,4039,Cooper Kupp,WR,SEA,8,False
+2025,8,11,86,11,10,10,0,475399371639222272,cc5597,Baby Dak Gibbs,6783,Jerry Jeudy,WR,CLE,5,False
+2025,8,10,87,10,4,4,0,736744257179770880,jdrobny,Stick em up,4018,Joe Mixon,RB,HOU,8,False
+2025,8,9,88,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,11624,Xavier Worthy,WR,KC,1,True
+2025,8,8,89,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,6801,Tee Higgins,WR,CIN,5,True
+2025,8,7,90,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,12512,Quinshon Judkins,RB,CLE,0,False
+2025,8,6,91,6,12,12,0,1136842855890366464,akepple9,Something About Flacco ,5947,Jakobi Meyers,WR,LV,6,False
+2025,8,5,92,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,7523,Trevor Lawrence,QB,JAX,4,False
+2025,8,4,93,4,2,2,0,736077599457026048,Erjohnson14,The TrashMen,2449,Stefon Diggs,WR,NE,10,False
+2025,8,3,94,3,11,11,0,865793938542456832,Jacktaco98,So white it hurts,4066,Evan Engram,TE,DEN,8,False
+2025,8,2,95,2,9,9,0,710284244835979264,brockhusk,Just End The Season,4892,Baker Mayfield,QB,TB,7,False
+2025,8,1,96,1,1,1,0,608781531883859968,bgreenblatt,Young and Beautiful ,9228,Bryce Young,QB,CAR,2,False
+2025,9,1,97,1,1,1,0,608781531883859968,bgreenblatt,Young and Beautiful ,6803,Brandon Aiyuk,WR,SF,5,False
+2025,9,2,98,2,9,9,0,710284244835979264,brockhusk,Just End The Season,9756,Jordan Addison,WR,MIN,2,False
+2025,9,3,99,3,11,11,0,865793938542456832,Jacktaco98,So white it hurts,6819,Michael Pittman,WR,IND,5,False
+2025,9,4,100,4,2,2,0,736077599457026048,Erjohnson14,The TrashMen,6768,Tua Tagovailoa,QB,MIA,5,False
+2025,9,5,101,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,8134,Khalil Shakir,WR,BUF,3,False
+2025,9,6,102,6,12,12,0,1136842855890366464,akepple9,Something About Flacco ,8228,Jaylen Warren,RB,PIT,3,False
+2025,9,7,103,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,7588,Javonte Williams,RB,DAL,4,False
+2025,9,8,104,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,8110,Jake Ferguson,TE,DAL,3,False
+2025,9,9,105,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,11637,Keon Coleman,WR,BUF,1,False
+2025,9,10,106,10,4,4,0,736744257179770880,jdrobny,Stick em up,12481,Cam Skattebo,RB,NYG,0,False
+2025,9,11,107,11,10,10,0,475399371639222272,cc5597,Baby Dak Gibbs,9753,Zach Charbonnet,RB,SEA,2,False
+2025,9,12,108,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,9484,Tucker Kraft,TE,GB,2,False
+2025,10,12,109,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,8408,Jordan Mason,RB,MIN,3,False
+2025,10,11,110,11,10,10,0,475399371639222272,cc5597,Baby Dak Gibbs,5967,Tony Pollard,RB,TEN,6,True
+2025,10,10,111,10,4,4,0,736744257179770880,jdrobny,Stick em up,421,Matthew Stafford,QB,LAR,16,False
+2025,10,9,112,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,1373,Geno Smith,QB,LV,12,False
+2025,10,8,113,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,4037,Chris Godwin,WR,TB,8,False
+2025,10,7,114,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,12484,Jayden Higgins,WR,HOU,0,False
+2025,10,6,115,6,12,12,0,1136842855890366464,akepple9,Something About Flacco ,10222,Jayden Reed,WR,GB,2,False
+2025,10,5,116,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,11604,Brock Bowers,TE,LV,1,True
+2025,10,4,117,4,2,2,0,736077599457026048,Erjohnson14,The TrashMen,9488,Jaxon Smith-Njigba,WR,SEA,2,True
+2025,10,3,118,3,11,4,1,736744257179770880,jdrobny,Stick em up,7049,Jauan Jennings,WR,SF,5,False
+2025,10,2,119,2,9,9,0,710284244835979264,brockhusk,Just End The Season,8676,Rashid Shaheed,WR,NO,3,False
+2025,10,1,120,1,1,1,0,608781531883859968,bgreenblatt,Young and Beautiful ,12508,Jaxson Dart,QB,NYG,0,False
+2025,11,1,121,1,1,1,0,608781531883859968,bgreenblatt,Young and Beautiful ,8148,Jameson Williams,WR,DET,3,True
+2025,11,2,122,2,9,9,0,710284244835979264,brockhusk,Just End The Season,4988,Nick Chubb,RB,HOU,7,False
+2025,11,3,123,3,11,11,0,865793938542456832,Jacktaco98,So white it hurts,4663,Austin Ekeler,RB,WAS,8,False
+2025,11,4,124,4,2,2,0,736077599457026048,Erjohnson14,The TrashMen,11631,Brian Thomas,WR,JAX,1,True
+2025,11,5,125,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,7553,Kyle Pitts,TE,ATL,4,False
+2025,11,6,126,6,12,2,1,736077599457026048,Erjohnson14,The TrashMen,12457,Jaydon Blue,RB,DAL,0,False
+2025,11,7,127,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,12533,Jacory Croskey-Merritt,RB,WAS,0,False
+2025,11,8,128,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,12509,Tre' Harris,WR,LAC,0,False
+2025,11,9,129,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,4943,Sam Darnold,QB,SEA,7,False
+2025,11,10,130,10,4,4,0,736744257179770880,jdrobny,Stick em up,4033,David Njoku,TE,CLE,8,False
+2025,11,11,131,11,10,10,0,475399371639222272,cc5597,Baby Dak Gibbs,9500,Josh Downs,WR,IND,2,False
+2025,11,12,132,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,9494,Marvin Mims,WR,DEN,2,False
+2025,12,12,133,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,11563,Bo Nix,QB,DEN,1,True
+2025,12,11,134,11,10,10,0,475399371639222272,cc5597,Baby Dak Gibbs,10236,Dalton Kincaid,TE,BUF,2,False
+2025,12,10,135,10,4,4,0,736744257179770880,jdrobny,Stick em up,7611,Rhamondre Stevenson,RB,NE,4,False
+2025,12,9,136,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,9225,Tank Bigsby,RB,JAX,2,False
+2025,12,8,137,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,7090,Darnell Mooney,WR,ATL,5,False
+2025,12,7,138,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,5844,T.J. Hockenson,TE,MIN,6,True
+2025,12,6,139,6,12,12,0,1136842855890366464,akepple9,Something About Flacco ,5022,Dallas Goedert,TE,PHI,7,False
+2025,12,5,140,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,12519,Luther Burden,WR,CHI,0,False
+2025,12,4,141,4,2,2,0,736077599457026048,Erjohnson14,The TrashMen,12469,Dylan Sampson,RB,CLE,0,False
+2025,12,3,142,3,11,11,0,865793938542456832,Jacktaco98,So white it hurts,8154,Brian Robinson,RB,WAS,3,True
+2025,12,2,143,2,9,9,0,710284244835979264,brockhusk,Just End The Season,11589,Trey Benson,RB,ARI,1,False
+2025,12,1,144,1,1,1,0,608781531883859968,bgreenblatt,Young and Beautiful ,12490,Bhayshul Tuten,RB,JAX,0,False
+2025,13,1,145,1,1,1,0,608781531883859968,bgreenblatt,Young and Beautiful ,11533,Brandon Aubrey,K,DAL,2,False
+2025,13,2,146,2,9,9,0,710284244835979264,brockhusk,Just End The Season,5045,Courtland Sutton,WR,DEN,7,True
+2025,13,3,147,3,11,11,0,865793938542456832,Jacktaco98,So white it hurts,8136,Rachaad White,RB,TB,3,False
+2025,13,4,148,4,2,2,0,736077599457026048,Erjohnson14,The TrashMen,12547,Kyle Williams,WR,NE,0,False
+2025,13,5,149,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,11576,Braelon Allen,RB,NYJ,1,False
+2025,13,6,150,6,12,12,0,1136842855890366464,akepple9,Something About Flacco ,9224,Chase Brown,RB,CIN,2,True
+2025,13,7,151,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,1689,Adam Thielen,WR,MIN,12,False
+2025,13,8,152,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,8132,Tyler Allgeier,RB,ATL,3,False
+2025,13,9,153,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,12495,Ollie Gordon,RB,MIA,0,False
+2025,13,10,154,10,4,4,0,736744257179770880,jdrobny,Stick em up,11539,Jake Bates,K,DET,2,False
+2025,13,11,155,11,10,10,0,475399371639222272,cc5597,Baby Dak Gibbs,96,Aaron Rodgers,QB,PIT,20,False
+2025,13,12,156,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,4950,Christian Kirk,WR,HOU,7,False
+2025,14,12,157,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,1945,Chris Boswell,K,PIT,11,False
+2025,14,11,158,11,10,10,0,475399371639222272,cc5597,Baby Dak Gibbs,DEN,Denver Broncos,DEF,DEN,,False
+2025,14,10,159,10,4,11,1,865793938542456832,Jacktaco98,So white it hurts,7528,Najee Harris,RB,LAC,4,False
+2025,14,9,160,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,4195,Jake Elliott,K,PHI,8,False
+2025,14,8,161,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,8259,Cameron Dicker,K,LAC,3,False
+2025,14,7,162,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,WAS,Washington Commanders,DEF,WAS,,False
+2025,14,6,163,6,12,12,0,1136842855890366464,akepple9,Something About Flacco ,12536,Jaylin Noel,WR,HOU,0,False
+2025,14,5,164,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,PIT,Pittsburgh Steelers,DEF,PIT,,False
+2025,14,4,165,4,2,12,1,1136842855890366464,akepple9,Something About Flacco ,PHI,Philadelphia Eagles,DEF,PHI,,False
+2025,14,3,166,3,11,11,0,865793938542456832,Jacktaco98,So white it hurts,7571,Rashod Bateman,WR,BAL,4,False
+2025,14,2,167,2,9,9,0,710284244835979264,brockhusk,Just End The Season,12498,Mason Taylor,TE,NYJ,0,False
+2025,14,1,168,1,1,1,0,608781531883859968,bgreenblatt,Young and Beautiful ,11565,J.J. McCarthy,QB,MIN,1,True
+2025,15,1,169,1,1,1,0,608781531883859968,bgreenblatt,Young and Beautiful ,10444,Cedric Tillman,WR,CLE,2,False
+2025,15,2,170,2,9,9,0,710284244835979264,brockhusk,Just End The Season,4227,Harrison Butker,K,KC,8,False
+2025,15,3,171,3,11,11,0,865793938542456832,Jacktaco98,So white it hurts,11786,Cam Little,K,JAX,1,False
+2025,15,4,172,4,2,2,0,736077599457026048,Erjohnson14,The TrashMen,12474,Woody Marks,RB,HOU,0,False
+2025,15,5,173,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,6650,Chase McLaughlin,K,TB,6,False
+2025,15,6,174,6,12,12,0,1136842855890366464,akepple9,Something About Flacco ,4666,Younghoe Koo,K,ATL,8,False
+2025,15,7,175,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,5870,Daniel Jones,QB,IND,6,False
+2025,15,8,176,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,BAL,Baltimore Ravens,DEF,BAL,,False
+2025,15,9,177,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,MIN,Minnesota Vikings,DEF,MIN,,False
+2025,15,10,178,10,4,4,0,736744257179770880,jdrobny,Stick em up,HOU,Houston Texans,DEF,HOU,,False
+2025,15,11,179,11,10,10,0,475399371639222272,cc5597,Baby Dak Gibbs,11575,Ray Davis,RB,BUF,1,False
+2025,15,12,180,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,BUF,Buffalo Bills,DEF,BUF,,False
+2025,16,12,181,12,8,8,0,736803054736822272,TylerWicks,Stopped Bo-lievin’,11626,Xavier Legette,WR,CAR,1,False
+2025,16,11,182,11,10,10,0,475399371639222272,cc5597,Baby Dak Gibbs,1479,Keenan Allen,WR,LAC,12,False
+2025,16,10,183,10,4,4,0,736744257179770880,jdrobny,Stick em up,6806,J.K. Dobbins,RB,DEN,5,True
+2025,16,9,184,9,3,3,0,737091087440674816,MaxSirianni,We Built This Griddy,8126,Wan'Dale Robinson,WR,NYG,3,False
+2025,16,8,185,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,9508,Tyjae Spears,RB,TEN,2,False
+2025,16,7,186,7,7,7,0,735974647736213504,KingTowsk,Aaron Yeo’s future team,7042,Tyler Bass,K,BUF,5,False
+2025,16,6,187,6,12,12,0,1136842855890366464,akepple9,Something About Flacco ,19,Joe Flacco,QB,CLE,17,False
+2025,16,5,188,5,6,6,0,736740647758938112,JSanDusky69,Manicures & Misery,12511,Will Howard,QB,PIT,0,False
+2025,16,4,189,4,2,2,0,736077599457026048,Erjohnson14,The TrashMen,7839,Evan McPherson,K,CIN,4,False
+2025,16,3,190,3,11,11,0,865793938542456832,Jacktaco98,So white it hurts,SF,San Francisco 49ers,DEF,SF,,False
+2025,16,2,191,2,9,9,0,710284244835979264,brockhusk,Just End The Season,11562,Spencer Rattler,QB,NO,1,False
+2025,16,1,192,1,1,1,0,608781531883859968,bgreenblatt,Young and Beautiful ,ARI,Arizona Cardinals,DEF,ARI,,False

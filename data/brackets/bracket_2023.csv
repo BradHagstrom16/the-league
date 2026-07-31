@@ -1,0 +1,12 @@
+season,bracket,round,matchup_id,roster_id_1,roster_id_2,winner,loser,position
+2023,winners,1,1,4,8,8,4,
+2023,winners,1,2,2,1,1,2,
+2023,winners,2,3,9,8,8,9,
+2023,winners,2,4,7,1,1,7,
+2023,winners,2,5,4,2,4,2,5
+2023,winners,3,6,8,1,1,8,1
+2023,winners,3,7,9,7,9,7,3
+2023,losers,1,1,6,3,3,6,
+2023,losers,1,2,10,5,5,10,
+2023,losers,2,3,3,5,5,3,1
+2023,losers,2,4,6,10,10,6,3

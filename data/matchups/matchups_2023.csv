@@ -1,0 +1,163 @@
+season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manager,opponent_points,result,is_playoff
+2023,1,1,bgreenblatt,Taylor Park Boys,107.63,4,jdrobny,137.67,L,False
+2023,1,2,Erjohnson14,Johnson’s Lil Johnson,146.53,5,kaufmannc,143.02,W,False
+2023,1,3,MaxSirianni,I hate Joe Burrow,106.03,7,KingTowsk,112.16,L,False
+2023,1,4,jdrobny,B2B,137.67,1,bgreenblatt,107.63,W,False
+2023,1,5,kaufmannc,London Has Fallen,143.02,2,Erjohnson14,146.53,L,False
+2023,1,6,JSanDusky69,Tua Girls One Kupp,123.95,10,cc5597,124.83,L,False
+2023,1,7,KingTowsk,Leeroy Jenkins,112.16,3,MaxSirianni,106.03,W,False
+2023,1,8,TylerWicks,Christian Mingle,144.03,9,brockhusk,114.31,W,False
+2023,1,9,brockhusk,Toss My Saleh’d,114.31,8,TylerWicks,144.03,L,False
+2023,1,10,cc5597,Bill Ninerkingz,124.83,6,JSanDusky69,123.95,W,False
+2023,2,1,bgreenblatt,Taylor Park Boys,126.38,6,JSanDusky69,120.04,W,False
+2023,2,2,Erjohnson14,Johnson’s Lil Johnson,170.59,8,TylerWicks,110.22,W,False
+2023,2,3,MaxSirianni,I hate Joe Burrow,105.35,4,jdrobny,166.77,L,False
+2023,2,4,jdrobny,B2B,166.77,3,MaxSirianni,105.35,W,False
+2023,2,5,kaufmannc,London Has Fallen,142.94,9,brockhusk,149.01,L,False
+2023,2,6,JSanDusky69,Tua Girls One Kupp,120.04,1,bgreenblatt,126.38,L,False
+2023,2,7,KingTowsk,Leeroy Jenkins,147.18,10,cc5597,96.47,W,False
+2023,2,8,TylerWicks,Christian Mingle,110.22,2,Erjohnson14,170.59,L,False
+2023,2,9,brockhusk,Toss My Saleh’d,149.01,5,kaufmannc,142.94,W,False
+2023,2,10,cc5597,Bill Ninerkingz,96.47,7,KingTowsk,147.18,L,False
+2023,3,1,bgreenblatt,Taylor Park Boys,120.98,7,KingTowsk,187.73,L,False
+2023,3,2,Erjohnson14,Johnson’s Lil Johnson,114.32,9,brockhusk,130.58,L,False
+2023,3,3,MaxSirianni,I hate Joe Burrow,185.52,10,cc5597,158.23,W,False
+2023,3,4,jdrobny,B2B,167.97,6,JSanDusky69,136.07,W,False
+2023,3,5,kaufmannc,London Has Fallen,139.58,8,TylerWicks,170.53,L,False
+2023,3,6,JSanDusky69,Tua Girls One Kupp,136.07,4,jdrobny,167.97,L,False
+2023,3,7,KingTowsk,Leeroy Jenkins,187.73,1,bgreenblatt,120.98,W,False
+2023,3,8,TylerWicks,Christian Mingle,170.53,5,kaufmannc,139.58,W,False
+2023,3,9,brockhusk,Toss My Saleh’d,130.58,2,Erjohnson14,114.32,W,False
+2023,3,10,cc5597,Bill Ninerkingz,158.23,3,MaxSirianni,185.52,L,False
+2023,4,1,bgreenblatt,Taylor Park Boys,152.98,5,kaufmannc,126.35,W,False
+2023,4,2,Erjohnson14,Johnson’s Lil Johnson,140.74,3,MaxSirianni,67.01,W,False
+2023,4,3,MaxSirianni,I hate Joe Burrow,67.01,2,Erjohnson14,140.74,L,False
+2023,4,4,jdrobny,B2B,162.54,7,KingTowsk,154.08,W,False
+2023,4,5,kaufmannc,London Has Fallen,126.35,1,bgreenblatt,152.98,L,False
+2023,4,6,JSanDusky69,Tua Girls One Kupp,124.09,9,brockhusk,138.89,L,False
+2023,4,7,KingTowsk,Leeroy Jenkins,154.08,4,jdrobny,162.54,L,False
+2023,4,8,TylerWicks,Christian Mingle,196.94,10,cc5597,128.59,W,False
+2023,4,9,brockhusk,Toss My Saleh’d,138.89,6,JSanDusky69,124.09,W,False
+2023,4,10,cc5597,Bill Ninerkingz,128.59,8,TylerWicks,196.94,L,False
+2023,5,1,bgreenblatt,Taylor Park Boys,134.84,3,MaxSirianni,189.74,L,False
+2023,5,2,Erjohnson14,Johnson’s Lil Johnson,119.39,7,KingTowsk,147.47,L,False
+2023,5,3,MaxSirianni,I hate Joe Burrow,189.74,1,bgreenblatt,134.84,W,False
+2023,5,4,jdrobny,B2B,126.13,5,kaufmannc,121.44,W,False
+2023,5,5,kaufmannc,London Has Fallen,121.44,4,jdrobny,126.13,L,False
+2023,5,6,JSanDusky69,Tua Girls One Kupp,186.65,8,TylerWicks,119.39,W,False
+2023,5,7,KingTowsk,Leeroy Jenkins,147.47,2,Erjohnson14,119.39,W,False
+2023,5,8,TylerWicks,Christian Mingle,119.39,6,JSanDusky69,186.65,L,False
+2023,5,9,brockhusk,Toss My Saleh’d,114.08,10,cc5597,96.71,W,False
+2023,5,10,cc5597,Bill Ninerkingz,96.71,9,brockhusk,114.08,L,False
+2023,6,1,bgreenblatt,Taylor Park Boys,120.32,9,brockhusk,164.59,L,False
+2023,6,2,Erjohnson14,Johnson’s Lil Johnson,127.68,10,cc5597,87.74,W,False
+2023,6,3,MaxSirianni,I hate Joe Burrow,108.16,6,JSanDusky69,131.82,L,False
+2023,6,4,jdrobny,B2B,150.45,8,TylerWicks,123.41,W,False
+2023,6,5,kaufmannc,London Has Fallen,106.05,7,KingTowsk,147.0,L,False
+2023,6,6,JSanDusky69,Tua Girls One Kupp,131.82,3,MaxSirianni,108.16,W,False
+2023,6,7,KingTowsk,Leeroy Jenkins,147.0,5,kaufmannc,106.05,W,False
+2023,6,8,TylerWicks,Christian Mingle,123.41,4,jdrobny,150.45,L,False
+2023,6,9,brockhusk,Toss My Saleh’d,164.59,1,bgreenblatt,120.32,W,False
+2023,6,10,cc5597,Bill Ninerkingz,87.74,2,Erjohnson14,127.68,L,False
+2023,7,1,bgreenblatt,Taylor Park Boys,134.52,10,cc5597,130.8,W,False
+2023,7,2,Erjohnson14,Johnson’s Lil Johnson,131.17,6,JSanDusky69,103.38,W,False
+2023,7,3,MaxSirianni,I hate Joe Burrow,106.94,5,kaufmannc,121.74,L,False
+2023,7,4,jdrobny,B2B,137.82,9,brockhusk,146.25,L,False
+2023,7,5,kaufmannc,London Has Fallen,121.74,3,MaxSirianni,106.94,W,False
+2023,7,6,JSanDusky69,Tua Girls One Kupp,103.38,2,Erjohnson14,131.17,L,False
+2023,7,7,KingTowsk,Leeroy Jenkins,190.78,8,TylerWicks,114.71,W,False
+2023,7,8,TylerWicks,Christian Mingle,114.71,7,KingTowsk,190.78,L,False
+2023,7,9,brockhusk,Toss My Saleh’d,146.25,4,jdrobny,137.82,W,False
+2023,7,10,cc5597,Bill Ninerkingz,130.8,1,bgreenblatt,134.52,L,False
+2023,8,1,bgreenblatt,Taylor Park Boys,158.5,2,Erjohnson14,130.26,W,False
+2023,8,2,Erjohnson14,Johnson’s Lil Johnson,130.26,1,bgreenblatt,158.5,L,False
+2023,8,3,MaxSirianni,I hate Joe Burrow,157.37,8,TylerWicks,163.01,L,False
+2023,8,4,jdrobny,B2B,126.86,10,cc5597,167.46,L,False
+2023,8,5,kaufmannc,London Has Fallen,138.87,6,JSanDusky69,124.99,W,False
+2023,8,6,JSanDusky69,Tua Girls One Kupp,124.99,5,kaufmannc,138.87,L,False
+2023,8,7,KingTowsk,Leeroy Jenkins,149.75,9,brockhusk,192.62,L,False
+2023,8,8,TylerWicks,Christian Mingle,163.01,3,MaxSirianni,157.37,W,False
+2023,8,9,brockhusk,Toss My Saleh’d,192.62,7,KingTowsk,149.75,W,False
+2023,8,10,cc5597,Bill Ninerkingz,167.46,4,jdrobny,126.86,W,False
+2023,9,1,bgreenblatt,Taylor Park Boys,112.14,8,TylerWicks,99.51,W,False
+2023,9,2,Erjohnson14,Johnson’s Lil Johnson,151.3,4,jdrobny,121.63,W,False
+2023,9,3,MaxSirianni,I hate Joe Burrow,123.31,9,brockhusk,150.78,L,False
+2023,9,4,jdrobny,B2B,121.63,2,Erjohnson14,151.3,L,False
+2023,9,5,kaufmannc,London Has Fallen,146.85,10,cc5597,155.84,L,False
+2023,9,6,JSanDusky69,Tua Girls One Kupp,105.94,7,KingTowsk,118.36,L,False
+2023,9,7,KingTowsk,Leeroy Jenkins,118.36,6,JSanDusky69,105.94,W,False
+2023,9,8,TylerWicks,Christian Mingle,99.51,1,bgreenblatt,112.14,L,False
+2023,9,9,brockhusk,Toss My Saleh’d,150.78,3,MaxSirianni,123.31,W,False
+2023,9,10,cc5597,Bill Ninerkingz,155.84,5,kaufmannc,146.85,W,False
+2023,10,1,bgreenblatt,Taylor Park Boys,155.93,4,jdrobny,140.07,W,False
+2023,10,2,Erjohnson14,Johnson’s Lil Johnson,174.34,5,kaufmannc,110.97,W,False
+2023,10,3,MaxSirianni,I hate Joe Burrow,134.09,7,KingTowsk,109.67,W,False
+2023,10,4,jdrobny,B2B,140.07,1,bgreenblatt,155.93,L,False
+2023,10,5,kaufmannc,London Has Fallen,110.97,2,Erjohnson14,174.34,L,False
+2023,10,6,JSanDusky69,Tua Girls One Kupp,108.7,10,cc5597,152.23,L,False
+2023,10,7,KingTowsk,Leeroy Jenkins,109.67,3,MaxSirianni,134.09,L,False
+2023,10,8,TylerWicks,Christian Mingle,126.44,9,brockhusk,218.49,L,False
+2023,10,9,brockhusk,Toss My Saleh’d,218.49,8,TylerWicks,126.44,W,False
+2023,10,10,cc5597,Bill Ninerkingz,152.23,6,JSanDusky69,108.7,W,False
+2023,11,1,bgreenblatt,Taylor Park Boys,170.96,6,JSanDusky69,117.0,W,False
+2023,11,2,Erjohnson14,Johnson’s Lil Johnson,103.97,8,TylerWicks,161.88,L,False
+2023,11,3,MaxSirianni,I hate Joe Burrow,91.66,4,jdrobny,129.31,L,False
+2023,11,4,jdrobny,B2B,129.31,3,MaxSirianni,91.66,W,False
+2023,11,5,kaufmannc,London Has Fallen,147.55,9,brockhusk,113.71,W,False
+2023,11,6,JSanDusky69,Tua Girls One Kupp,117.0,1,bgreenblatt,170.96,L,False
+2023,11,7,KingTowsk,Leeroy Jenkins,153.01,10,cc5597,134.46,W,False
+2023,11,8,TylerWicks,Christian Mingle,161.88,2,Erjohnson14,103.97,W,False
+2023,11,9,brockhusk,Toss My Saleh’d,113.71,5,kaufmannc,147.55,L,False
+2023,11,10,cc5597,Bill Ninerkingz,134.46,7,KingTowsk,153.01,L,False
+2023,12,1,bgreenblatt,Taylor Park Boys,175.47,7,KingTowsk,154.02,W,False
+2023,12,2,Erjohnson14,Johnson’s Lil Johnson,159.09,9,brockhusk,197.4,L,False
+2023,12,3,MaxSirianni,I hate Joe Burrow,116.32,10,cc5597,111.52,W,False
+2023,12,4,jdrobny,B2B,141.3,6,JSanDusky69,114.88,W,False
+2023,12,5,kaufmannc,London Has Fallen,128.23,8,TylerWicks,163.14,L,False
+2023,12,6,JSanDusky69,Tua Girls One Kupp,114.88,4,jdrobny,141.3,L,False
+2023,12,7,KingTowsk,Leeroy Jenkins,154.02,1,bgreenblatt,175.47,L,False
+2023,12,8,TylerWicks,Christian Mingle,163.14,5,kaufmannc,128.23,W,False
+2023,12,9,brockhusk,Toss My Saleh’d,197.4,2,Erjohnson14,159.09,W,False
+2023,12,10,cc5597,Bill Ninerkingz,111.52,3,MaxSirianni,116.32,L,False
+2023,13,1,bgreenblatt,Taylor Park Boys,146.13,5,kaufmannc,96.24,W,False
+2023,13,2,Erjohnson14,Johnson’s Lil Johnson,144.98,3,MaxSirianni,180.53,L,False
+2023,13,3,MaxSirianni,I hate Joe Burrow,180.53,2,Erjohnson14,144.98,W,False
+2023,13,4,jdrobny,B2B,136.41,7,KingTowsk,164.08,L,False
+2023,13,5,kaufmannc,London Has Fallen,96.24,1,bgreenblatt,146.13,L,False
+2023,13,6,JSanDusky69,Tua Girls One Kupp,126.61,9,brockhusk,140.16,L,False
+2023,13,7,KingTowsk,Leeroy Jenkins,164.08,4,jdrobny,136.41,W,False
+2023,13,8,TylerWicks,Christian Mingle,150.3,10,cc5597,103.12,W,False
+2023,13,9,brockhusk,Toss My Saleh’d,140.16,6,JSanDusky69,126.61,W,False
+2023,13,10,cc5597,Bill Ninerkingz,103.12,8,TylerWicks,150.3,L,False
+2023,14,1,bgreenblatt,Taylor Park Boys,108.52,3,MaxSirianni,148.06,L,False
+2023,14,2,Erjohnson14,Johnson’s Lil Johnson,133.56,7,KingTowsk,150.02,L,False
+2023,14,3,MaxSirianni,I hate Joe Burrow,148.06,1,bgreenblatt,108.52,W,False
+2023,14,4,jdrobny,B2B,136.28,5,kaufmannc,142.24,L,False
+2023,14,5,kaufmannc,London Has Fallen,142.24,4,jdrobny,136.28,W,False
+2023,14,6,JSanDusky69,Tua Girls One Kupp,152.36,8,TylerWicks,118.4,W,False
+2023,14,7,KingTowsk,Leeroy Jenkins,150.02,2,Erjohnson14,133.56,W,False
+2023,14,8,TylerWicks,Christian Mingle,118.4,6,JSanDusky69,152.36,L,False
+2023,14,9,brockhusk,Toss My Saleh’d,135.51,10,cc5597,106.26,W,False
+2023,14,10,cc5597,Bill Ninerkingz,106.26,9,brockhusk,135.51,L,False
+2023,15,1,bgreenblatt,Taylor Park Boys,116.4,2,Erjohnson14,110.46,W,True
+2023,15,2,Erjohnson14,Johnson’s Lil Johnson,110.46,1,bgreenblatt,116.4,L,True
+2023,15,3,MaxSirianni,I hate Joe Burrow,140.97,6,JSanDusky69,148.23,L,True
+2023,15,4,jdrobny,B2B,152.29,8,TylerWicks,198.66,L,True
+2023,15,5,kaufmannc,London Has Fallen,149.39,10,cc5597,164.11,L,True
+2023,15,6,JSanDusky69,Tua Girls One Kupp,148.23,3,MaxSirianni,140.97,W,True
+2023,15,8,TylerWicks,Christian Mingle,198.66,4,jdrobny,152.29,W,True
+2023,15,10,cc5597,Bill Ninerkingz,164.11,5,kaufmannc,149.39,W,True
+2023,16,1,bgreenblatt,Taylor Park Boys,129.94,7,KingTowsk,120.74,W,True
+2023,16,2,Erjohnson14,Johnson’s Lil Johnson,144.16,4,jdrobny,157.31,L,True
+2023,16,3,MaxSirianni,I hate Joe Burrow,185.0,5,kaufmannc,125.65,W,True
+2023,16,4,jdrobny,B2B,157.31,2,Erjohnson14,144.16,W,True
+2023,16,5,kaufmannc,London Has Fallen,125.65,3,MaxSirianni,185.0,L,True
+2023,16,6,JSanDusky69,Tua Girls One Kupp,160.82,10,cc5597,69.79,W,True
+2023,16,7,KingTowsk,Leeroy Jenkins,120.74,1,bgreenblatt,129.94,L,True
+2023,16,8,TylerWicks,Christian Mingle,167.95,9,brockhusk,159.45,W,True
+2023,16,9,brockhusk,Toss My Saleh’d,159.45,8,TylerWicks,167.95,L,True
+2023,16,10,cc5597,Bill Ninerkingz,69.79,6,JSanDusky69,160.82,L,True
+2023,17,1,bgreenblatt,Taylor Park Boys,130.46,8,TylerWicks,122.35,W,True
+2023,17,7,KingTowsk,Leeroy Jenkins,161.54,9,brockhusk,183.51,L,True
+2023,17,8,TylerWicks,Christian Mingle,122.35,1,bgreenblatt,130.46,L,True
+2023,17,9,brockhusk,Toss My Saleh’d,183.51,7,KingTowsk,161.54,W,True

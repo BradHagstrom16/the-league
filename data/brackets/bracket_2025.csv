@@ -1,0 +1,15 @@
+season,bracket,round,matchup_id,roster_id_1,roster_id_2,winner,loser,position
+2025,winners,1,1,8,1,1,8,
+2025,winners,1,2,12,2,2,12,
+2025,winners,2,3,10,1,10,1,
+2025,winners,2,4,11,2,2,11,
+2025,winners,2,5,8,12,12,8,5
+2025,winners,3,6,10,2,2,10,1
+2025,winners,3,7,1,11,1,11,3
+2025,losers,1,1,5,3,5,3,
+2025,losers,1,2,6,7,7,6,
+2025,losers,2,3,4,5,5,4,
+2025,losers,2,4,9,7,7,9,
+2025,losers,2,5,3,6,3,6,5
+2025,losers,3,6,5,7,7,5,1
+2025,losers,3,7,4,9,4,9,3

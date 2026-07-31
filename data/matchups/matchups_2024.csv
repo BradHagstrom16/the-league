@@ -1,0 +1,163 @@
+season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manager,opponent_points,result,is_playoff
+2024,1,1,bgreenblatt,Love Thy Nabers,130.76,2,Erjohnson14,203.93,L,False
+2024,1,2,Erjohnson14,Johnson’s Lil Johnson,203.93,1,bgreenblatt,130.76,W,False
+2024,1,3,MaxSirianni,Joeybagofdonuts2.0,146.08,6,JSanDusky69,149.81,L,False
+2024,1,4,jdrobny,Stick in the Mud,111.46,9,brockhusk,117.23,L,False
+2024,1,5,kaufmannc,Clownin’ Around,145.66,8,TylerWicks,115.02,W,False
+2024,1,6,JSanDusky69,Respect Your Elders,149.81,3,MaxSirianni,146.08,W,False
+2024,1,7,KingTowsk,Leeroy Jenkins,117.73,10,cc5597,135.05,L,False
+2024,1,8,TylerWicks,Dont stop Bo-lievin’,115.02,5,kaufmannc,145.66,L,False
+2024,1,9,brockhusk,Brauk Tua Spit On That,117.23,4,jdrobny,111.46,W,False
+2024,1,10,cc5597,The Problems,135.05,7,KingTowsk,117.73,W,False
+2024,2,1,bgreenblatt,Love Thy Nabers,199.69,6,JSanDusky69,113.48,W,False
+2024,2,2,Erjohnson14,Johnson’s Lil Johnson,143.84,3,MaxSirianni,107.07,W,False
+2024,2,3,MaxSirianni,Joeybagofdonuts2.0,107.07,2,Erjohnson14,143.84,L,False
+2024,2,4,jdrobny,Stick in the Mud,116.25,10,cc5597,151.66,L,False
+2024,2,5,kaufmannc,Clownin’ Around,116.04,9,brockhusk,141.22,L,False
+2024,2,6,JSanDusky69,Respect Your Elders,113.48,1,bgreenblatt,199.69,L,False
+2024,2,7,KingTowsk,Leeroy Jenkins,141.32,8,TylerWicks,128.72,W,False
+2024,2,8,TylerWicks,Dont stop Bo-lievin’,128.72,7,KingTowsk,141.32,L,False
+2024,2,9,brockhusk,Brauk Tua Spit On That,141.22,5,kaufmannc,116.04,W,False
+2024,2,10,cc5597,The Problems,151.66,4,jdrobny,116.25,W,False
+2024,3,1,bgreenblatt,Love Thy Nabers,118.16,3,MaxSirianni,140.32,L,False
+2024,3,2,Erjohnson14,Johnson’s Lil Johnson,171.77,6,JSanDusky69,137.66,W,False
+2024,3,3,MaxSirianni,Joeybagofdonuts2.0,140.32,1,bgreenblatt,118.16,W,False
+2024,3,4,jdrobny,Stick in the Mud,102.32,7,KingTowsk,166.59,L,False
+2024,3,5,kaufmannc,Clownin’ Around,112.04,10,cc5597,111.93,W,False
+2024,3,6,JSanDusky69,Respect Your Elders,137.66,2,Erjohnson14,171.77,L,False
+2024,3,7,KingTowsk,Leeroy Jenkins,166.59,4,jdrobny,102.32,W,False
+2024,3,8,TylerWicks,Dont stop Bo-lievin’,113.81,9,brockhusk,106.21,W,False
+2024,3,9,brockhusk,Brauk Tua Spit On That,106.21,8,TylerWicks,113.81,L,False
+2024,3,10,cc5597,The Problems,111.93,5,kaufmannc,112.04,L,False
+2024,4,1,bgreenblatt,Love Thy Nabers,156.39,4,jdrobny,143.43,W,False
+2024,4,2,Erjohnson14,Johnson’s Lil Johnson,140.28,9,brockhusk,127.7,W,False
+2024,4,3,MaxSirianni,Joeybagofdonuts2.0,155.83,5,kaufmannc,148.3,W,False
+2024,4,4,jdrobny,Stick in the Mud,143.43,1,bgreenblatt,156.39,L,False
+2024,4,5,kaufmannc,Clownin’ Around,148.3,3,MaxSirianni,155.83,L,False
+2024,4,6,JSanDusky69,Respect Your Elders,113.15,7,KingTowsk,164.26,L,False
+2024,4,7,KingTowsk,Leeroy Jenkins,164.26,6,JSanDusky69,113.15,W,False
+2024,4,8,TylerWicks,Dont stop Bo-lievin’,110.45,10,cc5597,115.62,L,False
+2024,4,9,brockhusk,Brauk Tua Spit On That,127.7,2,Erjohnson14,140.28,L,False
+2024,4,10,cc5597,The Problems,115.62,8,TylerWicks,110.45,W,False
+2024,5,1,bgreenblatt,Love Thy Nabers,175.64,9,brockhusk,195.21,L,False
+2024,5,2,Erjohnson14,Johnson’s Lil Johnson,149.25,4,jdrobny,109.45,W,False
+2024,5,3,MaxSirianni,Joeybagofdonuts2.0,113.29,8,TylerWicks,118.27,L,False
+2024,5,4,jdrobny,Stick in the Mud,109.45,2,Erjohnson14,149.25,L,False
+2024,5,5,kaufmannc,Clownin’ Around,168.91,7,KingTowsk,164.09,W,False
+2024,5,6,JSanDusky69,Respect Your Elders,159.66,10,cc5597,99.35,W,False
+2024,5,7,KingTowsk,Leeroy Jenkins,164.09,5,kaufmannc,168.91,L,False
+2024,5,8,TylerWicks,Dont stop Bo-lievin’,118.27,3,MaxSirianni,113.29,W,False
+2024,5,9,brockhusk,Brauk Tua Spit On That,195.21,1,bgreenblatt,175.64,W,False
+2024,5,10,cc5597,The Problems,99.35,6,JSanDusky69,159.66,L,False
+2024,6,1,bgreenblatt,Love Thy Nabers,162.77,8,TylerWicks,74.11,W,False
+2024,6,2,Erjohnson14,Johnson’s Lil Johnson,111.85,5,kaufmannc,142.41,L,False
+2024,6,3,MaxSirianni,Joeybagofdonuts2.0,158.15,10,cc5597,148.93,W,False
+2024,6,4,jdrobny,Stick in the Mud,126.44,6,JSanDusky69,159.58,L,False
+2024,6,5,kaufmannc,Clownin’ Around,142.41,2,Erjohnson14,111.85,W,False
+2024,6,6,JSanDusky69,Respect Your Elders,159.58,4,jdrobny,126.44,W,False
+2024,6,7,KingTowsk,Leeroy Jenkins,146.88,9,brockhusk,137.66,W,False
+2024,6,8,TylerWicks,Dont stop Bo-lievin’,74.11,1,bgreenblatt,162.77,L,False
+2024,6,9,brockhusk,Brauk Tua Spit On That,137.66,7,KingTowsk,146.88,L,False
+2024,6,10,cc5597,The Problems,148.93,3,MaxSirianni,158.15,L,False
+2024,7,1,bgreenblatt,Love Thy Nabers,143.29,10,cc5597,106.22,W,False
+2024,7,2,Erjohnson14,Johnson’s Lil Johnson,138.62,8,TylerWicks,119.67,W,False
+2024,7,3,MaxSirianni,Joeybagofdonuts2.0,142.72,7,KingTowsk,149.78,L,False
+2024,7,4,jdrobny,Stick in the Mud,138.82,5,kaufmannc,140.16,L,False
+2024,7,5,kaufmannc,Clownin’ Around,140.16,4,jdrobny,138.82,W,False
+2024,7,6,JSanDusky69,Respect Your Elders,81.66,9,brockhusk,165.66,L,False
+2024,7,7,KingTowsk,Leeroy Jenkins,149.78,3,MaxSirianni,142.72,W,False
+2024,7,8,TylerWicks,Dont stop Bo-lievin’,119.67,2,Erjohnson14,138.62,L,False
+2024,7,9,brockhusk,Brauk Tua Spit On That,165.66,6,JSanDusky69,81.66,W,False
+2024,7,10,cc5597,The Problems,106.22,1,bgreenblatt,143.29,L,False
+2024,8,1,bgreenblatt,Love Thy Nabers,169.28,7,KingTowsk,172.85,L,False
+2024,8,2,Erjohnson14,Johnson’s Lil Johnson,124.94,10,cc5597,177.5,L,False
+2024,8,3,MaxSirianni,Joeybagofdonuts2.0,101.79,9,brockhusk,175.53,L,False
+2024,8,4,jdrobny,Stick in the Mud,149.74,8,TylerWicks,191.27,L,False
+2024,8,5,kaufmannc,Clownin’ Around,99.41,6,JSanDusky69,127.38,L,False
+2024,8,6,JSanDusky69,Respect Your Elders,127.38,5,kaufmannc,99.41,W,False
+2024,8,7,KingTowsk,Leeroy Jenkins,172.85,1,bgreenblatt,169.28,W,False
+2024,8,8,TylerWicks,Dont stop Bo-lievin’,191.27,4,jdrobny,149.74,W,False
+2024,8,9,brockhusk,Brauk Tua Spit On That,175.53,3,MaxSirianni,101.79,W,False
+2024,8,10,cc5597,The Problems,177.5,2,Erjohnson14,124.94,W,False
+2024,9,1,bgreenblatt,Love Thy Nabers,147.01,5,kaufmannc,103.1,W,False
+2024,9,2,Erjohnson14,Johnson’s Lil Johnson,176.4,7,KingTowsk,174.94,W,False
+2024,9,3,MaxSirianni,Joeybagofdonuts2.0,115.86,4,jdrobny,129.63,L,False
+2024,9,4,jdrobny,Stick in the Mud,129.63,3,MaxSirianni,115.86,W,False
+2024,9,5,kaufmannc,Clownin’ Around,103.1,1,bgreenblatt,147.01,L,False
+2024,9,6,JSanDusky69,Respect Your Elders,145.71,8,TylerWicks,120.15,W,False
+2024,9,7,KingTowsk,Leeroy Jenkins,174.94,2,Erjohnson14,176.4,L,False
+2024,9,8,TylerWicks,Dont stop Bo-lievin’,120.15,6,JSanDusky69,145.71,L,False
+2024,9,9,brockhusk,Brauk Tua Spit On That,162.26,10,cc5597,128.23,W,False
+2024,9,10,cc5597,The Problems,128.23,9,brockhusk,162.26,L,False
+2024,10,1,bgreenblatt,Love Thy Nabers,188.39,2,Erjohnson14,125.45,W,False
+2024,10,2,Erjohnson14,Johnson’s Lil Johnson,125.45,1,bgreenblatt,188.39,L,False
+2024,10,3,MaxSirianni,Joeybagofdonuts2.0,135.5,6,JSanDusky69,138.51,L,False
+2024,10,4,jdrobny,Stick in the Mud,115.09,9,brockhusk,114.47,W,False
+2024,10,5,kaufmannc,Clownin’ Around,115.71,8,TylerWicks,134.36,L,False
+2024,10,6,JSanDusky69,Respect Your Elders,138.51,3,MaxSirianni,135.5,W,False
+2024,10,7,KingTowsk,Leeroy Jenkins,137.63,10,cc5597,113.05,W,False
+2024,10,8,TylerWicks,Dont stop Bo-lievin’,134.36,5,kaufmannc,115.71,W,False
+2024,10,9,brockhusk,Brauk Tua Spit On That,114.47,4,jdrobny,115.09,L,False
+2024,10,10,cc5597,The Problems,113.05,7,KingTowsk,137.63,L,False
+2024,11,1,bgreenblatt,Love Thy Nabers,164.97,6,JSanDusky69,175.19,L,False
+2024,11,2,Erjohnson14,Johnson’s Lil Johnson,149.63,3,MaxSirianni,150.01,L,False
+2024,11,3,MaxSirianni,Joeybagofdonuts2.0,150.01,2,Erjohnson14,149.63,W,False
+2024,11,4,jdrobny,Stick in the Mud,174.65,10,cc5597,139.34,W,False
+2024,11,5,kaufmannc,Clownin’ Around,186.11,9,brockhusk,102.91,W,False
+2024,11,6,JSanDusky69,Respect Your Elders,175.19,1,bgreenblatt,164.97,W,False
+2024,11,7,KingTowsk,Leeroy Jenkins,129.27,8,TylerWicks,157.26,L,False
+2024,11,8,TylerWicks,Dont stop Bo-lievin’,157.26,7,KingTowsk,129.27,W,False
+2024,11,9,brockhusk,Brauk Tua Spit On That,102.91,5,kaufmannc,186.11,L,False
+2024,11,10,cc5597,The Problems,139.34,4,jdrobny,174.65,L,False
+2024,12,1,bgreenblatt,Love Thy Nabers,137.66,3,MaxSirianni,123.29,W,False
+2024,12,2,Erjohnson14,Johnson’s Lil Johnson,178.96,6,JSanDusky69,125.94,W,False
+2024,12,3,MaxSirianni,Joeybagofdonuts2.0,123.29,1,bgreenblatt,137.66,L,False
+2024,12,4,jdrobny,Stick in the Mud,157.81,7,KingTowsk,134.88,W,False
+2024,12,5,kaufmannc,Clownin’ Around,119.09,10,cc5597,121.03,L,False
+2024,12,6,JSanDusky69,Respect Your Elders,125.94,2,Erjohnson14,178.96,L,False
+2024,12,7,KingTowsk,Leeroy Jenkins,134.88,4,jdrobny,157.81,L,False
+2024,12,8,TylerWicks,Dont stop Bo-lievin’,165.29,9,brockhusk,123.42,W,False
+2024,12,9,brockhusk,Brauk Tua Spit On That,123.42,8,TylerWicks,165.29,L,False
+2024,12,10,cc5597,The Problems,121.03,5,kaufmannc,119.09,W,False
+2024,13,1,bgreenblatt,Love Thy Nabers,165.6,4,jdrobny,130.44,W,False
+2024,13,2,Erjohnson14,Johnson’s Lil Johnson,173.78,9,brockhusk,128.97,W,False
+2024,13,3,MaxSirianni,Joeybagofdonuts2.0,136.6,5,kaufmannc,140.26,L,False
+2024,13,4,jdrobny,Stick in the Mud,130.44,1,bgreenblatt,165.6,L,False
+2024,13,5,kaufmannc,Clownin’ Around,140.26,3,MaxSirianni,136.6,W,False
+2024,13,6,JSanDusky69,Respect Your Elders,137.63,7,KingTowsk,171.37,L,False
+2024,13,7,KingTowsk,Leeroy Jenkins,171.37,6,JSanDusky69,137.63,W,False
+2024,13,8,TylerWicks,Dont stop Bo-lievin’,147.39,10,cc5597,99.04,W,False
+2024,13,9,brockhusk,Brauk Tua Spit On That,128.97,2,Erjohnson14,173.78,L,False
+2024,13,10,cc5597,The Problems,99.04,8,TylerWicks,147.39,L,False
+2024,14,1,bgreenblatt,Love Thy Nabers,193.9,9,brockhusk,141.07,W,False
+2024,14,2,Erjohnson14,Johnson’s Lil Johnson,161.0,4,jdrobny,174.86,L,False
+2024,14,3,MaxSirianni,Joeybagofdonuts2.0,139.33,8,TylerWicks,110.72,W,False
+2024,14,4,jdrobny,Stick in the Mud,174.86,2,Erjohnson14,161.0,W,False
+2024,14,5,kaufmannc,Clownin’ Around,149.75,7,KingTowsk,178.78,L,False
+2024,14,6,JSanDusky69,Respect Your Elders,122.79,10,cc5597,165.75,L,False
+2024,14,7,KingTowsk,Leeroy Jenkins,178.78,5,kaufmannc,149.75,W,False
+2024,14,8,TylerWicks,Dont stop Bo-lievin’,110.72,3,MaxSirianni,139.33,L,False
+2024,14,9,brockhusk,Brauk Tua Spit On That,141.07,1,bgreenblatt,193.9,L,False
+2024,14,10,cc5597,The Problems,165.75,6,JSanDusky69,122.79,W,False
+2024,15,2,Erjohnson14,Johnson’s Lil Johnson,175.78,8,TylerWicks,183.0,L,True
+2024,15,3,MaxSirianni,Joeybagofdonuts2.0,143.9,9,brockhusk,137.32,W,True
+2024,15,4,jdrobny,Stick in the Mud,130.99,10,cc5597,101.47,W,True
+2024,15,5,kaufmannc,Clownin’ Around,189.64,6,JSanDusky69,119.61,W,True
+2024,15,6,JSanDusky69,Respect Your Elders,119.61,5,kaufmannc,189.64,L,True
+2024,15,8,TylerWicks,Dont stop Bo-lievin’,183.0,2,Erjohnson14,175.78,W,True
+2024,15,9,brockhusk,Brauk Tua Spit On That,137.32,3,MaxSirianni,143.9,L,True
+2024,15,10,cc5597,The Problems,101.47,4,jdrobny,130.99,L,True
+2024,16,1,bgreenblatt,Love Thy Nabers,178.73,5,kaufmannc,174.72,W,True
+2024,16,2,Erjohnson14,Johnson’s Lil Johnson,148.41,6,JSanDusky69,177.52,L,True
+2024,16,3,MaxSirianni,Joeybagofdonuts2.0,116.74,4,jdrobny,138.54,L,True
+2024,16,4,jdrobny,Stick in the Mud,138.54,3,MaxSirianni,116.74,W,True
+2024,16,5,kaufmannc,Clownin’ Around,174.72,1,bgreenblatt,178.73,L,True
+2024,16,6,JSanDusky69,Respect Your Elders,177.52,2,Erjohnson14,148.41,W,True
+2024,16,7,KingTowsk,Leeroy Jenkins,172.55,8,TylerWicks,151.98,W,True
+2024,16,8,TylerWicks,Dont stop Bo-lievin’,151.98,7,KingTowsk,172.55,L,True
+2024,16,9,brockhusk,Brauk Tua Spit On That,118.91,10,cc5597,130.08,L,True
+2024,16,10,cc5597,The Problems,130.08,9,brockhusk,118.91,W,True
+2024,17,1,bgreenblatt,Love Thy Nabers,172.24,7,KingTowsk,205.05,L,True
+2024,17,5,kaufmannc,Clownin’ Around,187.45,8,TylerWicks,165.6,W,True
+2024,17,7,KingTowsk,Leeroy Jenkins,205.05,1,bgreenblatt,172.24,W,True
+2024,17,8,TylerWicks,Dont stop Bo-lievin’,165.6,5,kaufmannc,187.45,L,True

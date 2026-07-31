@@ -1,0 +1,197 @@
+season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manager,opponent_points,result,is_playoff
+2025,1,1,bgreenblatt,Young and Beautiful ,126.23,11,Jacktaco98,133.51,L,False
+2025,1,2,Erjohnson14,The TrashMen,115.93,9,brockhusk,153.44,L,False
+2025,1,3,MaxSirianni,We Built This Griddy,121.7,8,TylerWicks,105.36,W,False
+2025,1,4,jdrobny,Stick em up,141.27,12,akepple9,137.22,W,False
+2025,1,5,charliekaufmann,Clownin’ Around,88.31,10,cc5597,153.68,L,False
+2025,1,6,JSanDusky69,Manicures & Misery,99.49,7,KingTowsk,127.4,L,False
+2025,1,7,KingTowsk,Aaron Yeo’s future team,127.4,6,JSanDusky69,99.49,W,False
+2025,1,8,TylerWicks,Stopped Bo-lievin’,105.36,3,MaxSirianni,121.7,L,False
+2025,1,9,brockhusk,Just End The Season,153.44,2,Erjohnson14,115.93,W,False
+2025,1,10,cc5597,Baby Dak Gibbs,153.68,5,charliekaufmann,88.31,W,False
+2025,1,11,Jacktaco98,So white it hurts,133.51,1,bgreenblatt,126.23,W,False
+2025,1,12,akepple9,Something About Flacco ,137.22,4,jdrobny,141.27,L,False
+2025,2,1,bgreenblatt,Young and Beautiful ,128.67,12,akepple9,155.54,L,False
+2025,2,2,Erjohnson14,The TrashMen,129.33,4,jdrobny,106.08,W,False
+2025,2,3,MaxSirianni,We Built This Griddy,146.13,7,KingTowsk,175.38,L,False
+2025,2,4,jdrobny,Stick em up,106.08,2,Erjohnson14,129.33,L,False
+2025,2,5,charliekaufmann,Clownin’ Around,144.1,11,Jacktaco98,119.29,W,False
+2025,2,6,JSanDusky69,Manicures & Misery,124.48,9,brockhusk,103.25,W,False
+2025,2,7,KingTowsk,Aaron Yeo’s future team,175.38,3,MaxSirianni,146.13,W,False
+2025,2,8,TylerWicks,Stopped Bo-lievin’,142.02,10,cc5597,111.21,W,False
+2025,2,9,brockhusk,Just End The Season,103.25,6,JSanDusky69,124.48,L,False
+2025,2,10,cc5597,Baby Dak Gibbs,111.21,8,TylerWicks,142.02,L,False
+2025,2,11,Jacktaco98,So white it hurts,119.29,5,charliekaufmann,144.1,L,False
+2025,2,12,akepple9,Something About Flacco ,155.54,1,bgreenblatt,128.67,W,False
+2025,3,1,bgreenblatt,Young and Beautiful ,107.04,10,cc5597,160.21,L,False
+2025,3,2,Erjohnson14,The TrashMen,139.1,12,akepple9,113.69,W,False
+2025,3,3,MaxSirianni,We Built This Griddy,149.14,6,JSanDusky69,127.85,W,False
+2025,3,4,jdrobny,Stick em up,120.78,11,Jacktaco98,133.71,L,False
+2025,3,5,charliekaufmann,Clownin’ Around,106.54,9,brockhusk,166.44,L,False
+2025,3,6,JSanDusky69,Manicures & Misery,127.85,3,MaxSirianni,149.14,L,False
+2025,3,7,KingTowsk,Aaron Yeo’s future team,121.64,8,TylerWicks,120.98,W,False
+2025,3,8,TylerWicks,Stopped Bo-lievin’,120.98,7,KingTowsk,121.64,L,False
+2025,3,9,brockhusk,Just End The Season,166.44,5,charliekaufmann,106.54,W,False
+2025,3,10,cc5597,Baby Dak Gibbs,160.21,1,bgreenblatt,107.04,W,False
+2025,3,11,Jacktaco98,So white it hurts,133.71,4,jdrobny,120.78,W,False
+2025,3,12,akepple9,Something About Flacco ,113.69,2,Erjohnson14,139.1,L,False
+2025,4,1,bgreenblatt,Young and Beautiful ,140.84,6,JSanDusky69,166.81,L,False
+2025,4,2,Erjohnson14,The TrashMen,130.72,8,TylerWicks,128.21,W,False
+2025,4,3,MaxSirianni,We Built This Griddy,165.26,10,cc5597,150.17,W,False
+2025,4,4,jdrobny,Stick em up,157.92,12,akepple9,170.42,L,False
+2025,4,5,charliekaufmann,Clownin’ Around,155.75,7,KingTowsk,105.06,W,False
+2025,4,6,JSanDusky69,Manicures & Misery,166.81,1,bgreenblatt,140.84,W,False
+2025,4,7,KingTowsk,Aaron Yeo’s future team,105.06,5,charliekaufmann,155.75,L,False
+2025,4,8,TylerWicks,Stopped Bo-lievin’,128.21,2,Erjohnson14,130.72,L,False
+2025,4,9,brockhusk,Just End The Season,111.59,11,Jacktaco98,168.02,L,False
+2025,4,10,cc5597,Baby Dak Gibbs,150.17,3,MaxSirianni,165.26,L,False
+2025,4,11,Jacktaco98,So white it hurts,168.02,9,brockhusk,111.59,W,False
+2025,4,12,akepple9,Something About Flacco ,170.42,4,jdrobny,157.92,W,False
+2025,5,1,bgreenblatt,Young and Beautiful ,149.05,4,jdrobny,145.05,W,False
+2025,5,2,Erjohnson14,The TrashMen,145.61,10,cc5597,151.7,L,False
+2025,5,3,MaxSirianni,We Built This Griddy,145.46,9,brockhusk,159.66,L,False
+2025,5,4,jdrobny,Stick em up,145.05,1,bgreenblatt,149.05,L,False
+2025,5,5,charliekaufmann,Clownin’ Around,120.24,6,JSanDusky69,149.41,L,False
+2025,5,6,JSanDusky69,Manicures & Misery,149.41,5,charliekaufmann,120.24,W,False
+2025,5,7,KingTowsk,Aaron Yeo’s future team,108.18,11,Jacktaco98,119.17,L,False
+2025,5,8,TylerWicks,Stopped Bo-lievin’,156.44,12,akepple9,141.64,W,False
+2025,5,9,brockhusk,Just End The Season,159.66,3,MaxSirianni,145.46,W,False
+2025,5,10,cc5597,Baby Dak Gibbs,151.7,2,Erjohnson14,145.61,W,False
+2025,5,11,Jacktaco98,So white it hurts,119.17,7,KingTowsk,108.18,W,False
+2025,5,12,akepple9,Something About Flacco ,141.64,8,TylerWicks,156.44,L,False
+2025,6,1,bgreenblatt,Young and Beautiful ,183.96,2,Erjohnson14,153.96,W,False
+2025,6,2,Erjohnson14,The TrashMen,153.96,1,bgreenblatt,183.96,L,False
+2025,6,3,MaxSirianni,We Built This Griddy,119.31,5,charliekaufmann,103.4,W,False
+2025,6,4,jdrobny,Stick em up,110.6,8,TylerWicks,112.76,L,False
+2025,6,5,charliekaufmann,Clownin’ Around,103.4,3,MaxSirianni,119.31,L,False
+2025,6,6,JSanDusky69,Manicures & Misery,103.14,11,Jacktaco98,144.61,L,False
+2025,6,7,KingTowsk,Aaron Yeo’s future team,140.21,9,brockhusk,125.92,W,False
+2025,6,8,TylerWicks,Stopped Bo-lievin’,112.76,4,jdrobny,110.6,W,False
+2025,6,9,brockhusk,Just End The Season,125.92,7,KingTowsk,140.21,L,False
+2025,6,10,cc5597,Baby Dak Gibbs,145.89,12,akepple9,123.8,W,False
+2025,6,11,Jacktaco98,So white it hurts,144.61,6,JSanDusky69,103.14,W,False
+2025,6,12,akepple9,Something About Flacco ,123.8,10,cc5597,145.89,L,False
+2025,7,1,bgreenblatt,Young and Beautiful ,153.24,7,KingTowsk,123.6,W,False
+2025,7,2,Erjohnson14,The TrashMen,173.23,11,Jacktaco98,144.82,W,False
+2025,7,3,MaxSirianni,We Built This Griddy,102.63,12,akepple9,134.88,L,False
+2025,7,4,jdrobny,Stick em up,135.58,10,cc5597,165.16,L,False
+2025,7,5,charliekaufmann,Clownin’ Around,119.66,6,JSanDusky69,106.01,W,False
+2025,7,6,JSanDusky69,Manicures & Misery,106.01,5,charliekaufmann,119.66,L,False
+2025,7,7,KingTowsk,Aaron Yeo’s future team,123.6,1,bgreenblatt,153.24,L,False
+2025,7,8,TylerWicks,Stopped Bo-lievin’,199.72,9,brockhusk,123.49,W,False
+2025,7,9,brockhusk,Just End The Season,123.49,8,TylerWicks,199.72,L,False
+2025,7,10,cc5597,Baby Dak Gibbs,165.16,4,jdrobny,135.58,W,False
+2025,7,11,Jacktaco98,So white it hurts,144.82,2,Erjohnson14,173.23,L,False
+2025,7,12,akepple9,Something About Flacco ,134.88,3,MaxSirianni,102.63,W,False
+2025,8,1,bgreenblatt,Young and Beautiful ,100.69,3,MaxSirianni,127.8,L,False
+2025,8,2,Erjohnson14,The TrashMen,155.77,10,cc5597,104.24,W,False
+2025,8,3,MaxSirianni,We Built This Griddy,127.8,1,bgreenblatt,100.69,W,False
+2025,8,4,jdrobny,Stick em up,130.33,9,brockhusk,117.22,W,False
+2025,8,5,charliekaufmann,Clownin’ Around,121.77,8,TylerWicks,174.95,L,False
+2025,8,6,JSanDusky69,Manicures & Misery,133.37,12,akepple9,160.53,L,False
+2025,8,7,KingTowsk,Aaron Yeo’s future team,91.28,11,Jacktaco98,139.24,L,False
+2025,8,8,TylerWicks,Stopped Bo-lievin’,174.95,5,charliekaufmann,121.77,W,False
+2025,8,9,brockhusk,Just End The Season,117.22,4,jdrobny,130.33,L,False
+2025,8,10,cc5597,Baby Dak Gibbs,104.24,2,Erjohnson14,155.77,L,False
+2025,8,11,Jacktaco98,So white it hurts,139.24,7,KingTowsk,91.28,W,False
+2025,8,12,akepple9,Something About Flacco ,160.53,6,JSanDusky69,133.37,W,False
+2025,9,1,bgreenblatt,Young and Beautiful ,170.93,4,jdrobny,123.29,W,False
+2025,9,2,Erjohnson14,The TrashMen,130.17,5,charliekaufmann,152.45,L,False
+2025,9,3,MaxSirianni,We Built This Griddy,142.77,7,KingTowsk,137.28,W,False
+2025,9,4,jdrobny,Stick em up,123.29,1,bgreenblatt,170.93,L,False
+2025,9,5,charliekaufmann,Clownin’ Around,152.45,2,Erjohnson14,130.17,W,False
+2025,9,6,JSanDusky69,Manicures & Misery,161.76,8,TylerWicks,120.13,W,False
+2025,9,7,KingTowsk,Aaron Yeo’s future team,137.28,3,MaxSirianni,142.77,L,False
+2025,9,8,TylerWicks,Stopped Bo-lievin’,120.13,6,JSanDusky69,161.76,L,False
+2025,9,9,brockhusk,Just End The Season,128.21,10,cc5597,132.02,L,False
+2025,9,10,cc5597,Baby Dak Gibbs,132.02,9,brockhusk,128.21,W,False
+2025,9,11,Jacktaco98,So white it hurts,129.06,12,akepple9,124.01,W,False
+2025,9,12,akepple9,Something About Flacco ,124.01,11,Jacktaco98,129.06,L,False
+2025,10,1,bgreenblatt,Young and Beautiful ,181.85,5,charliekaufmann,95.14,W,False
+2025,10,2,Erjohnson14,The TrashMen,156.09,7,KingTowsk,124.77,W,False
+2025,10,3,MaxSirianni,We Built This Griddy,107.11,4,jdrobny,114.0,L,False
+2025,10,4,jdrobny,Stick em up,114.0,3,MaxSirianni,107.11,W,False
+2025,10,5,charliekaufmann,Clownin’ Around,95.14,1,bgreenblatt,181.85,L,False
+2025,10,6,JSanDusky69,Manicures & Misery,132.46,11,Jacktaco98,121.12,W,False
+2025,10,7,KingTowsk,Aaron Yeo’s future team,124.77,2,Erjohnson14,156.09,L,False
+2025,10,8,TylerWicks,Stopped Bo-lievin’,133.43,10,cc5597,139.6,L,False
+2025,10,9,brockhusk,Just End The Season,169.51,12,akepple9,128.0,W,False
+2025,10,10,cc5597,Baby Dak Gibbs,139.6,8,TylerWicks,133.43,W,False
+2025,10,11,Jacktaco98,So white it hurts,121.12,6,JSanDusky69,132.46,L,False
+2025,10,12,akepple9,Something About Flacco ,128.0,9,brockhusk,169.51,L,False
+2025,11,1,bgreenblatt,Young and Beautiful ,176.8,9,brockhusk,91.59,W,False
+2025,11,2,Erjohnson14,The TrashMen,119.84,5,charliekaufmann,131.34,L,False
+2025,11,3,MaxSirianni,We Built This Griddy,102.92,11,Jacktaco98,109.29,L,False
+2025,11,4,jdrobny,Stick em up,113.89,6,JSanDusky69,95.64,W,False
+2025,11,5,charliekaufmann,Clownin’ Around,131.34,2,Erjohnson14,119.84,W,False
+2025,11,6,JSanDusky69,Manicures & Misery,95.64,4,jdrobny,113.89,L,False
+2025,11,7,KingTowsk,Aaron Yeo’s future team,128.91,10,cc5597,191.85,L,False
+2025,11,8,TylerWicks,Stopped Bo-lievin’,179.11,12,akepple9,95.1,W,False
+2025,11,9,brockhusk,Just End The Season,91.59,1,bgreenblatt,176.8,L,False
+2025,11,10,cc5597,Baby Dak Gibbs,191.85,7,KingTowsk,128.91,W,False
+2025,11,11,Jacktaco98,So white it hurts,109.29,3,MaxSirianni,102.92,W,False
+2025,11,12,akepple9,Something About Flacco ,95.1,8,TylerWicks,179.11,L,False
+2025,12,1,bgreenblatt,Young and Beautiful ,113.79,5,charliekaufmann,130.26,L,False
+2025,12,2,Erjohnson14,The TrashMen,108.62,9,brockhusk,81.01,W,False
+2025,12,3,MaxSirianni,We Built This Griddy,119.27,12,akepple9,131.89,L,False
+2025,12,4,jdrobny,Stick em up,139.56,7,KingTowsk,149.53,L,False
+2025,12,5,charliekaufmann,Clownin’ Around,130.26,1,bgreenblatt,113.79,W,False
+2025,12,6,JSanDusky69,Manicures & Misery,100.47,10,cc5597,179.83,L,False
+2025,12,7,KingTowsk,Aaron Yeo’s future team,149.53,4,jdrobny,139.56,W,False
+2025,12,8,TylerWicks,Stopped Bo-lievin’,141.14,11,Jacktaco98,166.37,L,False
+2025,12,9,brockhusk,Just End The Season,81.01,2,Erjohnson14,108.62,L,False
+2025,12,10,cc5597,Baby Dak Gibbs,179.83,6,JSanDusky69,100.47,W,False
+2025,12,11,Jacktaco98,So white it hurts,166.37,8,TylerWicks,141.14,W,False
+2025,12,12,akepple9,Something About Flacco ,131.89,3,MaxSirianni,119.27,W,False
+2025,13,1,bgreenblatt,Young and Beautiful ,131.9,8,TylerWicks,112.43,W,False
+2025,13,2,Erjohnson14,The TrashMen,176.04,3,MaxSirianni,87.23,W,False
+2025,13,3,MaxSirianni,We Built This Griddy,87.23,2,Erjohnson14,176.04,L,False
+2025,13,4,jdrobny,Stick em up,114.16,6,JSanDusky69,144.87,L,False
+2025,13,5,charliekaufmann,Clownin’ Around,91.51,12,akepple9,149.88,L,False
+2025,13,6,JSanDusky69,Manicures & Misery,144.87,4,jdrobny,114.16,W,False
+2025,13,7,KingTowsk,Aaron Yeo’s future team,151.08,9,brockhusk,115.5,W,False
+2025,13,8,TylerWicks,Stopped Bo-lievin’,112.43,1,bgreenblatt,131.9,L,False
+2025,13,9,brockhusk,Just End The Season,115.5,7,KingTowsk,151.08,L,False
+2025,13,10,cc5597,Baby Dak Gibbs,126.12,11,Jacktaco98,107.98,W,False
+2025,13,11,Jacktaco98,So white it hurts,107.98,10,cc5597,126.12,L,False
+2025,13,12,akepple9,Something About Flacco ,149.88,5,charliekaufmann,91.51,W,False
+2025,14,1,bgreenblatt,Young and Beautiful ,101.69,10,cc5597,186.38,L,False
+2025,14,2,Erjohnson14,The TrashMen,115.63,6,JSanDusky69,150.95,L,False
+2025,14,3,MaxSirianni,We Built This Griddy,138.67,11,Jacktaco98,94.2,W,False
+2025,14,4,jdrobny,Stick em up,86.0,5,charliekaufmann,119.59,L,False
+2025,14,5,charliekaufmann,Clownin’ Around,119.59,4,jdrobny,86.0,W,False
+2025,14,6,JSanDusky69,Manicures & Misery,150.95,2,Erjohnson14,115.63,W,False
+2025,14,7,KingTowsk,Aaron Yeo’s future team,126.01,12,akepple9,163.41,L,False
+2025,14,8,TylerWicks,Stopped Bo-lievin’,142.2,9,brockhusk,107.14,W,False
+2025,14,9,brockhusk,Just End The Season,107.14,8,TylerWicks,142.2,L,False
+2025,14,10,cc5597,Baby Dak Gibbs,186.38,1,bgreenblatt,101.69,W,False
+2025,14,11,Jacktaco98,So white it hurts,94.2,3,MaxSirianni,138.67,L,False
+2025,14,12,akepple9,Something About Flacco ,163.41,7,KingTowsk,126.01,W,False
+2025,15,1,bgreenblatt,Young and Beautiful ,138.01,8,TylerWicks,125.78,W,True
+2025,15,2,Erjohnson14,The TrashMen,176.19,12,akepple9,159.88,W,True
+2025,15,3,MaxSirianni,We Built This Griddy,154.23,5,charliekaufmann,126.31,W,True
+2025,15,5,charliekaufmann,Clownin’ Around,126.31,3,MaxSirianni,154.23,L,True
+2025,15,6,JSanDusky69,Manicures & Misery,146.56,7,KingTowsk,141.3,W,True
+2025,15,7,KingTowsk,Aaron Yeo’s future team,141.3,6,JSanDusky69,146.56,L,True
+2025,15,8,TylerWicks,Stopped Bo-lievin’,125.78,1,bgreenblatt,138.01,L,True
+2025,15,12,akepple9,Something About Flacco ,159.88,2,Erjohnson14,176.19,L,True
+2025,16,1,bgreenblatt,Young and Beautiful ,101.54,10,cc5597,150.21,L,True
+2025,16,2,Erjohnson14,The TrashMen,146.91,11,Jacktaco98,137.6,W,True
+2025,16,3,MaxSirianni,We Built This Griddy,117.28,6,JSanDusky69,136.88,L,True
+2025,16,4,jdrobny,Stick em up,159.63,5,charliekaufmann,117.79,W,True
+2025,16,5,charliekaufmann,Clownin’ Around,117.79,4,jdrobny,159.63,L,True
+2025,16,6,JSanDusky69,Manicures & Misery,136.88,3,MaxSirianni,117.28,W,True
+2025,16,7,KingTowsk,Aaron Yeo’s future team,103.38,9,brockhusk,124.04,L,True
+2025,16,8,TylerWicks,Stopped Bo-lievin’,140.81,12,akepple9,222.36,L,True
+2025,16,9,brockhusk,Just End The Season,124.04,7,KingTowsk,103.38,W,True
+2025,16,10,cc5597,Baby Dak Gibbs,150.21,1,bgreenblatt,101.54,W,True
+2025,16,11,Jacktaco98,So white it hurts,137.6,2,Erjohnson14,146.91,L,True
+2025,16,12,akepple9,Something About Flacco ,222.36,8,TylerWicks,140.81,W,True
+2025,17,1,bgreenblatt,Young and Beautiful ,105.56,11,Jacktaco98,94.34,W,True
+2025,17,2,Erjohnson14,The TrashMen,171.04,10,cc5597,160.91,W,True
+2025,17,4,jdrobny,Stick em up,79.85,9,brockhusk,113.04,L,True
+2025,17,5,charliekaufmann,Clownin’ Around,129.76,7,KingTowsk,94.04,W,True
+2025,17,7,KingTowsk,Aaron Yeo’s future team,94.04,5,charliekaufmann,129.76,L,True
+2025,17,9,brockhusk,Just End The Season,113.04,4,jdrobny,79.85,W,True
+2025,17,10,cc5597,Baby Dak Gibbs,160.91,2,Erjohnson14,171.04,L,True
+2025,17,11,Jacktaco98,So white it hurts,94.34,1,bgreenblatt,105.56,L,True

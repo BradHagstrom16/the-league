@@ -1,0 +1,12 @@
+season,bracket,round,matchup_id,roster_id_1,roster_id_2,winner,loser,position
+2024,winners,1,1,6,5,5,6,
+2024,winners,1,2,8,2,8,2,
+2024,winners,2,3,1,5,1,5,
+2024,winners,2,4,7,8,7,8,
+2024,winners,2,5,6,2,6,2,5
+2024,winners,3,6,1,7,7,1,1
+2024,winners,3,7,5,8,5,8,3
+2024,losers,1,1,3,9,9,3,
+2024,losers,1,2,4,10,10,4,
+2024,losers,2,3,9,10,9,10,1
+2024,losers,2,4,3,4,3,4,3

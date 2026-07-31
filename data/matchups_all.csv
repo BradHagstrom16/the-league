@@ -1,0 +1,843 @@
+season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manager,opponent_points,result,is_playoff
+2021,1,1,bgreenblatt,Ellis is a homo,149.98,8,TylerWicks,115.9,W,False
+2021,1,2,Erjohnson14,Ben choked ,134.24,10,cc5597,115.6,W,False
+2021,1,3,MaxSirianni,Brad can you Diggs it?,131.4,6,JSanDusky69,158.68,L,False
+2021,1,4,jdrobny,Kareem in her Hunt,129.64,9,brockhusk,165.96,L,False
+2021,1,5,kaufmannc,Cleveland Steamers,166.66,7,KingTowsk,155.68,W,False
+2021,1,6,JSanDusky69,2 Girls 1 Kupp,158.68,3,MaxSirianni,131.4,W,False
+2021,1,7,KingTowsk,The Toilet Bowl Champ,155.68,5,kaufmannc,166.66,L,False
+2021,1,8,TylerWicks,Opted Out,115.9,1,bgreenblatt,149.98,L,False
+2021,1,9,brockhusk,Mike White GOAT,165.96,4,jdrobny,129.64,W,False
+2021,1,10,cc5597,No Punt Intended,115.6,2,Erjohnson14,134.24,L,False
+2021,2,1,bgreenblatt,Ellis is a homo,100.64,4,jdrobny,173.92,L,False
+2021,2,2,Erjohnson14,Ben choked ,154.14,5,kaufmannc,167.94,L,False
+2021,2,3,MaxSirianni,Brad can you Diggs it?,120.14,10,cc5597,139.32,L,False
+2021,2,4,jdrobny,Kareem in her Hunt,173.92,1,bgreenblatt,100.64,W,False
+2021,2,5,kaufmannc,Cleveland Steamers,167.94,2,Erjohnson14,154.14,W,False
+2021,2,6,JSanDusky69,2 Girls 1 Kupp,134.6,7,KingTowsk,131.8,W,False
+2021,2,7,KingTowsk,The Toilet Bowl Champ,131.8,6,JSanDusky69,134.6,L,False
+2021,2,8,TylerWicks,Opted Out,201.96,9,brockhusk,130.8,W,False
+2021,2,9,brockhusk,Mike White GOAT,130.8,8,TylerWicks,201.96,L,False
+2021,2,10,cc5597,No Punt Intended,139.32,3,MaxSirianni,120.14,W,False
+2021,3,1,bgreenblatt,Ellis is a homo,181.9,9,brockhusk,139.16,W,False
+2021,3,2,Erjohnson14,Ben choked ,138.3,3,MaxSirianni,120.56,W,False
+2021,3,3,MaxSirianni,Brad can you Diggs it?,120.56,2,Erjohnson14,138.3,L,False
+2021,3,4,jdrobny,Kareem in her Hunt,171.08,8,TylerWicks,175.06,L,False
+2021,3,5,kaufmannc,Cleveland Steamers,131.34,6,JSanDusky69,130.4,W,False
+2021,3,6,JSanDusky69,2 Girls 1 Kupp,130.4,5,kaufmannc,131.34,L,False
+2021,3,7,KingTowsk,The Toilet Bowl Champ,114.84,10,cc5597,160.12,L,False
+2021,3,8,TylerWicks,Opted Out,175.06,4,jdrobny,171.08,W,False
+2021,3,9,brockhusk,Mike White GOAT,139.16,1,bgreenblatt,181.9,L,False
+2021,3,10,cc5597,No Punt Intended,160.12,7,KingTowsk,114.84,W,False
+2021,4,1,bgreenblatt,Ellis is a homo,141.34,2,Erjohnson14,159.32,L,False
+2021,4,2,Erjohnson14,Ben choked ,159.32,1,bgreenblatt,141.34,W,False
+2021,4,3,MaxSirianni,Brad can you Diggs it?,97.46,4,jdrobny,180.56,L,False
+2021,4,4,jdrobny,Kareem in her Hunt,180.56,3,MaxSirianni,97.46,W,False
+2021,4,5,kaufmannc,Cleveland Steamers,187.74,10,cc5597,110.18,W,False
+2021,4,6,JSanDusky69,2 Girls 1 Kupp,161.26,9,brockhusk,147.1,W,False
+2021,4,7,KingTowsk,The Toilet Bowl Champ,106.48,8,TylerWicks,127.94,L,False
+2021,4,8,TylerWicks,Opted Out,127.94,7,KingTowsk,106.48,W,False
+2021,4,9,brockhusk,Mike White GOAT,147.1,6,JSanDusky69,161.26,L,False
+2021,4,10,cc5597,No Punt Intended,110.18,5,kaufmannc,187.74,L,False
+2021,5,1,bgreenblatt,Ellis is a homo,213.58,10,cc5597,190.58,W,False
+2021,5,2,Erjohnson14,Ben choked ,131.56,7,KingTowsk,201.0,L,False
+2021,5,3,MaxSirianni,Brad can you Diggs it?,166.68,9,brockhusk,159.04,W,False
+2021,5,4,jdrobny,Kareem in her Hunt,218.14,6,JSanDusky69,102.94,W,False
+2021,5,5,kaufmannc,Cleveland Steamers,133.18,8,TylerWicks,121.22,W,False
+2021,5,6,JSanDusky69,2 Girls 1 Kupp,102.94,4,jdrobny,218.14,L,False
+2021,5,7,KingTowsk,The Toilet Bowl Champ,201.0,2,Erjohnson14,131.56,W,False
+2021,5,8,TylerWicks,Opted Out,121.22,5,kaufmannc,133.18,L,False
+2021,5,9,brockhusk,Mike White GOAT,159.04,3,MaxSirianni,166.68,L,False
+2021,5,10,cc5597,No Punt Intended,190.58,1,bgreenblatt,213.58,L,False
+2021,6,1,bgreenblatt,Ellis is a homo,169.56,3,MaxSirianni,126.48,W,False
+2021,6,2,Erjohnson14,Ben choked ,154.14,6,JSanDusky69,185.98,L,False
+2021,6,3,MaxSirianni,Brad can you Diggs it?,126.48,1,bgreenblatt,169.56,L,False
+2021,6,4,jdrobny,Kareem in her Hunt,149.1,5,kaufmannc,143.92,W,False
+2021,6,5,kaufmannc,Cleveland Steamers,143.92,4,jdrobny,149.1,L,False
+2021,6,6,JSanDusky69,2 Girls 1 Kupp,185.98,2,Erjohnson14,154.14,W,False
+2021,6,7,KingTowsk,The Toilet Bowl Champ,134.24,9,brockhusk,150.06,L,False
+2021,6,8,TylerWicks,Opted Out,117.62,10,cc5597,137.42,L,False
+2021,6,9,brockhusk,Mike White GOAT,150.06,7,KingTowsk,134.24,W,False
+2021,6,10,cc5597,No Punt Intended,137.42,8,TylerWicks,117.62,W,False
+2021,7,1,bgreenblatt,Ellis is a homo,148.4,6,JSanDusky69,135.24,W,False
+2021,7,2,Erjohnson14,Ben choked ,160.48,8,TylerWicks,146.38,W,False
+2021,7,3,MaxSirianni,Brad can you Diggs it?,98.98,7,KingTowsk,171.06,L,False
+2021,7,4,jdrobny,Kareem in her Hunt,143.4,10,cc5597,180.08,L,False
+2021,7,5,kaufmannc,Cleveland Steamers,122.18,9,brockhusk,128.04,L,False
+2021,7,6,JSanDusky69,2 Girls 1 Kupp,135.24,1,bgreenblatt,148.4,L,False
+2021,7,7,KingTowsk,The Toilet Bowl Champ,171.06,3,MaxSirianni,98.98,W,False
+2021,7,8,TylerWicks,Opted Out,146.38,2,Erjohnson14,160.48,L,False
+2021,7,9,brockhusk,Mike White GOAT,128.04,5,kaufmannc,122.18,W,False
+2021,7,10,cc5597,No Punt Intended,180.08,4,jdrobny,143.4,W,False
+2021,8,1,bgreenblatt,Ellis is a homo,151.76,7,KingTowsk,125.66,W,False
+2021,8,2,Erjohnson14,Ben choked ,159.62,4,jdrobny,113.04,W,False
+2021,8,3,MaxSirianni,Brad can you Diggs it?,119.98,5,kaufmannc,93.06,W,False
+2021,8,4,jdrobny,Kareem in her Hunt,113.04,2,Erjohnson14,159.62,L,False
+2021,8,5,kaufmannc,Cleveland Steamers,93.06,3,MaxSirianni,119.98,L,False
+2021,8,6,JSanDusky69,2 Girls 1 Kupp,153.36,8,TylerWicks,131.64,W,False
+2021,8,7,KingTowsk,The Toilet Bowl Champ,125.66,1,bgreenblatt,151.76,L,False
+2021,8,8,TylerWicks,Opted Out,131.64,6,JSanDusky69,153.36,L,False
+2021,8,9,brockhusk,Mike White GOAT,125.94,10,cc5597,131.36,L,False
+2021,8,10,cc5597,No Punt Intended,131.36,9,brockhusk,125.94,W,False
+2021,9,1,bgreenblatt,Ellis is a homo,110.18,5,kaufmannc,159.36,L,False
+2021,9,2,Erjohnson14,Ben choked ,122.44,9,brockhusk,122.22,W,False
+2021,9,3,MaxSirianni,Brad can you Diggs it?,116.68,8,TylerWicks,103.6,W,False
+2021,9,4,jdrobny,Kareem in her Hunt,118.02,7,KingTowsk,144.24,L,False
+2021,9,5,kaufmannc,Cleveland Steamers,159.36,1,bgreenblatt,110.18,W,False
+2021,9,6,JSanDusky69,2 Girls 1 Kupp,90.18,10,cc5597,91.12,L,False
+2021,9,7,KingTowsk,The Toilet Bowl Champ,144.24,4,jdrobny,118.02,W,False
+2021,9,8,TylerWicks,Opted Out,103.6,3,MaxSirianni,116.68,L,False
+2021,9,9,brockhusk,Mike White GOAT,122.22,2,Erjohnson14,122.44,L,False
+2021,9,10,cc5597,No Punt Intended,91.12,6,JSanDusky69,90.18,W,False
+2021,10,1,bgreenblatt,Ellis is a homo,151.56,8,TylerWicks,91.66,W,False
+2021,10,2,Erjohnson14,Ben choked ,148.72,10,cc5597,124.24,W,False
+2021,10,3,MaxSirianni,Brad can you Diggs it?,124.84,6,JSanDusky69,136.58,L,False
+2021,10,4,jdrobny,Kareem in her Hunt,94.82,9,brockhusk,74.42,W,False
+2021,10,5,kaufmannc,Cleveland Steamers,151.0,7,KingTowsk,130.4,W,False
+2021,10,6,JSanDusky69,2 Girls 1 Kupp,136.58,3,MaxSirianni,124.84,W,False
+2021,10,7,KingTowsk,The Toilet Bowl Champ,130.4,5,kaufmannc,151.0,L,False
+2021,10,8,TylerWicks,Opted Out,91.66,1,bgreenblatt,151.56,L,False
+2021,10,9,brockhusk,Mike White GOAT,74.42,4,jdrobny,94.82,L,False
+2021,10,10,cc5597,No Punt Intended,124.24,2,Erjohnson14,148.72,L,False
+2021,11,1,bgreenblatt,Ellis is a homo,149.08,4,jdrobny,168.56,L,False
+2021,11,2,Erjohnson14,Ben choked ,114.74,5,kaufmannc,150.68,L,False
+2021,11,3,MaxSirianni,Brad can you Diggs it?,101.02,10,cc5597,129.1,L,False
+2021,11,4,jdrobny,Kareem in her Hunt,168.56,1,bgreenblatt,149.08,W,False
+2021,11,5,kaufmannc,Cleveland Steamers,150.68,2,Erjohnson14,114.74,W,False
+2021,11,6,JSanDusky69,2 Girls 1 Kupp,136.22,7,KingTowsk,172.58,L,False
+2021,11,7,KingTowsk,The Toilet Bowl Champ,172.58,6,JSanDusky69,136.22,W,False
+2021,11,8,TylerWicks,Opted Out,153.56,9,brockhusk,145.78,W,False
+2021,11,9,brockhusk,Mike White GOAT,145.78,8,TylerWicks,153.56,L,False
+2021,11,10,cc5597,No Punt Intended,129.1,3,MaxSirianni,101.02,W,False
+2021,12,1,bgreenblatt,Ellis is a homo,161.72,9,brockhusk,135.9,W,False
+2021,12,2,Erjohnson14,Ben choked ,137.16,3,MaxSirianni,142.72,L,False
+2021,12,3,MaxSirianni,Brad can you Diggs it?,142.72,2,Erjohnson14,137.16,W,False
+2021,12,4,jdrobny,Kareem in her Hunt,111.88,8,TylerWicks,117.76,L,False
+2021,12,5,kaufmannc,Cleveland Steamers,117.32,6,JSanDusky69,129.3,L,False
+2021,12,6,JSanDusky69,2 Girls 1 Kupp,129.3,5,kaufmannc,117.32,W,False
+2021,12,7,KingTowsk,The Toilet Bowl Champ,129.68,10,cc5597,148.04,L,False
+2021,12,8,TylerWicks,Opted Out,117.76,4,jdrobny,111.88,W,False
+2021,12,9,brockhusk,Mike White GOAT,135.9,1,bgreenblatt,161.72,L,False
+2021,12,10,cc5597,No Punt Intended,148.04,7,KingTowsk,129.68,W,False
+2021,13,1,bgreenblatt,Ellis is a homo,171.14,2,Erjohnson14,178.86,L,False
+2021,13,2,Erjohnson14,Ben choked ,178.86,1,bgreenblatt,171.14,W,False
+2021,13,3,MaxSirianni,Brad can you Diggs it?,138.86,4,jdrobny,131.04,W,False
+2021,13,4,jdrobny,Kareem in her Hunt,131.04,3,MaxSirianni,138.86,L,False
+2021,13,5,kaufmannc,Cleveland Steamers,116.72,10,cc5597,183.22,L,False
+2021,13,6,JSanDusky69,2 Girls 1 Kupp,182.24,9,brockhusk,104.38,W,False
+2021,13,7,KingTowsk,The Toilet Bowl Champ,116.32,8,TylerWicks,133.06,L,False
+2021,13,8,TylerWicks,Opted Out,133.06,7,KingTowsk,116.32,W,False
+2021,13,9,brockhusk,Mike White GOAT,104.38,6,JSanDusky69,182.24,L,False
+2021,13,10,cc5597,No Punt Intended,183.22,5,kaufmannc,116.72,W,False
+2021,14,2,Erjohnson14,Ben choked ,142.52,4,jdrobny,153.96,L,True
+2021,14,3,MaxSirianni,Brad can you Diggs it?,170.4,7,KingTowsk,109.8,W,True
+2021,14,4,jdrobny,Kareem in her Hunt,153.96,2,Erjohnson14,142.52,W,True
+2021,14,5,kaufmannc,Cleveland Steamers,117.28,6,JSanDusky69,179.66,L,True
+2021,14,6,JSanDusky69,2 Girls 1 Kupp,179.66,5,kaufmannc,117.28,W,True
+2021,14,7,KingTowsk,The Toilet Bowl Champ,109.8,3,MaxSirianni,170.4,L,True
+2021,14,8,TylerWicks,Opted Out,165.48,9,brockhusk,134.42,W,True
+2021,14,9,brockhusk,Mike White GOAT,134.42,8,TylerWicks,165.48,L,True
+2021,15,1,bgreenblatt,Ellis is a homo,112.32,4,jdrobny,121.24,L,True
+2021,15,2,Erjohnson14,Ben choked ,144.3,5,kaufmannc,106.36,W,True
+2021,15,3,MaxSirianni,Brad can you Diggs it?,108.72,8,TylerWicks,72.92,W,True
+2021,15,4,jdrobny,Kareem in her Hunt,121.24,1,bgreenblatt,112.32,W,True
+2021,15,5,kaufmannc,Cleveland Steamers,106.36,2,Erjohnson14,144.3,L,True
+2021,15,6,JSanDusky69,2 Girls 1 Kupp,171.04,10,cc5597,75.74,W,True
+2021,15,7,KingTowsk,The Toilet Bowl Champ,142.7,9,brockhusk,97.72,W,True
+2021,15,8,TylerWicks,Opted Out,72.92,3,MaxSirianni,108.72,L,True
+2021,15,9,brockhusk,Mike White GOAT,97.72,7,KingTowsk,142.7,L,True
+2021,15,10,cc5597,No Punt Intended,75.74,6,JSanDusky69,171.04,L,True
+2021,16,1,bgreenblatt,Ellis is a homo,177.26,10,cc5597,185.78,L,True
+2021,16,3,MaxSirianni,Brad can you Diggs it?,101.54,8,TylerWicks,67.92,W,True
+2021,16,4,jdrobny,Kareem in her Hunt,119.9,6,JSanDusky69,99.04,W,True
+2021,16,6,JSanDusky69,2 Girls 1 Kupp,99.04,4,jdrobny,119.9,L,True
+2021,16,7,KingTowsk,The Toilet Bowl Champ,144.16,9,brockhusk,140.3,W,True
+2021,16,8,TylerWicks,Opted Out,67.92,3,MaxSirianni,101.54,L,True
+2021,16,9,brockhusk,Mike White GOAT,140.3,7,KingTowsk,144.16,L,True
+2021,16,10,cc5597,No Punt Intended,185.78,1,bgreenblatt,177.26,W,True
+2021,17,1,bgreenblatt,Ellis is a homo,166.96,10,cc5597,157.54,W,True
+2021,17,4,jdrobny,Kareem in her Hunt,140.84,6,JSanDusky69,145.74,L,True
+2021,17,6,JSanDusky69,2 Girls 1 Kupp,145.74,4,jdrobny,140.84,W,True
+2021,17,10,cc5597,No Punt Intended,157.54,1,bgreenblatt,166.96,L,True
+2022,1,1,bgreenblatt,Taylor Park Boys,174.02,7,KingTowsk,175.31,L,False
+2022,1,2,Erjohnson14,Dairy Sanders,142.8,5,kaufmannc,109.2,W,False
+2022,1,3,MaxSirianni,Tucker right in the pu$$y,151.74,8,TylerWicks,133.57,W,False
+2022,1,4,jdrobny,Rather Be Lucky Than Good,135.05,10,cc5597,119.68,W,False
+2022,1,5,kaufmannc,Mar-a-lago Raiders ,109.2,2,Erjohnson14,142.8,L,False
+2022,1,6,JSanDusky69,2 Girls 0 Kupps,147.62,9,brockhusk,104.96,W,False
+2022,1,7,KingTowsk,Leeroy Jenkins,175.31,1,bgreenblatt,174.02,W,False
+2022,1,8,TylerWicks,Sick of Gesicki,133.57,3,MaxSirianni,151.74,L,False
+2022,1,9,brockhusk,Super Flex Offenders ,104.96,6,JSanDusky69,147.62,L,False
+2022,1,10,cc5597,The Bengalphin Boys,119.68,4,jdrobny,135.05,L,False
+2022,2,1,bgreenblatt,Taylor Park Boys,141.32,8,TylerWicks,175.3,L,False
+2022,2,2,Erjohnson14,Dairy Sanders,126.27,6,JSanDusky69,156.59,L,False
+2022,2,3,MaxSirianni,Tucker right in the pu$$y,138.13,7,KingTowsk,158.83,L,False
+2022,2,4,jdrobny,Rather Be Lucky Than Good,149.16,9,brockhusk,128.2,W,False
+2022,2,5,kaufmannc,Mar-a-lago Raiders ,156.02,10,cc5597,160.5,L,False
+2022,2,6,JSanDusky69,2 Girls 0 Kupps,156.59,2,Erjohnson14,126.27,W,False
+2022,2,7,KingTowsk,Leeroy Jenkins,158.83,3,MaxSirianni,138.13,W,False
+2022,2,8,TylerWicks,Sick of Gesicki,175.3,1,bgreenblatt,141.32,W,False
+2022,2,9,brockhusk,Super Flex Offenders ,128.2,4,jdrobny,149.16,L,False
+2022,2,10,cc5597,The Bengalphin Boys,160.5,5,kaufmannc,156.02,W,False
+2022,3,1,bgreenblatt,Taylor Park Boys,185.53,3,MaxSirianni,107.22,W,False
+2022,3,2,Erjohnson14,Dairy Sanders,101.25,9,brockhusk,126.38,L,False
+2022,3,3,MaxSirianni,Tucker right in the pu$$y,107.22,1,bgreenblatt,185.53,L,False
+2022,3,4,jdrobny,Rather Be Lucky Than Good,113.67,5,kaufmannc,130.69,L,False
+2022,3,5,kaufmannc,Mar-a-lago Raiders ,130.69,4,jdrobny,113.67,W,False
+2022,3,6,JSanDusky69,2 Girls 0 Kupps,111.7,10,cc5597,125.31,L,False
+2022,3,7,KingTowsk,Leeroy Jenkins,122.79,8,TylerWicks,109.92,W,False
+2022,3,8,TylerWicks,Sick of Gesicki,109.92,7,KingTowsk,122.79,L,False
+2022,3,9,brockhusk,Super Flex Offenders ,126.38,2,Erjohnson14,101.25,W,False
+2022,3,10,cc5597,The Bengalphin Boys,125.31,6,JSanDusky69,111.7,W,False
+2022,4,1,bgreenblatt,Taylor Park Boys,140.62,9,brockhusk,133.49,W,False
+2022,4,2,Erjohnson14,Dairy Sanders,152.84,8,TylerWicks,100.28,W,False
+2022,4,3,MaxSirianni,Tucker right in the pu$$y,164.62,5,kaufmannc,177.28,L,False
+2022,4,4,jdrobny,Rather Be Lucky Than Good,123.61,6,JSanDusky69,119.48,W,False
+2022,4,5,kaufmannc,Mar-a-lago Raiders ,177.28,3,MaxSirianni,164.62,W,False
+2022,4,6,JSanDusky69,2 Girls 0 Kupps,119.48,4,jdrobny,123.61,L,False
+2022,4,7,KingTowsk,Leeroy Jenkins,130.42,10,cc5597,166.19,L,False
+2022,4,8,TylerWicks,Sick of Gesicki,100.28,2,Erjohnson14,152.84,L,False
+2022,4,9,brockhusk,Super Flex Offenders ,133.49,1,bgreenblatt,140.62,L,False
+2022,4,10,cc5597,The Bengalphin Boys,166.19,7,KingTowsk,130.42,W,False
+2022,5,1,bgreenblatt,Taylor Park Boys,190.9,6,JSanDusky69,131.65,W,False
+2022,5,2,Erjohnson14,Dairy Sanders,110.65,3,MaxSirianni,149.99,L,False
+2022,5,3,MaxSirianni,Tucker right in the pu$$y,149.99,2,Erjohnson14,110.65,W,False
+2022,5,4,jdrobny,Rather Be Lucky Than Good,126.84,7,KingTowsk,123.57,W,False
+2022,5,5,kaufmannc,Mar-a-lago Raiders ,126.03,8,TylerWicks,121.95,W,False
+2022,5,6,JSanDusky69,2 Girls 0 Kupps,131.65,1,bgreenblatt,190.9,L,False
+2022,5,7,KingTowsk,Leeroy Jenkins,123.57,4,jdrobny,126.84,L,False
+2022,5,8,TylerWicks,Sick of Gesicki,121.95,5,kaufmannc,126.03,L,False
+2022,5,9,brockhusk,Super Flex Offenders ,185.38,10,cc5597,136.03,W,False
+2022,5,10,cc5597,The Bengalphin Boys,136.03,9,brockhusk,185.38,L,False
+2022,6,1,bgreenblatt,Taylor Park Boys,172.7,2,Erjohnson14,135.26,W,False
+2022,6,2,Erjohnson14,Dairy Sanders,135.26,1,bgreenblatt,172.7,L,False
+2022,6,3,MaxSirianni,Tucker right in the pu$$y,85.18,10,cc5597,165.24,L,False
+2022,6,4,jdrobny,Rather Be Lucky Than Good,117.22,8,TylerWicks,106.01,W,False
+2022,6,5,kaufmannc,Mar-a-lago Raiders ,97.52,9,brockhusk,105.22,L,False
+2022,6,6,JSanDusky69,2 Girls 0 Kupps,110.7,7,KingTowsk,141.44,L,False
+2022,6,7,KingTowsk,Leeroy Jenkins,141.44,6,JSanDusky69,110.7,W,False
+2022,6,8,TylerWicks,Sick of Gesicki,106.01,4,jdrobny,117.22,L,False
+2022,6,9,brockhusk,Super Flex Offenders ,105.22,5,kaufmannc,97.52,W,False
+2022,6,10,cc5597,The Bengalphin Boys,165.24,3,MaxSirianni,85.18,W,False
+2022,7,1,bgreenblatt,Taylor Park Boys,160.95,5,kaufmannc,124.87,W,False
+2022,7,2,Erjohnson14,Dairy Sanders,135.51,10,cc5597,172.17,L,False
+2022,7,3,MaxSirianni,Tucker right in the pu$$y,122.19,4,jdrobny,123.89,L,False
+2022,7,4,jdrobny,Rather Be Lucky Than Good,123.89,3,MaxSirianni,122.19,W,False
+2022,7,5,kaufmannc,Mar-a-lago Raiders ,124.87,1,bgreenblatt,160.95,L,False
+2022,7,6,JSanDusky69,2 Girls 0 Kupps,118.2,8,TylerWicks,107.36,W,False
+2022,7,7,KingTowsk,Leeroy Jenkins,134.93,9,brockhusk,130.15,W,False
+2022,7,8,TylerWicks,Sick of Gesicki,107.36,6,JSanDusky69,118.2,L,False
+2022,7,9,brockhusk,Super Flex Offenders ,130.15,7,KingTowsk,134.93,L,False
+2022,7,10,cc5597,The Bengalphin Boys,172.17,2,Erjohnson14,135.51,W,False
+2022,8,1,bgreenblatt,Taylor Park Boys,128.69,10,cc5597,162.08,L,False
+2022,8,2,Erjohnson14,Dairy Sanders,176.14,4,jdrobny,101.99,W,False
+2022,8,3,MaxSirianni,Tucker right in the pu$$y,155.41,6,JSanDusky69,183.07,L,False
+2022,8,4,jdrobny,Rather Be Lucky Than Good,101.99,2,Erjohnson14,176.14,L,False
+2022,8,5,kaufmannc,Mar-a-lago Raiders ,214.72,7,KingTowsk,118.18,W,False
+2022,8,6,JSanDusky69,2 Girls 0 Kupps,183.07,3,MaxSirianni,155.41,W,False
+2022,8,7,KingTowsk,Leeroy Jenkins,118.18,5,kaufmannc,214.72,L,False
+2022,8,8,TylerWicks,Sick of Gesicki,164.44,9,brockhusk,137.24,W,False
+2022,8,9,brockhusk,Super Flex Offenders ,137.24,8,TylerWicks,164.44,L,False
+2022,8,10,cc5597,The Bengalphin Boys,162.08,1,bgreenblatt,128.69,W,False
+2022,9,1,bgreenblatt,Taylor Park Boys,124.97,4,jdrobny,166.22,L,False
+2022,9,2,Erjohnson14,Dairy Sanders,152.34,7,KingTowsk,129.57,W,False
+2022,9,3,MaxSirianni,Tucker right in the pu$$y,131.16,9,brockhusk,111.7,W,False
+2022,9,4,jdrobny,Rather Be Lucky Than Good,166.22,1,bgreenblatt,124.97,W,False
+2022,9,5,kaufmannc,Mar-a-lago Raiders ,117.03,6,JSanDusky69,156.38,L,False
+2022,9,6,JSanDusky69,2 Girls 0 Kupps,156.38,5,kaufmannc,117.03,W,False
+2022,9,7,KingTowsk,Leeroy Jenkins,129.57,2,Erjohnson14,152.34,L,False
+2022,9,8,TylerWicks,Sick of Gesicki,106.98,10,cc5597,174.27,L,False
+2022,9,9,brockhusk,Super Flex Offenders ,111.7,3,MaxSirianni,131.16,L,False
+2022,9,10,cc5597,The Bengalphin Boys,174.27,8,TylerWicks,106.98,W,False
+2022,10,1,bgreenblatt,Taylor Park Boys,148.59,7,KingTowsk,142.55,W,False
+2022,10,2,Erjohnson14,Dairy Sanders,100.86,5,kaufmannc,116.04,L,False
+2022,10,3,MaxSirianni,Tucker right in the pu$$y,156.97,8,TylerWicks,139.92,W,False
+2022,10,4,jdrobny,Rather Be Lucky Than Good,158.12,10,cc5597,100.33,W,False
+2022,10,5,kaufmannc,Mar-a-lago Raiders ,116.04,2,Erjohnson14,100.86,W,False
+2022,10,6,JSanDusky69,2 Girls 0 Kupps,94.5,9,brockhusk,190.29,L,False
+2022,10,7,KingTowsk,Leeroy Jenkins,142.55,1,bgreenblatt,148.59,L,False
+2022,10,8,TylerWicks,Sick of Gesicki,139.92,3,MaxSirianni,156.97,L,False
+2022,10,9,brockhusk,Super Flex Offenders ,190.29,6,JSanDusky69,94.5,W,False
+2022,10,10,cc5597,The Bengalphin Boys,100.33,4,jdrobny,158.12,L,False
+2022,11,1,bgreenblatt,Taylor Park Boys,161.45,8,TylerWicks,133.39,W,False
+2022,11,2,Erjohnson14,Dairy Sanders,138.96,6,JSanDusky69,78.71,W,False
+2022,11,3,MaxSirianni,Tucker right in the pu$$y,134.34,7,KingTowsk,165.78,L,False
+2022,11,4,jdrobny,Rather Be Lucky Than Good,124.52,9,brockhusk,105.81,W,False
+2022,11,5,kaufmannc,Mar-a-lago Raiders ,139.77,10,cc5597,183.14,L,False
+2022,11,6,JSanDusky69,2 Girls 0 Kupps,78.71,2,Erjohnson14,138.96,L,False
+2022,11,7,KingTowsk,Leeroy Jenkins,165.78,3,MaxSirianni,134.34,W,False
+2022,11,8,TylerWicks,Sick of Gesicki,133.39,1,bgreenblatt,161.45,L,False
+2022,11,9,brockhusk,Super Flex Offenders ,105.81,4,jdrobny,124.52,L,False
+2022,11,10,cc5597,The Bengalphin Boys,183.14,5,kaufmannc,139.77,W,False
+2022,12,1,bgreenblatt,Taylor Park Boys,138.03,3,MaxSirianni,154.21,L,False
+2022,12,2,Erjohnson14,Dairy Sanders,94.19,9,brockhusk,144.09,L,False
+2022,12,3,MaxSirianni,Tucker right in the pu$$y,154.21,1,bgreenblatt,138.03,W,False
+2022,12,4,jdrobny,Rather Be Lucky Than Good,160.94,5,kaufmannc,102.75,W,False
+2022,12,5,kaufmannc,Mar-a-lago Raiders ,102.75,4,jdrobny,160.94,L,False
+2022,12,6,JSanDusky69,2 Girls 0 Kupps,141.3,10,cc5597,144.39,L,False
+2022,12,7,KingTowsk,Leeroy Jenkins,179.89,8,TylerWicks,132.04,W,False
+2022,12,8,TylerWicks,Sick of Gesicki,132.04,7,KingTowsk,179.89,L,False
+2022,12,9,brockhusk,Super Flex Offenders ,144.09,2,Erjohnson14,94.19,W,False
+2022,12,10,cc5597,The Bengalphin Boys,144.39,6,JSanDusky69,141.3,W,False
+2022,13,1,bgreenblatt,Taylor Park Boys,148.7,9,brockhusk,151.26,L,False
+2022,13,2,Erjohnson14,Dairy Sanders,133.29,8,TylerWicks,196.75,L,False
+2022,13,3,MaxSirianni,Tucker right in the pu$$y,102.2,5,kaufmannc,114.95,L,False
+2022,13,4,jdrobny,Rather Be Lucky Than Good,132.06,6,JSanDusky69,85.99,W,False
+2022,13,5,kaufmannc,Mar-a-lago Raiders ,114.95,3,MaxSirianni,102.2,W,False
+2022,13,6,JSanDusky69,2 Girls 0 Kupps,85.99,4,jdrobny,132.06,L,False
+2022,13,7,KingTowsk,Leeroy Jenkins,183.8,10,cc5597,150.74,W,False
+2022,13,8,TylerWicks,Sick of Gesicki,196.75,2,Erjohnson14,133.29,W,False
+2022,13,9,brockhusk,Super Flex Offenders ,151.26,1,bgreenblatt,148.7,W,False
+2022,13,10,cc5597,The Bengalphin Boys,150.74,7,KingTowsk,183.8,L,False
+2022,14,1,bgreenblatt,Taylor Park Boys,99.69,6,JSanDusky69,152.46,L,False
+2022,14,2,Erjohnson14,Dairy Sanders,161.94,3,MaxSirianni,119.2,W,False
+2022,14,3,MaxSirianni,Tucker right in the pu$$y,119.2,2,Erjohnson14,161.94,L,False
+2022,14,4,jdrobny,Rather Be Lucky Than Good,112.18,7,KingTowsk,109.49,W,False
+2022,14,5,kaufmannc,Mar-a-lago Raiders ,124.16,8,TylerWicks,136.56,L,False
+2022,14,6,JSanDusky69,2 Girls 0 Kupps,152.46,1,bgreenblatt,99.69,W,False
+2022,14,7,KingTowsk,Leeroy Jenkins,109.49,4,jdrobny,112.18,L,False
+2022,14,8,TylerWicks,Sick of Gesicki,136.56,5,kaufmannc,124.16,W,False
+2022,14,9,brockhusk,Super Flex Offenders ,151.42,10,cc5597,125.22,W,False
+2022,14,10,cc5597,The Bengalphin Boys,125.22,9,brockhusk,151.42,L,False
+2022,15,1,bgreenblatt,Taylor Park Boys,153.25,9,brockhusk,141.98,W,True
+2022,15,2,Erjohnson14,Dairy Sanders,139.19,7,KingTowsk,161.08,L,True
+2022,15,3,MaxSirianni,Tucker right in the pu$$y,140.95,6,JSanDusky69,160.11,L,True
+2022,15,5,kaufmannc,Mar-a-lago Raiders ,146.23,8,TylerWicks,131.96,W,True
+2022,15,6,JSanDusky69,2 Girls 0 Kupps,160.11,3,MaxSirianni,140.95,W,True
+2022,15,7,KingTowsk,Leeroy Jenkins,161.08,2,Erjohnson14,139.19,W,True
+2022,15,8,TylerWicks,Sick of Gesicki,131.96,5,kaufmannc,146.23,L,True
+2022,15,9,brockhusk,Super Flex Offenders ,141.98,1,bgreenblatt,153.25,L,True
+2022,16,1,bgreenblatt,Taylor Park Boys,116.42,4,jdrobny,122.06,L,True
+2022,16,2,Erjohnson14,Dairy Sanders,106.56,9,brockhusk,131.76,L,True
+2022,16,3,MaxSirianni,Tucker right in the pu$$y,175.41,8,TylerWicks,110.7,W,True
+2022,16,4,jdrobny,Rather Be Lucky Than Good,122.06,1,bgreenblatt,116.42,W,True
+2022,16,5,kaufmannc,Mar-a-lago Raiders ,150.56,6,JSanDusky69,124.7,W,True
+2022,16,6,JSanDusky69,2 Girls 0 Kupps,124.7,5,kaufmannc,150.56,L,True
+2022,16,7,KingTowsk,Leeroy Jenkins,144.13,10,cc5597,192.73,L,True
+2022,16,8,TylerWicks,Sick of Gesicki,110.7,3,MaxSirianni,175.41,L,True
+2022,16,9,brockhusk,Super Flex Offenders ,131.76,2,Erjohnson14,106.56,W,True
+2022,16,10,cc5597,The Bengalphin Boys,192.73,7,KingTowsk,144.13,W,True
+2022,17,1,bgreenblatt,Taylor Park Boys,133.24,7,KingTowsk,145.73,L,True
+2022,17,4,jdrobny,Rather Be Lucky Than Good,122.78,10,cc5597,119.01,W,True
+2022,17,7,KingTowsk,Leeroy Jenkins,145.73,1,bgreenblatt,133.24,W,True
+2022,17,10,cc5597,The Bengalphin Boys,119.01,4,jdrobny,122.78,L,True
+2023,1,1,bgreenblatt,Taylor Park Boys,107.63,4,jdrobny,137.67,L,False
+2023,1,2,Erjohnson14,Johnson’s Lil Johnson,146.53,5,kaufmannc,143.02,W,False
+2023,1,3,MaxSirianni,I hate Joe Burrow,106.03,7,KingTowsk,112.16,L,False
+2023,1,4,jdrobny,B2B,137.67,1,bgreenblatt,107.63,W,False
+2023,1,5,kaufmannc,London Has Fallen,143.02,2,Erjohnson14,146.53,L,False
+2023,1,6,JSanDusky69,Tua Girls One Kupp,123.95,10,cc5597,124.83,L,False
+2023,1,7,KingTowsk,Leeroy Jenkins,112.16,3,MaxSirianni,106.03,W,False
+2023,1,8,TylerWicks,Christian Mingle,144.03,9,brockhusk,114.31,W,False
+2023,1,9,brockhusk,Toss My Saleh’d,114.31,8,TylerWicks,144.03,L,False
+2023,1,10,cc5597,Bill Ninerkingz,124.83,6,JSanDusky69,123.95,W,False
+2023,2,1,bgreenblatt,Taylor Park Boys,126.38,6,JSanDusky69,120.04,W,False
+2023,2,2,Erjohnson14,Johnson’s Lil Johnson,170.59,8,TylerWicks,110.22,W,False
+2023,2,3,MaxSirianni,I hate Joe Burrow,105.35,4,jdrobny,166.77,L,False
+2023,2,4,jdrobny,B2B,166.77,3,MaxSirianni,105.35,W,False
+2023,2,5,kaufmannc,London Has Fallen,142.94,9,brockhusk,149.01,L,False
+2023,2,6,JSanDusky69,Tua Girls One Kupp,120.04,1,bgreenblatt,126.38,L,False
+2023,2,7,KingTowsk,Leeroy Jenkins,147.18,10,cc5597,96.47,W,False
+2023,2,8,TylerWicks,Christian Mingle,110.22,2,Erjohnson14,170.59,L,False
+2023,2,9,brockhusk,Toss My Saleh’d,149.01,5,kaufmannc,142.94,W,False
+2023,2,10,cc5597,Bill Ninerkingz,96.47,7,KingTowsk,147.18,L,False
+2023,3,1,bgreenblatt,Taylor Park Boys,120.98,7,KingTowsk,187.73,L,False
+2023,3,2,Erjohnson14,Johnson’s Lil Johnson,114.32,9,brockhusk,130.58,L,False
+2023,3,3,MaxSirianni,I hate Joe Burrow,185.52,10,cc5597,158.23,W,False
+2023,3,4,jdrobny,B2B,167.97,6,JSanDusky69,136.07,W,False
+2023,3,5,kaufmannc,London Has Fallen,139.58,8,TylerWicks,170.53,L,False
+2023,3,6,JSanDusky69,Tua Girls One Kupp,136.07,4,jdrobny,167.97,L,False
+2023,3,7,KingTowsk,Leeroy Jenkins,187.73,1,bgreenblatt,120.98,W,False
+2023,3,8,TylerWicks,Christian Mingle,170.53,5,kaufmannc,139.58,W,False
+2023,3,9,brockhusk,Toss My Saleh’d,130.58,2,Erjohnson14,114.32,W,False
+2023,3,10,cc5597,Bill Ninerkingz,158.23,3,MaxSirianni,185.52,L,False
+2023,4,1,bgreenblatt,Taylor Park Boys,152.98,5,kaufmannc,126.35,W,False
+2023,4,2,Erjohnson14,Johnson’s Lil Johnson,140.74,3,MaxSirianni,67.01,W,False
+2023,4,3,MaxSirianni,I hate Joe Burrow,67.01,2,Erjohnson14,140.74,L,False
+2023,4,4,jdrobny,B2B,162.54,7,KingTowsk,154.08,W,False
+2023,4,5,kaufmannc,London Has Fallen,126.35,1,bgreenblatt,152.98,L,False
+2023,4,6,JSanDusky69,Tua Girls One Kupp,124.09,9,brockhusk,138.89,L,False
+2023,4,7,KingTowsk,Leeroy Jenkins,154.08,4,jdrobny,162.54,L,False
+2023,4,8,TylerWicks,Christian Mingle,196.94,10,cc5597,128.59,W,False
+2023,4,9,brockhusk,Toss My Saleh’d,138.89,6,JSanDusky69,124.09,W,False
+2023,4,10,cc5597,Bill Ninerkingz,128.59,8,TylerWicks,196.94,L,False
+2023,5,1,bgreenblatt,Taylor Park Boys,134.84,3,MaxSirianni,189.74,L,False
+2023,5,2,Erjohnson14,Johnson’s Lil Johnson,119.39,7,KingTowsk,147.47,L,False
+2023,5,3,MaxSirianni,I hate Joe Burrow,189.74,1,bgreenblatt,134.84,W,False
+2023,5,4,jdrobny,B2B,126.13,5,kaufmannc,121.44,W,False
+2023,5,5,kaufmannc,London Has Fallen,121.44,4,jdrobny,126.13,L,False
+2023,5,6,JSanDusky69,Tua Girls One Kupp,186.65,8,TylerWicks,119.39,W,False
+2023,5,7,KingTowsk,Leeroy Jenkins,147.47,2,Erjohnson14,119.39,W,False
+2023,5,8,TylerWicks,Christian Mingle,119.39,6,JSanDusky69,186.65,L,False
+2023,5,9,brockhusk,Toss My Saleh’d,114.08,10,cc5597,96.71,W,False
+2023,5,10,cc5597,Bill Ninerkingz,96.71,9,brockhusk,114.08,L,False
+2023,6,1,bgreenblatt,Taylor Park Boys,120.32,9,brockhusk,164.59,L,False
+2023,6,2,Erjohnson14,Johnson’s Lil Johnson,127.68,10,cc5597,87.74,W,False
+2023,6,3,MaxSirianni,I hate Joe Burrow,108.16,6,JSanDusky69,131.82,L,False
+2023,6,4,jdrobny,B2B,150.45,8,TylerWicks,123.41,W,False
+2023,6,5,kaufmannc,London Has Fallen,106.05,7,KingTowsk,147.0,L,False
+2023,6,6,JSanDusky69,Tua Girls One Kupp,131.82,3,MaxSirianni,108.16,W,False
+2023,6,7,KingTowsk,Leeroy Jenkins,147.0,5,kaufmannc,106.05,W,False
+2023,6,8,TylerWicks,Christian Mingle,123.41,4,jdrobny,150.45,L,False
+2023,6,9,brockhusk,Toss My Saleh’d,164.59,1,bgreenblatt,120.32,W,False
+2023,6,10,cc5597,Bill Ninerkingz,87.74,2,Erjohnson14,127.68,L,False
+2023,7,1,bgreenblatt,Taylor Park Boys,134.52,10,cc5597,130.8,W,False
+2023,7,2,Erjohnson14,Johnson’s Lil Johnson,131.17,6,JSanDusky69,103.38,W,False
+2023,7,3,MaxSirianni,I hate Joe Burrow,106.94,5,kaufmannc,121.74,L,False
+2023,7,4,jdrobny,B2B,137.82,9,brockhusk,146.25,L,False
+2023,7,5,kaufmannc,London Has Fallen,121.74,3,MaxSirianni,106.94,W,False
+2023,7,6,JSanDusky69,Tua Girls One Kupp,103.38,2,Erjohnson14,131.17,L,False
+2023,7,7,KingTowsk,Leeroy Jenkins,190.78,8,TylerWicks,114.71,W,False
+2023,7,8,TylerWicks,Christian Mingle,114.71,7,KingTowsk,190.78,L,False
+2023,7,9,brockhusk,Toss My Saleh’d,146.25,4,jdrobny,137.82,W,False
+2023,7,10,cc5597,Bill Ninerkingz,130.8,1,bgreenblatt,134.52,L,False
+2023,8,1,bgreenblatt,Taylor Park Boys,158.5,2,Erjohnson14,130.26,W,False
+2023,8,2,Erjohnson14,Johnson’s Lil Johnson,130.26,1,bgreenblatt,158.5,L,False
+2023,8,3,MaxSirianni,I hate Joe Burrow,157.37,8,TylerWicks,163.01,L,False
+2023,8,4,jdrobny,B2B,126.86,10,cc5597,167.46,L,False
+2023,8,5,kaufmannc,London Has Fallen,138.87,6,JSanDusky69,124.99,W,False
+2023,8,6,JSanDusky69,Tua Girls One Kupp,124.99,5,kaufmannc,138.87,L,False
+2023,8,7,KingTowsk,Leeroy Jenkins,149.75,9,brockhusk,192.62,L,False
+2023,8,8,TylerWicks,Christian Mingle,163.01,3,MaxSirianni,157.37,W,False
+2023,8,9,brockhusk,Toss My Saleh’d,192.62,7,KingTowsk,149.75,W,False
+2023,8,10,cc5597,Bill Ninerkingz,167.46,4,jdrobny,126.86,W,False
+2023,9,1,bgreenblatt,Taylor Park Boys,112.14,8,TylerWicks,99.51,W,False
+2023,9,2,Erjohnson14,Johnson’s Lil Johnson,151.3,4,jdrobny,121.63,W,False
+2023,9,3,MaxSirianni,I hate Joe Burrow,123.31,9,brockhusk,150.78,L,False
+2023,9,4,jdrobny,B2B,121.63,2,Erjohnson14,151.3,L,False
+2023,9,5,kaufmannc,London Has Fallen,146.85,10,cc5597,155.84,L,False
+2023,9,6,JSanDusky69,Tua Girls One Kupp,105.94,7,KingTowsk,118.36,L,False
+2023,9,7,KingTowsk,Leeroy Jenkins,118.36,6,JSanDusky69,105.94,W,False
+2023,9,8,TylerWicks,Christian Mingle,99.51,1,bgreenblatt,112.14,L,False
+2023,9,9,brockhusk,Toss My Saleh’d,150.78,3,MaxSirianni,123.31,W,False
+2023,9,10,cc5597,Bill Ninerkingz,155.84,5,kaufmannc,146.85,W,False
+2023,10,1,bgreenblatt,Taylor Park Boys,155.93,4,jdrobny,140.07,W,False
+2023,10,2,Erjohnson14,Johnson’s Lil Johnson,174.34,5,kaufmannc,110.97,W,False
+2023,10,3,MaxSirianni,I hate Joe Burrow,134.09,7,KingTowsk,109.67,W,False
+2023,10,4,jdrobny,B2B,140.07,1,bgreenblatt,155.93,L,False
+2023,10,5,kaufmannc,London Has Fallen,110.97,2,Erjohnson14,174.34,L,False
+2023,10,6,JSanDusky69,Tua Girls One Kupp,108.7,10,cc5597,152.23,L,False
+2023,10,7,KingTowsk,Leeroy Jenkins,109.67,3,MaxSirianni,134.09,L,False
+2023,10,8,TylerWicks,Christian Mingle,126.44,9,brockhusk,218.49,L,False
+2023,10,9,brockhusk,Toss My Saleh’d,218.49,8,TylerWicks,126.44,W,False
+2023,10,10,cc5597,Bill Ninerkingz,152.23,6,JSanDusky69,108.7,W,False
+2023,11,1,bgreenblatt,Taylor Park Boys,170.96,6,JSanDusky69,117.0,W,False
+2023,11,2,Erjohnson14,Johnson’s Lil Johnson,103.97,8,TylerWicks,161.88,L,False
+2023,11,3,MaxSirianni,I hate Joe Burrow,91.66,4,jdrobny,129.31,L,False
+2023,11,4,jdrobny,B2B,129.31,3,MaxSirianni,91.66,W,False
+2023,11,5,kaufmannc,London Has Fallen,147.55,9,brockhusk,113.71,W,False
+2023,11,6,JSanDusky69,Tua Girls One Kupp,117.0,1,bgreenblatt,170.96,L,False
+2023,11,7,KingTowsk,Leeroy Jenkins,153.01,10,cc5597,134.46,W,False
+2023,11,8,TylerWicks,Christian Mingle,161.88,2,Erjohnson14,103.97,W,False
+2023,11,9,brockhusk,Toss My Saleh’d,113.71,5,kaufmannc,147.55,L,False
+2023,11,10,cc5597,Bill Ninerkingz,134.46,7,KingTowsk,153.01,L,False
+2023,12,1,bgreenblatt,Taylor Park Boys,175.47,7,KingTowsk,154.02,W,False
+2023,12,2,Erjohnson14,Johnson’s Lil Johnson,159.09,9,brockhusk,197.4,L,False
+2023,12,3,MaxSirianni,I hate Joe Burrow,116.32,10,cc5597,111.52,W,False
+2023,12,4,jdrobny,B2B,141.3,6,JSanDusky69,114.88,W,False
+2023,12,5,kaufmannc,London Has Fallen,128.23,8,TylerWicks,163.14,L,False
+2023,12,6,JSanDusky69,Tua Girls One Kupp,114.88,4,jdrobny,141.3,L,False
+2023,12,7,KingTowsk,Leeroy Jenkins,154.02,1,bgreenblatt,175.47,L,False
+2023,12,8,TylerWicks,Christian Mingle,163.14,5,kaufmannc,128.23,W,False
+2023,12,9,brockhusk,Toss My Saleh’d,197.4,2,Erjohnson14,159.09,W,False
+2023,12,10,cc5597,Bill Ninerkingz,111.52,3,MaxSirianni,116.32,L,False
+2023,13,1,bgreenblatt,Taylor Park Boys,146.13,5,kaufmannc,96.24,W,False
+2023,13,2,Erjohnson14,Johnson’s Lil Johnson,144.98,3,MaxSirianni,180.53,L,False
+2023,13,3,MaxSirianni,I hate Joe Burrow,180.53,2,Erjohnson14,144.98,W,False
+2023,13,4,jdrobny,B2B,136.41,7,KingTowsk,164.08,L,False
+2023,13,5,kaufmannc,London Has Fallen,96.24,1,bgreenblatt,146.13,L,False
+2023,13,6,JSanDusky69,Tua Girls One Kupp,126.61,9,brockhusk,140.16,L,False
+2023,13,7,KingTowsk,Leeroy Jenkins,164.08,4,jdrobny,136.41,W,False
+2023,13,8,TylerWicks,Christian Mingle,150.3,10,cc5597,103.12,W,False
+2023,13,9,brockhusk,Toss My Saleh’d,140.16,6,JSanDusky69,126.61,W,False
+2023,13,10,cc5597,Bill Ninerkingz,103.12,8,TylerWicks,150.3,L,False
+2023,14,1,bgreenblatt,Taylor Park Boys,108.52,3,MaxSirianni,148.06,L,False
+2023,14,2,Erjohnson14,Johnson’s Lil Johnson,133.56,7,KingTowsk,150.02,L,False
+2023,14,3,MaxSirianni,I hate Joe Burrow,148.06,1,bgreenblatt,108.52,W,False
+2023,14,4,jdrobny,B2B,136.28,5,kaufmannc,142.24,L,False
+2023,14,5,kaufmannc,London Has Fallen,142.24,4,jdrobny,136.28,W,False
+2023,14,6,JSanDusky69,Tua Girls One Kupp,152.36,8,TylerWicks,118.4,W,False
+2023,14,7,KingTowsk,Leeroy Jenkins,150.02,2,Erjohnson14,133.56,W,False
+2023,14,8,TylerWicks,Christian Mingle,118.4,6,JSanDusky69,152.36,L,False
+2023,14,9,brockhusk,Toss My Saleh’d,135.51,10,cc5597,106.26,W,False
+2023,14,10,cc5597,Bill Ninerkingz,106.26,9,brockhusk,135.51,L,False
+2023,15,1,bgreenblatt,Taylor Park Boys,116.4,2,Erjohnson14,110.46,W,True
+2023,15,2,Erjohnson14,Johnson’s Lil Johnson,110.46,1,bgreenblatt,116.4,L,True
+2023,15,3,MaxSirianni,I hate Joe Burrow,140.97,6,JSanDusky69,148.23,L,True
+2023,15,4,jdrobny,B2B,152.29,8,TylerWicks,198.66,L,True
+2023,15,5,kaufmannc,London Has Fallen,149.39,10,cc5597,164.11,L,True
+2023,15,6,JSanDusky69,Tua Girls One Kupp,148.23,3,MaxSirianni,140.97,W,True
+2023,15,8,TylerWicks,Christian Mingle,198.66,4,jdrobny,152.29,W,True
+2023,15,10,cc5597,Bill Ninerkingz,164.11,5,kaufmannc,149.39,W,True
+2023,16,1,bgreenblatt,Taylor Park Boys,129.94,7,KingTowsk,120.74,W,True
+2023,16,2,Erjohnson14,Johnson’s Lil Johnson,144.16,4,jdrobny,157.31,L,True
+2023,16,3,MaxSirianni,I hate Joe Burrow,185.0,5,kaufmannc,125.65,W,True
+2023,16,4,jdrobny,B2B,157.31,2,Erjohnson14,144.16,W,True
+2023,16,5,kaufmannc,London Has Fallen,125.65,3,MaxSirianni,185.0,L,True
+2023,16,6,JSanDusky69,Tua Girls One Kupp,160.82,10,cc5597,69.79,W,True
+2023,16,7,KingTowsk,Leeroy Jenkins,120.74,1,bgreenblatt,129.94,L,True
+2023,16,8,TylerWicks,Christian Mingle,167.95,9,brockhusk,159.45,W,True
+2023,16,9,brockhusk,Toss My Saleh’d,159.45,8,TylerWicks,167.95,L,True
+2023,16,10,cc5597,Bill Ninerkingz,69.79,6,JSanDusky69,160.82,L,True
+2023,17,1,bgreenblatt,Taylor Park Boys,130.46,8,TylerWicks,122.35,W,True
+2023,17,7,KingTowsk,Leeroy Jenkins,161.54,9,brockhusk,183.51,L,True
+2023,17,8,TylerWicks,Christian Mingle,122.35,1,bgreenblatt,130.46,L,True
+2023,17,9,brockhusk,Toss My Saleh’d,183.51,7,KingTowsk,161.54,W,True
+2024,1,1,bgreenblatt,Love Thy Nabers,130.76,2,Erjohnson14,203.93,L,False
+2024,1,2,Erjohnson14,Johnson’s Lil Johnson,203.93,1,bgreenblatt,130.76,W,False
+2024,1,3,MaxSirianni,Joeybagofdonuts2.0,146.08,6,JSanDusky69,149.81,L,False
+2024,1,4,jdrobny,Stick in the Mud,111.46,9,brockhusk,117.23,L,False
+2024,1,5,kaufmannc,Clownin’ Around,145.66,8,TylerWicks,115.02,W,False
+2024,1,6,JSanDusky69,Respect Your Elders,149.81,3,MaxSirianni,146.08,W,False
+2024,1,7,KingTowsk,Leeroy Jenkins,117.73,10,cc5597,135.05,L,False
+2024,1,8,TylerWicks,Dont stop Bo-lievin’,115.02,5,kaufmannc,145.66,L,False
+2024,1,9,brockhusk,Brauk Tua Spit On That,117.23,4,jdrobny,111.46,W,False
+2024,1,10,cc5597,The Problems,135.05,7,KingTowsk,117.73,W,False
+2024,2,1,bgreenblatt,Love Thy Nabers,199.69,6,JSanDusky69,113.48,W,False
+2024,2,2,Erjohnson14,Johnson’s Lil Johnson,143.84,3,MaxSirianni,107.07,W,False
+2024,2,3,MaxSirianni,Joeybagofdonuts2.0,107.07,2,Erjohnson14,143.84,L,False
+2024,2,4,jdrobny,Stick in the Mud,116.25,10,cc5597,151.66,L,False
+2024,2,5,kaufmannc,Clownin’ Around,116.04,9,brockhusk,141.22,L,False
+2024,2,6,JSanDusky69,Respect Your Elders,113.48,1,bgreenblatt,199.69,L,False
+2024,2,7,KingTowsk,Leeroy Jenkins,141.32,8,TylerWicks,128.72,W,False
+2024,2,8,TylerWicks,Dont stop Bo-lievin’,128.72,7,KingTowsk,141.32,L,False
+2024,2,9,brockhusk,Brauk Tua Spit On That,141.22,5,kaufmannc,116.04,W,False
+2024,2,10,cc5597,The Problems,151.66,4,jdrobny,116.25,W,False
+2024,3,1,bgreenblatt,Love Thy Nabers,118.16,3,MaxSirianni,140.32,L,False
+2024,3,2,Erjohnson14,Johnson’s Lil Johnson,171.77,6,JSanDusky69,137.66,W,False
+2024,3,3,MaxSirianni,Joeybagofdonuts2.0,140.32,1,bgreenblatt,118.16,W,False
+2024,3,4,jdrobny,Stick in the Mud,102.32,7,KingTowsk,166.59,L,False
+2024,3,5,kaufmannc,Clownin’ Around,112.04,10,cc5597,111.93,W,False
+2024,3,6,JSanDusky69,Respect Your Elders,137.66,2,Erjohnson14,171.77,L,False
+2024,3,7,KingTowsk,Leeroy Jenkins,166.59,4,jdrobny,102.32,W,False
+2024,3,8,TylerWicks,Dont stop Bo-lievin’,113.81,9,brockhusk,106.21,W,False
+2024,3,9,brockhusk,Brauk Tua Spit On That,106.21,8,TylerWicks,113.81,L,False
+2024,3,10,cc5597,The Problems,111.93,5,kaufmannc,112.04,L,False
+2024,4,1,bgreenblatt,Love Thy Nabers,156.39,4,jdrobny,143.43,W,False
+2024,4,2,Erjohnson14,Johnson’s Lil Johnson,140.28,9,brockhusk,127.7,W,False
+2024,4,3,MaxSirianni,Joeybagofdonuts2.0,155.83,5,kaufmannc,148.3,W,False
+2024,4,4,jdrobny,Stick in the Mud,143.43,1,bgreenblatt,156.39,L,False
+2024,4,5,kaufmannc,Clownin’ Around,148.3,3,MaxSirianni,155.83,L,False
+2024,4,6,JSanDusky69,Respect Your Elders,113.15,7,KingTowsk,164.26,L,False
+2024,4,7,KingTowsk,Leeroy Jenkins,164.26,6,JSanDusky69,113.15,W,False
+2024,4,8,TylerWicks,Dont stop Bo-lievin’,110.45,10,cc5597,115.62,L,False
+2024,4,9,brockhusk,Brauk Tua Spit On That,127.7,2,Erjohnson14,140.28,L,False
+2024,4,10,cc5597,The Problems,115.62,8,TylerWicks,110.45,W,False
+2024,5,1,bgreenblatt,Love Thy Nabers,175.64,9,brockhusk,195.21,L,False
+2024,5,2,Erjohnson14,Johnson’s Lil Johnson,149.25,4,jdrobny,109.45,W,False
+2024,5,3,MaxSirianni,Joeybagofdonuts2.0,113.29,8,TylerWicks,118.27,L,False
+2024,5,4,jdrobny,Stick in the Mud,109.45,2,Erjohnson14,149.25,L,False
+2024,5,5,kaufmannc,Clownin’ Around,168.91,7,KingTowsk,164.09,W,False
+2024,5,6,JSanDusky69,Respect Your Elders,159.66,10,cc5597,99.35,W,False
+2024,5,7,KingTowsk,Leeroy Jenkins,164.09,5,kaufmannc,168.91,L,False
+2024,5,8,TylerWicks,Dont stop Bo-lievin’,118.27,3,MaxSirianni,113.29,W,False
+2024,5,9,brockhusk,Brauk Tua Spit On That,195.21,1,bgreenblatt,175.64,W,False
+2024,5,10,cc5597,The Problems,99.35,6,JSanDusky69,159.66,L,False
+2024,6,1,bgreenblatt,Love Thy Nabers,162.77,8,TylerWicks,74.11,W,False
+2024,6,2,Erjohnson14,Johnson’s Lil Johnson,111.85,5,kaufmannc,142.41,L,False
+2024,6,3,MaxSirianni,Joeybagofdonuts2.0,158.15,10,cc5597,148.93,W,False
+2024,6,4,jdrobny,Stick in the Mud,126.44,6,JSanDusky69,159.58,L,False
+2024,6,5,kaufmannc,Clownin’ Around,142.41,2,Erjohnson14,111.85,W,False
+2024,6,6,JSanDusky69,Respect Your Elders,159.58,4,jdrobny,126.44,W,False
+2024,6,7,KingTowsk,Leeroy Jenkins,146.88,9,brockhusk,137.66,W,False
+2024,6,8,TylerWicks,Dont stop Bo-lievin’,74.11,1,bgreenblatt,162.77,L,False
+2024,6,9,brockhusk,Brauk Tua Spit On That,137.66,7,KingTowsk,146.88,L,False
+2024,6,10,cc5597,The Problems,148.93,3,MaxSirianni,158.15,L,False
+2024,7,1,bgreenblatt,Love Thy Nabers,143.29,10,cc5597,106.22,W,False
+2024,7,2,Erjohnson14,Johnson’s Lil Johnson,138.62,8,TylerWicks,119.67,W,False
+2024,7,3,MaxSirianni,Joeybagofdonuts2.0,142.72,7,KingTowsk,149.78,L,False
+2024,7,4,jdrobny,Stick in the Mud,138.82,5,kaufmannc,140.16,L,False
+2024,7,5,kaufmannc,Clownin’ Around,140.16,4,jdrobny,138.82,W,False
+2024,7,6,JSanDusky69,Respect Your Elders,81.66,9,brockhusk,165.66,L,False
+2024,7,7,KingTowsk,Leeroy Jenkins,149.78,3,MaxSirianni,142.72,W,False
+2024,7,8,TylerWicks,Dont stop Bo-lievin’,119.67,2,Erjohnson14,138.62,L,False
+2024,7,9,brockhusk,Brauk Tua Spit On That,165.66,6,JSanDusky69,81.66,W,False
+2024,7,10,cc5597,The Problems,106.22,1,bgreenblatt,143.29,L,False
+2024,8,1,bgreenblatt,Love Thy Nabers,169.28,7,KingTowsk,172.85,L,False
+2024,8,2,Erjohnson14,Johnson’s Lil Johnson,124.94,10,cc5597,177.5,L,False
+2024,8,3,MaxSirianni,Joeybagofdonuts2.0,101.79,9,brockhusk,175.53,L,False
+2024,8,4,jdrobny,Stick in the Mud,149.74,8,TylerWicks,191.27,L,False
+2024,8,5,kaufmannc,Clownin’ Around,99.41,6,JSanDusky69,127.38,L,False
+2024,8,6,JSanDusky69,Respect Your Elders,127.38,5,kaufmannc,99.41,W,False
+2024,8,7,KingTowsk,Leeroy Jenkins,172.85,1,bgreenblatt,169.28,W,False
+2024,8,8,TylerWicks,Dont stop Bo-lievin’,191.27,4,jdrobny,149.74,W,False
+2024,8,9,brockhusk,Brauk Tua Spit On That,175.53,3,MaxSirianni,101.79,W,False
+2024,8,10,cc5597,The Problems,177.5,2,Erjohnson14,124.94,W,False
+2024,9,1,bgreenblatt,Love Thy Nabers,147.01,5,kaufmannc,103.1,W,False
+2024,9,2,Erjohnson14,Johnson’s Lil Johnson,176.4,7,KingTowsk,174.94,W,False
+2024,9,3,MaxSirianni,Joeybagofdonuts2.0,115.86,4,jdrobny,129.63,L,False
+2024,9,4,jdrobny,Stick in the Mud,129.63,3,MaxSirianni,115.86,W,False
+2024,9,5,kaufmannc,Clownin’ Around,103.1,1,bgreenblatt,147.01,L,False
+2024,9,6,JSanDusky69,Respect Your Elders,145.71,8,TylerWicks,120.15,W,False
+2024,9,7,KingTowsk,Leeroy Jenkins,174.94,2,Erjohnson14,176.4,L,False
+2024,9,8,TylerWicks,Dont stop Bo-lievin’,120.15,6,JSanDusky69,145.71,L,False
+2024,9,9,brockhusk,Brauk Tua Spit On That,162.26,10,cc5597,128.23,W,False
+2024,9,10,cc5597,The Problems,128.23,9,brockhusk,162.26,L,False
+2024,10,1,bgreenblatt,Love Thy Nabers,188.39,2,Erjohnson14,125.45,W,False
+2024,10,2,Erjohnson14,Johnson’s Lil Johnson,125.45,1,bgreenblatt,188.39,L,False
+2024,10,3,MaxSirianni,Joeybagofdonuts2.0,135.5,6,JSanDusky69,138.51,L,False
+2024,10,4,jdrobny,Stick in the Mud,115.09,9,brockhusk,114.47,W,False
+2024,10,5,kaufmannc,Clownin’ Around,115.71,8,TylerWicks,134.36,L,False
+2024,10,6,JSanDusky69,Respect Your Elders,138.51,3,MaxSirianni,135.5,W,False
+2024,10,7,KingTowsk,Leeroy Jenkins,137.63,10,cc5597,113.05,W,False
+2024,10,8,TylerWicks,Dont stop Bo-lievin’,134.36,5,kaufmannc,115.71,W,False
+2024,10,9,brockhusk,Brauk Tua Spit On That,114.47,4,jdrobny,115.09,L,False
+2024,10,10,cc5597,The Problems,113.05,7,KingTowsk,137.63,L,False
+2024,11,1,bgreenblatt,Love Thy Nabers,164.97,6,JSanDusky69,175.19,L,False
+2024,11,2,Erjohnson14,Johnson’s Lil Johnson,149.63,3,MaxSirianni,150.01,L,False
+2024,11,3,MaxSirianni,Joeybagofdonuts2.0,150.01,2,Erjohnson14,149.63,W,False
+2024,11,4,jdrobny,Stick in the Mud,174.65,10,cc5597,139.34,W,False
+2024,11,5,kaufmannc,Clownin’ Around,186.11,9,brockhusk,102.91,W,False
+2024,11,6,JSanDusky69,Respect Your Elders,175.19,1,bgreenblatt,164.97,W,False
+2024,11,7,KingTowsk,Leeroy Jenkins,129.27,8,TylerWicks,157.26,L,False
+2024,11,8,TylerWicks,Dont stop Bo-lievin’,157.26,7,KingTowsk,129.27,W,False
+2024,11,9,brockhusk,Brauk Tua Spit On That,102.91,5,kaufmannc,186.11,L,False
+2024,11,10,cc5597,The Problems,139.34,4,jdrobny,174.65,L,False
+2024,12,1,bgreenblatt,Love Thy Nabers,137.66,3,MaxSirianni,123.29,W,False
+2024,12,2,Erjohnson14,Johnson’s Lil Johnson,178.96,6,JSanDusky69,125.94,W,False
+2024,12,3,MaxSirianni,Joeybagofdonuts2.0,123.29,1,bgreenblatt,137.66,L,False
+2024,12,4,jdrobny,Stick in the Mud,157.81,7,KingTowsk,134.88,W,False
+2024,12,5,kaufmannc,Clownin’ Around,119.09,10,cc5597,121.03,L,False
+2024,12,6,JSanDusky69,Respect Your Elders,125.94,2,Erjohnson14,178.96,L,False
+2024,12,7,KingTowsk,Leeroy Jenkins,134.88,4,jdrobny,157.81,L,False
+2024,12,8,TylerWicks,Dont stop Bo-lievin’,165.29,9,brockhusk,123.42,W,False
+2024,12,9,brockhusk,Brauk Tua Spit On That,123.42,8,TylerWicks,165.29,L,False
+2024,12,10,cc5597,The Problems,121.03,5,kaufmannc,119.09,W,False
+2024,13,1,bgreenblatt,Love Thy Nabers,165.6,4,jdrobny,130.44,W,False
+2024,13,2,Erjohnson14,Johnson’s Lil Johnson,173.78,9,brockhusk,128.97,W,False
+2024,13,3,MaxSirianni,Joeybagofdonuts2.0,136.6,5,kaufmannc,140.26,L,False
+2024,13,4,jdrobny,Stick in the Mud,130.44,1,bgreenblatt,165.6,L,False
+2024,13,5,kaufmannc,Clownin’ Around,140.26,3,MaxSirianni,136.6,W,False
+2024,13,6,JSanDusky69,Respect Your Elders,137.63,7,KingTowsk,171.37,L,False
+2024,13,7,KingTowsk,Leeroy Jenkins,171.37,6,JSanDusky69,137.63,W,False
+2024,13,8,TylerWicks,Dont stop Bo-lievin’,147.39,10,cc5597,99.04,W,False
+2024,13,9,brockhusk,Brauk Tua Spit On That,128.97,2,Erjohnson14,173.78,L,False
+2024,13,10,cc5597,The Problems,99.04,8,TylerWicks,147.39,L,False
+2024,14,1,bgreenblatt,Love Thy Nabers,193.9,9,brockhusk,141.07,W,False
+2024,14,2,Erjohnson14,Johnson’s Lil Johnson,161.0,4,jdrobny,174.86,L,False
+2024,14,3,MaxSirianni,Joeybagofdonuts2.0,139.33,8,TylerWicks,110.72,W,False
+2024,14,4,jdrobny,Stick in the Mud,174.86,2,Erjohnson14,161.0,W,False
+2024,14,5,kaufmannc,Clownin’ Around,149.75,7,KingTowsk,178.78,L,False
+2024,14,6,JSanDusky69,Respect Your Elders,122.79,10,cc5597,165.75,L,False
+2024,14,7,KingTowsk,Leeroy Jenkins,178.78,5,kaufmannc,149.75,W,False
+2024,14,8,TylerWicks,Dont stop Bo-lievin’,110.72,3,MaxSirianni,139.33,L,False
+2024,14,9,brockhusk,Brauk Tua Spit On That,141.07,1,bgreenblatt,193.9,L,False
+2024,14,10,cc5597,The Problems,165.75,6,JSanDusky69,122.79,W,False
+2024,15,2,Erjohnson14,Johnson’s Lil Johnson,175.78,8,TylerWicks,183.0,L,True
+2024,15,3,MaxSirianni,Joeybagofdonuts2.0,143.9,9,brockhusk,137.32,W,True
+2024,15,4,jdrobny,Stick in the Mud,130.99,10,cc5597,101.47,W,True
+2024,15,5,kaufmannc,Clownin’ Around,189.64,6,JSanDusky69,119.61,W,True
+2024,15,6,JSanDusky69,Respect Your Elders,119.61,5,kaufmannc,189.64,L,True
+2024,15,8,TylerWicks,Dont stop Bo-lievin’,183.0,2,Erjohnson14,175.78,W,True
+2024,15,9,brockhusk,Brauk Tua Spit On That,137.32,3,MaxSirianni,143.9,L,True
+2024,15,10,cc5597,The Problems,101.47,4,jdrobny,130.99,L,True
+2024,16,1,bgreenblatt,Love Thy Nabers,178.73,5,kaufmannc,174.72,W,True
+2024,16,2,Erjohnson14,Johnson’s Lil Johnson,148.41,6,JSanDusky69,177.52,L,True
+2024,16,3,MaxSirianni,Joeybagofdonuts2.0,116.74,4,jdrobny,138.54,L,True
+2024,16,4,jdrobny,Stick in the Mud,138.54,3,MaxSirianni,116.74,W,True
+2024,16,5,kaufmannc,Clownin’ Around,174.72,1,bgreenblatt,178.73,L,True
+2024,16,6,JSanDusky69,Respect Your Elders,177.52,2,Erjohnson14,148.41,W,True
+2024,16,7,KingTowsk,Leeroy Jenkins,172.55,8,TylerWicks,151.98,W,True
+2024,16,8,TylerWicks,Dont stop Bo-lievin’,151.98,7,KingTowsk,172.55,L,True
+2024,16,9,brockhusk,Brauk Tua Spit On That,118.91,10,cc5597,130.08,L,True
+2024,16,10,cc5597,The Problems,130.08,9,brockhusk,118.91,W,True
+2024,17,1,bgreenblatt,Love Thy Nabers,172.24,7,KingTowsk,205.05,L,True
+2024,17,5,kaufmannc,Clownin’ Around,187.45,8,TylerWicks,165.6,W,True
+2024,17,7,KingTowsk,Leeroy Jenkins,205.05,1,bgreenblatt,172.24,W,True
+2024,17,8,TylerWicks,Dont stop Bo-lievin’,165.6,5,kaufmannc,187.45,L,True
+2025,1,1,bgreenblatt,Young and Beautiful ,126.23,11,Jacktaco98,133.51,L,False
+2025,1,2,Erjohnson14,The TrashMen,115.93,9,brockhusk,153.44,L,False
+2025,1,3,MaxSirianni,We Built This Griddy,121.7,8,TylerWicks,105.36,W,False
+2025,1,4,jdrobny,Stick em up,141.27,12,akepple9,137.22,W,False
+2025,1,5,charliekaufmann,Clownin’ Around,88.31,10,cc5597,153.68,L,False
+2025,1,6,JSanDusky69,Manicures & Misery,99.49,7,KingTowsk,127.4,L,False
+2025,1,7,KingTowsk,Aaron Yeo’s future team,127.4,6,JSanDusky69,99.49,W,False
+2025,1,8,TylerWicks,Stopped Bo-lievin’,105.36,3,MaxSirianni,121.7,L,False
+2025,1,9,brockhusk,Just End The Season,153.44,2,Erjohnson14,115.93,W,False
+2025,1,10,cc5597,Baby Dak Gibbs,153.68,5,charliekaufmann,88.31,W,False
+2025,1,11,Jacktaco98,So white it hurts,133.51,1,bgreenblatt,126.23,W,False
+2025,1,12,akepple9,Something About Flacco ,137.22,4,jdrobny,141.27,L,False
+2025,2,1,bgreenblatt,Young and Beautiful ,128.67,12,akepple9,155.54,L,False
+2025,2,2,Erjohnson14,The TrashMen,129.33,4,jdrobny,106.08,W,False
+2025,2,3,MaxSirianni,We Built This Griddy,146.13,7,KingTowsk,175.38,L,False
+2025,2,4,jdrobny,Stick em up,106.08,2,Erjohnson14,129.33,L,False
+2025,2,5,charliekaufmann,Clownin’ Around,144.1,11,Jacktaco98,119.29,W,False
+2025,2,6,JSanDusky69,Manicures & Misery,124.48,9,brockhusk,103.25,W,False
+2025,2,7,KingTowsk,Aaron Yeo’s future team,175.38,3,MaxSirianni,146.13,W,False
+2025,2,8,TylerWicks,Stopped Bo-lievin’,142.02,10,cc5597,111.21,W,False
+2025,2,9,brockhusk,Just End The Season,103.25,6,JSanDusky69,124.48,L,False
+2025,2,10,cc5597,Baby Dak Gibbs,111.21,8,TylerWicks,142.02,L,False
+2025,2,11,Jacktaco98,So white it hurts,119.29,5,charliekaufmann,144.1,L,False
+2025,2,12,akepple9,Something About Flacco ,155.54,1,bgreenblatt,128.67,W,False
+2025,3,1,bgreenblatt,Young and Beautiful ,107.04,10,cc5597,160.21,L,False
+2025,3,2,Erjohnson14,The TrashMen,139.1,12,akepple9,113.69,W,False
+2025,3,3,MaxSirianni,We Built This Griddy,149.14,6,JSanDusky69,127.85,W,False
+2025,3,4,jdrobny,Stick em up,120.78,11,Jacktaco98,133.71,L,False
+2025,3,5,charliekaufmann,Clownin’ Around,106.54,9,brockhusk,166.44,L,False
+2025,3,6,JSanDusky69,Manicures & Misery,127.85,3,MaxSirianni,149.14,L,False
+2025,3,7,KingTowsk,Aaron Yeo’s future team,121.64,8,TylerWicks,120.98,W,False
+2025,3,8,TylerWicks,Stopped Bo-lievin’,120.98,7,KingTowsk,121.64,L,False
+2025,3,9,brockhusk,Just End The Season,166.44,5,charliekaufmann,106.54,W,False
+2025,3,10,cc5597,Baby Dak Gibbs,160.21,1,bgreenblatt,107.04,W,False
+2025,3,11,Jacktaco98,So white it hurts,133.71,4,jdrobny,120.78,W,False
+2025,3,12,akepple9,Something About Flacco ,113.69,2,Erjohnson14,139.1,L,False
+2025,4,1,bgreenblatt,Young and Beautiful ,140.84,6,JSanDusky69,166.81,L,False
+2025,4,2,Erjohnson14,The TrashMen,130.72,8,TylerWicks,128.21,W,False
+2025,4,3,MaxSirianni,We Built This Griddy,165.26,10,cc5597,150.17,W,False
+2025,4,4,jdrobny,Stick em up,157.92,12,akepple9,170.42,L,False
+2025,4,5,charliekaufmann,Clownin’ Around,155.75,7,KingTowsk,105.06,W,False
+2025,4,6,JSanDusky69,Manicures & Misery,166.81,1,bgreenblatt,140.84,W,False
+2025,4,7,KingTowsk,Aaron Yeo’s future team,105.06,5,charliekaufmann,155.75,L,False
+2025,4,8,TylerWicks,Stopped Bo-lievin’,128.21,2,Erjohnson14,130.72,L,False
+2025,4,9,brockhusk,Just End The Season,111.59,11,Jacktaco98,168.02,L,False
+2025,4,10,cc5597,Baby Dak Gibbs,150.17,3,MaxSirianni,165.26,L,False
+2025,4,11,Jacktaco98,So white it hurts,168.02,9,brockhusk,111.59,W,False
+2025,4,12,akepple9,Something About Flacco ,170.42,4,jdrobny,157.92,W,False
+2025,5,1,bgreenblatt,Young and Beautiful ,149.05,4,jdrobny,145.05,W,False
+2025,5,2,Erjohnson14,The TrashMen,145.61,10,cc5597,151.7,L,False
+2025,5,3,MaxSirianni,We Built This Griddy,145.46,9,brockhusk,159.66,L,False
+2025,5,4,jdrobny,Stick em up,145.05,1,bgreenblatt,149.05,L,False
+2025,5,5,charliekaufmann,Clownin’ Around,120.24,6,JSanDusky69,149.41,L,False
+2025,5,6,JSanDusky69,Manicures & Misery,149.41,5,charliekaufmann,120.24,W,False
+2025,5,7,KingTowsk,Aaron Yeo’s future team,108.18,11,Jacktaco98,119.17,L,False
+2025,5,8,TylerWicks,Stopped Bo-lievin’,156.44,12,akepple9,141.64,W,False
+2025,5,9,brockhusk,Just End The Season,159.66,3,MaxSirianni,145.46,W,False
+2025,5,10,cc5597,Baby Dak Gibbs,151.7,2,Erjohnson14,145.61,W,False
+2025,5,11,Jacktaco98,So white it hurts,119.17,7,KingTowsk,108.18,W,False
+2025,5,12,akepple9,Something About Flacco ,141.64,8,TylerWicks,156.44,L,False
+2025,6,1,bgreenblatt,Young and Beautiful ,183.96,2,Erjohnson14,153.96,W,False
+2025,6,2,Erjohnson14,The TrashMen,153.96,1,bgreenblatt,183.96,L,False
+2025,6,3,MaxSirianni,We Built This Griddy,119.31,5,charliekaufmann,103.4,W,False
+2025,6,4,jdrobny,Stick em up,110.6,8,TylerWicks,112.76,L,False
+2025,6,5,charliekaufmann,Clownin’ Around,103.4,3,MaxSirianni,119.31,L,False
+2025,6,6,JSanDusky69,Manicures & Misery,103.14,11,Jacktaco98,144.61,L,False
+2025,6,7,KingTowsk,Aaron Yeo’s future team,140.21,9,brockhusk,125.92,W,False
+2025,6,8,TylerWicks,Stopped Bo-lievin’,112.76,4,jdrobny,110.6,W,False
+2025,6,9,brockhusk,Just End The Season,125.92,7,KingTowsk,140.21,L,False
+2025,6,10,cc5597,Baby Dak Gibbs,145.89,12,akepple9,123.8,W,False
+2025,6,11,Jacktaco98,So white it hurts,144.61,6,JSanDusky69,103.14,W,False
+2025,6,12,akepple9,Something About Flacco ,123.8,10,cc5597,145.89,L,False
+2025,7,1,bgreenblatt,Young and Beautiful ,153.24,7,KingTowsk,123.6,W,False
+2025,7,2,Erjohnson14,The TrashMen,173.23,11,Jacktaco98,144.82,W,False
+2025,7,3,MaxSirianni,We Built This Griddy,102.63,12,akepple9,134.88,L,False
+2025,7,4,jdrobny,Stick em up,135.58,10,cc5597,165.16,L,False
+2025,7,5,charliekaufmann,Clownin’ Around,119.66,6,JSanDusky69,106.01,W,False
+2025,7,6,JSanDusky69,Manicures & Misery,106.01,5,charliekaufmann,119.66,L,False
+2025,7,7,KingTowsk,Aaron Yeo’s future team,123.6,1,bgreenblatt,153.24,L,False
+2025,7,8,TylerWicks,Stopped Bo-lievin’,199.72,9,brockhusk,123.49,W,False
+2025,7,9,brockhusk,Just End The Season,123.49,8,TylerWicks,199.72,L,False
+2025,7,10,cc5597,Baby Dak Gibbs,165.16,4,jdrobny,135.58,W,False
+2025,7,11,Jacktaco98,So white it hurts,144.82,2,Erjohnson14,173.23,L,False
+2025,7,12,akepple9,Something About Flacco ,134.88,3,MaxSirianni,102.63,W,False
+2025,8,1,bgreenblatt,Young and Beautiful ,100.69,3,MaxSirianni,127.8,L,False
+2025,8,2,Erjohnson14,The TrashMen,155.77,10,cc5597,104.24,W,False
+2025,8,3,MaxSirianni,We Built This Griddy,127.8,1,bgreenblatt,100.69,W,False
+2025,8,4,jdrobny,Stick em up,130.33,9,brockhusk,117.22,W,False
+2025,8,5,charliekaufmann,Clownin’ Around,121.77,8,TylerWicks,174.95,L,False
+2025,8,6,JSanDusky69,Manicures & Misery,133.37,12,akepple9,160.53,L,False
+2025,8,7,KingTowsk,Aaron Yeo’s future team,91.28,11,Jacktaco98,139.24,L,False
+2025,8,8,TylerWicks,Stopped Bo-lievin’,174.95,5,charliekaufmann,121.77,W,False
+2025,8,9,brockhusk,Just End The Season,117.22,4,jdrobny,130.33,L,False
+2025,8,10,cc5597,Baby Dak Gibbs,104.24,2,Erjohnson14,155.77,L,False
+2025,8,11,Jacktaco98,So white it hurts,139.24,7,KingTowsk,91.28,W,False
+2025,8,12,akepple9,Something About Flacco ,160.53,6,JSanDusky69,133.37,W,False
+2025,9,1,bgreenblatt,Young and Beautiful ,170.93,4,jdrobny,123.29,W,False
+2025,9,2,Erjohnson14,The TrashMen,130.17,5,charliekaufmann,152.45,L,False
+2025,9,3,MaxSirianni,We Built This Griddy,142.77,7,KingTowsk,137.28,W,False
+2025,9,4,jdrobny,Stick em up,123.29,1,bgreenblatt,170.93,L,False
+2025,9,5,charliekaufmann,Clownin’ Around,152.45,2,Erjohnson14,130.17,W,False
+2025,9,6,JSanDusky69,Manicures & Misery,161.76,8,TylerWicks,120.13,W,False
+2025,9,7,KingTowsk,Aaron Yeo’s future team,137.28,3,MaxSirianni,142.77,L,False
+2025,9,8,TylerWicks,Stopped Bo-lievin’,120.13,6,JSanDusky69,161.76,L,False
+2025,9,9,brockhusk,Just End The Season,128.21,10,cc5597,132.02,L,False
+2025,9,10,cc5597,Baby Dak Gibbs,132.02,9,brockhusk,128.21,W,False
+2025,9,11,Jacktaco98,So white it hurts,129.06,12,akepple9,124.01,W,False
+2025,9,12,akepple9,Something About Flacco ,124.01,11,Jacktaco98,129.06,L,False
+2025,10,1,bgreenblatt,Young and Beautiful ,181.85,5,charliekaufmann,95.14,W,False
+2025,10,2,Erjohnson14,The TrashMen,156.09,7,KingTowsk,124.77,W,False
+2025,10,3,MaxSirianni,We Built This Griddy,107.11,4,jdrobny,114.0,L,False
+2025,10,4,jdrobny,Stick em up,114.0,3,MaxSirianni,107.11,W,False
+2025,10,5,charliekaufmann,Clownin’ Around,95.14,1,bgreenblatt,181.85,L,False
+2025,10,6,JSanDusky69,Manicures & Misery,132.46,11,Jacktaco98,121.12,W,False
+2025,10,7,KingTowsk,Aaron Yeo’s future team,124.77,2,Erjohnson14,156.09,L,False
+2025,10,8,TylerWicks,Stopped Bo-lievin’,133.43,10,cc5597,139.6,L,False
+2025,10,9,brockhusk,Just End The Season,169.51,12,akepple9,128.0,W,False
+2025,10,10,cc5597,Baby Dak Gibbs,139.6,8,TylerWicks,133.43,W,False
+2025,10,11,Jacktaco98,So white it hurts,121.12,6,JSanDusky69,132.46,L,False
+2025,10,12,akepple9,Something About Flacco ,128.0,9,brockhusk,169.51,L,False
+2025,11,1,bgreenblatt,Young and Beautiful ,176.8,9,brockhusk,91.59,W,False
+2025,11,2,Erjohnson14,The TrashMen,119.84,5,charliekaufmann,131.34,L,False
+2025,11,3,MaxSirianni,We Built This Griddy,102.92,11,Jacktaco98,109.29,L,False
+2025,11,4,jdrobny,Stick em up,113.89,6,JSanDusky69,95.64,W,False
+2025,11,5,charliekaufmann,Clownin’ Around,131.34,2,Erjohnson14,119.84,W,False
+2025,11,6,JSanDusky69,Manicures & Misery,95.64,4,jdrobny,113.89,L,False
+2025,11,7,KingTowsk,Aaron Yeo’s future team,128.91,10,cc5597,191.85,L,False
+2025,11,8,TylerWicks,Stopped Bo-lievin’,179.11,12,akepple9,95.1,W,False
+2025,11,9,brockhusk,Just End The Season,91.59,1,bgreenblatt,176.8,L,False
+2025,11,10,cc5597,Baby Dak Gibbs,191.85,7,KingTowsk,128.91,W,False
+2025,11,11,Jacktaco98,So white it hurts,109.29,3,MaxSirianni,102.92,W,False
+2025,11,12,akepple9,Something About Flacco ,95.1,8,TylerWicks,179.11,L,False
+2025,12,1,bgreenblatt,Young and Beautiful ,113.79,5,charliekaufmann,130.26,L,False
+2025,12,2,Erjohnson14,The TrashMen,108.62,9,brockhusk,81.01,W,False
+2025,12,3,MaxSirianni,We Built This Griddy,119.27,12,akepple9,131.89,L,False
+2025,12,4,jdrobny,Stick em up,139.56,7,KingTowsk,149.53,L,False
+2025,12,5,charliekaufmann,Clownin’ Around,130.26,1,bgreenblatt,113.79,W,False
+2025,12,6,JSanDusky69,Manicures & Misery,100.47,10,cc5597,179.83,L,False
+2025,12,7,KingTowsk,Aaron Yeo’s future team,149.53,4,jdrobny,139.56,W,False
+2025,12,8,TylerWicks,Stopped Bo-lievin’,141.14,11,Jacktaco98,166.37,L,False
+2025,12,9,brockhusk,Just End The Season,81.01,2,Erjohnson14,108.62,L,False
+2025,12,10,cc5597,Baby Dak Gibbs,179.83,6,JSanDusky69,100.47,W,False
+2025,12,11,Jacktaco98,So white it hurts,166.37,8,TylerWicks,141.14,W,False
+2025,12,12,akepple9,Something About Flacco ,131.89,3,MaxSirianni,119.27,W,False
+2025,13,1,bgreenblatt,Young and Beautiful ,131.9,8,TylerWicks,112.43,W,False
+2025,13,2,Erjohnson14,The TrashMen,176.04,3,MaxSirianni,87.23,W,False
+2025,13,3,MaxSirianni,We Built This Griddy,87.23,2,Erjohnson14,176.04,L,False
+2025,13,4,jdrobny,Stick em up,114.16,6,JSanDusky69,144.87,L,False
+2025,13,5,charliekaufmann,Clownin’ Around,91.51,12,akepple9,149.88,L,False
+2025,13,6,JSanDusky69,Manicures & Misery,144.87,4,jdrobny,114.16,W,False
+2025,13,7,KingTowsk,Aaron Yeo’s future team,151.08,9,brockhusk,115.5,W,False
+2025,13,8,TylerWicks,Stopped Bo-lievin’,112.43,1,bgreenblatt,131.9,L,False
+2025,13,9,brockhusk,Just End The Season,115.5,7,KingTowsk,151.08,L,False
+2025,13,10,cc5597,Baby Dak Gibbs,126.12,11,Jacktaco98,107.98,W,False
+2025,13,11,Jacktaco98,So white it hurts,107.98,10,cc5597,126.12,L,False
+2025,13,12,akepple9,Something About Flacco ,149.88,5,charliekaufmann,91.51,W,False
+2025,14,1,bgreenblatt,Young and Beautiful ,101.69,10,cc5597,186.38,L,False
+2025,14,2,Erjohnson14,The TrashMen,115.63,6,JSanDusky69,150.95,L,False
+2025,14,3,MaxSirianni,We Built This Griddy,138.67,11,Jacktaco98,94.2,W,False
+2025,14,4,jdrobny,Stick em up,86.0,5,charliekaufmann,119.59,L,False
+2025,14,5,charliekaufmann,Clownin’ Around,119.59,4,jdrobny,86.0,W,False
+2025,14,6,JSanDusky69,Manicures & Misery,150.95,2,Erjohnson14,115.63,W,False
+2025,14,7,KingTowsk,Aaron Yeo’s future team,126.01,12,akepple9,163.41,L,False
+2025,14,8,TylerWicks,Stopped Bo-lievin’,142.2,9,brockhusk,107.14,W,False
+2025,14,9,brockhusk,Just End The Season,107.14,8,TylerWicks,142.2,L,False
+2025,14,10,cc5597,Baby Dak Gibbs,186.38,1,bgreenblatt,101.69,W,False
+2025,14,11,Jacktaco98,So white it hurts,94.2,3,MaxSirianni,138.67,L,False
+2025,14,12,akepple9,Something About Flacco ,163.41,7,KingTowsk,126.01,W,False
+2025,15,1,bgreenblatt,Young and Beautiful ,138.01,8,TylerWicks,125.78,W,True
+2025,15,2,Erjohnson14,The TrashMen,176.19,12,akepple9,159.88,W,True
+2025,15,3,MaxSirianni,We Built This Griddy,154.23,5,charliekaufmann,126.31,W,True
+2025,15,5,charliekaufmann,Clownin’ Around,126.31,3,MaxSirianni,154.23,L,True
+2025,15,6,JSanDusky69,Manicures & Misery,146.56,7,KingTowsk,141.3,W,True
+2025,15,7,KingTowsk,Aaron Yeo’s future team,141.3,6,JSanDusky69,146.56,L,True
+2025,15,8,TylerWicks,Stopped Bo-lievin’,125.78,1,bgreenblatt,138.01,L,True
+2025,15,12,akepple9,Something About Flacco ,159.88,2,Erjohnson14,176.19,L,True
+2025,16,1,bgreenblatt,Young and Beautiful ,101.54,10,cc5597,150.21,L,True
+2025,16,2,Erjohnson14,The TrashMen,146.91,11,Jacktaco98,137.6,W,True
+2025,16,3,MaxSirianni,We Built This Griddy,117.28,6,JSanDusky69,136.88,L,True
+2025,16,4,jdrobny,Stick em up,159.63,5,charliekaufmann,117.79,W,True
+2025,16,5,charliekaufmann,Clownin’ Around,117.79,4,jdrobny,159.63,L,True
+2025,16,6,JSanDusky69,Manicures & Misery,136.88,3,MaxSirianni,117.28,W,True
+2025,16,7,KingTowsk,Aaron Yeo’s future team,103.38,9,brockhusk,124.04,L,True
+2025,16,8,TylerWicks,Stopped Bo-lievin’,140.81,12,akepple9,222.36,L,True
+2025,16,9,brockhusk,Just End The Season,124.04,7,KingTowsk,103.38,W,True
+2025,16,10,cc5597,Baby Dak Gibbs,150.21,1,bgreenblatt,101.54,W,True
+2025,16,11,Jacktaco98,So white it hurts,137.6,2,Erjohnson14,146.91,L,True
+2025,16,12,akepple9,Something About Flacco ,222.36,8,TylerWicks,140.81,W,True
+2025,17,1,bgreenblatt,Young and Beautiful ,105.56,11,Jacktaco98,94.34,W,True
+2025,17,2,Erjohnson14,The TrashMen,171.04,10,cc5597,160.91,W,True
+2025,17,4,jdrobny,Stick em up,79.85,9,brockhusk,113.04,L,True
+2025,17,5,charliekaufmann,Clownin’ Around,129.76,7,KingTowsk,94.04,W,True
+2025,17,7,KingTowsk,Aaron Yeo’s future team,94.04,5,charliekaufmann,129.76,L,True
+2025,17,9,brockhusk,Just End The Season,113.04,4,jdrobny,79.85,W,True
+2025,17,10,cc5597,Baby Dak Gibbs,160.91,2,Erjohnson14,171.04,L,True
+2025,17,11,Jacktaco98,So white it hurts,94.34,1,bgreenblatt,105.56,L,True

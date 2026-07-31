@@ -1,0 +1,161 @@
+season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manager,opponent_points,result,is_playoff
+2021,1,1,bgreenblatt,Ellis is a homo,149.98,8,TylerWicks,115.9,W,False
+2021,1,2,Erjohnson14,Ben choked ,134.24,10,cc5597,115.6,W,False
+2021,1,3,MaxSirianni,Brad can you Diggs it?,131.4,6,JSanDusky69,158.68,L,False
+2021,1,4,jdrobny,Kareem in her Hunt,129.64,9,brockhusk,165.96,L,False
+2021,1,5,kaufmannc,Cleveland Steamers,166.66,7,KingTowsk,155.68,W,False
+2021,1,6,JSanDusky69,2 Girls 1 Kupp,158.68,3,MaxSirianni,131.4,W,False
+2021,1,7,KingTowsk,The Toilet Bowl Champ,155.68,5,kaufmannc,166.66,L,False
+2021,1,8,TylerWicks,Opted Out,115.9,1,bgreenblatt,149.98,L,False
+2021,1,9,brockhusk,Mike White GOAT,165.96,4,jdrobny,129.64,W,False
+2021,1,10,cc5597,No Punt Intended,115.6,2,Erjohnson14,134.24,L,False
+2021,2,1,bgreenblatt,Ellis is a homo,100.64,4,jdrobny,173.92,L,False
+2021,2,2,Erjohnson14,Ben choked ,154.14,5,kaufmannc,167.94,L,False
+2021,2,3,MaxSirianni,Brad can you Diggs it?,120.14,10,cc5597,139.32,L,False
+2021,2,4,jdrobny,Kareem in her Hunt,173.92,1,bgreenblatt,100.64,W,False
+2021,2,5,kaufmannc,Cleveland Steamers,167.94,2,Erjohnson14,154.14,W,False
+2021,2,6,JSanDusky69,2 Girls 1 Kupp,134.6,7,KingTowsk,131.8,W,False
+2021,2,7,KingTowsk,The Toilet Bowl Champ,131.8,6,JSanDusky69,134.6,L,False
+2021,2,8,TylerWicks,Opted Out,201.96,9,brockhusk,130.8,W,False
+2021,2,9,brockhusk,Mike White GOAT,130.8,8,TylerWicks,201.96,L,False
+2021,2,10,cc5597,No Punt Intended,139.32,3,MaxSirianni,120.14,W,False
+2021,3,1,bgreenblatt,Ellis is a homo,181.9,9,brockhusk,139.16,W,False
+2021,3,2,Erjohnson14,Ben choked ,138.3,3,MaxSirianni,120.56,W,False
+2021,3,3,MaxSirianni,Brad can you Diggs it?,120.56,2,Erjohnson14,138.3,L,False
+2021,3,4,jdrobny,Kareem in her Hunt,171.08,8,TylerWicks,175.06,L,False
+2021,3,5,kaufmannc,Cleveland Steamers,131.34,6,JSanDusky69,130.4,W,False
+2021,3,6,JSanDusky69,2 Girls 1 Kupp,130.4,5,kaufmannc,131.34,L,False
+2021,3,7,KingTowsk,The Toilet Bowl Champ,114.84,10,cc5597,160.12,L,False
+2021,3,8,TylerWicks,Opted Out,175.06,4,jdrobny,171.08,W,False
+2021,3,9,brockhusk,Mike White GOAT,139.16,1,bgreenblatt,181.9,L,False
+2021,3,10,cc5597,No Punt Intended,160.12,7,KingTowsk,114.84,W,False
+2021,4,1,bgreenblatt,Ellis is a homo,141.34,2,Erjohnson14,159.32,L,False
+2021,4,2,Erjohnson14,Ben choked ,159.32,1,bgreenblatt,141.34,W,False
+2021,4,3,MaxSirianni,Brad can you Diggs it?,97.46,4,jdrobny,180.56,L,False
+2021,4,4,jdrobny,Kareem in her Hunt,180.56,3,MaxSirianni,97.46,W,False
+2021,4,5,kaufmannc,Cleveland Steamers,187.74,10,cc5597,110.18,W,False
+2021,4,6,JSanDusky69,2 Girls 1 Kupp,161.26,9,brockhusk,147.1,W,False
+2021,4,7,KingTowsk,The Toilet Bowl Champ,106.48,8,TylerWicks,127.94,L,False
+2021,4,8,TylerWicks,Opted Out,127.94,7,KingTowsk,106.48,W,False
+2021,4,9,brockhusk,Mike White GOAT,147.1,6,JSanDusky69,161.26,L,False
+2021,4,10,cc5597,No Punt Intended,110.18,5,kaufmannc,187.74,L,False
+2021,5,1,bgreenblatt,Ellis is a homo,213.58,10,cc5597,190.58,W,False
+2021,5,2,Erjohnson14,Ben choked ,131.56,7,KingTowsk,201.0,L,False
+2021,5,3,MaxSirianni,Brad can you Diggs it?,166.68,9,brockhusk,159.04,W,False
+2021,5,4,jdrobny,Kareem in her Hunt,218.14,6,JSanDusky69,102.94,W,False
+2021,5,5,kaufmannc,Cleveland Steamers,133.18,8,TylerWicks,121.22,W,False
+2021,5,6,JSanDusky69,2 Girls 1 Kupp,102.94,4,jdrobny,218.14,L,False
+2021,5,7,KingTowsk,The Toilet Bowl Champ,201.0,2,Erjohnson14,131.56,W,False
+2021,5,8,TylerWicks,Opted Out,121.22,5,kaufmannc,133.18,L,False
+2021,5,9,brockhusk,Mike White GOAT,159.04,3,MaxSirianni,166.68,L,False
+2021,5,10,cc5597,No Punt Intended,190.58,1,bgreenblatt,213.58,L,False
+2021,6,1,bgreenblatt,Ellis is a homo,169.56,3,MaxSirianni,126.48,W,False
+2021,6,2,Erjohnson14,Ben choked ,154.14,6,JSanDusky69,185.98,L,False
+2021,6,3,MaxSirianni,Brad can you Diggs it?,126.48,1,bgreenblatt,169.56,L,False
+2021,6,4,jdrobny,Kareem in her Hunt,149.1,5,kaufmannc,143.92,W,False
+2021,6,5,kaufmannc,Cleveland Steamers,143.92,4,jdrobny,149.1,L,False
+2021,6,6,JSanDusky69,2 Girls 1 Kupp,185.98,2,Erjohnson14,154.14,W,False
+2021,6,7,KingTowsk,The Toilet Bowl Champ,134.24,9,brockhusk,150.06,L,False
+2021,6,8,TylerWicks,Opted Out,117.62,10,cc5597,137.42,L,False
+2021,6,9,brockhusk,Mike White GOAT,150.06,7,KingTowsk,134.24,W,False
+2021,6,10,cc5597,No Punt Intended,137.42,8,TylerWicks,117.62,W,False
+2021,7,1,bgreenblatt,Ellis is a homo,148.4,6,JSanDusky69,135.24,W,False
+2021,7,2,Erjohnson14,Ben choked ,160.48,8,TylerWicks,146.38,W,False
+2021,7,3,MaxSirianni,Brad can you Diggs it?,98.98,7,KingTowsk,171.06,L,False
+2021,7,4,jdrobny,Kareem in her Hunt,143.4,10,cc5597,180.08,L,False
+2021,7,5,kaufmannc,Cleveland Steamers,122.18,9,brockhusk,128.04,L,False
+2021,7,6,JSanDusky69,2 Girls 1 Kupp,135.24,1,bgreenblatt,148.4,L,False
+2021,7,7,KingTowsk,The Toilet Bowl Champ,171.06,3,MaxSirianni,98.98,W,False
+2021,7,8,TylerWicks,Opted Out,146.38,2,Erjohnson14,160.48,L,False
+2021,7,9,brockhusk,Mike White GOAT,128.04,5,kaufmannc,122.18,W,False
+2021,7,10,cc5597,No Punt Intended,180.08,4,jdrobny,143.4,W,False
+2021,8,1,bgreenblatt,Ellis is a homo,151.76,7,KingTowsk,125.66,W,False
+2021,8,2,Erjohnson14,Ben choked ,159.62,4,jdrobny,113.04,W,False
+2021,8,3,MaxSirianni,Brad can you Diggs it?,119.98,5,kaufmannc,93.06,W,False
+2021,8,4,jdrobny,Kareem in her Hunt,113.04,2,Erjohnson14,159.62,L,False
+2021,8,5,kaufmannc,Cleveland Steamers,93.06,3,MaxSirianni,119.98,L,False
+2021,8,6,JSanDusky69,2 Girls 1 Kupp,153.36,8,TylerWicks,131.64,W,False
+2021,8,7,KingTowsk,The Toilet Bowl Champ,125.66,1,bgreenblatt,151.76,L,False
+2021,8,8,TylerWicks,Opted Out,131.64,6,JSanDusky69,153.36,L,False
+2021,8,9,brockhusk,Mike White GOAT,125.94,10,cc5597,131.36,L,False
+2021,8,10,cc5597,No Punt Intended,131.36,9,brockhusk,125.94,W,False
+2021,9,1,bgreenblatt,Ellis is a homo,110.18,5,kaufmannc,159.36,L,False
+2021,9,2,Erjohnson14,Ben choked ,122.44,9,brockhusk,122.22,W,False
+2021,9,3,MaxSirianni,Brad can you Diggs it?,116.68,8,TylerWicks,103.6,W,False
+2021,9,4,jdrobny,Kareem in her Hunt,118.02,7,KingTowsk,144.24,L,False
+2021,9,5,kaufmannc,Cleveland Steamers,159.36,1,bgreenblatt,110.18,W,False
+2021,9,6,JSanDusky69,2 Girls 1 Kupp,90.18,10,cc5597,91.12,L,False
+2021,9,7,KingTowsk,The Toilet Bowl Champ,144.24,4,jdrobny,118.02,W,False
+2021,9,8,TylerWicks,Opted Out,103.6,3,MaxSirianni,116.68,L,False
+2021,9,9,brockhusk,Mike White GOAT,122.22,2,Erjohnson14,122.44,L,False
+2021,9,10,cc5597,No Punt Intended,91.12,6,JSanDusky69,90.18,W,False
+2021,10,1,bgreenblatt,Ellis is a homo,151.56,8,TylerWicks,91.66,W,False
+2021,10,2,Erjohnson14,Ben choked ,148.72,10,cc5597,124.24,W,False
+2021,10,3,MaxSirianni,Brad can you Diggs it?,124.84,6,JSanDusky69,136.58,L,False
+2021,10,4,jdrobny,Kareem in her Hunt,94.82,9,brockhusk,74.42,W,False
+2021,10,5,kaufmannc,Cleveland Steamers,151.0,7,KingTowsk,130.4,W,False
+2021,10,6,JSanDusky69,2 Girls 1 Kupp,136.58,3,MaxSirianni,124.84,W,False
+2021,10,7,KingTowsk,The Toilet Bowl Champ,130.4,5,kaufmannc,151.0,L,False
+2021,10,8,TylerWicks,Opted Out,91.66,1,bgreenblatt,151.56,L,False
+2021,10,9,brockhusk,Mike White GOAT,74.42,4,jdrobny,94.82,L,False
+2021,10,10,cc5597,No Punt Intended,124.24,2,Erjohnson14,148.72,L,False
+2021,11,1,bgreenblatt,Ellis is a homo,149.08,4,jdrobny,168.56,L,False
+2021,11,2,Erjohnson14,Ben choked ,114.74,5,kaufmannc,150.68,L,False
+2021,11,3,MaxSirianni,Brad can you Diggs it?,101.02,10,cc5597,129.1,L,False
+2021,11,4,jdrobny,Kareem in her Hunt,168.56,1,bgreenblatt,149.08,W,False
+2021,11,5,kaufmannc,Cleveland Steamers,150.68,2,Erjohnson14,114.74,W,False
+2021,11,6,JSanDusky69,2 Girls 1 Kupp,136.22,7,KingTowsk,172.58,L,False
+2021,11,7,KingTowsk,The Toilet Bowl Champ,172.58,6,JSanDusky69,136.22,W,False
+2021,11,8,TylerWicks,Opted Out,153.56,9,brockhusk,145.78,W,False
+2021,11,9,brockhusk,Mike White GOAT,145.78,8,TylerWicks,153.56,L,False
+2021,11,10,cc5597,No Punt Intended,129.1,3,MaxSirianni,101.02,W,False
+2021,12,1,bgreenblatt,Ellis is a homo,161.72,9,brockhusk,135.9,W,False
+2021,12,2,Erjohnson14,Ben choked ,137.16,3,MaxSirianni,142.72,L,False
+2021,12,3,MaxSirianni,Brad can you Diggs it?,142.72,2,Erjohnson14,137.16,W,False
+2021,12,4,jdrobny,Kareem in her Hunt,111.88,8,TylerWicks,117.76,L,False
+2021,12,5,kaufmannc,Cleveland Steamers,117.32,6,JSanDusky69,129.3,L,False
+2021,12,6,JSanDusky69,2 Girls 1 Kupp,129.3,5,kaufmannc,117.32,W,False
+2021,12,7,KingTowsk,The Toilet Bowl Champ,129.68,10,cc5597,148.04,L,False
+2021,12,8,TylerWicks,Opted Out,117.76,4,jdrobny,111.88,W,False
+2021,12,9,brockhusk,Mike White GOAT,135.9,1,bgreenblatt,161.72,L,False
+2021,12,10,cc5597,No Punt Intended,148.04,7,KingTowsk,129.68,W,False
+2021,13,1,bgreenblatt,Ellis is a homo,171.14,2,Erjohnson14,178.86,L,False
+2021,13,2,Erjohnson14,Ben choked ,178.86,1,bgreenblatt,171.14,W,False
+2021,13,3,MaxSirianni,Brad can you Diggs it?,138.86,4,jdrobny,131.04,W,False
+2021,13,4,jdrobny,Kareem in her Hunt,131.04,3,MaxSirianni,138.86,L,False
+2021,13,5,kaufmannc,Cleveland Steamers,116.72,10,cc5597,183.22,L,False
+2021,13,6,JSanDusky69,2 Girls 1 Kupp,182.24,9,brockhusk,104.38,W,False
+2021,13,7,KingTowsk,The Toilet Bowl Champ,116.32,8,TylerWicks,133.06,L,False
+2021,13,8,TylerWicks,Opted Out,133.06,7,KingTowsk,116.32,W,False
+2021,13,9,brockhusk,Mike White GOAT,104.38,6,JSanDusky69,182.24,L,False
+2021,13,10,cc5597,No Punt Intended,183.22,5,kaufmannc,116.72,W,False
+2021,14,2,Erjohnson14,Ben choked ,142.52,4,jdrobny,153.96,L,True
+2021,14,3,MaxSirianni,Brad can you Diggs it?,170.4,7,KingTowsk,109.8,W,True
+2021,14,4,jdrobny,Kareem in her Hunt,153.96,2,Erjohnson14,142.52,W,True
+2021,14,5,kaufmannc,Cleveland Steamers,117.28,6,JSanDusky69,179.66,L,True
+2021,14,6,JSanDusky69,2 Girls 1 Kupp,179.66,5,kaufmannc,117.28,W,True
+2021,14,7,KingTowsk,The Toilet Bowl Champ,109.8,3,MaxSirianni,170.4,L,True
+2021,14,8,TylerWicks,Opted Out,165.48,9,brockhusk,134.42,W,True
+2021,14,9,brockhusk,Mike White GOAT,134.42,8,TylerWicks,165.48,L,True
+2021,15,1,bgreenblatt,Ellis is a homo,112.32,4,jdrobny,121.24,L,True
+2021,15,2,Erjohnson14,Ben choked ,144.3,5,kaufmannc,106.36,W,True
+2021,15,3,MaxSirianni,Brad can you Diggs it?,108.72,8,TylerWicks,72.92,W,True
+2021,15,4,jdrobny,Kareem in her Hunt,121.24,1,bgreenblatt,112.32,W,True
+2021,15,5,kaufmannc,Cleveland Steamers,106.36,2,Erjohnson14,144.3,L,True
+2021,15,6,JSanDusky69,2 Girls 1 Kupp,171.04,10,cc5597,75.74,W,True
+2021,15,7,KingTowsk,The Toilet Bowl Champ,142.7,9,brockhusk,97.72,W,True
+2021,15,8,TylerWicks,Opted Out,72.92,3,MaxSirianni,108.72,L,True
+2021,15,9,brockhusk,Mike White GOAT,97.72,7,KingTowsk,142.7,L,True
+2021,15,10,cc5597,No Punt Intended,75.74,6,JSanDusky69,171.04,L,True
+2021,16,1,bgreenblatt,Ellis is a homo,177.26,10,cc5597,185.78,L,True
+2021,16,3,MaxSirianni,Brad can you Diggs it?,101.54,8,TylerWicks,67.92,W,True
+2021,16,4,jdrobny,Kareem in her Hunt,119.9,6,JSanDusky69,99.04,W,True
+2021,16,6,JSanDusky69,2 Girls 1 Kupp,99.04,4,jdrobny,119.9,L,True
+2021,16,7,KingTowsk,The Toilet Bowl Champ,144.16,9,brockhusk,140.3,W,True
+2021,16,8,TylerWicks,Opted Out,67.92,3,MaxSirianni,101.54,L,True
+2021,16,9,brockhusk,Mike White GOAT,140.3,7,KingTowsk,144.16,L,True
+2021,16,10,cc5597,No Punt Intended,185.78,1,bgreenblatt,177.26,W,True
+2021,17,1,bgreenblatt,Ellis is a homo,166.96,10,cc5597,157.54,W,True
+2021,17,4,jdrobny,Kareem in her Hunt,140.84,6,JSanDusky69,145.74,L,True
+2021,17,6,JSanDusky69,2 Girls 1 Kupp,145.74,4,jdrobny,140.84,W,True
+2021,17,10,cc5597,No Punt Intended,157.54,1,bgreenblatt,166.96,L,True

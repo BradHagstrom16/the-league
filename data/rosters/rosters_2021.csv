@@ -1,0 +1,186 @@
+season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
+2021,1,bgreenblatt,Ellis is a homo,1049,Ryan Tannehill,QB,,starter
+2021,1,bgreenblatt,Ellis is a homo,2319,DeVante Parker,WR,,bench
+2021,1,bgreenblatt,Ellis is a homo,2359,Ameer Abdullah,RB,JAX,bench
+2021,1,bgreenblatt,Ellis is a homo,3969,Leonard Fournette,RB,,ir
+2021,1,bgreenblatt,Ellis is a homo,4984,Josh Allen,QB,BUF,starter
+2021,1,bgreenblatt,Ellis is a homo,4985,Rashaad Penny,RB,,starter
+2021,1,bgreenblatt,Ellis is a homo,5052,Ronald Jones,RB,,bench
+2021,1,bgreenblatt,Ellis is a homo,6783,Jerry Jeudy,WR,CLE,bench
+2021,1,bgreenblatt,Ellis is a homo,6794,Justin Jefferson,WR,MIN,starter
+2021,1,bgreenblatt,Ellis is a homo,6813,Jonathan Taylor,RB,IND,starter
+2021,1,bgreenblatt,Ellis is a homo,6819,Michael Pittman,WR,PIT,bench
+2021,1,bgreenblatt,Ellis is a homo,7042,Tyler Bass,K,BUF,starter
+2021,1,bgreenblatt,Ellis is a homo,7547,Amon-Ra St. Brown,WR,DET,starter
+2021,1,bgreenblatt,Ellis is a homo,7553,Kyle Pitts,TE,ATL,starter
+2021,1,bgreenblatt,Ellis is a homo,7564,Ja'Marr Chase,WR,CIN,starter
+2021,1,bgreenblatt,Ellis is a homo,7610,Trey Lance,QB,LAC,bench
+2021,1,bgreenblatt,Ellis is a homo,IND,Indianapolis Colts,DEF,IND,starter
+2021,1,bgreenblatt,Ellis is a homo,SF,San Francisco 49ers,DEF,SF,bench
+2021,2,Erjohnson14,Ben choked ,1837,Jimmy Garoppolo,QB,,starter
+2021,2,Erjohnson14,Ben choked ,2152,Teddy Bridgewater,QB,DET,bench
+2021,2,Erjohnson14,Ben choked ,4046,Patrick Mahomes,QB,KC,starter
+2021,2,Erjohnson14,Ben choked ,4866,Saquon Barkley,RB,PHI,bench
+2021,2,Erjohnson14,Ben choked ,4962,Sony Michel,RB,,bench
+2021,2,Erjohnson14,Ben choked ,5001,Dalton Schultz,TE,HOU,starter
+2021,2,Erjohnson14,Ben choked ,5844,T.J. Hockenson,TE,MIN,ir
+2021,2,Erjohnson14,Ben choked ,5859,A.J. Brown,WR,NE,bench
+2021,2,Erjohnson14,Ben choked ,5872,Deebo Samuel,WR,SF,starter
+2021,2,Erjohnson14,Ben choked ,5947,Jakobi Meyers,WR,JAX,bench
+2021,2,Erjohnson14,Ben choked ,5955,Hunter Renfrow,WR,,starter
+2021,2,Erjohnson14,Ben choked ,5987,Alexander Mattison,RB,,bench
+2021,2,Erjohnson14,Ben choked ,6083,Matt Gay,K,LV,starter
+2021,2,Erjohnson14,Ben choked ,6786,CeeDee Lamb,WR,DAL,starter
+2021,2,Erjohnson14,Ben choked ,6938,Cam Akers,RB,,bench
+2021,2,Erjohnson14,Ben choked ,6945,Antonio Gibson,RB,,starter
+2021,2,Erjohnson14,Ben choked ,7528,Najee Harris,RB,,starter
+2021,2,Erjohnson14,Ben choked ,7588,Javonte Williams,RB,DAL,bench
+2021,2,Erjohnson14,Ben choked ,NO,New Orleans Saints,DEF,NO,bench
+2021,2,Erjohnson14,Ben choked ,TB,Tampa Bay Buccaneers,DEF,TB,starter
+2021,3,MaxSirianni,Brad can you Diggs it?,1110,T.Y. Hilton,WR,,bench
+2021,3,MaxSirianni,Brad can you Diggs it?,1234,Russell Wilson,QB,,starter
+2021,3,MaxSirianni,Brad can you Diggs it?,1535,Cordarrelle Patterson,RB,,starter
+2021,3,MaxSirianni,Brad can you Diggs it?,2449,Stefon Diggs,WR,,starter
+2021,3,MaxSirianni,Brad can you Diggs it?,3161,Carson Wentz,QB,MIN,starter
+2021,3,MaxSirianni,Brad can you Diggs it?,4029,Dalvin Cook,RB,,starter
+2021,3,MaxSirianni,Brad can you Diggs it?,4068,Mike Williams,WR,,starter
+2021,3,MaxSirianni,Brad can you Diggs it?,4666,Younghoe Koo,K,,starter
+2021,3,MaxSirianni,Brad can you Diggs it?,4892,Baker Mayfield,QB,TB,bench
+2021,3,MaxSirianni,Brad can you Diggs it?,5000,Chase Edmonds,RB,,ir
+2021,3,MaxSirianni,Brad can you Diggs it?,5012,Mark Andrews,TE,BAL,starter
+2021,3,MaxSirianni,Brad can you Diggs it?,5022,Dallas Goedert,TE,PHI,bench
+2021,3,MaxSirianni,Brad can you Diggs it?,6130,Devin Singletary,RB,NYG,bench
+2021,3,MaxSirianni,Brad can you Diggs it?,6151,Miles Sanders,RB,,starter
+2021,3,MaxSirianni,Brad can you Diggs it?,7496,Nick Westbrook-Ikhine,WR,IND,bench
+2021,3,MaxSirianni,Brad can you Diggs it?,7525,DeVonta Smith,WR,PHI,bench
+2021,3,MaxSirianni,Brad can you Diggs it?,7571,Rashod Bateman,WR,BAL,bench
+2021,3,MaxSirianni,Brad can you Diggs it?,7596,Elijah Moore,WR,PHI,bench
+2021,3,MaxSirianni,Brad can you Diggs it?,LAC,Los Angeles Chargers,DEF,LAC,starter
+2021,4,jdrobny,Kareem in her Hunt,1264,Justin Tucker,K,,starter
+2021,4,jdrobny,Kareem in her Hunt,1339,Zach Ertz,TE,,starter
+2021,4,jdrobny,Kareem in her Hunt,2168,Devonta Freeman,RB,,bench
+2021,4,jdrobny,Kareem in her Hunt,2197,Brandin Cooks,WR,,starter
+2021,4,jdrobny,Kareem in her Hunt,2216,Mike Evans,WR,SF,bench
+2021,4,jdrobny,Kareem in her Hunt,3198,Derrick Henry,RB,BAL,ir
+2021,4,jdrobny,Kareem in her Hunt,3214,Hunter Henry,TE,NE,bench
+2021,4,jdrobny,Kareem in her Hunt,4098,Kareem Hunt,RB,,bench
+2021,4,jdrobny,Kareem in her Hunt,4111,D'Onta Foreman,RB,,starter
+2021,4,jdrobny,Kareem in her Hunt,4663,Austin Ekeler,RB,,starter
+2021,4,jdrobny,Kareem in her Hunt,5110,Russell Gage,WR,,bench
+2021,4,jdrobny,Kareem in her Hunt,5131,Justin Jackson,RB,,bench
+2021,4,jdrobny,Kareem in her Hunt,5347,Nyheim Miller-Hines,RB,,starter
+2021,4,jdrobny,Kareem in her Hunt,6797,Justin Herbert,QB,LAC,starter
+2021,4,jdrobny,Kareem in her Hunt,6853,Van Jefferson,WR,WAS,starter
+2021,4,jdrobny,Kareem in her Hunt,6886,Chase Claypool,WR,,bench
+2021,4,jdrobny,Kareem in her Hunt,6904,Jalen Hurts,QB,PHI,starter
+2021,4,jdrobny,Kareem in her Hunt,7591,Justin Fields,QB,KC,bench
+2021,4,jdrobny,Kareem in her Hunt,CLE,Cleveland Browns,DEF,CLE,starter
+2021,5,kaufmannc,Cleveland Steamers,1144,Cole Beasley,WR,,starter
+2021,5,kaufmannc,Cleveland Steamers,1166,Kirk Cousins,QB,LV,starter
+2021,5,kaufmannc,Cleveland Steamers,1348,Dustin Hopkins,K,,starter
+2021,5,kaufmannc,Cleveland Steamers,1479,Keenan Allen,WR,,starter
+2021,5,kaufmannc,Cleveland Steamers,3294,Dak Prescott,QB,DAL,starter
+2021,5,kaufmannc,Cleveland Steamers,4351,Tim Patrick,WR,NYJ,bench
+2021,5,kaufmannc,Cleveland Steamers,4455,Matt Breida,RB,,bench
+2021,5,kaufmannc,Cleveland Steamers,4983,DJ Moore,WR,BUF,bench
+2021,5,kaufmannc,Cleveland Steamers,4988,Nick Chubb,RB,,starter
+2021,5,kaufmannc,Cleveland Steamers,5536,Dontrell Hilliard,RB,,bench
+2021,5,kaufmannc,Cleveland Steamers,5850,Josh Jacobs,RB,GB,starter
+2021,5,kaufmannc,Cleveland Steamers,5857,Noah Fant,TE,NO,starter
+2021,5,kaufmannc,Cleveland Steamers,5927,Terry McLaurin,WR,WAS,starter
+2021,5,kaufmannc,Cleveland Steamers,7527,Mac Jones,QB,SF,bench
+2021,5,kaufmannc,Cleveland Steamers,7594,Chuba Hubbard,RB,CAR,bench
+2021,5,kaufmannc,Cleveland Steamers,BUF,Buffalo Bills,DEF,BUF,starter
+2021,5,kaufmannc,Cleveland Steamers,KC,Kansas City Chiefs,DEF,KC,bench
+2021,6,JSanDusky69,2 Girls 1 Kupp,138,Ben Roethlisberger,QB,PIT,starter
+2021,6,JSanDusky69,2 Girls 1 Kupp,1825,Jarvis Landry,WR,,bench
+2021,6,JSanDusky69,2 Girls 1 Kupp,2078,Odell Beckham,WR,NYG,bench
+2021,6,JSanDusky69,2 Girls 1 Kupp,2320,Melvin Gordon,RB,,bench
+2021,6,JSanDusky69,2 Girls 1 Kupp,2391,David Johnson,RB,,ir
+2021,6,JSanDusky69,2 Girls 1 Kupp,3321,Tyreek Hill,WR,,starter
+2021,6,JSanDusky69,2 Girls 1 Kupp,4039,Cooper Kupp,WR,SEA,starter
+2021,6,JSanDusky69,2 Girls 1 Kupp,4217,George Kittle,TE,SF,starter
+2021,6,JSanDusky69,2 Girls 1 Kupp,4227,Harrison Butker,K,KC,bench
+2021,6,JSanDusky69,2 Girls 1 Kupp,515,Rob Gronkowski,TE,,starter
+2021,6,JSanDusky69,2 Girls 1 Kupp,5892,David Montgomery,RB,HOU,starter
+2021,6,JSanDusky69,2 Girls 1 Kupp,5967,Tony Pollard,RB,TEN,starter
+2021,6,JSanDusky69,2 Girls 1 Kupp,650,Nick Folk,K,ATL,starter
+2021,6,JSanDusky69,2 Girls 1 Kupp,830,A.J. Green,WR,,bench
+2021,6,JSanDusky69,2 Girls 1 Kupp,96,Aaron Rodgers,QB,PIT,starter
+2021,6,JSanDusky69,2 Girls 1 Kupp,CHI,Chicago Bears,DEF,CHI,starter
+2021,6,JSanDusky69,2 Girls 1 Kupp,LAR,Los Angeles Rams,DEF,LAR,bench
+2021,6,JSanDusky69,2 Girls 1 Kupp,SEA,Seattle Seahawks,DEF,SEA,bench
+2021,7,KingTowsk,The Toilet Bowl Champ,1466,Travis Kelce,TE,KC,bench
+2021,7,KingTowsk,The Toilet Bowl Champ,2460,C.J. Uzomah,TE,,starter
+2021,7,KingTowsk,The Toilet Bowl Champ,260,Josh Johnson,QB,CIN,starter
+2021,7,KingTowsk,The Toilet Bowl Champ,4149,Jamaal Williams,RB,,bench
+2021,7,KingTowsk,The Toilet Bowl Champ,4881,Lamar Jackson,QB,BAL,ir
+2021,7,KingTowsk,The Toilet Bowl Champ,5095,Daniel Carlson,K,,starter
+2021,7,KingTowsk,The Toilet Bowl Champ,5284,Jeff Wilson,RB,,starter
+2021,7,KingTowsk,The Toilet Bowl Champ,5848,Marquise Brown,WR,PHI,starter
+2021,7,KingTowsk,The Toilet Bowl Champ,5937,Diontae Johnson,WR,,starter
+2021,7,KingTowsk,The Toilet Bowl Champ,6790,D'Andre Swift,RB,CHI,bench
+2021,7,KingTowsk,The Toilet Bowl Champ,6803,Brandon Aiyuk,WR,SF,bench
+2021,7,KingTowsk,The Toilet Bowl Champ,6820,Clyde Edwards-Helaire,RB,,starter
+2021,7,KingTowsk,The Toilet Bowl Champ,6828,AJ Dillon,RB,CAR,bench
+2021,7,KingTowsk,The Toilet Bowl Champ,6943,Gabe Davis,WR,,ir
+2021,7,KingTowsk,The Toilet Bowl Champ,7526,Jaylen Waddle,WR,DEN,starter
+2021,7,KingTowsk,The Toilet Bowl Champ,7607,Michael Carter,RB,TEN,starter
+2021,7,KingTowsk,The Toilet Bowl Champ,954,Cam Newton,QB,,bench
+2021,7,KingTowsk,The Toilet Bowl Champ,GB,Green Bay Packers,DEF,GB,bench
+2021,7,KingTowsk,The Toilet Bowl Champ,PHI,Philadelphia Eagles,DEF,PHI,starter
+2021,8,TylerWicks,Opted Out,1266,Greg Zuerlein,K,,starter
+2021,8,TylerWicks,Opted Out,1689,Adam Thielen,WR,,starter
+2021,8,TylerWicks,Opted Out,2028,Derek Carr,QB,,starter
+2021,8,TylerWicks,Opted Out,2374,Tyler Lockett,WR,,starter
+2021,8,TylerWicks,Opted Out,2505,Darren Waller,TE,,bench
+2021,8,TylerWicks,Opted Out,3225,Tyler Boyd,WR,,bench
+2021,8,TylerWicks,Opted Out,3664,J.D. McKissic,RB,,ir
+2021,8,TylerWicks,Opted Out,4199,Aaron Jones,RB,MIN,starter
+2021,8,TylerWicks,Opted Out,421,Matthew Stafford,QB,LAR,starter
+2021,8,TylerWicks,Opted Out,4381,Taysom Hill,TE,,bench
+2021,8,TylerWicks,Opted Out,4993,Mike Gesicki,TE,CIN,starter
+2021,8,TylerWicks,Opted Out,5549,Darrel Williams,RB,,bench
+2021,8,TylerWicks,Opted Out,5890,Damien Harris,RB,,bench
+2021,8,TylerWicks,Opted Out,5980,Myles Gaskin,RB,,starter
+2021,8,TylerWicks,Opted Out,7066,K.J. Osborn,WR,TEN,bench
+2021,8,TylerWicks,Opted Out,947,Julio Jones,WR,,starter
+2021,8,TylerWicks,Opted Out,ARI,Arizona Cardinals,DEF,ARI,bench
+2021,8,TylerWicks,Opted Out,TEN,Tennessee Titans,DEF,TEN,starter
+2021,9,brockhusk,Mike White GOAT,17,Matt Prater,K,,starter
+2021,9,brockhusk,Mike White GOAT,2133,Davante Adams,WR,LAR,starter
+2021,9,brockhusk,Mike White GOAT,2309,Amari Cooper,WR,,starter
+2021,9,brockhusk,Mike White GOAT,24,Matt Ryan,QB,,starter
+2021,9,brockhusk,Mike White GOAT,3271,Tyler Higbee,TE,LAR,bench
+2021,9,brockhusk,Mike White GOAT,4018,Joe Mixon,RB,,starter
+2021,9,brockhusk,Mike White GOAT,4950,Christian Kirk,WR,SF,bench
+2021,9,brockhusk,Mike White GOAT,5038,Michael Gallup,WR,,bench
+2021,9,brockhusk,Mike White GOAT,5046,Royce Freeman,RB,,bench
+2021,9,brockhusk,Mike White GOAT,5846,DK Metcalf,WR,PIT,starter
+2021,9,brockhusk,Mike White GOAT,5849,Kyler Murray,QB,MIN,starter
+2021,9,brockhusk,Mike White GOAT,5906,Dawson Knox,TE,BUF,starter
+2021,9,brockhusk,Mike White GOAT,5916,Darrell Henderson,RB,,starter
+2021,9,brockhusk,Mike White GOAT,6768,Tua Tagovailoa,QB,ATL,bench
+2021,9,brockhusk,Mike White GOAT,7600,Pat Freiermuth,TE,PIT,bench
+2021,9,brockhusk,Mike White GOAT,BAL,Baltimore Ravens,DEF,BAL,bench
+2021,9,brockhusk,Mike White GOAT,MIN,Minnesota Vikings,DEF,MIN,bench
+2021,9,brockhusk,Mike White GOAT,NE,New England Patriots,DEF,NE,starter
+2021,10,cc5597,No Punt Intended,167,Tom Brady,QB,,starter
+2021,10,cc5597,No Punt Intended,2378,Tevin Coleman,RB,,bench
+2021,10,cc5597,No Punt Intended,3164,Ezekiel Elliott,RB,,starter
+2021,10,cc5597,No Punt Intended,367,Jared Cook,TE,,bench
+2021,10,cc5597,No Punt Intended,391,Ryan Succop,K,,starter
+2021,10,cc5597,No Punt Intended,4035,Alvin Kamara,RB,NO,starter
+2021,10,cc5597,No Punt Intended,4037,Chris Godwin,WR,TB,ir
+2021,10,cc5597,No Punt Intended,4131,Kenny Golladay,WR,,bench
+2021,10,cc5597,No Punt Intended,4137,James Conner,RB,ARI,bench
+2021,10,cc5597,No Punt Intended,4981,Calvin Ridley,WR,TEN,ir
+2021,10,cc5597,No Punt Intended,5045,Courtland Sutton,WR,DEN,bench
+2021,10,cc5597,No Punt Intended,5133,Tyler Conklin,TE,DET,starter
+2021,10,cc5597,No Punt Intended,6770,Joe Burrow,QB,CIN,starter
+2021,10,cc5597,No Punt Intended,6801,Tee Higgins,WR,CIN,starter
+2021,10,cc5597,No Punt Intended,7090,Darnell Mooney,WR,NYG,starter
+2021,10,cc5597,No Punt Intended,7561,Elijah Mitchell,RB,PHI,starter
+2021,10,cc5597,No Punt Intended,7611,Rhamondre Stevenson,RB,NE,bench
+2021,10,cc5597,No Punt Intended,DAL,Dallas Cowboys,DEF,DAL,starter
+2021,10,cc5597,No Punt Intended,MIA,Miami Dolphins,DEF,MIA,bench

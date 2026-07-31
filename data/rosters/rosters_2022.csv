@@ -1,0 +1,163 @@
+season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
+2022,1,bgreenblatt,Taylor Park Boys,1466,Travis Kelce,TE,KC,starter
+2022,1,bgreenblatt,Taylor Park Boys,2216,Mike Evans,WR,SF,starter
+2022,1,bgreenblatt,Taylor Park Boys,2449,Stefon Diggs,WR,,starter
+2022,1,bgreenblatt,Taylor Park Boys,4866,Saquon Barkley,RB,PHI,starter
+2022,1,bgreenblatt,Taylor Park Boys,4881,Lamar Jackson,QB,BAL,bench
+2022,1,bgreenblatt,Taylor Park Boys,503,Graham Gano,K,,starter
+2022,1,bgreenblatt,Taylor Park Boys,5848,Marquise Brown,WR,PHI,bench
+2022,1,bgreenblatt,Taylor Park Boys,6803,Brandon Aiyuk,WR,SF,bench
+2022,1,bgreenblatt,Taylor Park Boys,7523,Trevor Lawrence,QB,JAX,starter
+2022,1,bgreenblatt,Taylor Park Boys,7611,Rhamondre Stevenson,RB,NE,starter
+2022,1,bgreenblatt,Taylor Park Boys,8119,Jahan Dotson,WR,ATL,starter
+2022,1,bgreenblatt,Taylor Park Boys,8136,Rachaad White,RB,WAS,bench
+2022,1,bgreenblatt,Taylor Park Boys,8148,Jameson Williams,WR,DET,bench
+2022,1,bgreenblatt,Taylor Park Boys,8183,Brock Purdy,QB,SF,starter
+2022,1,bgreenblatt,Taylor Park Boys,JAX,Jacksonville Jaguars,DEF,JAX,bench
+2022,1,bgreenblatt,Taylor Park Boys,NYG,New York Giants,DEF,NYG,starter
+2022,2,Erjohnson14,Dairy Sanders,167,Tom Brady,QB,,starter
+2022,2,Erjohnson14,Dairy Sanders,2747,Jason Myers,K,SEA,starter
+2022,2,Erjohnson14,Dairy Sanders,3269,Chris Moore,WR,BAL,starter
+2022,2,Erjohnson14,Dairy Sanders,4034,Christian McCaffrey,RB,SF,starter
+2022,2,Erjohnson14,Dairy Sanders,4066,Evan Engram,TE,DEN,starter
+2022,2,Erjohnson14,Dairy Sanders,5022,Dallas Goedert,TE,PHI,bench
+2022,2,Erjohnson14,Dairy Sanders,5089,Mike White,QB,,bench
+2022,2,Erjohnson14,Dairy Sanders,5859,A.J. Brown,WR,NE,starter
+2022,2,Erjohnson14,Dairy Sanders,5872,Deebo Samuel,WR,SF,ir
+2022,2,Erjohnson14,Dairy Sanders,5937,Diontae Johnson,WR,,bench
+2022,2,Erjohnson14,Dairy Sanders,6945,Antonio Gibson,RB,,bench
+2022,2,Erjohnson14,Dairy Sanders,7594,Chuba Hubbard,RB,CAR,bench
+2022,2,Erjohnson14,Dairy Sanders,8129,Dameon Pierce,RB,PHI,bench
+2022,2,Erjohnson14,Dairy Sanders,8144,Chris Olave,WR,NO,starter
+2022,2,Erjohnson14,Dairy Sanders,8151,Kenneth Walker,RB,KC,starter
+2022,2,Erjohnson14,Dairy Sanders,96,Aaron Rodgers,QB,PIT,starter
+2022,2,Erjohnson14,Dairy Sanders,KC,Kansas City Chiefs,DEF,KC,starter
+2022,3,MaxSirianni,Tucker right in the pu$$y,1166,Kirk Cousins,QB,LV,starter
+2022,3,MaxSirianni,Tucker right in the pu$$y,1264,Justin Tucker,K,,starter
+2022,3,MaxSirianni,Tucker right in the pu$$y,2309,Amari Cooper,WR,,bench
+2022,3,MaxSirianni,Tucker right in the pu$$y,4068,Mike Williams,WR,,starter
+2022,3,MaxSirianni,Tucker right in the pu$$y,4098,Kareem Hunt,RB,,bench
+2022,3,MaxSirianni,Tucker right in the pu$$y,4943,Sam Darnold,QB,SEA,starter
+2022,3,MaxSirianni,Tucker right in the pu$$y,4950,Christian Kirk,WR,SF,starter
+2022,3,MaxSirianni,Tucker right in the pu$$y,4988,Nick Chubb,RB,,starter
+2022,3,MaxSirianni,Tucker right in the pu$$y,5844,T.J. Hockenson,TE,MIN,starter
+2022,3,MaxSirianni,Tucker right in the pu$$y,5892,David Montgomery,RB,HOU,bench
+2022,3,MaxSirianni,Tucker right in the pu$$y,6794,Justin Jefferson,WR,MIN,starter
+2022,3,MaxSirianni,Tucker right in the pu$$y,7528,Najee Harris,RB,,starter
+2022,3,MaxSirianni,Tucker right in the pu$$y,8154,Brian Robinson,RB,ATL,bench
+2022,3,MaxSirianni,Tucker right in the pu$$y,8160,Kenny Pickett,QB,CAR,bench
+2022,3,MaxSirianni,Tucker right in the pu$$y,CIN,Cincinnati Bengals,DEF,CIN,bench
+2022,3,MaxSirianni,Tucker right in the pu$$y,TB,Tampa Bay Buccaneers,DEF,TB,starter
+2022,4,jdrobny,Rather Be Lucky Than Good,1837,Jimmy Garoppolo,QB,,ir
+2022,4,jdrobny,Rather Be Lucky Than Good,2197,Brandin Cooks,WR,,bench
+2022,4,jdrobny,Rather Be Lucky Than Good,3225,Tyler Boyd,WR,,bench
+2022,4,jdrobny,Rather Be Lucky Than Good,4018,Joe Mixon,RB,,starter
+2022,4,jdrobny,Rather Be Lucky Than Good,5012,Mark Andrews,TE,BAL,starter
+2022,4,jdrobny,Rather Be Lucky Than Good,5038,Michael Gallup,WR,,starter
+2022,4,jdrobny,Rather Be Lucky Than Good,5850,Josh Jacobs,RB,GB,starter
+2022,4,jdrobny,Rather Be Lucky Than Good,6130,Devin Singletary,RB,NYG,bench
+2022,4,jdrobny,Rather Be Lucky Than Good,650,Nick Folk,K,ATL,starter
+2022,4,jdrobny,Rather Be Lucky Than Good,6797,Justin Herbert,QB,LAC,starter
+2022,4,jdrobny,Rather Be Lucky Than Good,6938,Cam Akers,RB,,starter
+2022,4,jdrobny,Rather Be Lucky Than Good,7045,Joshua Kelley,RB,,bench
+2022,4,jdrobny,Rather Be Lucky Than Good,7525,DeVonta Smith,WR,PHI,starter
+2022,4,jdrobny,Rather Be Lucky Than Good,7527,Mac Jones,QB,SF,bench
+2022,4,jdrobny,Rather Be Lucky Than Good,7591,Justin Fields,QB,KC,starter
+2022,4,jdrobny,Rather Be Lucky Than Good,8138,James Cook,RB,BUF,bench
+2022,4,jdrobny,Rather Be Lucky Than Good,BAL,Baltimore Ravens,DEF,BAL,starter
+2022,5,kaufmannc,Mar-a-lago Raiders ,1426,DeAndre Hopkins,WR,,starter
+2022,5,kaufmannc,Mar-a-lago Raiders ,3163,Jared Goff,QB,DET,starter
+2022,5,kaufmannc,Mar-a-lago Raiders ,3198,Derrick Henry,RB,BAL,starter
+2022,5,kaufmannc,Mar-a-lago Raiders ,3271,Tyler Higbee,TE,LAR,starter
+2022,5,kaufmannc,Mar-a-lago Raiders ,4080,Zay Jones,WR,,bench
+2022,5,kaufmannc,Mar-a-lago Raiders ,4149,Jamaal Williams,RB,,bench
+2022,5,kaufmannc,Mar-a-lago Raiders ,4983,DJ Moore,WR,BUF,starter
+2022,5,kaufmannc,Mar-a-lago Raiders ,5185,Allen Lazard,WR,,bench
+2022,5,kaufmannc,Mar-a-lago Raiders ,5870,Daniel Jones,QB,IND,starter
+2022,5,kaufmannc,Mar-a-lago Raiders ,6845,Zack Moss,RB,,bench
+2022,5,kaufmannc,Mar-a-lago Raiders ,7543,Travis Etienne,RB,NO,starter
+2022,5,kaufmannc,Mar-a-lago Raiders ,7564,Ja'Marr Chase,WR,CIN,starter
+2022,5,kaufmannc,Mar-a-lago Raiders ,7839,Evan McPherson,K,CIN,starter
+2022,5,kaufmannc,Mar-a-lago Raiders ,8137,George Pickens,WR,DAL,bench
+2022,5,kaufmannc,Mar-a-lago Raiders ,DAL,Dallas Cowboys,DEF,DAL,starter
+2022,6,JSanDusky69,2 Girls 0 Kupps,2161,Jerick McKinnon,RB,,starter
+2022,6,JSanDusky69,2 Girls 0 Kupps,2374,Tyler Lockett,WR,,bench
+2022,6,JSanDusky69,2 Girls 0 Kupps,2505,Darren Waller,TE,,starter
+2022,6,JSanDusky69,2 Girls 0 Kupps,4035,Alvin Kamara,RB,NO,starter
+2022,6,JSanDusky69,2 Girls 0 Kupps,4040,JuJu Smith-Schuster,WR,NYG,starter
+2022,6,JSanDusky69,2 Girls 0 Kupps,4137,James Conner,RB,ARI,starter
+2022,6,JSanDusky69,2 Girls 0 Kupps,4227,Harrison Butker,K,KC,starter
+2022,6,JSanDusky69,2 Girls 0 Kupps,515,Rob Gronkowski,TE,,bench
+2022,6,JSanDusky69,2 Girls 0 Kupps,5906,Dawson Knox,TE,BUF,starter
+2022,6,JSanDusky69,2 Girls 0 Kupps,6768,Tua Tagovailoa,QB,ATL,starter
+2022,6,JSanDusky69,2 Girls 0 Kupps,6783,Jerry Jeudy,WR,CLE,starter
+2022,6,JSanDusky69,2 Girls 0 Kupps,6824,Donovan Peoples-Jones,WR,,bench
+2022,6,JSanDusky69,2 Girls 0 Kupps,6886,Chase Claypool,WR,,bench
+2022,6,JSanDusky69,2 Girls 0 Kupps,7066,K.J. Osborn,WR,TEN,bench
+2022,6,JSanDusky69,2 Girls 0 Kupps,DET,Detroit Lions,DEF,DET,bench
+2022,6,JSanDusky69,2 Girls 0 Kupps,LV,Las Vegas Raiders,DEF,LV,starter
+2022,7,KingTowsk,Leeroy Jenkins,1373,Geno Smith,QB,NYJ,bench
+2022,7,KingTowsk,Leeroy Jenkins,2133,Davante Adams,WR,LAR,starter
+2022,7,KingTowsk,Leeroy Jenkins,2749,Raheem Mostert,RB,,bench
+2022,7,KingTowsk,Leeroy Jenkins,4037,Chris Godwin,WR,TB,starter
+2022,7,KingTowsk,Leeroy Jenkins,4217,George Kittle,TE,SF,starter
+2022,7,KingTowsk,Leeroy Jenkins,4984,Josh Allen,QB,BUF,starter
+2022,7,KingTowsk,Leeroy Jenkins,5284,Jeff Wilson,RB,,bench
+2022,7,KingTowsk,Leeroy Jenkins,536,Antonio Brown,WR,,bench
+2022,7,KingTowsk,Leeroy Jenkins,6011,Gardner Minshew,QB,ARI,starter
+2022,7,KingTowsk,Leeroy Jenkins,6790,D'Andre Swift,RB,CHI,starter
+2022,7,KingTowsk,Leeroy Jenkins,6819,Michael Pittman,WR,PIT,bench
+2022,7,KingTowsk,Leeroy Jenkins,7922,Riley Patterson,K,MIA,starter
+2022,7,KingTowsk,Leeroy Jenkins,8122,Zonovan Knight,RB,ARI,bench
+2022,7,KingTowsk,Leeroy Jenkins,8167,Christian Watson,WR,GB,starter
+2022,7,KingTowsk,Leeroy Jenkins,8205,Isiah Pacheco,RB,DET,starter
+2022,7,KingTowsk,Leeroy Jenkins,PHI,Philadelphia Eagles,DEF,PHI,starter
+2022,8,TylerWicks,Sick of Gesicki,1479,Keenan Allen,WR,,starter
+2022,8,TylerWicks,Sick of Gesicki,2028,Derek Carr,QB,,starter
+2022,8,TylerWicks,Sick of Gesicki,2711,Taylor Heinicke,QB,,starter
+2022,8,TylerWicks,Sick of Gesicki,3969,Leonard Fournette,RB,,bench
+2022,8,TylerWicks,Sick of Gesicki,4089,Gerald Everett,TE,,starter
+2022,8,TylerWicks,Sick of Gesicki,4199,Aaron Jones,RB,MIN,starter
+2022,8,TylerWicks,Sick of Gesicki,4951,DJ Chark,WR,,bench
+2022,8,TylerWicks,Sick of Gesicki,5230,Michael Badgley,K,,starter
+2022,8,TylerWicks,Sick of Gesicki,5846,DK Metcalf,WR,PIT,starter
+2022,8,TylerWicks,Sick of Gesicki,5927,Terry McLaurin,WR,WAS,starter
+2022,8,TylerWicks,Sick of Gesicki,5947,Jakobi Meyers,WR,JAX,bench
+2022,8,TylerWicks,Sick of Gesicki,5967,Tony Pollard,RB,TEN,starter
+2022,8,TylerWicks,Sick of Gesicki,6149,Darius Slayton,WR,NYG,bench
+2022,8,TylerWicks,Sick of Gesicki,6904,Jalen Hurts,QB,PHI,ir
+2022,8,TylerWicks,Sick of Gesicki,8121,Romeo Doubs,WR,NE,bench
+2022,8,TylerWicks,Sick of Gesicki,BUF,Buffalo Bills,DEF,BUF,starter
+2022,9,brockhusk,Super Flex Offenders ,1476,Latavius Murray,RB,,bench
+2022,9,brockhusk,Super Flex Offenders ,4017,Deshaun Watson,QB,CLE,starter
+2022,9,brockhusk,Super Flex Offenders ,4029,Dalvin Cook,RB,,starter
+2022,9,brockhusk,Super Flex Offenders ,4033,David Njoku,TE,LAC,bench
+2022,9,brockhusk,Super Flex Offenders ,4046,Patrick Mahomes,QB,KC,starter
+2022,9,brockhusk,Super Flex Offenders ,5001,Dalton Schultz,TE,HOU,starter
+2022,9,brockhusk,Super Flex Offenders ,6151,Miles Sanders,RB,,starter
+2022,9,brockhusk,Super Flex Offenders ,6786,CeeDee Lamb,WR,DAL,starter
+2022,9,brockhusk,Super Flex Offenders ,6943,Gabe Davis,WR,,bench
+2022,9,brockhusk,Super Flex Offenders ,7547,Amon-Ra St. Brown,WR,DET,starter
+2022,9,brockhusk,Super Flex Offenders ,7607,Michael Carter,RB,TEN,bench
+2022,9,brockhusk,Super Flex Offenders ,8112,Drake London,WR,ATL,bench
+2022,9,brockhusk,Super Flex Offenders ,8146,Garrett Wilson,WR,NYJ,starter
+2022,9,brockhusk,Super Flex Offenders ,8259,Cameron Dicker,K,LAC,starter
+2022,9,brockhusk,Super Flex Offenders ,NO,New Orleans Saints,DEF,NO,bench
+2022,9,brockhusk,Super Flex Offenders ,SF,San Francisco 49ers,DEF,SF,starter
+2022,10,cc5597,The Bengalphin Boys,1535,Cordarrelle Patterson,RB,,bench
+2022,10,cc5597,The Bengalphin Boys,1689,Adam Thielen,WR,,bench
+2022,10,cc5597,The Bengalphin Boys,2152,Teddy Bridgewater,QB,DET,bench
+2022,10,cc5597,The Bengalphin Boys,3164,Ezekiel Elliott,RB,,starter
+2022,10,cc5597,The Bengalphin Boys,3294,Dak Prescott,QB,DAL,starter
+2022,10,cc5597,The Bengalphin Boys,3321,Tyreek Hill,WR,,starter
+2022,10,cc5597,The Bengalphin Boys,4663,Austin Ekeler,RB,,starter
+2022,10,cc5597,The Bengalphin Boys,49,Robbie Gould,K,,starter
+2022,10,cc5597,The Bengalphin Boys,6770,Joe Burrow,QB,CIN,starter
+2022,10,cc5597,The Bengalphin Boys,6801,Tee Higgins,WR,CIN,starter
+2022,10,cc5597,The Bengalphin Boys,6806,J.K. Dobbins,RB,DEN,bench
+2022,10,cc5597,The Bengalphin Boys,6828,AJ Dillon,RB,CAR,bench
+2022,10,cc5597,The Bengalphin Boys,7526,Jaylen Waddle,WR,DEN,starter
+2022,10,cc5597,The Bengalphin Boys,7600,Pat Freiermuth,TE,PIT,starter
+2022,10,cc5597,The Bengalphin Boys,8123,Hassan Haskins,RB,,bench
+2022,10,cc5597,The Bengalphin Boys,8155,Breece Hall,RB,NYJ,ir
+2022,10,cc5597,The Bengalphin Boys,LAC,Los Angeles Chargers,DEF,LAC,starter
