@@ -3,7 +3,7 @@
 Every draft pick, keeper, matchup, trade, and FAAB dollar the league has on
 record since 2021, pulled from the Sleeper API and posted as a website.
 
-**The site:** https://OWNER.github.io/the-league/ *(live after first deploy)*
+**The site:** https://bradhagstrom16.github.io/the-league/ *(live after first deploy)*
 
 | | |
 |---|---|

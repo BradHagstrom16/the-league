@@ -67,7 +67,7 @@
           <tr><td>{{ chip(users[r.user_id].name if r.user_id in users else r.name, users[r.user_id].avatar if r.user_id in users else '') }}</td>
           <td class="num">{{ r.keeps }}</td>
           <td class="num" data-sort="{{ r.avg_surplus }}">{{ delta(r.avg_surplus) }}</td>
-          <td class="num">{{ r.hit_rate }}%</td></tr>
+          <td class="num">{{ r.hit_rate|pct }}</td></tr>
         {% endfor %}
         </tbody>
       </table>

@@ -6,6 +6,8 @@ on:
   schedule:
     # Tuesdays 14:00 UTC (~9am ET), September–January: after MNF stats settle.
     - cron: "0 14 * 9-12,1 2"
+    # Monthly keepalive year-round, so scheduled workflows don't get disabled.
+    - cron: "0 14 1 * *"
 permissions:
   contents: write
   pages: write
@@ -16,12 +18,16 @@ concurrency:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
+      - run: python -m pytest -q
       - name: Pull fresh data (scheduled/manual runs only)
         if: github.event_name != 'push'
         run: python pull_league_data.py
@@ -36,9 +42,11 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --cached --quiet || git commit -m "data: scheduled refresh"
+          git pull --rebase --autostash
           git push
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
       - uses: actions/deploy-pages@v4
+        id: deployment

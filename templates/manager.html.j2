@@ -16,7 +16,7 @@
     <div><span class="line-name">Record</span><span class="posted-sm">{{ m.wins }}–{{ m.losses }}{% if m.ties %}–{{ m.ties }}{% endif %}</span></div>
     <div><span class="line-name">Win %</span><span class="posted-sm">{{ m.win_pct|pct }}</span></div>
     <div><span class="line-name">Titles</span><span class="posted-sm{% if m.titles %} gold{% endif %}">{{ m.titles }}</span></div>
-    <div><span class="line-name">Avg finish</span><span class="posted-sm">{{ m.avg_finish }}</span></div>
+    <div><span class="line-name">Avg reg. finish</span><span class="posted-sm">{{ m.avg_finish }}</span></div>
     <div><span class="line-name">Points for</span><span class="posted-sm">{{ m.pf|fmt0 }}</span></div>
     {% if luck %}<div><span class="line-name">Career luck</span><span class="posted-sm">{{ delta(luck.luck_delta) }}</span></div>{% endif %}
     {% if lineup %}<div><span class="line-name">Lineup efficiency</span><span class="posted-sm">{{ lineup.efficiency|pct }}</span></div>{% endif %}

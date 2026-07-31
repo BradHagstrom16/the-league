@@ -165,6 +165,31 @@ def check_no_finish_for_unplayed(base):
     return fails
 
 
+def check_aggregates(base):
+    """Each aggregate CSV's row count equals the sum of its per-season files."""
+    fails = []
+    pairs = [
+        ("matchups_all.csv", "matchups/matchups_*.csv"),
+        ("player_weeks_all.csv", "player_weeks/player_weeks_*.csv"),
+        ("transactions_all.csv", "transactions/transactions_*.csv"),
+        ("drafts_all.csv", "drafts/draft_*.csv"),
+        ("league_history.csv", "standings/standings_*.csv"),
+        ("brackets_all.csv", "brackets/bracket_*.csv"),
+    ]
+    for agg_name, pattern in pairs:
+        agg_path = base / agg_name
+        if not agg_path.exists():
+            fails.append(f"{agg_name}: aggregate file missing")
+            continue
+        agg_count = len(_read(agg_path))
+        part_count = sum(len(_read(p)) for p in sorted(base.glob(pattern)))
+        if agg_count != part_count:
+            fails.append(
+                f"{agg_name}: aggregate row count {agg_count} != sum of per-season files {part_count}"
+            )
+    return fails
+
+
 def run_checks(base):
     fails = []
     fails += check_standings_reconcile(base)
@@ -173,6 +198,7 @@ def run_checks(base):
     fails += check_starter_sums(base)
     fails += check_champion(base)
     fails += check_no_finish_for_unplayed(base)
+    fails += check_aggregates(base)
     return fails
 
 

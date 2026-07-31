@@ -17,3 +17,16 @@ def test_reconcile_catches_corruption(tmp_path):
         w = csv.DictWriter(f, fieldnames=rows[0].keys())
         w.writeheader(); w.writerows(rows)
     assert v.run_checks(tmp_path / "data") != []
+
+
+def test_aggregates_catches_corruption(tmp_path):
+    import shutil, csv
+    shutil.copytree(BASE, tmp_path / "data")
+    p = tmp_path / "data" / "matchups_all.csv"
+    rows = list(csv.DictReader(open(p)))
+    rows.pop(0)
+    with open(p, "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=rows[0].keys())
+        w.writeheader(); w.writerows(rows)
+    failures = v.run_checks(tmp_path / "data")
+    assert any("matchups_all.csv" in f for f in failures)

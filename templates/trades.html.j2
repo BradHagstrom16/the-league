@@ -81,11 +81,11 @@
   <div class="trade">
     <p class="trade-head"><span class="num">{{ t.season }}</span> · week {{ t.week }} · {{ t.date }}</p>
     {% for s in t.sides %}
-    <p class="trade-side{% if s.user_id == t.winner_user_id %} won{% endif %}">
+    <p class="trade-side{% if s.user_id == t.winner_user_id and t.margin > 0 %} won{% endif %}">
       {{ chip(users[s.user_id].name if s.user_id in users else '?', users[s.user_id].avatar if s.user_id in users else '') }}
       received {{ s.players_gained|join(', ') if s.players_gained else 'nothing but vibes' }}
       — <span class="num">{{ s.points_after|fmt0 }} pts after</span>
-      {% if s.user_id == t.winner_user_id %}<span class="pos">✓ won by {{ t.margin|fmt0 }}</span>{% endif %}
+      {% if s.user_id == t.winner_user_id and t.margin > 0 %}<span class="pos">✓ won by {{ t.margin|fmt0 }}</span>{% endif %}
     </p>
     {% endfor %}
   </div>
