@@ -1,0 +1,36 @@
+{% extends "base.html.j2" %}
+{% from "_macros.j2" import chip %}
+{% block title %}Head-to-Head — The League{% endblock %}
+{% block content %}
+<h1 class="page-title">Head-to-Head</h1>
+<p class="note">Win percentage, all-time including playoffs, read row-owns-column: amber means the row manager owns the matchup, purple means he's owned. Click any pair below the grid for the full meeting log.</p>
+<div class="board-panel pad heat-wrap">{{ heat|safe }}</div>
+
+{% for p in pairs %}
+<section class="section pair" id="{{ p.anchor }}">
+  <h2>{{ p.a.name }} vs {{ p.b.name }}</h2>
+  <p class="note">
+    <strong class="num">{{ p.grid.w }}–{{ p.grid.l }}{% if p.grid.t %}–{{ p.grid.t }}{% endif %}</strong> {{ p.a.name }}
+    · avg margin {{ '%+.2f'|format(p.grid.avg_margin) }}
+    · streak {{ p.grid.streak }}
+    {% if p.split %} · regular {{ p.split.reg[0] }}–{{ p.split.reg[1] }} · playoffs {{ p.split.playoff[0] }}–{{ p.split.playoff[1] }}{% endif %}
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">{{ p.a.name }}</th><th class="num">{{ p.b.name }}</th><th>Winner</th></tr></thead>
+      <tbody>
+      {% for g in p.log %}
+        <tr>
+          <td class="num">{{ g.season }}</td><td class="num">{{ g.week }}</td>
+          <td>{% if g.is_playoff %}<span class="fine">playoff</span>{% endif %}</td>
+          <td class="num{% if g.winner_user == p.a.user_id %} hot{% endif %}">{{ g.a_points|line }}</td>
+          <td class="num{% if g.winner_user == p.b.user_id %} hot{% endif %}">{{ g.b_points|line }}</td>
+          <td>{{ users[g.winner_user].name if g.winner_user in users else '—' }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+{% endfor %}
+{% endblock %}

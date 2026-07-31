@@ -1,0 +1,18 @@
+{% extends "base.html.j2" %}
+{% block title %}Record book — The League{% endblock %}
+{% block content %}
+<h1 class="page-title">The record book</h1>
+<p class="note">Every line below is computed from six seasons of Sleeper data. Bring receipts or don't bring anything.</p>
+{% for group, recs in groups %}
+<section class="section">
+  <h2>{{ group }}</h2>
+  {% for r in recs %}
+  <div class="marquee">
+    <span class="line-name">{{ r.label }}</span>
+    <span class="posted">{{ r.value|line }}</span>
+    <span class="detail"><a href="managers/{{ users[r.user_id].slug }}.html" {% if r.user_id not in users %}hidden{% endif %}>{{ r.holder }}</a>{% if r.user_id not in users %}{{ r.holder }}{% endif %} · {{ r.detail }}</span>
+  </div>
+  {% endfor %}
+</section>
+{% endfor %}
+{% endblock %}

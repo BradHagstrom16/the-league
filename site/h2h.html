@@ -1,0 +1,4619 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Head-to-Head — The League</title>
+<link rel="icon" type="image/png" href="assets/img/favicon.png">
+<link rel="preload" href="assets/fonts/saira-condensed-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/chivo-mono-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<!--
+THESIS: The league as the house — every stat is a line posted on the board,
+with receipts; refuses the KPI-card dashboard arrangement.
+OWN-WORLD: matte near-black board (#0a0a0d) ruled into sections by thin brass
+rails; Saira Condensed signage caps; Chivo Mono tabular numerals in amber and
+silver; league purple fields for the house's own rows; the Trojan crest as
+house mark. Recognizable with all content removed: a black board of railed
+sections awaiting numbers.
+STORY: a league member lands mid-argument, finds the posted number in
+seconds, screenshots the receipt, wins the chat.
+FIRST VIEWPORT: board masthead (crest, THE LEAGUE, season status line), then
+the season's posted lines open the board; the argument-settling links sit in
+the first section.
+FORM: Las Vegas sportsbook tote board; candidate 5 of 7 on the ordered list;
+seed key f00tba11.
+FINISH: unreviewed and undocumented is unfinished; this build ends with the
+finish review, the verdict, and DESIGN.md.
+-->
+<header class="masthead">
+  <a class="crest" href="index.html">
+    <img src="assets/img/favicon.png" alt="" width="44" height="44">
+    <span class="wordmark">The League</span>
+  </a>
+  <p class="house-line">Est. 2021 · Downers Grove North · twelve chairs, one trophy</p>
+</header>
+<nav class="board-nav" aria-label="Site">
+  <a href="index.html">Board</a>
+  <a href="seasons.html">Seasons</a>
+  <a href="managers.html">Managers</a>
+  <a href="h2h.html" aria-current="page">Head-to-Head</a>
+  <a href="records.html">Records</a>
+  <a href="draft.html">Draft &amp; Keepers</a>
+  <a href="trades.html">Trades</a>
+  <a href="champions.html">Champions</a>
+</nav>
+<main>
+
+<h1 class="page-title">Head-to-Head</h1>
+<p class="note">Win percentage, all-time including playoffs, read row-owns-column: amber means the row manager owns the matchup, purple means he's owned. Click any pair below the grid for the full meeting log.</p>
+<div class="board-panel pad heat-wrap"><svg viewBox="0 0 654 592" role="img" class="chart chart-heat" preserveAspectRatio="xMidYMid meet"><text x="131" y="74" class="tick" text-anchor="start" transform="rotate(-55 131 74)">bgreenblatt</text><text x="173" y="74" class="tick" text-anchor="start" transform="rotate(-55 173 74)">cc5597</text><text x="215" y="74" class="tick" text-anchor="start" transform="rotate(-55 215 74)">Erjohnson14</text><text x="257" y="74" class="tick" text-anchor="start" transform="rotate(-55 257 74)">KingTowsk</text><text x="299" y="74" class="tick" text-anchor="start" transform="rotate(-55 299 74)">jdrobny</text><text x="341" y="74" class="tick" text-anchor="start" transform="rotate(-55 341 74)">brockhusk</text><text x="383" y="74" class="tick" text-anchor="start" transform="rotate(-55 383 74)">charliekaufmann</text><text x="425" y="74" class="tick" text-anchor="start" transform="rotate(-55 425 74)">JSanDusky69</text><text x="467" y="74" class="tick" text-anchor="start" transform="rotate(-55 467 74)">TylerWicks</text><text x="509" y="74" class="tick" text-anchor="start" transform="rotate(-55 509 74)">MaxSirianni</text><text x="551" y="74" class="tick" text-anchor="start" transform="rotate(-55 551 74)">Jacktaco98</text><text x="593" y="74" class="tick" text-anchor="start" transform="rotate(-55 593 74)">akepple9</text><text x="102" y="109" class="tick" text-anchor="end">bgreenblatt</text><rect x="111" y="85" width="40" height="40" rx="3" fill="#0a0a0d" stroke="#26232e"/><g class="cell"><rect x="153" y="85" width="40" height="40" rx="3" fill="#433c52"><title>bgreenblatt vs cc5597: 0.444</title></rect><text x="173" y="109" class="cell-val" fill="#e8e6ee" text-anchor="middle">44</text></g><g class="cell"><rect x="195" y="85" width="40" height="40" rx="3" fill="#5e4939"><title>bgreenblatt vs Erjohnson14: 0.625</title></rect><text x="215" y="109" class="cell-val" fill="#e8e6ee" text-anchor="middle">62</text></g><g class="cell"><rect x="237" y="85" width="40" height="40" rx="3" fill="#3a3743"><title>bgreenblatt vs KingTowsk: 0.500</title></rect><text x="257" y="109" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="279" y="85" width="40" height="40" rx="3" fill="#423b4f"><title>bgreenblatt vs jdrobny: 0.455</title></rect><text x="299" y="109" class="cell-val" fill="#e8e6ee" text-anchor="middle">45</text></g><g class="cell"><rect x="321" y="85" width="40" height="40" rx="3" fill="#694f35"><title>bgreenblatt vs brockhusk: 0.667</title></rect><text x="341" y="109" class="cell-val" fill="#e8e6ee" text-anchor="middle">67</text></g><g class="cell"><rect x="363" y="85" width="40" height="40" rx="3" fill="#815b2e"><title>bgreenblatt vs charliekaufmann: 0.750</title></rect><text x="383" y="109" class="cell-val" fill="#e8e6ee" text-anchor="middle">75</text></g><g class="cell"><rect x="405" y="85" width="40" height="40" rx="3" fill="#5e4939"><title>bgreenblatt vs JSanDusky69: 0.625</title></rect><text x="425" y="109" class="cell-val" fill="#e8e6ee" text-anchor="middle">62</text></g><g class="cell"><rect x="447" y="85" width="40" height="40" rx="3" fill="#a86f23"><title>bgreenblatt vs TylerWicks: 0.889</title></rect><text x="467" y="109" class="cell-val" fill="#0a0a0d" text-anchor="middle">89</text></g><g class="cell"><rect x="489" y="85" width="40" height="40" rx="3" fill="#4f4364"><title>bgreenblatt vs MaxSirianni: 0.375</title></rect><text x="509" y="109" class="cell-val" fill="#e8e6ee" text-anchor="middle">38</text></g><g class="cell"><rect x="531" y="85" width="40" height="40" rx="3" fill="#3a3743"><title>bgreenblatt vs Jacktaco98: 0.500</title></rect><text x="551" y="109" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="573" y="85" width="40" height="40" rx="3" fill="#8f66c9"><title>bgreenblatt vs akepple9: 0.000</title></rect><text x="593" y="109" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><text x="102" y="151" class="tick" text-anchor="end">cc5597</text><g class="cell"><rect x="111" y="127" width="40" height="40" rx="3" fill="#4a3f3e"><title>cc5597 vs bgreenblatt: 0.556</title></rect><text x="131" y="151" class="cell-val" fill="#e8e6ee" text-anchor="middle">56</text></g><rect x="153" y="127" width="40" height="40" rx="3" fill="#0a0a0d" stroke="#26232e"/><g class="cell"><rect x="195" y="127" width="40" height="40" rx="3" fill="#4f4364"><title>cc5597 vs Erjohnson14: 0.375</title></rect><text x="215" y="151" class="cell-val" fill="#e8e6ee" text-anchor="middle">38</text></g><g class="cell"><rect x="237" y="127" width="40" height="40" rx="3" fill="#56453b"><title>cc5597 vs KingTowsk: 0.600</title></rect><text x="257" y="151" class="cell-val" fill="#e8e6ee" text-anchor="middle">60</text></g><g class="cell"><rect x="279" y="127" width="40" height="40" rx="3" fill="#433c52"><title>cc5597 vs jdrobny: 0.444</title></rect><text x="299" y="151" class="cell-val" fill="#e8e6ee" text-anchor="middle">44</text></g><g class="cell"><rect x="321" y="127" width="40" height="40" rx="3" fill="#4f4364"><title>cc5597 vs brockhusk: 0.375</title></rect><text x="341" y="151" class="cell-val" fill="#e8e6ee" text-anchor="middle">38</text></g><g class="cell"><rect x="363" y="127" width="40" height="40" rx="3" fill="#895f2c"><title>cc5597 vs charliekaufmann: 0.778</title></rect><text x="383" y="151" class="cell-val" fill="#e8e6ee" text-anchor="middle">78</text></g><g class="cell"><rect x="405" y="127" width="40" height="40" rx="3" fill="#735433"><title>cc5597 vs JSanDusky69: 0.700</title></rect><text x="425" y="151" class="cell-val" fill="#e8e6ee" text-anchor="middle">70</text></g><g class="cell"><rect x="447" y="127" width="40" height="40" rx="3" fill="#3a3743"><title>cc5597 vs TylerWicks: 0.500</title></rect><text x="467" y="151" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="489" y="127" width="40" height="40" rx="3" fill="#463e56"><title>cc5597 vs MaxSirianni: 0.429</title></rect><text x="509" y="151" class="cell-val" fill="#e8e6ee" text-anchor="middle">43</text></g><g class="cell"><rect x="531" y="127" width="40" height="40" rx="3" fill="#c87f1a"><title>cc5597 vs Jacktaco98: 1.000</title></rect><text x="551" y="151" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><g class="cell"><rect x="573" y="127" width="40" height="40" rx="3" fill="#c87f1a"><title>cc5597 vs akepple9: 1.000</title></rect><text x="593" y="151" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><text x="102" y="193" class="tick" text-anchor="end">Erjohnson14</text><g class="cell"><rect x="111" y="169" width="40" height="40" rx="3" fill="#4f4364"><title>Erjohnson14 vs bgreenblatt: 0.375</title></rect><text x="131" y="193" class="cell-val" fill="#e8e6ee" text-anchor="middle">38</text></g><g class="cell"><rect x="153" y="169" width="40" height="40" rx="3" fill="#5e4939"><title>Erjohnson14 vs cc5597: 0.625</title></rect><text x="173" y="193" class="cell-val" fill="#e8e6ee" text-anchor="middle">62</text></g><rect x="195" y="169" width="40" height="40" rx="3" fill="#0a0a0d" stroke="#26232e"/><g class="cell"><rect x="237" y="169" width="40" height="40" rx="3" fill="#463e56"><title>Erjohnson14 vs KingTowsk: 0.429</title></rect><text x="257" y="193" class="cell-val" fill="#e8e6ee" text-anchor="middle">43</text></g><g class="cell"><rect x="279" y="169" width="40" height="40" rx="3" fill="#5e4939"><title>Erjohnson14 vs jdrobny: 0.625</title></rect><text x="299" y="193" class="cell-val" fill="#e8e6ee" text-anchor="middle">62</text></g><g class="cell"><rect x="321" y="169" width="40" height="40" rx="3" fill="#4b405e"><title>Erjohnson14 vs brockhusk: 0.400</title></rect><text x="341" y="193" class="cell-val" fill="#e8e6ee" text-anchor="middle">40</text></g><g class="cell"><rect x="363" y="169" width="40" height="40" rx="3" fill="#4b405e"><title>Erjohnson14 vs charliekaufmann: 0.400</title></rect><text x="383" y="193" class="cell-val" fill="#e8e6ee" text-anchor="middle">40</text></g><g class="cell"><rect x="405" y="169" width="40" height="40" rx="3" fill="#3a3743"><title>Erjohnson14 vs JSanDusky69: 0.500</title></rect><text x="425" y="193" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="447" y="169" width="40" height="40" rx="3" fill="#5e4939"><title>Erjohnson14 vs TylerWicks: 0.625</title></rect><text x="467" y="193" class="cell-val" fill="#e8e6ee" text-anchor="middle">62</text></g><g class="cell"><rect x="489" y="169" width="40" height="40" rx="3" fill="#4a3f3e"><title>Erjohnson14 vs MaxSirianni: 0.556</title></rect><text x="509" y="193" class="cell-val" fill="#e8e6ee" text-anchor="middle">56</text></g><g class="cell"><rect x="531" y="169" width="40" height="40" rx="3" fill="#c87f1a"><title>Erjohnson14 vs Jacktaco98: 1.000</title></rect><text x="551" y="193" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><g class="cell"><rect x="573" y="169" width="40" height="40" rx="3" fill="#c87f1a"><title>Erjohnson14 vs akepple9: 1.000</title></rect><text x="593" y="193" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><text x="102" y="235" class="tick" text-anchor="end">KingTowsk</text><g class="cell"><rect x="111" y="211" width="40" height="40" rx="3" fill="#3a3743"><title>KingTowsk vs bgreenblatt: 0.500</title></rect><text x="131" y="235" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="153" y="211" width="40" height="40" rx="3" fill="#4b405e"><title>KingTowsk vs cc5597: 0.400</title></rect><text x="173" y="235" class="cell-val" fill="#e8e6ee" text-anchor="middle">40</text></g><g class="cell"><rect x="195" y="211" width="40" height="40" rx="3" fill="#4e413d"><title>KingTowsk vs Erjohnson14: 0.571</title></rect><text x="215" y="235" class="cell-val" fill="#e8e6ee" text-anchor="middle">57</text></g><rect x="237" y="211" width="40" height="40" rx="3" fill="#0a0a0d" stroke="#26232e"/><g class="cell"><rect x="279" y="211" width="40" height="40" rx="3" fill="#3a3743"><title>KingTowsk vs jdrobny: 0.500</title></rect><text x="299" y="235" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="321" y="211" width="40" height="40" rx="3" fill="#56453b"><title>KingTowsk vs brockhusk: 0.600</title></rect><text x="341" y="235" class="cell-val" fill="#e8e6ee" text-anchor="middle">60</text></g><g class="cell"><rect x="363" y="211" width="40" height="40" rx="3" fill="#644e86"><title>KingTowsk vs charliekaufmann: 0.250</title></rect><text x="383" y="235" class="cell-val" fill="#e8e6ee" text-anchor="middle">25</text></g><g class="cell"><rect x="405" y="211" width="40" height="40" rx="3" fill="#815b2e"><title>KingTowsk vs JSanDusky69: 0.750</title></rect><text x="425" y="235" class="cell-val" fill="#e8e6ee" text-anchor="middle">75</text></g><g class="cell"><rect x="447" y="211" width="40" height="40" rx="3" fill="#694f35"><title>KingTowsk vs TylerWicks: 0.667</title></rect><text x="467" y="235" class="cell-val" fill="#e8e6ee" text-anchor="middle">67</text></g><g class="cell"><rect x="489" y="211" width="40" height="40" rx="3" fill="#694f35"><title>KingTowsk vs MaxSirianni: 0.667</title></rect><text x="509" y="235" class="cell-val" fill="#e8e6ee" text-anchor="middle">67</text></g><g class="cell"><rect x="531" y="211" width="40" height="40" rx="3" fill="#8f66c9"><title>KingTowsk vs Jacktaco98: 0.000</title></rect><text x="551" y="235" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><g class="cell"><rect x="573" y="211" width="40" height="40" rx="3" fill="#8f66c9"><title>KingTowsk vs akepple9: 0.000</title></rect><text x="593" y="235" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><text x="102" y="277" class="tick" text-anchor="end">jdrobny</text><g class="cell"><rect x="111" y="253" width="40" height="40" rx="3" fill="#473e3f"><title>jdrobny vs bgreenblatt: 0.545</title></rect><text x="131" y="277" class="cell-val" fill="#e8e6ee" text-anchor="middle">55</text></g><g class="cell"><rect x="153" y="253" width="40" height="40" rx="3" fill="#4a3f3e"><title>jdrobny vs cc5597: 0.556</title></rect><text x="173" y="277" class="cell-val" fill="#e8e6ee" text-anchor="middle">56</text></g><g class="cell"><rect x="195" y="253" width="40" height="40" rx="3" fill="#4f4364"><title>jdrobny vs Erjohnson14: 0.375</title></rect><text x="215" y="277" class="cell-val" fill="#e8e6ee" text-anchor="middle">38</text></g><g class="cell"><rect x="237" y="253" width="40" height="40" rx="3" fill="#3a3743"><title>jdrobny vs KingTowsk: 0.500</title></rect><text x="257" y="277" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><rect x="279" y="253" width="40" height="40" rx="3" fill="#0a0a0d" stroke="#26232e"/><g class="cell"><rect x="321" y="253" width="40" height="40" rx="3" fill="#4a3f3e"><title>jdrobny vs brockhusk: 0.556</title></rect><text x="341" y="277" class="cell-val" fill="#e8e6ee" text-anchor="middle">56</text></g><g class="cell"><rect x="363" y="253" width="40" height="40" rx="3" fill="#3a3743"><title>jdrobny vs charliekaufmann: 0.500</title></rect><text x="383" y="277" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="405" y="253" width="40" height="40" rx="3" fill="#735433"><title>jdrobny vs JSanDusky69: 0.700</title></rect><text x="425" y="277" class="cell-val" fill="#e8e6ee" text-anchor="middle">70</text></g><g class="cell"><rect x="447" y="253" width="40" height="40" rx="3" fill="#5e4b7c"><title>jdrobny vs TylerWicks: 0.286</title></rect><text x="467" y="277" class="cell-val" fill="#e8e6ee" text-anchor="middle">29</text></g><g class="cell"><rect x="489" y="253" width="40" height="40" rx="3" fill="#a46d24"><title>jdrobny vs MaxSirianni: 0.875</title></rect><text x="509" y="277" class="cell-val" fill="#0a0a0d" text-anchor="middle">88</text></g><g class="cell"><rect x="531" y="253" width="40" height="40" rx="3" fill="#8f66c9"><title>jdrobny vs Jacktaco98: 0.000</title></rect><text x="551" y="277" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><g class="cell"><rect x="573" y="253" width="40" height="40" rx="3" fill="#3a3743"><title>jdrobny vs akepple9: 0.500</title></rect><text x="593" y="277" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><text x="102" y="319" class="tick" text-anchor="end">brockhusk</text><g class="cell"><rect x="111" y="295" width="40" height="40" rx="3" fill="#564770"><title>brockhusk vs bgreenblatt: 0.333</title></rect><text x="131" y="319" class="cell-val" fill="#e8e6ee" text-anchor="middle">33</text></g><g class="cell"><rect x="153" y="295" width="40" height="40" rx="3" fill="#5e4939"><title>brockhusk vs cc5597: 0.625</title></rect><text x="173" y="319" class="cell-val" fill="#e8e6ee" text-anchor="middle">62</text></g><g class="cell"><rect x="195" y="295" width="40" height="40" rx="3" fill="#56453b"><title>brockhusk vs Erjohnson14: 0.600</title></rect><text x="215" y="319" class="cell-val" fill="#e8e6ee" text-anchor="middle">60</text></g><g class="cell"><rect x="237" y="295" width="40" height="40" rx="3" fill="#4b405e"><title>brockhusk vs KingTowsk: 0.400</title></rect><text x="257" y="319" class="cell-val" fill="#e8e6ee" text-anchor="middle">40</text></g><g class="cell"><rect x="279" y="295" width="40" height="40" rx="3" fill="#433c52"><title>brockhusk vs jdrobny: 0.444</title></rect><text x="299" y="319" class="cell-val" fill="#e8e6ee" text-anchor="middle">44</text></g><rect x="321" y="295" width="40" height="40" rx="3" fill="#0a0a0d" stroke="#26232e"/><g class="cell"><rect x="363" y="295" width="40" height="40" rx="3" fill="#775631"><title>brockhusk vs charliekaufmann: 0.714</title></rect><text x="383" y="319" class="cell-val" fill="#e8e6ee" text-anchor="middle">71</text></g><g class="cell"><rect x="405" y="295" width="40" height="40" rx="3" fill="#3a3743"><title>brockhusk vs JSanDusky69: 0.500</title></rect><text x="425" y="319" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="447" y="295" width="40" height="40" rx="3" fill="#805db1"><title>brockhusk vs TylerWicks: 0.091</title></rect><text x="467" y="319" class="cell-val" fill="#0a0a0d" text-anchor="middle">9</text></g><g class="cell"><rect x="489" y="295" width="40" height="40" rx="3" fill="#3a3743"><title>brockhusk vs MaxSirianni: 0.500</title></rect><text x="509" y="319" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="531" y="295" width="40" height="40" rx="3" fill="#8f66c9"><title>brockhusk vs Jacktaco98: 0.000</title></rect><text x="551" y="319" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><g class="cell"><rect x="573" y="295" width="40" height="40" rx="3" fill="#c87f1a"><title>brockhusk vs akepple9: 1.000</title></rect><text x="593" y="319" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><text x="102" y="361" class="tick" text-anchor="end">charliekaufmann</text><g class="cell"><rect x="111" y="337" width="40" height="40" rx="3" fill="#644e86"><title>charliekaufmann vs bgreenblatt: 0.250</title></rect><text x="131" y="361" class="cell-val" fill="#e8e6ee" text-anchor="middle">25</text></g><g class="cell"><rect x="153" y="337" width="40" height="40" rx="3" fill="#69518d"><title>charliekaufmann vs cc5597: 0.222</title></rect><text x="173" y="361" class="cell-val" fill="#e8e6ee" text-anchor="middle">22</text></g><g class="cell"><rect x="195" y="337" width="40" height="40" rx="3" fill="#56453b"><title>charliekaufmann vs Erjohnson14: 0.600</title></rect><text x="215" y="361" class="cell-val" fill="#e8e6ee" text-anchor="middle">60</text></g><g class="cell"><rect x="237" y="337" width="40" height="40" rx="3" fill="#815b2e"><title>charliekaufmann vs KingTowsk: 0.750</title></rect><text x="257" y="361" class="cell-val" fill="#e8e6ee" text-anchor="middle">75</text></g><g class="cell"><rect x="279" y="337" width="40" height="40" rx="3" fill="#3a3743"><title>charliekaufmann vs jdrobny: 0.500</title></rect><text x="299" y="361" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="321" y="337" width="40" height="40" rx="3" fill="#5e4b7c"><title>charliekaufmann vs brockhusk: 0.286</title></rect><text x="341" y="361" class="cell-val" fill="#e8e6ee" text-anchor="middle">29</text></g><rect x="363" y="337" width="40" height="40" rx="3" fill="#0a0a0d" stroke="#26232e"/><g class="cell"><rect x="405" y="337" width="40" height="40" rx="3" fill="#3a3743"><title>charliekaufmann vs JSanDusky69: 0.500</title></rect><text x="425" y="361" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="447" y="337" width="40" height="40" rx="3" fill="#3a3743"><title>charliekaufmann vs TylerWicks: 0.500</title></rect><text x="467" y="361" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="489" y="337" width="40" height="40" rx="3" fill="#433c52"><title>charliekaufmann vs MaxSirianni: 0.444</title></rect><text x="509" y="361" class="cell-val" fill="#e8e6ee" text-anchor="middle">44</text></g><g class="cell"><rect x="531" y="337" width="40" height="40" rx="3" fill="#c87f1a"><title>charliekaufmann vs Jacktaco98: 1.000</title></rect><text x="551" y="361" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><g class="cell"><rect x="573" y="337" width="40" height="40" rx="3" fill="#8f66c9"><title>charliekaufmann vs akepple9: 0.000</title></rect><text x="593" y="361" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><text x="102" y="403" class="tick" text-anchor="end">JSanDusky69</text><g class="cell"><rect x="111" y="379" width="40" height="40" rx="3" fill="#4f4364"><title>JSanDusky69 vs bgreenblatt: 0.375</title></rect><text x="131" y="403" class="cell-val" fill="#e8e6ee" text-anchor="middle">38</text></g><g class="cell"><rect x="153" y="379" width="40" height="40" rx="3" fill="#5c4a79"><title>JSanDusky69 vs cc5597: 0.300</title></rect><text x="173" y="403" class="cell-val" fill="#e8e6ee" text-anchor="middle">30</text></g><g class="cell"><rect x="195" y="379" width="40" height="40" rx="3" fill="#3a3743"><title>JSanDusky69 vs Erjohnson14: 0.500</title></rect><text x="215" y="403" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="237" y="379" width="40" height="40" rx="3" fill="#644e86"><title>JSanDusky69 vs KingTowsk: 0.250</title></rect><text x="257" y="403" class="cell-val" fill="#e8e6ee" text-anchor="middle">25</text></g><g class="cell"><rect x="279" y="379" width="40" height="40" rx="3" fill="#5c4a79"><title>JSanDusky69 vs jdrobny: 0.300</title></rect><text x="299" y="403" class="cell-val" fill="#e8e6ee" text-anchor="middle">30</text></g><g class="cell"><rect x="321" y="379" width="40" height="40" rx="3" fill="#3a3743"><title>JSanDusky69 vs brockhusk: 0.500</title></rect><text x="341" y="403" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="363" y="379" width="40" height="40" rx="3" fill="#3a3743"><title>JSanDusky69 vs charliekaufmann: 0.500</title></rect><text x="383" y="403" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><rect x="405" y="379" width="40" height="40" rx="3" fill="#0a0a0d" stroke="#26232e"/><g class="cell"><rect x="447" y="379" width="40" height="40" rx="3" fill="#c87f1a"><title>JSanDusky69 vs TylerWicks: 1.000</title></rect><text x="467" y="403" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><g class="cell"><rect x="489" y="379" width="40" height="40" rx="3" fill="#ac7122"><title>JSanDusky69 vs MaxSirianni: 0.900</title></rect><text x="509" y="403" class="cell-val" fill="#0a0a0d" text-anchor="middle">90</text></g><g class="cell"><rect x="531" y="379" width="40" height="40" rx="3" fill="#3a3743"><title>JSanDusky69 vs Jacktaco98: 0.500</title></rect><text x="551" y="403" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="573" y="379" width="40" height="40" rx="3" fill="#8f66c9"><title>JSanDusky69 vs akepple9: 0.000</title></rect><text x="593" y="403" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><text x="102" y="445" class="tick" text-anchor="end">TylerWicks</text><g class="cell"><rect x="111" y="421" width="40" height="40" rx="3" fill="#7c5cab"><title>TylerWicks vs bgreenblatt: 0.111</title></rect><text x="131" y="445" class="cell-val" fill="#0a0a0d" text-anchor="middle">11</text></g><g class="cell"><rect x="153" y="421" width="40" height="40" rx="3" fill="#3a3743"><title>TylerWicks vs cc5597: 0.500</title></rect><text x="173" y="445" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="195" y="421" width="40" height="40" rx="3" fill="#4f4364"><title>TylerWicks vs Erjohnson14: 0.375</title></rect><text x="215" y="445" class="cell-val" fill="#e8e6ee" text-anchor="middle">38</text></g><g class="cell"><rect x="237" y="421" width="40" height="40" rx="3" fill="#564770"><title>TylerWicks vs KingTowsk: 0.333</title></rect><text x="257" y="445" class="cell-val" fill="#e8e6ee" text-anchor="middle">33</text></g><g class="cell"><rect x="279" y="421" width="40" height="40" rx="3" fill="#775631"><title>TylerWicks vs jdrobny: 0.714</title></rect><text x="299" y="445" class="cell-val" fill="#e8e6ee" text-anchor="middle">71</text></g><g class="cell"><rect x="321" y="421" width="40" height="40" rx="3" fill="#ae7221"><title>TylerWicks vs brockhusk: 0.909</title></rect><text x="341" y="445" class="cell-val" fill="#0a0a0d" text-anchor="middle">91</text></g><g class="cell"><rect x="363" y="421" width="40" height="40" rx="3" fill="#3a3743"><title>TylerWicks vs charliekaufmann: 0.500</title></rect><text x="383" y="445" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="405" y="421" width="40" height="40" rx="3" fill="#8f66c9"><title>TylerWicks vs JSanDusky69: 0.000</title></rect><text x="425" y="445" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><rect x="447" y="421" width="40" height="40" rx="3" fill="#0a0a0d" stroke="#26232e"/><g class="cell"><rect x="489" y="421" width="40" height="40" rx="3" fill="#6d5393"><title>TylerWicks vs MaxSirianni: 0.200</title></rect><text x="509" y="445" class="cell-val" fill="#e8e6ee" text-anchor="middle">20</text></g><g class="cell"><rect x="531" y="421" width="40" height="40" rx="3" fill="#8f66c9"><title>TylerWicks vs Jacktaco98: 0.000</title></rect><text x="551" y="445" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><g class="cell"><rect x="573" y="421" width="40" height="40" rx="3" fill="#694f35"><title>TylerWicks vs akepple9: 0.667</title></rect><text x="593" y="445" class="cell-val" fill="#e8e6ee" text-anchor="middle">67</text></g><text x="102" y="487" class="tick" text-anchor="end">MaxSirianni</text><g class="cell"><rect x="111" y="463" width="40" height="40" rx="3" fill="#5e4939"><title>MaxSirianni vs bgreenblatt: 0.625</title></rect><text x="131" y="487" class="cell-val" fill="#e8e6ee" text-anchor="middle">62</text></g><g class="cell"><rect x="153" y="463" width="40" height="40" rx="3" fill="#4e413d"><title>MaxSirianni vs cc5597: 0.571</title></rect><text x="173" y="487" class="cell-val" fill="#e8e6ee" text-anchor="middle">57</text></g><g class="cell"><rect x="195" y="463" width="40" height="40" rx="3" fill="#433c52"><title>MaxSirianni vs Erjohnson14: 0.444</title></rect><text x="215" y="487" class="cell-val" fill="#e8e6ee" text-anchor="middle">44</text></g><g class="cell"><rect x="237" y="463" width="40" height="40" rx="3" fill="#564770"><title>MaxSirianni vs KingTowsk: 0.333</title></rect><text x="257" y="487" class="cell-val" fill="#e8e6ee" text-anchor="middle">33</text></g><g class="cell"><rect x="279" y="463" width="40" height="40" rx="3" fill="#7a5aa8"><title>MaxSirianni vs jdrobny: 0.125</title></rect><text x="299" y="487" class="cell-val" fill="#0a0a0d" text-anchor="middle">12</text></g><g class="cell"><rect x="321" y="463" width="40" height="40" rx="3" fill="#3a3743"><title>MaxSirianni vs brockhusk: 0.500</title></rect><text x="341" y="487" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="363" y="463" width="40" height="40" rx="3" fill="#4a3f3e"><title>MaxSirianni vs charliekaufmann: 0.556</title></rect><text x="383" y="487" class="cell-val" fill="#e8e6ee" text-anchor="middle">56</text></g><g class="cell"><rect x="405" y="463" width="40" height="40" rx="3" fill="#7e5dae"><title>MaxSirianni vs JSanDusky69: 0.100</title></rect><text x="425" y="487" class="cell-val" fill="#0a0a0d" text-anchor="middle">10</text></g><g class="cell"><rect x="447" y="463" width="40" height="40" rx="3" fill="#8f622a"><title>MaxSirianni vs TylerWicks: 0.800</title></rect><text x="467" y="487" class="cell-val" fill="#e8e6ee" text-anchor="middle">80</text></g><rect x="489" y="463" width="40" height="40" rx="3" fill="#0a0a0d" stroke="#26232e"/><g class="cell"><rect x="531" y="463" width="40" height="40" rx="3" fill="#3a3743"><title>MaxSirianni vs Jacktaco98: 0.500</title></rect><text x="551" y="487" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="573" y="463" width="40" height="40" rx="3" fill="#8f66c9"><title>MaxSirianni vs akepple9: 0.000</title></rect><text x="593" y="487" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><text x="102" y="529" class="tick" text-anchor="end">Jacktaco98</text><g class="cell"><rect x="111" y="505" width="40" height="40" rx="3" fill="#3a3743"><title>Jacktaco98 vs bgreenblatt: 0.500</title></rect><text x="131" y="529" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="153" y="505" width="40" height="40" rx="3" fill="#8f66c9"><title>Jacktaco98 vs cc5597: 0.000</title></rect><text x="173" y="529" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><g class="cell"><rect x="195" y="505" width="40" height="40" rx="3" fill="#8f66c9"><title>Jacktaco98 vs Erjohnson14: 0.000</title></rect><text x="215" y="529" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><g class="cell"><rect x="237" y="505" width="40" height="40" rx="3" fill="#c87f1a"><title>Jacktaco98 vs KingTowsk: 1.000</title></rect><text x="257" y="529" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><g class="cell"><rect x="279" y="505" width="40" height="40" rx="3" fill="#c87f1a"><title>Jacktaco98 vs jdrobny: 1.000</title></rect><text x="299" y="529" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><g class="cell"><rect x="321" y="505" width="40" height="40" rx="3" fill="#c87f1a"><title>Jacktaco98 vs brockhusk: 1.000</title></rect><text x="341" y="529" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><g class="cell"><rect x="363" y="505" width="40" height="40" rx="3" fill="#8f66c9"><title>Jacktaco98 vs charliekaufmann: 0.000</title></rect><text x="383" y="529" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><g class="cell"><rect x="405" y="505" width="40" height="40" rx="3" fill="#3a3743"><title>Jacktaco98 vs JSanDusky69: 0.500</title></rect><text x="425" y="529" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="447" y="505" width="40" height="40" rx="3" fill="#c87f1a"><title>Jacktaco98 vs TylerWicks: 1.000</title></rect><text x="467" y="529" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><g class="cell"><rect x="489" y="505" width="40" height="40" rx="3" fill="#3a3743"><title>Jacktaco98 vs MaxSirianni: 0.500</title></rect><text x="509" y="529" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><rect x="531" y="505" width="40" height="40" rx="3" fill="#0a0a0d" stroke="#26232e"/><g class="cell"><rect x="573" y="505" width="40" height="40" rx="3" fill="#c87f1a"><title>Jacktaco98 vs akepple9: 1.000</title></rect><text x="593" y="529" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><text x="102" y="571" class="tick" text-anchor="end">akepple9</text><g class="cell"><rect x="111" y="547" width="40" height="40" rx="3" fill="#c87f1a"><title>akepple9 vs bgreenblatt: 1.000</title></rect><text x="131" y="571" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><g class="cell"><rect x="153" y="547" width="40" height="40" rx="3" fill="#8f66c9"><title>akepple9 vs cc5597: 0.000</title></rect><text x="173" y="571" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><g class="cell"><rect x="195" y="547" width="40" height="40" rx="3" fill="#8f66c9"><title>akepple9 vs Erjohnson14: 0.000</title></rect><text x="215" y="571" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><g class="cell"><rect x="237" y="547" width="40" height="40" rx="3" fill="#c87f1a"><title>akepple9 vs KingTowsk: 1.000</title></rect><text x="257" y="571" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><g class="cell"><rect x="279" y="547" width="40" height="40" rx="3" fill="#3a3743"><title>akepple9 vs jdrobny: 0.500</title></rect><text x="299" y="571" class="cell-val" fill="#e8e6ee" text-anchor="middle">50</text></g><g class="cell"><rect x="321" y="547" width="40" height="40" rx="3" fill="#8f66c9"><title>akepple9 vs brockhusk: 0.000</title></rect><text x="341" y="571" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><g class="cell"><rect x="363" y="547" width="40" height="40" rx="3" fill="#c87f1a"><title>akepple9 vs charliekaufmann: 1.000</title></rect><text x="383" y="571" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><g class="cell"><rect x="405" y="547" width="40" height="40" rx="3" fill="#c87f1a"><title>akepple9 vs JSanDusky69: 1.000</title></rect><text x="425" y="571" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><g class="cell"><rect x="447" y="547" width="40" height="40" rx="3" fill="#564770"><title>akepple9 vs TylerWicks: 0.333</title></rect><text x="467" y="571" class="cell-val" fill="#e8e6ee" text-anchor="middle">33</text></g><g class="cell"><rect x="489" y="547" width="40" height="40" rx="3" fill="#c87f1a"><title>akepple9 vs MaxSirianni: 1.000</title></rect><text x="509" y="571" class="cell-val" fill="#0a0a0d" text-anchor="middle">100</text></g><g class="cell"><rect x="531" y="547" width="40" height="40" rx="3" fill="#8f66c9"><title>akepple9 vs Jacktaco98: 0.000</title></rect><text x="551" y="571" class="cell-val" fill="#0a0a0d" text-anchor="middle">0</text></g><rect x="573" y="547" width="40" height="40" rx="3" fill="#0a0a0d" stroke="#26232e"/></svg></div>
+
+
+<section class="section pair" id="cc5597-vs-bgreenblatt">
+  <h2>cc5597 vs bgreenblatt</h2>
+  <p class="note">
+    <strong class="num">5–4</strong> cc5597
+    · avg margin +17.25
+    · streak W3
+     · regular 3–3 · playoffs 2–1
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">cc5597</th><th class="num">bgreenblatt</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">5</td>
+          <td></td>
+          <td class="num">190.58</td>
+          <td class="num hot">213.58</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">185.78</td>
+          <td class="num">177.26</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">17</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">157.54</td>
+          <td class="num hot">166.96</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">162.08</td>
+          <td class="num">128.69</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">7</td>
+          <td></td>
+          <td class="num">130.80</td>
+          <td class="num hot">134.52</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">7</td>
+          <td></td>
+          <td class="num">106.22</td>
+          <td class="num hot">143.29</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">3</td>
+          <td></td>
+          <td class="num hot">160.21</td>
+          <td class="num">107.04</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">14</td>
+          <td></td>
+          <td class="num hot">186.38</td>
+          <td class="num">101.69</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">150.21</td>
+          <td class="num">101.54</td>
+          <td>cc5597</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="bgreenblatt-vs-erjohnson14">
+  <h2>bgreenblatt vs Erjohnson14</h2>
+  <p class="note">
+    <strong class="num">5–3</strong> bgreenblatt
+    · avg margin +8.21
+    · streak W2
+     · regular 4–3 · playoffs 1–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">bgreenblatt</th><th class="num">Erjohnson14</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">4</td>
+          <td></td>
+          <td class="num">141.34</td>
+          <td class="num hot">159.32</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">13</td>
+          <td></td>
+          <td class="num">171.14</td>
+          <td class="num hot">178.86</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">6</td>
+          <td></td>
+          <td class="num hot">172.70</td>
+          <td class="num">135.26</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">158.50</td>
+          <td class="num">130.26</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">116.40</td>
+          <td class="num">110.46</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">1</td>
+          <td></td>
+          <td class="num">130.76</td>
+          <td class="num hot">203.93</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">10</td>
+          <td></td>
+          <td class="num hot">188.39</td>
+          <td class="num">125.45</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">6</td>
+          <td></td>
+          <td class="num hot">183.96</td>
+          <td class="num">153.96</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="bgreenblatt-vs-kingtowsk">
+  <h2>bgreenblatt vs KingTowsk</h2>
+  <p class="note">
+    <strong class="num">5–5</strong> bgreenblatt
+    · avg margin -2.45
+    · streak W1
+     · regular 4–3 · playoffs 1–2
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">bgreenblatt</th><th class="num">KingTowsk</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">151.76</td>
+          <td class="num">125.66</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">1</td>
+          <td></td>
+          <td class="num">174.02</td>
+          <td class="num hot">175.31</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">10</td>
+          <td></td>
+          <td class="num hot">148.59</td>
+          <td class="num">142.55</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">17</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">133.24</td>
+          <td class="num hot">145.73</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">3</td>
+          <td></td>
+          <td class="num">120.98</td>
+          <td class="num hot">187.73</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">12</td>
+          <td></td>
+          <td class="num hot">175.47</td>
+          <td class="num">154.02</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">129.94</td>
+          <td class="num">120.74</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">8</td>
+          <td></td>
+          <td class="num">169.28</td>
+          <td class="num hot">172.85</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">17</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">172.24</td>
+          <td class="num hot">205.05</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">153.24</td>
+          <td class="num">123.60</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="bgreenblatt-vs-jdrobny">
+  <h2>bgreenblatt vs jdrobny</h2>
+  <p class="note">
+    <strong class="num">5–6</strong> bgreenblatt
+    · avg margin -5.73
+    · streak W5
+     · regular 5–4 · playoffs 0–2
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">bgreenblatt</th><th class="num">jdrobny</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">2</td>
+          <td></td>
+          <td class="num">100.64</td>
+          <td class="num hot">173.92</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">11</td>
+          <td></td>
+          <td class="num">149.08</td>
+          <td class="num hot">168.56</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">112.32</td>
+          <td class="num hot">121.24</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">9</td>
+          <td></td>
+          <td class="num">124.97</td>
+          <td class="num hot">166.22</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">116.42</td>
+          <td class="num hot">122.06</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">1</td>
+          <td></td>
+          <td class="num">107.63</td>
+          <td class="num hot">137.67</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">10</td>
+          <td></td>
+          <td class="num hot">155.93</td>
+          <td class="num">140.07</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">4</td>
+          <td></td>
+          <td class="num hot">156.39</td>
+          <td class="num">143.43</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">13</td>
+          <td></td>
+          <td class="num hot">165.60</td>
+          <td class="num">130.44</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">5</td>
+          <td></td>
+          <td class="num hot">149.05</td>
+          <td class="num">145.05</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">9</td>
+          <td></td>
+          <td class="num hot">170.93</td>
+          <td class="num">123.29</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="bgreenblatt-vs-brockhusk">
+  <h2>bgreenblatt vs brockhusk</h2>
+  <p class="note">
+    <strong class="num">6–3</strong> bgreenblatt
+    · avg margin +17.62
+    · streak W2
+     · regular 5–3 · playoffs 1–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">bgreenblatt</th><th class="num">brockhusk</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">3</td>
+          <td></td>
+          <td class="num hot">181.90</td>
+          <td class="num">139.16</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">12</td>
+          <td></td>
+          <td class="num hot">161.72</td>
+          <td class="num">135.90</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">4</td>
+          <td></td>
+          <td class="num hot">140.62</td>
+          <td class="num">133.49</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">13</td>
+          <td></td>
+          <td class="num">148.70</td>
+          <td class="num hot">151.26</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">153.25</td>
+          <td class="num">141.98</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">6</td>
+          <td></td>
+          <td class="num">120.32</td>
+          <td class="num hot">164.59</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">5</td>
+          <td></td>
+          <td class="num">175.64</td>
+          <td class="num hot">195.21</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">14</td>
+          <td></td>
+          <td class="num hot">193.90</td>
+          <td class="num">141.07</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">11</td>
+          <td></td>
+          <td class="num hot">176.80</td>
+          <td class="num">91.59</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="bgreenblatt-vs-charliekaufmann">
+  <h2>bgreenblatt vs charliekaufmann</h2>
+  <p class="note">
+    <strong class="num">6–2</strong> bgreenblatt
+    · avg margin +22.70
+    · streak L1
+     · regular 5–2 · playoffs 1–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">bgreenblatt</th><th class="num">charliekaufmann</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">9</td>
+          <td></td>
+          <td class="num">110.18</td>
+          <td class="num hot">159.36</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">160.95</td>
+          <td class="num">124.87</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">4</td>
+          <td></td>
+          <td class="num hot">152.98</td>
+          <td class="num">126.35</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">13</td>
+          <td></td>
+          <td class="num hot">146.13</td>
+          <td class="num">96.24</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">9</td>
+          <td></td>
+          <td class="num hot">147.01</td>
+          <td class="num">103.10</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">178.73</td>
+          <td class="num">174.72</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">10</td>
+          <td></td>
+          <td class="num hot">181.85</td>
+          <td class="num">95.14</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">12</td>
+          <td></td>
+          <td class="num">113.79</td>
+          <td class="num hot">130.26</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="bgreenblatt-vs-jsandusky69">
+  <h2>bgreenblatt vs JSanDusky69</h2>
+  <p class="note">
+    <strong class="num">5–3</strong> bgreenblatt
+    · avg margin +16.24
+    · streak L2
+     · regular 5–3 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">bgreenblatt</th><th class="num">JSanDusky69</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">148.40</td>
+          <td class="num">135.24</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">5</td>
+          <td></td>
+          <td class="num hot">190.90</td>
+          <td class="num">131.65</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">14</td>
+          <td></td>
+          <td class="num">99.69</td>
+          <td class="num hot">152.46</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">126.38</td>
+          <td class="num">120.04</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">11</td>
+          <td></td>
+          <td class="num hot">170.96</td>
+          <td class="num">117.00</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">199.69</td>
+          <td class="num">113.48</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">11</td>
+          <td></td>
+          <td class="num">164.97</td>
+          <td class="num hot">175.19</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">4</td>
+          <td></td>
+          <td class="num">140.84</td>
+          <td class="num hot">166.81</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="bgreenblatt-vs-tylerwicks">
+  <h2>bgreenblatt vs TylerWicks</h2>
+  <p class="note">
+    <strong class="num">8–1</strong> bgreenblatt
+    · avg margin +25.46
+    · streak W6
+     · regular 6–1 · playoffs 2–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">bgreenblatt</th><th class="num">TylerWicks</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">1</td>
+          <td></td>
+          <td class="num hot">149.98</td>
+          <td class="num">115.90</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">10</td>
+          <td></td>
+          <td class="num hot">151.56</td>
+          <td class="num">91.66</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">2</td>
+          <td></td>
+          <td class="num">141.32</td>
+          <td class="num hot">175.30</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">11</td>
+          <td></td>
+          <td class="num hot">161.45</td>
+          <td class="num">133.39</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">9</td>
+          <td></td>
+          <td class="num hot">112.14</td>
+          <td class="num">99.51</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">17</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">130.46</td>
+          <td class="num">122.35</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">6</td>
+          <td></td>
+          <td class="num hot">162.77</td>
+          <td class="num">74.11</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">13</td>
+          <td></td>
+          <td class="num hot">131.90</td>
+          <td class="num">112.43</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">138.01</td>
+          <td class="num">125.78</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="bgreenblatt-vs-maxsirianni">
+  <h2>bgreenblatt vs MaxSirianni</h2>
+  <p class="note">
+    <strong class="num">3–5</strong> bgreenblatt
+    · avg margin -3.02
+    · streak L1
+     · regular 3–5 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">bgreenblatt</th><th class="num">MaxSirianni</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">6</td>
+          <td></td>
+          <td class="num hot">169.56</td>
+          <td class="num">126.48</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">3</td>
+          <td></td>
+          <td class="num hot">185.53</td>
+          <td class="num">107.22</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">12</td>
+          <td></td>
+          <td class="num">138.03</td>
+          <td class="num hot">154.21</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">5</td>
+          <td></td>
+          <td class="num">134.84</td>
+          <td class="num hot">189.74</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">14</td>
+          <td></td>
+          <td class="num">108.52</td>
+          <td class="num hot">148.06</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">3</td>
+          <td></td>
+          <td class="num">118.16</td>
+          <td class="num hot">140.32</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">12</td>
+          <td></td>
+          <td class="num hot">137.66</td>
+          <td class="num">123.29</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">8</td>
+          <td></td>
+          <td class="num">100.69</td>
+          <td class="num hot">127.80</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="bgreenblatt-vs-jacktaco98">
+  <h2>bgreenblatt vs Jacktaco98</h2>
+  <p class="note">
+    <strong class="num">1–1</strong> bgreenblatt
+    · avg margin +1.97
+    · streak W1
+     · regular 0–1 · playoffs 1–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">bgreenblatt</th><th class="num">Jacktaco98</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">1</td>
+          <td></td>
+          <td class="num">126.23</td>
+          <td class="num hot">133.51</td>
+          <td>Jacktaco98</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">17</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">105.56</td>
+          <td class="num">94.34</td>
+          <td>bgreenblatt</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="akepple9-vs-bgreenblatt">
+  <h2>akepple9 vs bgreenblatt</h2>
+  <p class="note">
+    <strong class="num">1–0</strong> akepple9
+    · avg margin +26.87
+    · streak W1
+     · regular 1–0 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">akepple9</th><th class="num">bgreenblatt</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">155.54</td>
+          <td class="num">128.67</td>
+          <td>akepple9</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="cc5597-vs-erjohnson14">
+  <h2>cc5597 vs Erjohnson14</h2>
+  <p class="note">
+    <strong class="num">3–5</strong> cc5597
+    · avg margin -6.18
+    · streak L2
+     · regular 3–4 · playoffs 0–1
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">cc5597</th><th class="num">Erjohnson14</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">1</td>
+          <td></td>
+          <td class="num">115.60</td>
+          <td class="num hot">134.24</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">10</td>
+          <td></td>
+          <td class="num">124.24</td>
+          <td class="num hot">148.72</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">172.17</td>
+          <td class="num">135.51</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">6</td>
+          <td></td>
+          <td class="num">87.74</td>
+          <td class="num hot">127.68</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">177.50</td>
+          <td class="num">124.94</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">5</td>
+          <td></td>
+          <td class="num hot">151.70</td>
+          <td class="num">145.61</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">8</td>
+          <td></td>
+          <td class="num">104.24</td>
+          <td class="num hot">155.77</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">17</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">160.91</td>
+          <td class="num hot">171.04</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="cc5597-vs-kingtowsk">
+  <h2>cc5597 vs KingTowsk</h2>
+  <p class="note">
+    <strong class="num">6–4</strong> cc5597
+    · avg margin +10.14
+    · streak W1
+     · regular 5–4 · playoffs 1–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">cc5597</th><th class="num">KingTowsk</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">3</td>
+          <td></td>
+          <td class="num hot">160.12</td>
+          <td class="num">114.84</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">12</td>
+          <td></td>
+          <td class="num hot">148.04</td>
+          <td class="num">129.68</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">4</td>
+          <td></td>
+          <td class="num hot">166.19</td>
+          <td class="num">130.42</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">13</td>
+          <td></td>
+          <td class="num">150.74</td>
+          <td class="num hot">183.80</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">192.73</td>
+          <td class="num">144.13</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">2</td>
+          <td></td>
+          <td class="num">96.47</td>
+          <td class="num hot">147.18</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">11</td>
+          <td></td>
+          <td class="num">134.46</td>
+          <td class="num hot">153.01</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">1</td>
+          <td></td>
+          <td class="num hot">135.05</td>
+          <td class="num">117.73</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">10</td>
+          <td></td>
+          <td class="num">113.05</td>
+          <td class="num hot">137.63</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">11</td>
+          <td></td>
+          <td class="num hot">191.85</td>
+          <td class="num">128.91</td>
+          <td>cc5597</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="cc5597-vs-jdrobny">
+  <h2>cc5597 vs jdrobny</h2>
+  <p class="note">
+    <strong class="num">4–5</strong> cc5597
+    · avg margin +0.06
+    · streak W1
+     · regular 4–3 · playoffs 0–2
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">cc5597</th><th class="num">jdrobny</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">180.08</td>
+          <td class="num">143.40</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">1</td>
+          <td></td>
+          <td class="num">119.68</td>
+          <td class="num hot">135.05</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">10</td>
+          <td></td>
+          <td class="num">100.33</td>
+          <td class="num hot">158.12</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">17</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">119.01</td>
+          <td class="num hot">122.78</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">167.46</td>
+          <td class="num">126.86</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">151.66</td>
+          <td class="num">116.25</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">11</td>
+          <td></td>
+          <td class="num">139.34</td>
+          <td class="num hot">174.65</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">101.47</td>
+          <td class="num hot">130.99</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">165.16</td>
+          <td class="num">135.58</td>
+          <td>cc5597</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="cc5597-vs-brockhusk">
+  <h2>cc5597 vs brockhusk</h2>
+  <p class="note">
+    <strong class="num">3–5</strong> cc5597
+    · avg margin -16.97
+    · streak W2
+     · regular 2–5 · playoffs 1–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">cc5597</th><th class="num">brockhusk</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">131.36</td>
+          <td class="num">125.94</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">5</td>
+          <td></td>
+          <td class="num">136.03</td>
+          <td class="num hot">185.38</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">14</td>
+          <td></td>
+          <td class="num">125.22</td>
+          <td class="num hot">151.42</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">5</td>
+          <td></td>
+          <td class="num">96.71</td>
+          <td class="num hot">114.08</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">14</td>
+          <td></td>
+          <td class="num">106.26</td>
+          <td class="num hot">135.51</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">9</td>
+          <td></td>
+          <td class="num">128.23</td>
+          <td class="num hot">162.26</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">130.08</td>
+          <td class="num">118.91</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">9</td>
+          <td></td>
+          <td class="num hot">132.02</td>
+          <td class="num">128.21</td>
+          <td>cc5597</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="cc5597-vs-charliekaufmann">
+  <h2>cc5597 vs charliekaufmann</h2>
+  <p class="note">
+    <strong class="num">7–2</strong> cc5597
+    · avg margin +14.19
+    · streak W2
+     · regular 6–2 · playoffs 1–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">cc5597</th><th class="num">charliekaufmann</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">4</td>
+          <td></td>
+          <td class="num">110.18</td>
+          <td class="num hot">187.74</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">13</td>
+          <td></td>
+          <td class="num hot">183.22</td>
+          <td class="num">116.72</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">160.50</td>
+          <td class="num">156.02</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">11</td>
+          <td></td>
+          <td class="num hot">183.14</td>
+          <td class="num">139.77</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">9</td>
+          <td></td>
+          <td class="num hot">155.84</td>
+          <td class="num">146.85</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">164.11</td>
+          <td class="num">149.39</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">3</td>
+          <td></td>
+          <td class="num">111.93</td>
+          <td class="num hot">112.04</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">12</td>
+          <td></td>
+          <td class="num hot">121.03</td>
+          <td class="num">119.09</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">1</td>
+          <td></td>
+          <td class="num hot">153.68</td>
+          <td class="num">88.31</td>
+          <td>cc5597</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="cc5597-vs-jsandusky69">
+  <h2>cc5597 vs JSanDusky69</h2>
+  <p class="note">
+    <strong class="num">7–3</strong> cc5597
+    · avg margin -6.23
+    · streak W2
+     · regular 7–1 · playoffs 0–2
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">cc5597</th><th class="num">JSanDusky69</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">9</td>
+          <td></td>
+          <td class="num hot">91.12</td>
+          <td class="num">90.18</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">75.74</td>
+          <td class="num hot">171.04</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">3</td>
+          <td></td>
+          <td class="num hot">125.31</td>
+          <td class="num">111.70</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">12</td>
+          <td></td>
+          <td class="num hot">144.39</td>
+          <td class="num">141.30</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">1</td>
+          <td></td>
+          <td class="num hot">124.83</td>
+          <td class="num">123.95</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">10</td>
+          <td></td>
+          <td class="num hot">152.23</td>
+          <td class="num">108.70</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">69.79</td>
+          <td class="num hot">160.82</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">5</td>
+          <td></td>
+          <td class="num">99.35</td>
+          <td class="num hot">159.66</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">14</td>
+          <td></td>
+          <td class="num hot">165.75</td>
+          <td class="num">122.79</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">12</td>
+          <td></td>
+          <td class="num hot">179.83</td>
+          <td class="num">100.47</td>
+          <td>cc5597</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="cc5597-vs-tylerwicks">
+  <h2>cc5597 vs TylerWicks</h2>
+  <p class="note">
+    <strong class="num">4–4</strong> cc5597
+    · avg margin -12.03
+    · streak W1
+     · regular 4–4 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">cc5597</th><th class="num">TylerWicks</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">6</td>
+          <td></td>
+          <td class="num hot">137.42</td>
+          <td class="num">117.62</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">9</td>
+          <td></td>
+          <td class="num hot">174.27</td>
+          <td class="num">106.98</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">4</td>
+          <td></td>
+          <td class="num">128.59</td>
+          <td class="num hot">196.94</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">13</td>
+          <td></td>
+          <td class="num">103.12</td>
+          <td class="num hot">150.30</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">4</td>
+          <td></td>
+          <td class="num hot">115.62</td>
+          <td class="num">110.45</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">13</td>
+          <td></td>
+          <td class="num">99.04</td>
+          <td class="num hot">147.39</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">2</td>
+          <td></td>
+          <td class="num">111.21</td>
+          <td class="num hot">142.02</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">10</td>
+          <td></td>
+          <td class="num hot">139.60</td>
+          <td class="num">133.43</td>
+          <td>cc5597</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="cc5597-vs-maxsirianni">
+  <h2>cc5597 vs MaxSirianni</h2>
+  <p class="note">
+    <strong class="num">3–4</strong> cc5597
+    · avg margin +10.13
+    · streak L4
+     · regular 3–4 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">cc5597</th><th class="num">MaxSirianni</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">139.32</td>
+          <td class="num">120.14</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">11</td>
+          <td></td>
+          <td class="num hot">129.10</td>
+          <td class="num">101.02</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">6</td>
+          <td></td>
+          <td class="num hot">165.24</td>
+          <td class="num">85.18</td>
+          <td>cc5597</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">3</td>
+          <td></td>
+          <td class="num">158.23</td>
+          <td class="num hot">185.52</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">12</td>
+          <td></td>
+          <td class="num">111.52</td>
+          <td class="num hot">116.32</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">6</td>
+          <td></td>
+          <td class="num">148.93</td>
+          <td class="num hot">158.15</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">4</td>
+          <td></td>
+          <td class="num">150.17</td>
+          <td class="num hot">165.26</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="cc5597-vs-jacktaco98">
+  <h2>cc5597 vs Jacktaco98</h2>
+  <p class="note">
+    <strong class="num">1–0</strong> cc5597
+    · avg margin +18.14
+    · streak W1
+     · regular 1–0 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">cc5597</th><th class="num">Jacktaco98</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">13</td>
+          <td></td>
+          <td class="num hot">126.12</td>
+          <td class="num">107.98</td>
+          <td>cc5597</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="akepple9-vs-cc5597">
+  <h2>akepple9 vs cc5597</h2>
+  <p class="note">
+    <strong class="num">0–1</strong> akepple9
+    · avg margin -22.09
+    · streak L1
+     · regular 0–1 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">akepple9</th><th class="num">cc5597</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">6</td>
+          <td></td>
+          <td class="num">123.80</td>
+          <td class="num hot">145.89</td>
+          <td>cc5597</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="kingtowsk-vs-erjohnson14">
+  <h2>KingTowsk vs Erjohnson14</h2>
+  <p class="note">
+    <strong class="num">4–3</strong> KingTowsk
+    · avg margin +11.47
+    · streak L2
+     · regular 3–3 · playoffs 1–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">KingTowsk</th><th class="num">Erjohnson14</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">5</td>
+          <td></td>
+          <td class="num hot">201.00</td>
+          <td class="num">131.56</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">9</td>
+          <td></td>
+          <td class="num">129.57</td>
+          <td class="num hot">152.34</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">161.08</td>
+          <td class="num">139.19</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">5</td>
+          <td></td>
+          <td class="num hot">147.47</td>
+          <td class="num">119.39</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">14</td>
+          <td></td>
+          <td class="num hot">150.02</td>
+          <td class="num">133.56</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">9</td>
+          <td></td>
+          <td class="num">174.94</td>
+          <td class="num hot">176.40</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">10</td>
+          <td></td>
+          <td class="num">124.77</td>
+          <td class="num hot">156.09</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="erjohnson14-vs-jdrobny">
+  <h2>Erjohnson14 vs jdrobny</h2>
+  <p class="note">
+    <strong class="num">5–3</strong> Erjohnson14
+    · avg margin +21.88
+    · streak W1
+     · regular 5–1 · playoffs 0–2
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">Erjohnson14</th><th class="num">jdrobny</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">159.62</td>
+          <td class="num">113.04</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">14</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">142.52</td>
+          <td class="num hot">153.96</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">176.14</td>
+          <td class="num">101.99</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">9</td>
+          <td></td>
+          <td class="num hot">151.30</td>
+          <td class="num">121.63</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">144.16</td>
+          <td class="num hot">157.31</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">5</td>
+          <td></td>
+          <td class="num hot">149.25</td>
+          <td class="num">109.45</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">14</td>
+          <td></td>
+          <td class="num">161.00</td>
+          <td class="num hot">174.86</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">129.33</td>
+          <td class="num">106.08</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="brockhusk-vs-erjohnson14">
+  <h2>brockhusk vs Erjohnson14</h2>
+  <p class="note">
+    <strong class="num">6–4</strong> brockhusk
+    · avg margin +10.71
+    · streak L1
+     · regular 5–4 · playoffs 1–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">brockhusk</th><th class="num">Erjohnson14</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">9</td>
+          <td></td>
+          <td class="num">122.22</td>
+          <td class="num hot">122.44</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">3</td>
+          <td></td>
+          <td class="num hot">126.38</td>
+          <td class="num">101.25</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">12</td>
+          <td></td>
+          <td class="num hot">144.09</td>
+          <td class="num">94.19</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">131.76</td>
+          <td class="num">106.56</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">3</td>
+          <td></td>
+          <td class="num hot">130.58</td>
+          <td class="num">114.32</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">12</td>
+          <td></td>
+          <td class="num hot">197.40</td>
+          <td class="num">159.09</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">4</td>
+          <td></td>
+          <td class="num">127.70</td>
+          <td class="num hot">140.28</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">13</td>
+          <td></td>
+          <td class="num">128.97</td>
+          <td class="num hot">173.78</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">1</td>
+          <td></td>
+          <td class="num hot">153.44</td>
+          <td class="num">115.93</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">12</td>
+          <td></td>
+          <td class="num">81.01</td>
+          <td class="num hot">108.62</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="charliekaufmann-vs-erjohnson14">
+  <h2>charliekaufmann vs Erjohnson14</h2>
+  <p class="note">
+    <strong class="num">6–4</strong> charliekaufmann
+    · avg margin -0.92
+    · streak W3
+     · regular 6–3 · playoffs 0–1
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">charliekaufmann</th><th class="num">Erjohnson14</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">167.94</td>
+          <td class="num">154.14</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">11</td>
+          <td></td>
+          <td class="num hot">150.68</td>
+          <td class="num">114.74</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">106.36</td>
+          <td class="num hot">144.30</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">1</td>
+          <td></td>
+          <td class="num">109.20</td>
+          <td class="num hot">142.80</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">10</td>
+          <td></td>
+          <td class="num hot">116.04</td>
+          <td class="num">100.86</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">1</td>
+          <td></td>
+          <td class="num">143.02</td>
+          <td class="num hot">146.53</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">10</td>
+          <td></td>
+          <td class="num">110.97</td>
+          <td class="num hot">174.34</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">6</td>
+          <td></td>
+          <td class="num hot">142.41</td>
+          <td class="num">111.85</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">9</td>
+          <td></td>
+          <td class="num hot">152.45</td>
+          <td class="num">130.17</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">11</td>
+          <td></td>
+          <td class="num hot">131.34</td>
+          <td class="num">119.84</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="erjohnson14-vs-jsandusky69">
+  <h2>Erjohnson14 vs JSanDusky69</h2>
+  <p class="note">
+    <strong class="num">4–4</strong> Erjohnson14
+    · avg margin +6.07
+    · streak L2
+     · regular 4–3 · playoffs 0–1
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">Erjohnson14</th><th class="num">JSanDusky69</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">6</td>
+          <td></td>
+          <td class="num">154.14</td>
+          <td class="num hot">185.98</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">2</td>
+          <td></td>
+          <td class="num">126.27</td>
+          <td class="num hot">156.59</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">11</td>
+          <td></td>
+          <td class="num hot">138.96</td>
+          <td class="num">78.71</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">131.17</td>
+          <td class="num">103.38</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">3</td>
+          <td></td>
+          <td class="num hot">171.77</td>
+          <td class="num">137.66</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">12</td>
+          <td></td>
+          <td class="num hot">178.96</td>
+          <td class="num">125.94</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">148.41</td>
+          <td class="num hot">177.52</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">14</td>
+          <td></td>
+          <td class="num">115.63</td>
+          <td class="num hot">150.95</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="erjohnson14-vs-tylerwicks">
+  <h2>Erjohnson14 vs TylerWicks</h2>
+  <p class="note">
+    <strong class="num">5–3</strong> Erjohnson14
+    · avg margin +2.49
+    · streak W1
+     · regular 5–2 · playoffs 0–1
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">Erjohnson14</th><th class="num">TylerWicks</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">160.48</td>
+          <td class="num">146.38</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">4</td>
+          <td></td>
+          <td class="num hot">152.84</td>
+          <td class="num">100.28</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">13</td>
+          <td></td>
+          <td class="num">133.29</td>
+          <td class="num hot">196.75</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">170.59</td>
+          <td class="num">110.22</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">11</td>
+          <td></td>
+          <td class="num">103.97</td>
+          <td class="num hot">161.88</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">138.62</td>
+          <td class="num">119.67</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">175.78</td>
+          <td class="num hot">183.00</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">4</td>
+          <td></td>
+          <td class="num hot">130.72</td>
+          <td class="num">128.21</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="erjohnson14-vs-maxsirianni">
+  <h2>Erjohnson14 vs MaxSirianni</h2>
+  <p class="note">
+    <strong class="num">5–4</strong> Erjohnson14
+    · avg margin +19.88
+    · streak W1
+     · regular 5–4 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">Erjohnson14</th><th class="num">MaxSirianni</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">3</td>
+          <td></td>
+          <td class="num hot">138.30</td>
+          <td class="num">120.56</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">12</td>
+          <td></td>
+          <td class="num">137.16</td>
+          <td class="num hot">142.72</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">5</td>
+          <td></td>
+          <td class="num">110.65</td>
+          <td class="num hot">149.99</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">14</td>
+          <td></td>
+          <td class="num hot">161.94</td>
+          <td class="num">119.20</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">4</td>
+          <td></td>
+          <td class="num hot">140.74</td>
+          <td class="num">67.01</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">13</td>
+          <td></td>
+          <td class="num">144.98</td>
+          <td class="num hot">180.53</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">143.84</td>
+          <td class="num">107.07</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">11</td>
+          <td></td>
+          <td class="num">149.63</td>
+          <td class="num hot">150.01</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">13</td>
+          <td></td>
+          <td class="num hot">176.04</td>
+          <td class="num">87.23</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="erjohnson14-vs-jacktaco98">
+  <h2>Erjohnson14 vs Jacktaco98</h2>
+  <p class="note">
+    <strong class="num">2–0</strong> Erjohnson14
+    · avg margin +18.86
+    · streak W2
+     · regular 1–0 · playoffs 1–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">Erjohnson14</th><th class="num">Jacktaco98</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">173.23</td>
+          <td class="num">144.82</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">146.91</td>
+          <td class="num">137.60</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="akepple9-vs-erjohnson14">
+  <h2>akepple9 vs Erjohnson14</h2>
+  <p class="note">
+    <strong class="num">0–2</strong> akepple9
+    · avg margin -20.86
+    · streak L2
+     · regular 0–1 · playoffs 0–1
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">akepple9</th><th class="num">Erjohnson14</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">3</td>
+          <td></td>
+          <td class="num">113.69</td>
+          <td class="num hot">139.10</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">159.88</td>
+          <td class="num hot">176.19</td>
+          <td>Erjohnson14</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="kingtowsk-vs-jdrobny">
+  <h2>KingTowsk vs jdrobny</h2>
+  <p class="note">
+    <strong class="num">4–4</strong> KingTowsk
+    · avg margin +11.35
+    · streak W1
+     · regular 4–4 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">KingTowsk</th><th class="num">jdrobny</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">9</td>
+          <td></td>
+          <td class="num hot">144.24</td>
+          <td class="num">118.02</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">5</td>
+          <td></td>
+          <td class="num">123.57</td>
+          <td class="num hot">126.84</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">14</td>
+          <td></td>
+          <td class="num">109.49</td>
+          <td class="num hot">112.18</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">4</td>
+          <td></td>
+          <td class="num">154.08</td>
+          <td class="num hot">162.54</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">13</td>
+          <td></td>
+          <td class="num hot">164.08</td>
+          <td class="num">136.41</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">3</td>
+          <td></td>
+          <td class="num hot">166.59</td>
+          <td class="num">102.32</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">12</td>
+          <td></td>
+          <td class="num">134.88</td>
+          <td class="num hot">157.81</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">12</td>
+          <td></td>
+          <td class="num hot">149.53</td>
+          <td class="num">139.56</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="brockhusk-vs-kingtowsk">
+  <h2>brockhusk vs KingTowsk</h2>
+  <p class="note">
+    <strong class="num">4–6</strong> brockhusk
+    · avg margin -1.14
+    · streak W1
+     · regular 2–4 · playoffs 2–2
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">brockhusk</th><th class="num">KingTowsk</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">6</td>
+          <td></td>
+          <td class="num hot">150.06</td>
+          <td class="num">134.24</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">97.72</td>
+          <td class="num hot">142.70</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">140.30</td>
+          <td class="num hot">144.16</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">7</td>
+          <td></td>
+          <td class="num">130.15</td>
+          <td class="num hot">134.93</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">192.62</td>
+          <td class="num">149.75</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">17</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">183.51</td>
+          <td class="num">161.54</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">6</td>
+          <td></td>
+          <td class="num">137.66</td>
+          <td class="num hot">146.88</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">6</td>
+          <td></td>
+          <td class="num">125.92</td>
+          <td class="num hot">140.21</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">13</td>
+          <td></td>
+          <td class="num">115.50</td>
+          <td class="num hot">151.08</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">124.04</td>
+          <td class="num">103.38</td>
+          <td>brockhusk</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="charliekaufmann-vs-kingtowsk">
+  <h2>charliekaufmann vs KingTowsk</h2>
+  <p class="note">
+    <strong class="num">6–2</strong> charliekaufmann
+    · avg margin +18.67
+    · streak W2
+     · regular 5–2 · playoffs 1–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">charliekaufmann</th><th class="num">KingTowsk</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">1</td>
+          <td></td>
+          <td class="num hot">166.66</td>
+          <td class="num">155.68</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">10</td>
+          <td></td>
+          <td class="num hot">151.00</td>
+          <td class="num">130.40</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">214.72</td>
+          <td class="num">118.18</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">6</td>
+          <td></td>
+          <td class="num">106.05</td>
+          <td class="num hot">147.00</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">5</td>
+          <td></td>
+          <td class="num hot">168.91</td>
+          <td class="num">164.09</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">14</td>
+          <td></td>
+          <td class="num">149.75</td>
+          <td class="num hot">178.78</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">4</td>
+          <td></td>
+          <td class="num hot">155.75</td>
+          <td class="num">105.06</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">17</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">129.76</td>
+          <td class="num">94.04</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="kingtowsk-vs-jsandusky69">
+  <h2>KingTowsk vs JSanDusky69</h2>
+  <p class="note">
+    <strong class="num">6–2</strong> KingTowsk
+    · avg margin +23.03
+    · streak L1
+     · regular 6–1 · playoffs 0–1
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">KingTowsk</th><th class="num">JSanDusky69</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">2</td>
+          <td></td>
+          <td class="num">131.80</td>
+          <td class="num hot">134.60</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">11</td>
+          <td></td>
+          <td class="num hot">172.58</td>
+          <td class="num">136.22</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">6</td>
+          <td></td>
+          <td class="num hot">141.44</td>
+          <td class="num">110.70</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">9</td>
+          <td></td>
+          <td class="num hot">118.36</td>
+          <td class="num">105.94</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">4</td>
+          <td></td>
+          <td class="num hot">164.26</td>
+          <td class="num">113.15</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">13</td>
+          <td></td>
+          <td class="num hot">171.37</td>
+          <td class="num">137.63</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">1</td>
+          <td></td>
+          <td class="num hot">127.40</td>
+          <td class="num">99.49</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">141.30</td>
+          <td class="num hot">146.56</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="kingtowsk-vs-tylerwicks">
+  <h2>KingTowsk vs TylerWicks</h2>
+  <p class="note">
+    <strong class="num">6–3</strong> KingTowsk
+    · avg margin +11.60
+    · streak W2
+     · regular 5–3 · playoffs 1–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">KingTowsk</th><th class="num">TylerWicks</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">4</td>
+          <td></td>
+          <td class="num">106.48</td>
+          <td class="num hot">127.94</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">13</td>
+          <td></td>
+          <td class="num">116.32</td>
+          <td class="num hot">133.06</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">3</td>
+          <td></td>
+          <td class="num hot">122.79</td>
+          <td class="num">109.92</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">12</td>
+          <td></td>
+          <td class="num hot">179.89</td>
+          <td class="num">132.04</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">190.78</td>
+          <td class="num">114.71</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">141.32</td>
+          <td class="num">128.72</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">11</td>
+          <td></td>
+          <td class="num">129.27</td>
+          <td class="num hot">157.26</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">172.55</td>
+          <td class="num">151.98</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">3</td>
+          <td></td>
+          <td class="num hot">121.64</td>
+          <td class="num">120.98</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="kingtowsk-vs-maxsirianni">
+  <h2>KingTowsk vs MaxSirianni</h2>
+  <p class="note">
+    <strong class="num">6–3</strong> KingTowsk
+    · avg margin +8.46
+    · streak L1
+     · regular 6–2 · playoffs 0–1
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">KingTowsk</th><th class="num">MaxSirianni</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">171.06</td>
+          <td class="num">98.98</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">14</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">109.80</td>
+          <td class="num hot">170.40</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">158.83</td>
+          <td class="num">138.13</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">11</td>
+          <td></td>
+          <td class="num hot">165.78</td>
+          <td class="num">134.34</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">1</td>
+          <td></td>
+          <td class="num hot">112.16</td>
+          <td class="num">106.03</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">10</td>
+          <td></td>
+          <td class="num">109.67</td>
+          <td class="num hot">134.09</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">149.78</td>
+          <td class="num">142.72</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">175.38</td>
+          <td class="num">146.13</td>
+          <td>KingTowsk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">9</td>
+          <td></td>
+          <td class="num">137.28</td>
+          <td class="num hot">142.77</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="kingtowsk-vs-jacktaco98">
+  <h2>KingTowsk vs Jacktaco98</h2>
+  <p class="note">
+    <strong class="num">0–2</strong> KingTowsk
+    · avg margin -29.48
+    · streak L2
+     · regular 0–2 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">KingTowsk</th><th class="num">Jacktaco98</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">5</td>
+          <td></td>
+          <td class="num">108.18</td>
+          <td class="num hot">119.17</td>
+          <td>Jacktaco98</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">8</td>
+          <td></td>
+          <td class="num">91.28</td>
+          <td class="num hot">139.24</td>
+          <td>Jacktaco98</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="akepple9-vs-kingtowsk">
+  <h2>akepple9 vs KingTowsk</h2>
+  <p class="note">
+    <strong class="num">1–0</strong> akepple9
+    · avg margin +37.40
+    · streak W1
+     · regular 1–0 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">akepple9</th><th class="num">KingTowsk</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">14</td>
+          <td></td>
+          <td class="num hot">163.41</td>
+          <td class="num">126.01</td>
+          <td>akepple9</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="brockhusk-vs-jdrobny">
+  <h2>brockhusk vs jdrobny</h2>
+  <p class="note">
+    <strong class="num">4–5</strong> brockhusk
+    · avg margin +1.10
+    · streak W1
+     · regular 3–5 · playoffs 1–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">brockhusk</th><th class="num">jdrobny</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">1</td>
+          <td></td>
+          <td class="num hot">165.96</td>
+          <td class="num">129.64</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">10</td>
+          <td></td>
+          <td class="num">74.42</td>
+          <td class="num hot">94.82</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">2</td>
+          <td></td>
+          <td class="num">128.20</td>
+          <td class="num hot">149.16</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">11</td>
+          <td></td>
+          <td class="num">105.81</td>
+          <td class="num hot">124.52</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">146.25</td>
+          <td class="num">137.82</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">1</td>
+          <td></td>
+          <td class="num hot">117.23</td>
+          <td class="num">111.46</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">10</td>
+          <td></td>
+          <td class="num">114.47</td>
+          <td class="num hot">115.09</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">8</td>
+          <td></td>
+          <td class="num">117.22</td>
+          <td class="num hot">130.33</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">17</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">113.04</td>
+          <td class="num">79.85</td>
+          <td>brockhusk</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="charliekaufmann-vs-jdrobny">
+  <h2>charliekaufmann vs jdrobny</h2>
+  <p class="note">
+    <strong class="num">4–4</strong> charliekaufmann
+    · avg margin -6.50
+    · streak L1
+     · regular 4–3 · playoffs 0–1
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">charliekaufmann</th><th class="num">jdrobny</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">6</td>
+          <td></td>
+          <td class="num">143.92</td>
+          <td class="num hot">149.10</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">3</td>
+          <td></td>
+          <td class="num hot">130.69</td>
+          <td class="num">113.67</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">12</td>
+          <td></td>
+          <td class="num">102.75</td>
+          <td class="num hot">160.94</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">5</td>
+          <td></td>
+          <td class="num">121.44</td>
+          <td class="num hot">126.13</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">14</td>
+          <td></td>
+          <td class="num hot">142.24</td>
+          <td class="num">136.28</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">140.16</td>
+          <td class="num">138.82</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">14</td>
+          <td></td>
+          <td class="num hot">119.59</td>
+          <td class="num">86.00</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">117.79</td>
+          <td class="num hot">159.63</td>
+          <td>jdrobny</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="jsandusky69-vs-jdrobny">
+  <h2>JSanDusky69 vs jdrobny</h2>
+  <p class="note">
+    <strong class="num">3–7</strong> JSanDusky69
+    · avg margin -19.41
+    · streak W1
+     · regular 2–6 · playoffs 1–1
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">JSanDusky69</th><th class="num">jdrobny</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">5</td>
+          <td></td>
+          <td class="num">102.94</td>
+          <td class="num hot">218.14</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">99.04</td>
+          <td class="num hot">119.90</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">17</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">145.74</td>
+          <td class="num">140.84</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">4</td>
+          <td></td>
+          <td class="num">119.48</td>
+          <td class="num hot">123.61</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">13</td>
+          <td></td>
+          <td class="num">85.99</td>
+          <td class="num hot">132.06</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">3</td>
+          <td></td>
+          <td class="num">136.07</td>
+          <td class="num hot">167.97</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">12</td>
+          <td></td>
+          <td class="num">114.88</td>
+          <td class="num hot">141.30</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">6</td>
+          <td></td>
+          <td class="num hot">159.58</td>
+          <td class="num">126.44</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">11</td>
+          <td></td>
+          <td class="num">95.64</td>
+          <td class="num hot">113.89</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">13</td>
+          <td></td>
+          <td class="num hot">144.87</td>
+          <td class="num">114.16</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="jdrobny-vs-tylerwicks">
+  <h2>jdrobny vs TylerWicks</h2>
+  <p class="note">
+    <strong class="num">2–5</strong> jdrobny
+    · avg margin -8.81
+    · streak L3
+     · regular 2–4 · playoffs 0–1
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">jdrobny</th><th class="num">TylerWicks</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">3</td>
+          <td></td>
+          <td class="num">171.08</td>
+          <td class="num hot">175.06</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">12</td>
+          <td></td>
+          <td class="num">111.88</td>
+          <td class="num hot">117.76</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">6</td>
+          <td></td>
+          <td class="num hot">117.22</td>
+          <td class="num">106.01</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">6</td>
+          <td></td>
+          <td class="num hot">150.45</td>
+          <td class="num">123.41</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">152.29</td>
+          <td class="num hot">198.66</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">8</td>
+          <td></td>
+          <td class="num">149.74</td>
+          <td class="num hot">191.27</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">6</td>
+          <td></td>
+          <td class="num">110.60</td>
+          <td class="num hot">112.76</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="jdrobny-vs-maxsirianni">
+  <h2>jdrobny vs MaxSirianni</h2>
+  <p class="note">
+    <strong class="num">7–1</strong> jdrobny
+    · avg margin +27.31
+    · streak W6
+     · regular 6–1 · playoffs 1–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">jdrobny</th><th class="num">MaxSirianni</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">4</td>
+          <td></td>
+          <td class="num hot">180.56</td>
+          <td class="num">97.46</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">13</td>
+          <td></td>
+          <td class="num">131.04</td>
+          <td class="num hot">138.86</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">123.89</td>
+          <td class="num">122.19</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">166.77</td>
+          <td class="num">105.35</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">11</td>
+          <td></td>
+          <td class="num hot">129.31</td>
+          <td class="num">91.66</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">9</td>
+          <td></td>
+          <td class="num hot">129.63</td>
+          <td class="num">115.86</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">138.54</td>
+          <td class="num">116.74</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">10</td>
+          <td></td>
+          <td class="num hot">114.00</td>
+          <td class="num">107.11</td>
+          <td>jdrobny</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="jdrobny-vs-jacktaco98">
+  <h2>jdrobny vs Jacktaco98</h2>
+  <p class="note">
+    <strong class="num">0–1</strong> jdrobny
+    · avg margin -12.93
+    · streak L1
+     · regular 0–1 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">jdrobny</th><th class="num">Jacktaco98</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">3</td>
+          <td></td>
+          <td class="num">120.78</td>
+          <td class="num hot">133.71</td>
+          <td>Jacktaco98</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="akepple9-vs-jdrobny">
+  <h2>akepple9 vs jdrobny</h2>
+  <p class="note">
+    <strong class="num">1–1</strong> akepple9
+    · avg margin +4.22
+    · streak W1
+     · regular 1–1 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">akepple9</th><th class="num">jdrobny</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">1</td>
+          <td></td>
+          <td class="num">137.22</td>
+          <td class="num hot">141.27</td>
+          <td>jdrobny</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">4</td>
+          <td></td>
+          <td class="num hot">170.42</td>
+          <td class="num">157.92</td>
+          <td>akepple9</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="brockhusk-vs-charliekaufmann">
+  <h2>brockhusk vs charliekaufmann</h2>
+  <p class="note">
+    <strong class="num">5–2</strong> brockhusk
+    · avg margin -1.76
+    · streak W1
+     · regular 5–2 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">brockhusk</th><th class="num">charliekaufmann</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">128.04</td>
+          <td class="num">122.18</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">6</td>
+          <td></td>
+          <td class="num hot">105.22</td>
+          <td class="num">97.52</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">149.01</td>
+          <td class="num">142.94</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">11</td>
+          <td></td>
+          <td class="num">113.71</td>
+          <td class="num hot">147.55</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">141.22</td>
+          <td class="num">116.04</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">11</td>
+          <td></td>
+          <td class="num">102.91</td>
+          <td class="num hot">186.11</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">3</td>
+          <td></td>
+          <td class="num hot">166.44</td>
+          <td class="num">106.54</td>
+          <td>brockhusk</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="brockhusk-vs-jsandusky69">
+  <h2>brockhusk vs JSanDusky69</h2>
+  <p class="note">
+    <strong class="num">4–4</strong> brockhusk
+    · avg margin +6.53
+    · streak L1
+     · regular 4–4 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">brockhusk</th><th class="num">JSanDusky69</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">4</td>
+          <td></td>
+          <td class="num">147.10</td>
+          <td class="num hot">161.26</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">13</td>
+          <td></td>
+          <td class="num">104.38</td>
+          <td class="num hot">182.24</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">1</td>
+          <td></td>
+          <td class="num">104.96</td>
+          <td class="num hot">147.62</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">10</td>
+          <td></td>
+          <td class="num hot">190.29</td>
+          <td class="num">94.50</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">4</td>
+          <td></td>
+          <td class="num hot">138.89</td>
+          <td class="num">124.09</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">13</td>
+          <td></td>
+          <td class="num hot">140.16</td>
+          <td class="num">126.61</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">165.66</td>
+          <td class="num">81.66</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">2</td>
+          <td></td>
+          <td class="num">103.25</td>
+          <td class="num hot">124.48</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="brockhusk-vs-tylerwicks">
+  <h2>brockhusk vs TylerWicks</h2>
+  <p class="note">
+    <strong class="num">1–10</strong> brockhusk
+    · avg margin -22.19
+    · streak L5
+     · regular 1–8 · playoffs 0–2
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">brockhusk</th><th class="num">TylerWicks</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">2</td>
+          <td></td>
+          <td class="num">130.80</td>
+          <td class="num hot">201.96</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">11</td>
+          <td></td>
+          <td class="num">145.78</td>
+          <td class="num hot">153.56</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">14</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">134.42</td>
+          <td class="num hot">165.48</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">8</td>
+          <td></td>
+          <td class="num">137.24</td>
+          <td class="num hot">164.44</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">1</td>
+          <td></td>
+          <td class="num">114.31</td>
+          <td class="num hot">144.03</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">10</td>
+          <td></td>
+          <td class="num hot">218.49</td>
+          <td class="num">126.44</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">159.45</td>
+          <td class="num hot">167.95</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">3</td>
+          <td></td>
+          <td class="num">106.21</td>
+          <td class="num hot">113.81</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">12</td>
+          <td></td>
+          <td class="num">123.42</td>
+          <td class="num hot">165.29</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">7</td>
+          <td></td>
+          <td class="num">123.49</td>
+          <td class="num hot">199.72</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">14</td>
+          <td></td>
+          <td class="num">107.14</td>
+          <td class="num hot">142.20</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="brockhusk-vs-maxsirianni">
+  <h2>brockhusk vs MaxSirianni</h2>
+  <p class="note">
+    <strong class="num">3–3</strong> brockhusk
+    · avg margin +13.62
+    · streak W1
+     · regular 3–2 · playoffs 0–1
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">brockhusk</th><th class="num">MaxSirianni</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">5</td>
+          <td></td>
+          <td class="num">159.04</td>
+          <td class="num hot">166.68</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">9</td>
+          <td></td>
+          <td class="num">111.70</td>
+          <td class="num hot">131.16</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">9</td>
+          <td></td>
+          <td class="num hot">150.78</td>
+          <td class="num">123.31</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">175.53</td>
+          <td class="num">101.79</td>
+          <td>brockhusk</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">137.32</td>
+          <td class="num hot">143.90</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">5</td>
+          <td></td>
+          <td class="num hot">159.66</td>
+          <td class="num">145.46</td>
+          <td>brockhusk</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="brockhusk-vs-jacktaco98">
+  <h2>brockhusk vs Jacktaco98</h2>
+  <p class="note">
+    <strong class="num">0–1</strong> brockhusk
+    · avg margin -56.43
+    · streak L1
+     · regular 0–1 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">brockhusk</th><th class="num">Jacktaco98</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">4</td>
+          <td></td>
+          <td class="num">111.59</td>
+          <td class="num hot">168.02</td>
+          <td>Jacktaco98</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="akepple9-vs-brockhusk">
+  <h2>akepple9 vs brockhusk</h2>
+  <p class="note">
+    <strong class="num">0–1</strong> akepple9
+    · avg margin -41.51
+    · streak L1
+     · regular 0–1 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">akepple9</th><th class="num">brockhusk</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">10</td>
+          <td></td>
+          <td class="num">128.00</td>
+          <td class="num hot">169.51</td>
+          <td>brockhusk</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="charliekaufmann-vs-jsandusky69">
+  <h2>charliekaufmann vs JSanDusky69</h2>
+  <p class="note">
+    <strong class="num">5–5</strong> charliekaufmann
+    · avg margin -4.65
+    · streak W1
+     · regular 3–4 · playoffs 2–1
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">charliekaufmann</th><th class="num">JSanDusky69</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">3</td>
+          <td></td>
+          <td class="num hot">131.34</td>
+          <td class="num">130.40</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">12</td>
+          <td></td>
+          <td class="num">117.32</td>
+          <td class="num hot">129.30</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">14</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">117.28</td>
+          <td class="num hot">179.66</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">9</td>
+          <td></td>
+          <td class="num">117.03</td>
+          <td class="num hot">156.38</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">150.56</td>
+          <td class="num">124.70</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">138.87</td>
+          <td class="num">124.99</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">8</td>
+          <td></td>
+          <td class="num">99.41</td>
+          <td class="num hot">127.38</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">189.64</td>
+          <td class="num">119.61</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">5</td>
+          <td></td>
+          <td class="num">120.24</td>
+          <td class="num hot">149.41</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">119.66</td>
+          <td class="num">106.01</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="charliekaufmann-vs-tylerwicks">
+  <h2>charliekaufmann vs TylerWicks</h2>
+  <p class="note">
+    <strong class="num">5–5</strong> charliekaufmann
+    · avg margin -6.73
+    · streak L1
+     · regular 3–5 · playoffs 2–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">charliekaufmann</th><th class="num">TylerWicks</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">5</td>
+          <td></td>
+          <td class="num hot">133.18</td>
+          <td class="num">121.22</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">5</td>
+          <td></td>
+          <td class="num hot">126.03</td>
+          <td class="num">121.95</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">14</td>
+          <td></td>
+          <td class="num">124.16</td>
+          <td class="num hot">136.56</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">146.23</td>
+          <td class="num">131.96</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">3</td>
+          <td></td>
+          <td class="num">139.58</td>
+          <td class="num hot">170.53</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">12</td>
+          <td></td>
+          <td class="num">128.23</td>
+          <td class="num hot">163.14</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">1</td>
+          <td></td>
+          <td class="num hot">145.66</td>
+          <td class="num">115.02</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">10</td>
+          <td></td>
+          <td class="num">115.71</td>
+          <td class="num hot">134.36</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">17</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">187.45</td>
+          <td class="num">165.60</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">8</td>
+          <td></td>
+          <td class="num">121.77</td>
+          <td class="num hot">174.95</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="charliekaufmann-vs-maxsirianni">
+  <h2>charliekaufmann vs MaxSirianni</h2>
+  <p class="note">
+    <strong class="num">4–5</strong> charliekaufmann
+    · avg margin -10.42
+    · streak L2
+     · regular 4–3 · playoffs 0–2
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">charliekaufmann</th><th class="num">MaxSirianni</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">8</td>
+          <td></td>
+          <td class="num">93.06</td>
+          <td class="num hot">119.98</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">4</td>
+          <td></td>
+          <td class="num hot">177.28</td>
+          <td class="num">164.62</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">13</td>
+          <td></td>
+          <td class="num hot">114.95</td>
+          <td class="num">102.20</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">121.74</td>
+          <td class="num">106.94</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">125.65</td>
+          <td class="num hot">185.00</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">4</td>
+          <td></td>
+          <td class="num">148.30</td>
+          <td class="num hot">155.83</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">13</td>
+          <td></td>
+          <td class="num hot">140.26</td>
+          <td class="num">136.60</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">6</td>
+          <td></td>
+          <td class="num">103.40</td>
+          <td class="num hot">119.31</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">126.31</td>
+          <td class="num hot">154.23</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="charliekaufmann-vs-jacktaco98">
+  <h2>charliekaufmann vs Jacktaco98</h2>
+  <p class="note">
+    <strong class="num">1–0</strong> charliekaufmann
+    · avg margin +24.81
+    · streak W1
+     · regular 1–0 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">charliekaufmann</th><th class="num">Jacktaco98</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">2</td>
+          <td></td>
+          <td class="num hot">144.10</td>
+          <td class="num">119.29</td>
+          <td>charliekaufmann</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="akepple9-vs-charliekaufmann">
+  <h2>akepple9 vs charliekaufmann</h2>
+  <p class="note">
+    <strong class="num">1–0</strong> akepple9
+    · avg margin +58.37
+    · streak W1
+     · regular 1–0 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">akepple9</th><th class="num">charliekaufmann</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">13</td>
+          <td></td>
+          <td class="num hot">149.88</td>
+          <td class="num">91.51</td>
+          <td>akepple9</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="jsandusky69-vs-tylerwicks">
+  <h2>JSanDusky69 vs TylerWicks</h2>
+  <p class="note">
+    <strong class="num">6–0</strong> JSanDusky69
+    · avg margin +33.50
+    · streak W6
+     · regular 6–0 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">JSanDusky69</th><th class="num">TylerWicks</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">153.36</td>
+          <td class="num">131.64</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">118.20</td>
+          <td class="num">107.36</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">5</td>
+          <td></td>
+          <td class="num hot">186.65</td>
+          <td class="num">119.39</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">14</td>
+          <td></td>
+          <td class="num hot">152.36</td>
+          <td class="num">118.40</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">9</td>
+          <td></td>
+          <td class="num hot">145.71</td>
+          <td class="num">120.15</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">9</td>
+          <td></td>
+          <td class="num hot">161.76</td>
+          <td class="num">120.13</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="jsandusky69-vs-maxsirianni">
+  <h2>JSanDusky69 vs MaxSirianni</h2>
+  <p class="note">
+    <strong class="num">9–1</strong> JSanDusky69
+    · avg margin +12.18
+    · streak W1
+     · regular 6–1 · playoffs 3–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">JSanDusky69</th><th class="num">MaxSirianni</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">1</td>
+          <td></td>
+          <td class="num hot">158.68</td>
+          <td class="num">131.40</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">10</td>
+          <td></td>
+          <td class="num hot">136.58</td>
+          <td class="num">124.84</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">183.07</td>
+          <td class="num">155.41</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">160.11</td>
+          <td class="num">140.95</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">6</td>
+          <td></td>
+          <td class="num hot">131.82</td>
+          <td class="num">108.16</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">148.23</td>
+          <td class="num">140.97</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">1</td>
+          <td></td>
+          <td class="num hot">149.81</td>
+          <td class="num">146.08</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">10</td>
+          <td></td>
+          <td class="num hot">138.51</td>
+          <td class="num">135.50</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">3</td>
+          <td></td>
+          <td class="num">127.85</td>
+          <td class="num hot">149.14</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">136.88</td>
+          <td class="num">117.28</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="jsandusky69-vs-jacktaco98">
+  <h2>JSanDusky69 vs Jacktaco98</h2>
+  <p class="note">
+    <strong class="num">1–1</strong> JSanDusky69
+    · avg margin -15.07
+    · streak W1
+     · regular 1–1 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">JSanDusky69</th><th class="num">Jacktaco98</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">6</td>
+          <td></td>
+          <td class="num">103.14</td>
+          <td class="num hot">144.61</td>
+          <td>Jacktaco98</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">10</td>
+          <td></td>
+          <td class="num hot">132.46</td>
+          <td class="num">121.12</td>
+          <td>JSanDusky69</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="akepple9-vs-jsandusky69">
+  <h2>akepple9 vs JSanDusky69</h2>
+  <p class="note">
+    <strong class="num">1–0</strong> akepple9
+    · avg margin +27.16
+    · streak W1
+     · regular 1–0 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">akepple9</th><th class="num">JSanDusky69</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">160.53</td>
+          <td class="num">133.37</td>
+          <td>akepple9</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="tylerwicks-vs-maxsirianni">
+  <h2>TylerWicks vs MaxSirianni</h2>
+  <p class="note">
+    <strong class="num">2–8</strong> TylerWicks
+    · avg margin -21.68
+    · streak L2
+     · regular 2–5 · playoffs 0–3
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">TylerWicks</th><th class="num">MaxSirianni</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">9</td>
+          <td></td>
+          <td class="num">103.60</td>
+          <td class="num hot">116.68</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">15</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">72.92</td>
+          <td class="num hot">108.72</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2021</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">67.92</td>
+          <td class="num hot">101.54</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">1</td>
+          <td></td>
+          <td class="num">133.57</td>
+          <td class="num hot">151.74</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">10</td>
+          <td></td>
+          <td class="num">139.92</td>
+          <td class="num hot">156.97</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num">110.70</td>
+          <td class="num hot">175.41</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td><td class="num">8</td>
+          <td></td>
+          <td class="num hot">163.01</td>
+          <td class="num">157.37</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">5</td>
+          <td></td>
+          <td class="num hot">118.27</td>
+          <td class="num">113.29</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td><td class="num">14</td>
+          <td></td>
+          <td class="num">110.72</td>
+          <td class="num hot">139.33</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">1</td>
+          <td></td>
+          <td class="num">105.36</td>
+          <td class="num hot">121.70</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="tylerwicks-vs-jacktaco98">
+  <h2>TylerWicks vs Jacktaco98</h2>
+  <p class="note">
+    <strong class="num">0–1</strong> TylerWicks
+    · avg margin -25.23
+    · streak L1
+     · regular 0–1 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">TylerWicks</th><th class="num">Jacktaco98</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">12</td>
+          <td></td>
+          <td class="num">141.14</td>
+          <td class="num hot">166.37</td>
+          <td>Jacktaco98</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="akepple9-vs-tylerwicks">
+  <h2>akepple9 vs TylerWicks</h2>
+  <p class="note">
+    <strong class="num">1–2</strong> akepple9
+    · avg margin -5.75
+    · streak W1
+     · regular 0–2 · playoffs 1–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">akepple9</th><th class="num">TylerWicks</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">5</td>
+          <td></td>
+          <td class="num">141.64</td>
+          <td class="num hot">156.44</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">11</td>
+          <td></td>
+          <td class="num">95.10</td>
+          <td class="num hot">179.11</td>
+          <td>TylerWicks</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">16</td>
+          <td><span class="fine">playoff</span></td>
+          <td class="num hot">222.36</td>
+          <td class="num">140.81</td>
+          <td>akepple9</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="maxsirianni-vs-jacktaco98">
+  <h2>MaxSirianni vs Jacktaco98</h2>
+  <p class="note">
+    <strong class="num">1–1</strong> MaxSirianni
+    · avg margin +19.05
+    · streak W1
+     · regular 1–1 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">MaxSirianni</th><th class="num">Jacktaco98</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">11</td>
+          <td></td>
+          <td class="num">102.92</td>
+          <td class="num hot">109.29</td>
+          <td>Jacktaco98</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">14</td>
+          <td></td>
+          <td class="num hot">138.67</td>
+          <td class="num">94.20</td>
+          <td>MaxSirianni</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="akepple9-vs-maxsirianni">
+  <h2>akepple9 vs MaxSirianni</h2>
+  <p class="note">
+    <strong class="num">2–0</strong> akepple9
+    · avg margin +22.43
+    · streak W2
+     · regular 2–0 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">akepple9</th><th class="num">MaxSirianni</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">7</td>
+          <td></td>
+          <td class="num hot">134.88</td>
+          <td class="num">102.63</td>
+          <td>akepple9</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">12</td>
+          <td></td>
+          <td class="num hot">131.89</td>
+          <td class="num">119.27</td>
+          <td>akepple9</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section pair" id="akepple9-vs-jacktaco98">
+  <h2>akepple9 vs Jacktaco98</h2>
+  <p class="note">
+    <strong class="num">0–1</strong> akepple9
+    · avg margin -5.05
+    · streak L1
+     · regular 0–1 · playoffs 0–0
+  </p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th class="num">Week</th><th></th><th class="num">akepple9</th><th class="num">Jacktaco98</th><th>Winner</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2025</td><td class="num">9</td>
+          <td></td>
+          <td class="num">124.01</td>
+          <td class="num hot">129.06</td>
+          <td>Jacktaco98</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+
+</main>
+<footer class="rail-footer">
+  <p>Every number on this board is recomputed from Sleeper's records. Argue with the data, not the bookkeeper.</p>
+  <p class="fine">Six seasons on file.</p>
+</footer>
+<script src="assets/js/tables.js" defer></script>
+</body>
+</html>

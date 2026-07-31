@@ -1,0 +1,30 @@
+{% extends "base.html.j2" %}
+{% from "_macros.j2" import chip %}
+{% block title %}Managers — The League{% endblock %}
+{% block content %}
+<h1 class="page-title">The twelve chairs</h1>
+<p class="note">Every manager posts under a rotation number, like any respectable book. Departed managers keep their history.</p>
+<div class="board-panel">
+  <table class="sortable">
+    <thead><tr>
+      <th>Manager</th><th class="num">Seasons</th><th class="num">W–L</th>
+      <th class="num">Win %</th><th class="num">Titles</th><th class="num">Playoffs</th>
+      <th class="num">Avg finish</th><th></th>
+    </tr></thead>
+    <tbody>
+    {% for m in roster %}
+      <tr>
+        <td data-sort="{{ m.name }}">{{ chip(m.name, m.avatar, 'managers/' ~ m.slug ~ '.html', m.rot) }}{% if not m.active %} <span class="fine">(departed)</span>{% endif %}</td>
+        <td class="num">{{ m.seasons }}</td>
+        <td class="num" data-sort="{{ m.wins }}">{{ m.wins }}–{{ m.losses }}</td>
+        <td class="num">{{ m.win_pct|pct }}</td>
+        <td class="num{% if m.titles %} hot{% endif %}">{{ m.titles }}</td>
+        <td class="num">{{ m.playoff_apps }}</td>
+        <td class="num">{{ m.avg_finish }}</td>
+        <td><a href="managers/{{ m.slug }}.html">Book →</a></td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

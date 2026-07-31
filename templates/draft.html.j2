@@ -1,0 +1,155 @@
+{% extends "base.html.j2" %}
+{% from "_macros.j2" import chip, delta %}
+{% block title %}Draft & Keepers — The League{% endblock %}
+{% block content %}
+<h1 class="page-title">Draft &amp; Keepers</h1>
+
+<section class="section">
+  <h2>Keeper rules</h2>
+  <ol class="rules">
+    {% for r in keepers.rules %}<li>{{ r }}</li>{% endfor %}
+  </ol>
+</section>
+
+<section class="section">
+  <h2>The audit</h2>
+  <p class="note"><strong class="num">{{ summary.charged_ok }} of {{ summary.n }}</strong> historical keepers charged the round the written rule requires. Every miss is the same clause: a player who left his roster kept at his original round instead of one earlier. Either the penalty isn't really league law, or the commissioner owes some apologies — the board just posts the lines.</p>
+  {% if flagged %}
+  <div class="board-panel">
+    <table class="sortable">
+      <thead><tr><th class="num">Season</th><th>Manager</th><th>Player</th><th class="num">Drafted rd</th><th class="num">Kept at</th><th class="num">Rule says</th><th>Left roster?</th></tr></thead>
+      <tbody>
+      {% for a in flagged %}
+        <tr>
+          <td class="num">{{ a.season }}</td>
+          <td data-sort="{{ users[a.user_id].name if a.user_id in users else a.name }}">{{ chip(users[a.user_id].name if a.user_id in users else a.name, users[a.user_id].avatar if a.user_id in users else '', 'managers/' ~ users[a.user_id].slug ~ '.html' if a.user_id in users else None) }}</td>
+          <td>{{ a.player_name }}</td>
+          <td class="num">{{ a.prev_round }}</td>
+          <td class="num neg">{{ a.keep_round }}</td>
+          <td class="num pos">{{ a.need }}</td>
+          <td>{{ 'Yes' if a.left else 'No' }}{% if not a.eligible_round %} · <span class="neg">round-ineligible</span>{% endif %}{% if a.repeat_keep %} · <span class="neg">repeat keep</span>{% endif %}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  {% endif %}
+</section>
+
+{% if keepers.declared_next %}
+<section class="section">
+  <h2>Declared {{ meta.current_season }} keepers</h2>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th>Manager</th><th>Keeping</th><th class="num">Round</th></tr></thead>
+      <tbody>
+      {% for k in keepers.declared_next %}
+        <tr>
+          <td>{{ chip(users[k.user_id].name if k.user_id in users else k.name, users[k.user_id].avatar if k.user_id in users else '') }}</td>
+          <td>{{ k.player_name }}</td><td class="num hot">{{ k.round }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+{% endif %}
+
+<section class="section">
+  <h2>Keeper value</h2>
+  <p class="note">Surplus = the keeper's points that season minus the average of everyone drafted in the same round. Positive means the keep beat the market.</p>
+  <div class="two-up">
+    <div class="board-panel">
+      <table>
+        <thead><tr><th>Manager</th><th class="num">Keeps</th><th class="num">Avg surplus</th><th class="num">Hit rate</th></tr></thead>
+        <tbody>
+        {% for r in keepers.by_manager %}
+          <tr><td>{{ chip(users[r.user_id].name if r.user_id in users else r.name, users[r.user_id].avatar if r.user_id in users else '') }}</td>
+          <td class="num">{{ r.keeps }}</td>
+          <td class="num" data-sort="{{ r.avg_surplus }}">{{ delta(r.avg_surplus) }}</td>
+          <td class="num">{{ r.hit_rate }}%</td></tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <div>
+      {% for k in keepers.value[:5] %}
+      <div class="marquee"><span class="line-name">{{ k.season }} · kept round {{ k.keep_round }} by {{ users[k.user_id].name if k.user_id in users else k.name }}</span>
+        <span class="posted-sm">{{ k.player_name }}</span>
+        <span class="detail">{{ k.points|fmt0 }} pts · {{ delta(k.surplus) }} vs the round</span></div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <h2>Steals &amp; busts</h2>
+  <div class="two-up">
+    <div class="board-panel">
+      <table>
+        <thead><tr><th colspan="2">Biggest steals</th><th class="num">Rd</th><th class="num">Pts</th><th class="num">Surplus</th></tr></thead>
+        <tbody>
+        {% for s in d.steals %}
+          <tr><td class="num">{{ s.season }}</td><td>{{ s.player_name }} <span class="fine">({{ users[s.user_id].name if s.user_id in users else s.name }})</span></td>
+          <td class="num">{{ s.round }}</td><td class="num">{{ s.points|fmt0 }}</td>
+          <td class="num pos">+{{ s.surplus|fmt0 }}</td></tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <div class="board-panel">
+      <table>
+        <thead><tr><th colspan="2">Biggest busts</th><th class="num">Rd</th><th class="num">Pts</th><th class="num">Surplus</th></tr></thead>
+        <tbody>
+        {% for s in d.busts %}
+          <tr><td class="num">{{ s.season }}</td><td>{{ s.player_name }} <span class="fine">({{ users[s.user_id].name if s.user_id in users else s.name }})</span></td>
+          <td class="num">{{ s.round }}</td><td class="num">{{ s.points|fmt0 }}</td>
+          <td class="num neg">{{ s.surplus|fmt0 }}</td></tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <h2>What a round is worth</h2>
+  <div class="board-panel pad">{{ by_round_chart|safe }}</div>
+  <p class="note">Average regular-season points per pick, by round, all seasons.</p>
+</section>
+
+<section class="section">
+  <h2>Draft slot outcomes</h2>
+  <div class="board-panel">
+    <table class="sortable">
+      <thead><tr><th class="num">Slot</th><th class="num">Drafts</th><th class="num">Avg finish</th><th class="num">Titles</th><th class="num">Playoff rate</th><th>Era note</th></tr></thead>
+      <tbody>
+      {% for r in d.slot_outcomes %}
+        <tr><td class="num">{{ r.slot }}</td><td class="num">{{ r.n }}</td>
+        <td class="num">{{ r.avg_finish }}</td><td class="num{% if r.titles %} hot{% endif %}">{{ r.titles }}</td>
+        <td class="num">{{ r.playoff_rate|pct }}</td><td class="fine">{{ r.era_note }}</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section">
+  <h2>The superflex question</h2>
+  <p class="note">Does drafting QBs early actually win here? First QB round vs final finish, every manager-season.</p>
+  <div class="board-panel">
+    <table class="sortable">
+      <thead><tr><th class="num">Season</th><th>Manager</th><th class="num">First QB rd</th><th class="num">QBs in first 5</th><th class="num">Finish</th></tr></thead>
+      <tbody>
+      {% for r in d.qb_timing %}
+        <tr><td class="num">{{ r.season }}</td>
+        <td data-sort="{{ users[r.user_id].name if r.user_id in users else '' }}">{{ users[r.user_id].name if r.user_id in users else '?' }}</td>
+        <td class="num">{{ r.first_qb_round if r.first_qb_round is not none else '—' }}</td>
+        <td class="num">{{ r.qbs_in_first_5 }}</td>
+        <td class="num">{{ r.finish if r.finish is not none else '—' }}</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+{% endblock %}

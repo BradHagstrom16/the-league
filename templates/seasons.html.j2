@@ -1,0 +1,22 @@
+{% extends "base.html.j2" %}
+{% from "_macros.j2" import chip %}
+{% block title %}Seasons — The League{% endblock %}
+{% block content %}
+<h1 class="page-title">Seasons</h1>
+<div class="board-panel">
+  <table>
+    <thead><tr><th>Season</th><th>Era</th><th>Champion</th><th>Last place</th><th></th></tr></thead>
+    <tbody>
+    {% for s in season_rows|reverse %}
+      <tr>
+        <td class="num hot"><a href="seasons/{{ s.season }}.html">{{ s.season }}</a></td>
+        <td>{{ s.era }}</td>
+        <td>{{ chip(s.champion_name, users[s.champion_user].avatar if s.champion_user in users else '') }}</td>
+        <td>{{ chip(s.last_name, users[s.last_user].avatar if s.last_user in users else '') }}</td>
+        <td><a href="seasons/{{ s.season }}.html">Full board →</a></td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

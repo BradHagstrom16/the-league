@@ -1,0 +1,86 @@
+{% extends "base.html.j2" %}
+{% from "_macros.j2" import chip, wl, delta %}
+{% block title %}{{ season }} season — The League{% endblock %}
+{% block content %}
+<h1 class="page-title">{{ season }}</h1>
+
+<section class="section">
+  <h2>Final standings</h2>
+  <div class="board-panel">
+    <table class="sortable">
+      <thead><tr>
+        <th class="num">#</th><th>Manager</th><th class="num">W</th><th class="num">L</th>
+        <th class="num">PF</th><th class="num">PA</th><th class="num">Luck</th><th>Result</th>
+      </tr></thead>
+      <tbody>
+      {% for r in standings %}
+        <tr>
+          <td class="num">{{ r.finish|int }}</td>
+          <td data-sort="{{ users[r.user_id].name if r.user_id in users else r.manager }}">{{ chip(users[r.user_id].name if r.user_id in users else r.manager, users[r.user_id].avatar if r.user_id in users else '', root ~ 'managers/' ~ users[r.user_id].slug ~ '.html' if r.user_id in users else None) }}</td>
+          <td class="num">{{ r.wins|int }}</td>
+          <td class="num">{{ r.losses|int }}</td>
+          <td class="num">{{ r.points_for|fmt2 }}</td>
+          <td class="num">{{ r.points_against|fmt2 }}</td>
+          <td class="num" data-sort="{{ r.luck if r.luck is not none else 0 }}">{% if r.luck is not none %}{{ delta(r.luck) }}{% else %}—{% endif %}</td>
+          <td>{% if r.champion %}<span class="champ-mark">Champion</span>{% elif r.made_playoffs %}Playoffs{% endif %}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <p class="note">Luck = actual wins minus all-play expected wins. Positive means the schedule was kind.</p>
+</section>
+
+<section class="section">
+  <h2>Weekly results</h2>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Wk</th>
+        {% for u in col_users %}<th>{{ users[u].name if u in users else '?' }}</th>{% endfor %}
+      </tr></thead>
+      <tbody>
+      {% for row in grid %}
+        <tr{% if row.playoff %} class="playoff-week"{% endif %}>
+          <td class="num">{{ row.week }}{% if row.playoff %}<span class="fine">P</span>{% endif %}</td>
+          {% for c in row.cells %}
+            {% if c %}<td class="num {{ 'pos' if c.result == 'W' else ('neg' if c.result == 'L' else '') }}" title="vs {{ c.opp }}">{{ c.pts|line }}</td>
+            {% else %}<td class="num">—</td>{% endif %}
+          {% endfor %}
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <p class="note">Green won the week, orange lost it. Hover a score for the opponent. P = playoff week.</p>
+</section>
+
+<section class="section">
+  <h2>Bracket</h2>
+  {% for round, games in rounds|dictsort %}
+  <div class="bracket-round">
+    <h3>{% if games and games[0].position == 1 %}Championship{% else %}Round {{ round }}{% endif %}</h3>
+    {% for g in games %}
+    <p class="bracket-game{% if g.position == 1 %} title-game{% endif %}">
+      {{ chip(g.winner.name, g.winner.avatar) }} <span class="pos">def.</span>
+      {% if g.loser %}{{ chip(g.loser.name, g.loser.avatar) }}{% endif %}
+      {% if g.score %}<span class="num">{{ g.score }}</span>{% endif %}
+      {% if g.position == 1 %}<span class="hot">— the title</span>{% endif %}
+      {% if g.position == 3 %}<span class="fine">— third place</span>{% endif %}
+    </p>
+    {% endfor %}
+  </div>
+  {% endfor %}
+</section>
+
+{% if superlatives %}
+<section class="section">
+  <h2>Season superlatives</h2>
+  <div class="two-up">
+  {% for label, name, detail in superlatives %}
+    <div class="marquee"><span class="line-name">{{ label }}</span>
+      <span class="posted-sm">{{ name }}</span><span class="detail">{{ detail }}</span></div>
+  {% endfor %}
+  </div>
+</section>
+{% endif %}
+{% endblock %}

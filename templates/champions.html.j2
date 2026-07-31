@@ -1,0 +1,30 @@
+{% extends "base.html.j2" %}
+{% from "_macros.j2" import chip %}
+{% block title %}Champions & Shame — The League{% endblock %}
+{% block content %}
+<h1 class="page-title">Champions &amp; Shame</h1>
+<div class="two-col">
+  <section class="section">
+    <h2>Hall of Champions</h2>
+    {% if trophy %}<p class="note">The trophy: {{ trophy }}.</p>{% endif %}
+    {% for s in season_rows|reverse %}
+    <div class="marquee">
+      <span class="line-name">{{ s.season }}</span>
+      <span class="posted-sm gold">{{ chip(s.champion_name, users[s.champion_user].avatar if s.champion_user in users else '', root ~ 'managers/' ~ users[s.champion_user].slug ~ '.html' if s.champion_user in users else None) }}</span>
+      <span class="detail">{% if notes.get(s.season|string) or notes.get(s.season) %}{{ notes.get(s.season|string) or notes.get(s.season) }}{% else %}{{ s.era }} era title.{% endif %}</span>
+    </div>
+    {% endfor %}
+  </section>
+  <section class="section">
+    <h2>Wall of Shame</h2>
+    <p class="note">Last place lives here forever.</p>
+    {% for s in season_rows|reverse %}
+    <div class="marquee shame">
+      <span class="line-name">{{ s.season }}</span>
+      <span class="posted-sm">{{ chip(s.last_name, users[s.last_user].avatar if s.last_user in users else '', root ~ 'managers/' ~ users[s.last_user].slug ~ '.html' if s.last_user in users else None) }}</span>
+      <span class="detail">{% if punishments.get(s.season|string) or punishments.get(s.season) %}{{ punishments.get(s.season|string) or punishments.get(s.season) }}{% else %}History unrecorded; commissioner, fill in <code>league_lore.yml</code>.{% endif %}</span>
+    </div>
+    {% endfor %}
+  </section>
+</div>
+{% endblock %}

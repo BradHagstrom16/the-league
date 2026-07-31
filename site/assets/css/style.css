@@ -21,7 +21,7 @@
 
 :root {
   --board: #0a0a0d;          /* the black field */
-  --board-raised: #121017;   /* section panels */
+  --board-raised: #14121b;   /* section panels, lifted off the field */
   --rail: #4a3f2e;           /* brass rail, unlit */
   --rail-lit: #8a7347;       /* brass rail, catching light */
   --ink: #e8e6ee;            /* posted text */
@@ -82,7 +82,11 @@ a:hover { color: var(--amber); }
 .board-nav a[aria-current="page"] { color: var(--amber); border-bottom-color: var(--amber); }
 
 /* ---- board sections ---------------------------------------------------- */
-main { max-width: 72rem; margin: 0 auto; padding: 24px clamp(12px, 3vw, 32px) 64px; }
+main {
+  max-width: 72rem; margin: 14px auto 0;
+  padding: 10px clamp(12px, 3vw, 32px) 64px;
+  border: 1px solid var(--rail); border-bottom: none;   /* the board's frame */
+}
 .section { margin: 40px 0 0; }
 .section > h2 {
   font-family: var(--display); font-weight: 700; font-size: 1.5rem;
@@ -94,15 +98,33 @@ main { max-width: 72rem; margin: 0 auto; padding: 24px clamp(12px, 3vw, 32px) 64
   content: ""; flex: 1; height: 1px;
   background: linear-gradient(90deg, var(--rail-lit), var(--rail) 60%, transparent);
 }
-.section > .note { color: var(--ink-dim); font-size: 0.9rem; margin: 2px 0 14px; }
+.section > .note, main > .note { color: var(--ink-dim); font-size: 0.9rem; margin: 2px 0 14px; max-width: 72ch; }
 
 /* ---- tables: posted lines --------------------------------------------- */
 .board-panel {
   background: var(--board-raised); border: 1px solid var(--rail);
-  border-radius: 6px; overflow-x: auto; margin: 14px 0;
+  border-radius: 0; overflow-x: auto; margin: 14px 0;
+}
+/* Scroll shadows on table panels only: covers ride the content (local) and
+   slide away to reveal the brass cue (scroll) exactly when columns overflow. */
+.board-panel:has(table) {
+  background:
+    linear-gradient(90deg, var(--board-raised) 40%, transparent) left / 36px 100%,
+    linear-gradient(270deg, var(--board-raised) 40%, transparent) right / 36px 100%,
+    radial-gradient(farthest-side at 0 50%, rgba(138, 115, 71, 0.4), transparent) left / 12px 100%,
+    radial-gradient(farthest-side at 100% 50%, rgba(138, 115, 71, 0.4), transparent) right / 12px 100%,
+    var(--board-raised);
+  background-repeat: no-repeat;
+  background-attachment: local, local, scroll, scroll;
 }
 table { border-collapse: collapse; width: 100%; font-size: 0.95rem; }
-th, td { padding: 9px 14px; text-align: left; white-space: nowrap; }
+th, td { padding: 8px 13px; text-align: left; white-space: nowrap;
+  border-right: 1px solid #1c1922; }
+th:last-child, td:last-child { border-right: none; }
+/* the first column stays posted while the rest of the line scrolls */
+table th:first-child, table td:first-child {
+  position: sticky; left: 0; background: var(--board-raised); z-index: 1;
+}
 thead th {
   font-family: var(--display); font-weight: 600; font-size: 0.82rem;
   letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-dim);
@@ -116,6 +138,7 @@ td.num, th.num { text-align: right; font-family: var(--nums); font-variant-numer
 td.num { color: var(--silver); }
 td.num.hot { color: var(--amber); font-weight: 600; }
 .pos { color: var(--win); } .neg { color: var(--loss); }
+td.num.pos { color: var(--win); } td.num.neg { color: var(--loss); }
 table.sortable th { cursor: pointer; user-select: none; }
 table.sortable th:hover { color: var(--ink); }
 table.sortable th[data-dir="asc"]::after { content: " ▲"; color: var(--amber); }
@@ -140,19 +163,32 @@ table.sortable th[data-dir="desc"]::after { content: " ▼"; color: var(--amber)
 .marquee {
   display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px 18px;
   background: var(--board-raised); border: 1px solid var(--rail);
-  border-left: 4px solid var(--purple); border-radius: 6px;
-  padding: 18px 20px; margin: 14px 0;
+  border-radius: 0; padding: 16px 20px; margin: 12px 0;
 }
+.marquee .posted { text-shadow: 0 0 14px rgba(245, 160, 24, 0.35); }  /* lit numerals */
 .marquee .line-name {
   font-family: var(--display); font-weight: 600; font-size: 1rem;
   letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-dim);
-  width: 100%;
+  width: 100%; display: flex; align-items: center; gap: 9px;
+}
+/* the board's indicator lamp: lit amber for posted lines, red for shame */
+.marquee .line-name::before {
+  content: ""; width: 8px; height: 8px; border-radius: 2px; flex: none;
+  background: var(--amber); box-shadow: 0 0 6px 1px rgba(245, 160, 24, 0.45);
+}
+.marquee.shame .line-name::before {
+  background: var(--loss); box-shadow: 0 0 6px 1px rgba(212, 100, 63, 0.45);
 }
 .marquee .posted {
   font-family: var(--nums); font-variant-numeric: tabular-nums;
   font-weight: 600; font-size: clamp(2rem, 6vw, 3.2rem);
   color: var(--amber); line-height: 1;
+  overflow-wrap: anywhere; min-width: 0;
 }
+.marquee .posted .chip img, .marquee .posted .chip .initial {
+  width: 40px; height: 40px; font-size: 1.1rem;
+}
+.posted.gold a, .posted-sm.gold a { color: var(--amber); }
 .marquee .detail { color: var(--ink-dim); font-size: 0.92rem; }
 
 /* ---- charts ------------------------------------------------------------ */
@@ -184,6 +220,75 @@ table.sortable th[data-dir="desc"]::after { content: " ▼"; color: var(--amber)
 }
 .rail-footer .fine { font-size: 0.78rem; color: #6d6879; }
 
+/* ---- page furniture ------------------------------------------------------ */
+.page-title {
+  font-family: var(--display); font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.05em; font-size: clamp(1.8rem, 5vw, 2.6rem); margin: 18px 0 4px;
+}
+.fine { font-size: 0.78rem; color: #6d6879; }
+.two-up { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; }
+.two-col { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 24px; }
+.board-panel.pad { padding: 16px; }
+.posted-sm {
+  font-family: var(--nums); font-variant-numeric: tabular-nums; font-weight: 600;
+  font-size: 1.3rem; color: var(--ink);
+}
+.posted-sm.gold, .gold { color: var(--amber); }
+
+/* hero board (draft room) */
+.hero-board { display: flex; gap: 28px; align-items: center; flex-wrap: wrap; }
+.hero-crest { flex: 0 1 260px; max-width: 300px; filter: drop-shadow(0 6px 24px rgba(72, 24, 120, 0.55)); }
+.hero-copy { flex: 1 1 320px; }
+.hero-copy h1 {
+  font-family: var(--display); font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.04em; font-size: clamp(2rem, 6vw, 3rem); margin: 0 0 6px;
+}
+
+/* career stat strip */
+.stat-strip { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 2px;
+  background: var(--rail); border: 1px solid var(--rail); border-radius: 6px; overflow: hidden; }
+.stat-strip > div { background: var(--board-raised); padding: 12px 14px; display: flex; flex-direction: column; gap: 4px; }
+.stat-strip .line-name { font-family: var(--display); font-weight: 600; font-size: 0.72rem;
+  letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-dim); }
+
+/* marquee variants */
+.marquee .posted-sm { font-size: 1.25rem; }
+
+/* manager header */
+.mgr-head { display: flex; gap: 18px; align-items: center; margin-top: 10px; }
+.mgr-avatar { width: 72px; height: 72px; border-radius: 50%; font-size: 1.6rem; }
+
+/* season page */
+.playoff-week td { background: rgba(72, 24, 120, 0.14); }
+/* sticky first cells carry their row's state instead of notching it */
+.playoff-week td:first-child {
+  background: linear-gradient(rgba(72, 24, 120, 0.14), rgba(72, 24, 120, 0.14)),
+              var(--board-raised);
+}
+tbody tr:hover td:first-child { background: #171420; }
+.bracket-round h3, .section h3 {
+  font-family: var(--display); font-weight: 600; letter-spacing: 0.08em;
+  text-transform: uppercase; font-size: 1rem; color: var(--ink-dim); margin: 18px 0 6px;
+}
+.bracket-game { margin: 6px 0; }
+.bracket-game.title-game { font-size: 1.1rem; }
+
+/* rules */
+.rules { line-height: 1.8; padding-left: 1.2rem; max-width: 65ch; }
+.rules li::marker { color: var(--amber); font-family: var(--nums); }
+
+/* trades */
+.trade { background: var(--board-raised); border: 1px solid var(--rail); border-radius: 0;
+  padding: 12px 16px; margin: 10px 0; }
+.trade-head { margin: 0 0 6px; color: var(--ink-dim); font-size: 0.85rem; }
+.trade-side { margin: 4px 0; }
+.trade-side.won { border-left: 1px solid var(--amber); padding-left: 12px; }
+
+/* h2h heatmap wrapper keeps the grid square and scrollable on phones */
+.heat-wrap { overflow-x: auto; }
+.heat-wrap svg { min-width: 640px; }
+.pair h2 { scroll-margin-top: 70px; }
+
 /* ---- small screens ------------------------------------------------------ */
 @media (max-width: 640px) {
   .masthead { padding-bottom: 8px; }
@@ -191,3 +296,19 @@ table.sortable th[data-dir="desc"]::after { content: " ▼"; color: var(--amber)
   .house-line { display: none; }
   th, td { padding: 8px 10px; }
 }
+
+/* posted-line marquees run full width; label left, number right on wide screens */
+.marquee.posted-line { align-items: center; }
+.marquee.posted-line .line-name { width: auto; flex: 1 1 260px; }
+.marquee.posted-line .posted { font-size: clamp(1.6rem, 4vw, 2.4rem); }
+.marquee.posted-line .detail { flex-basis: 100%; }
+@media (min-width: 760px) {
+  .marquee.posted-line .detail { flex-basis: auto; margin-left: auto; }
+}
+
+/* the champion's mark: a lamp, not an emoji */
+.champ-mark { color: var(--amber); font-family: var(--display); font-weight: 600;
+  letter-spacing: 0.06em; text-transform: uppercase; font-size: 0.85rem;
+  display: inline-flex; align-items: center; gap: 7px; }
+.champ-mark::before { content: ""; width: 8px; height: 8px; border-radius: 2px;
+  background: var(--amber); box-shadow: 0 0 6px 1px rgba(245, 160, 24, 0.45); }

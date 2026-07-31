@@ -20,6 +20,10 @@ def env() -> Environment:
         _env.filters["fmt2"] = lambda x: f"{x:,.2f}"
         _env.filters["fmt0"] = lambda x: f"{x:,.0f}"
         _env.filters["pct"] = lambda x: f"{x * 100:.1f}%"
+        # Posted-line format: ints stay whole, everything else gets fixed 2dp
+        # so tabular numerals actually align.
+        _env.filters["line"] = lambda x: (
+            f"{x:,}" if isinstance(x, int) else f"{x:,.2f}")
     return _env
 
 

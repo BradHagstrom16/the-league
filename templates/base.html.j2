@@ -36,20 +36,24 @@ finish review, the verdict, and DESIGN.md.
   <p class="house-line">{% block houseline %}Est. 2021 · Downers Grove North · twelve chairs, one trophy{% endblock %}</p>
 </header>
 <nav class="board-nav" aria-label="Site">
-  <a href="{{ root }}index.html">Board</a>
-  <a href="{{ root }}seasons.html">Seasons</a>
-  <a href="{{ root }}managers.html">Managers</a>
-  <a href="{{ root }}h2h.html">Head-to-Head</a>
-  <a href="{{ root }}records.html">Records</a>
-  <a href="{{ root }}draft.html">Draft &amp; Keepers</a>
-  <a href="{{ root }}trades.html">Trades</a>
-  <a href="{{ root }}champions.html">Champions</a>
+  {%- for href, label, key in [
+    ("index.html", "Board", "board"),
+    ("seasons.html", "Seasons", "seasons"),
+    ("managers.html", "Managers", "managers"),
+    ("h2h.html", "Head-to-Head", "h2h"),
+    ("records.html", "Records", "records"),
+    ("draft.html", "Draft & Keepers", "draft"),
+    ("trades.html", "Trades", "trades"),
+    ("champions.html", "Champions", "champions"),
+  ] %}
+  <a href="{{ root }}{{ href }}"{% if active == key %} aria-current="page"{% endif %}>{{ label }}</a>
+  {%- endfor %}
 </nav>
 <main>
 {% block content %}{% endblock %}
 </main>
 <footer class="rail-footer">
-  <p>Every number on this board is recomputed from Sleeper's records — argue with the data, not the bookkeeper.</p>
+  <p>Every number on this board is recomputed from Sleeper's records. Argue with the data, not the bookkeeper.</p>
   <p class="fine">{% if meta and meta.generated_utc %}Lines posted {{ meta.generated_utc }} · {% endif %}Six seasons on file.</p>
 </footer>
 <script src="{{ root }}assets/js/tables.js" defer></script>

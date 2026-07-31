@@ -1,0 +1,881 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2023 season — The League</title>
+<link rel="icon" type="image/png" href="../assets/img/favicon.png">
+<link rel="preload" href="../assets/fonts/saira-condensed-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="../assets/fonts/chivo-mono-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+<!--
+THESIS: The league as the house — every stat is a line posted on the board,
+with receipts; refuses the KPI-card dashboard arrangement.
+OWN-WORLD: matte near-black board (#0a0a0d) ruled into sections by thin brass
+rails; Saira Condensed signage caps; Chivo Mono tabular numerals in amber and
+silver; league purple fields for the house's own rows; the Trojan crest as
+house mark. Recognizable with all content removed: a black board of railed
+sections awaiting numbers.
+STORY: a league member lands mid-argument, finds the posted number in
+seconds, screenshots the receipt, wins the chat.
+FIRST VIEWPORT: board masthead (crest, THE LEAGUE, season status line), then
+the season's posted lines open the board; the argument-settling links sit in
+the first section.
+FORM: Las Vegas sportsbook tote board; candidate 5 of 7 on the ordered list;
+seed key f00tba11.
+FINISH: unreviewed and undocumented is unfinished; this build ends with the
+finish review, the verdict, and DESIGN.md.
+-->
+<header class="masthead">
+  <a class="crest" href="../index.html">
+    <img src="../assets/img/favicon.png" alt="" width="44" height="44">
+    <span class="wordmark">The League</span>
+  </a>
+  <p class="house-line">Est. 2021 · Downers Grove North · twelve chairs, one trophy</p>
+</header>
+<nav class="board-nav" aria-label="Site">
+  <a href="../index.html">Board</a>
+  <a href="../seasons.html" aria-current="page">Seasons</a>
+  <a href="../managers.html">Managers</a>
+  <a href="../h2h.html">Head-to-Head</a>
+  <a href="../records.html">Records</a>
+  <a href="../draft.html">Draft &amp; Keepers</a>
+  <a href="../trades.html">Trades</a>
+  <a href="../champions.html">Champions</a>
+</nav>
+<main>
+
+<h1 class="page-title">2023</h1>
+
+<section class="section">
+  <h2>Final standings</h2>
+  <div class="board-panel">
+    <table class="sortable">
+      <thead><tr>
+        <th class="num">#</th><th>Manager</th><th class="num">W</th><th class="num">L</th>
+        <th class="num">PF</th><th class="num">PA</th><th class="num">Luck</th><th>Result</th>
+      </tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">1</td>
+          <td data-sort="brockhusk"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/e7af4deab0289b4f5505646424895246" alt="" width="24" height="24" loading="lazy"><a href="../managers/brockhusk.html">brockhusk</a></span></td>
+          <td class="num">12</td>
+          <td class="num">2</td>
+          <td class="num">2,106.38</td>
+          <td class="num">1,819.24</td>
+          <td class="num" data-sort="3.33"><span class="pos">+3.33</span></td>
+          <td>Playoffs</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2</td>
+          <td data-sort="KingTowsk"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8519622c66cb50a87823353d553d806c" alt="" width="24" height="24" loading="lazy"><a href="../managers/kingtowsk.html">KingTowsk</a></span></td>
+          <td class="num">10</td>
+          <td class="num">4</td>
+          <td class="num">2,085.31</td>
+          <td class="num">1,838.72</td>
+          <td class="num" data-sort="0.78"><span class="pos">+0.78</span></td>
+          <td>Playoffs</td>
+        </tr>
+      
+        <tr>
+          <td class="num">3</td>
+          <td data-sort="bgreenblatt"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/b30101daf7f261c4bf86da2cd1577193" alt="" width="24" height="24" loading="lazy"><a href="../managers/bgreenblatt.html">bgreenblatt</a></span></td>
+          <td class="num">9</td>
+          <td class="num">5</td>
+          <td class="num">1,925.30</td>
+          <td class="num">1,942.08</td>
+          <td class="num" data-sort="1.67"><span class="pos">+1.67</span></td>
+          <td><span class="champ-mark">Champion</span></td>
+        </tr>
+      
+        <tr>
+          <td class="num">4</td>
+          <td data-sort="jdrobny"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/031e98053cebc51f2ca17b05f9bef39f" alt="" width="24" height="24" loading="lazy"><a href="../managers/jdrobny.html">jdrobny</a></span></td>
+          <td class="num">8</td>
+          <td class="num">6</td>
+          <td class="num">1,981.21</td>
+          <td class="num">1,881.78</td>
+          <td class="num" data-sort="-0.22"><span class="neg">-0.22</span></td>
+          <td>Playoffs</td>
+        </tr>
+      
+        <tr>
+          <td class="num">5</td>
+          <td data-sort="TylerWicks"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/e7af4deab0289b4f5505646424895246" alt="" width="24" height="24" loading="lazy"><a href="../managers/tylerwicks.html">TylerWicks</a></span></td>
+          <td class="num">7</td>
+          <td class="num">7</td>
+          <td class="num">1,961.91</td>
+          <td class="num">2,056.63</td>
+          <td class="num" data-sort="-0.61"><span class="neg">-0.61</span></td>
+          <td>Playoffs</td>
+        </tr>
+      
+        <tr>
+          <td class="num">6</td>
+          <td data-sort="Erjohnson14"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/6e611998104204ee21e4b2bb3aa37a5f" alt="" width="24" height="24" loading="lazy"><a href="../managers/erjohnson14.html">Erjohnson14</a></span></td>
+          <td class="num">7</td>
+          <td class="num">7</td>
+          <td class="num">1,947.92</td>
+          <td class="num">1,870.35</td>
+          <td class="num" data-sort="-0.61"><span class="neg">-0.61</span></td>
+          <td>Playoffs</td>
+        </tr>
+      
+        <tr>
+          <td class="num">7</td>
+          <td data-sort="MaxSirianni"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8e1247598f587f8f4257ed435ba089be" alt="" width="24" height="24" loading="lazy"><a href="../managers/maxsirianni.html">MaxSirianni</a></span></td>
+          <td class="num">6</td>
+          <td class="num">8</td>
+          <td class="num">1,820.09</td>
+          <td class="num">1,884.09</td>
+          <td class="num" data-sort="0.11"><span class="pos">+0.11</span></td>
+          <td></td>
+        </tr>
+      
+        <tr>
+          <td class="num">8</td>
+          <td data-sort="charliekaufmann"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/6a807a1e5ef51c7b64f1d4d06076f7d9" alt="" width="24" height="24" loading="lazy"><a href="../managers/charliekaufmann.html">charliekaufmann</a></span></td>
+          <td class="num">4</td>
+          <td class="num">10</td>
+          <td class="num">1,812.07</td>
+          <td class="num">2,013.55</td>
+          <td class="num" data-sort="-1.78"><span class="neg">-1.78</span></td>
+          <td></td>
+        </tr>
+      
+        <tr>
+          <td class="num">9</td>
+          <td data-sort="cc5597"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8fcf0e0e6a75e96a591d2a4a4a400f41" alt="" width="24" height="24" loading="lazy"><a href="../managers/cc5597.html">cc5597</a></span></td>
+          <td class="num">4</td>
+          <td class="num">10</td>
+          <td class="num">1,754.26</td>
+          <td class="num">1,967.42</td>
+          <td class="num" data-sort="-1.11"><span class="neg">-1.11</span></td>
+          <td></td>
+        </tr>
+      
+        <tr>
+          <td class="num">10</td>
+          <td data-sort="JSanDusky69"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/0f813fa81779005b70e54c8cec253a90" alt="" width="24" height="24" loading="lazy"><a href="../managers/jsandusky69.html">JSanDusky69</a></span></td>
+          <td class="num">3</td>
+          <td class="num">11</td>
+          <td class="num">1,776.48</td>
+          <td class="num">1,897.07</td>
+          <td class="num" data-sort="-1.56"><span class="neg">-1.56</span></td>
+          <td></td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+  <p class="note">Luck = actual wins minus all-play expected wins. Positive means the schedule was kind.</p>
+</section>
+
+<section class="section">
+  <h2>Weekly results</h2>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Wk</th>
+        <th>brockhusk</th><th>KingTowsk</th><th>bgreenblatt</th><th>jdrobny</th><th>TylerWicks</th><th>Erjohnson14</th><th>MaxSirianni</th><th>charliekaufmann</th><th>cc5597</th><th>JSanDusky69</th>
+      </tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">1</td>
+          
+            <td class="num neg" title="vs TylerWicks">114.31</td>
+            
+          
+            <td class="num pos" title="vs MaxSirianni">112.16</td>
+            
+          
+            <td class="num neg" title="vs jdrobny">107.63</td>
+            
+          
+            <td class="num pos" title="vs bgreenblatt">137.67</td>
+            
+          
+            <td class="num pos" title="vs brockhusk">144.03</td>
+            
+          
+            <td class="num pos" title="vs charliekaufmann">146.53</td>
+            
+          
+            <td class="num neg" title="vs KingTowsk">106.03</td>
+            
+          
+            <td class="num neg" title="vs Erjohnson14">143.02</td>
+            
+          
+            <td class="num pos" title="vs JSanDusky69">124.83</td>
+            
+          
+            <td class="num neg" title="vs cc5597">123.95</td>
+            
+          
+        </tr>
+      
+        <tr>
+          <td class="num">2</td>
+          
+            <td class="num pos" title="vs charliekaufmann">149.01</td>
+            
+          
+            <td class="num pos" title="vs cc5597">147.18</td>
+            
+          
+            <td class="num pos" title="vs JSanDusky69">126.38</td>
+            
+          
+            <td class="num pos" title="vs MaxSirianni">166.77</td>
+            
+          
+            <td class="num neg" title="vs Erjohnson14">110.22</td>
+            
+          
+            <td class="num pos" title="vs TylerWicks">170.59</td>
+            
+          
+            <td class="num neg" title="vs jdrobny">105.35</td>
+            
+          
+            <td class="num neg" title="vs brockhusk">142.94</td>
+            
+          
+            <td class="num neg" title="vs KingTowsk">96.47</td>
+            
+          
+            <td class="num neg" title="vs bgreenblatt">120.04</td>
+            
+          
+        </tr>
+      
+        <tr>
+          <td class="num">3</td>
+          
+            <td class="num pos" title="vs Erjohnson14">130.58</td>
+            
+          
+            <td class="num pos" title="vs bgreenblatt">187.73</td>
+            
+          
+            <td class="num neg" title="vs KingTowsk">120.98</td>
+            
+          
+            <td class="num pos" title="vs JSanDusky69">167.97</td>
+            
+          
+            <td class="num pos" title="vs charliekaufmann">170.53</td>
+            
+          
+            <td class="num neg" title="vs brockhusk">114.32</td>
+            
+          
+            <td class="num pos" title="vs cc5597">185.52</td>
+            
+          
+            <td class="num neg" title="vs TylerWicks">139.58</td>
+            
+          
+            <td class="num neg" title="vs MaxSirianni">158.23</td>
+            
+          
+            <td class="num neg" title="vs jdrobny">136.07</td>
+            
+          
+        </tr>
+      
+        <tr>
+          <td class="num">4</td>
+          
+            <td class="num pos" title="vs JSanDusky69">138.89</td>
+            
+          
+            <td class="num neg" title="vs jdrobny">154.08</td>
+            
+          
+            <td class="num pos" title="vs charliekaufmann">152.98</td>
+            
+          
+            <td class="num pos" title="vs KingTowsk">162.54</td>
+            
+          
+            <td class="num pos" title="vs cc5597">196.94</td>
+            
+          
+            <td class="num pos" title="vs MaxSirianni">140.74</td>
+            
+          
+            <td class="num neg" title="vs Erjohnson14">67.01</td>
+            
+          
+            <td class="num neg" title="vs bgreenblatt">126.35</td>
+            
+          
+            <td class="num neg" title="vs TylerWicks">128.59</td>
+            
+          
+            <td class="num neg" title="vs brockhusk">124.09</td>
+            
+          
+        </tr>
+      
+        <tr>
+          <td class="num">5</td>
+          
+            <td class="num pos" title="vs cc5597">114.08</td>
+            
+          
+            <td class="num pos" title="vs Erjohnson14">147.47</td>
+            
+          
+            <td class="num neg" title="vs MaxSirianni">134.84</td>
+            
+          
+            <td class="num pos" title="vs charliekaufmann">126.13</td>
+            
+          
+            <td class="num neg" title="vs JSanDusky69">119.39</td>
+            
+          
+            <td class="num neg" title="vs KingTowsk">119.39</td>
+            
+          
+            <td class="num pos" title="vs bgreenblatt">189.74</td>
+            
+          
+            <td class="num neg" title="vs jdrobny">121.44</td>
+            
+          
+            <td class="num neg" title="vs brockhusk">96.71</td>
+            
+          
+            <td class="num pos" title="vs TylerWicks">186.65</td>
+            
+          
+        </tr>
+      
+        <tr>
+          <td class="num">6</td>
+          
+            <td class="num pos" title="vs bgreenblatt">164.59</td>
+            
+          
+            <td class="num pos" title="vs charliekaufmann">147.00</td>
+            
+          
+            <td class="num neg" title="vs brockhusk">120.32</td>
+            
+          
+            <td class="num pos" title="vs TylerWicks">150.45</td>
+            
+          
+            <td class="num neg" title="vs jdrobny">123.41</td>
+            
+          
+            <td class="num pos" title="vs cc5597">127.68</td>
+            
+          
+            <td class="num neg" title="vs JSanDusky69">108.16</td>
+            
+          
+            <td class="num neg" title="vs KingTowsk">106.05</td>
+            
+          
+            <td class="num neg" title="vs Erjohnson14">87.74</td>
+            
+          
+            <td class="num pos" title="vs MaxSirianni">131.82</td>
+            
+          
+        </tr>
+      
+        <tr>
+          <td class="num">7</td>
+          
+            <td class="num pos" title="vs jdrobny">146.25</td>
+            
+          
+            <td class="num pos" title="vs TylerWicks">190.78</td>
+            
+          
+            <td class="num pos" title="vs cc5597">134.52</td>
+            
+          
+            <td class="num neg" title="vs brockhusk">137.82</td>
+            
+          
+            <td class="num neg" title="vs KingTowsk">114.71</td>
+            
+          
+            <td class="num pos" title="vs JSanDusky69">131.17</td>
+            
+          
+            <td class="num neg" title="vs charliekaufmann">106.94</td>
+            
+          
+            <td class="num pos" title="vs MaxSirianni">121.74</td>
+            
+          
+            <td class="num neg" title="vs bgreenblatt">130.80</td>
+            
+          
+            <td class="num neg" title="vs Erjohnson14">103.38</td>
+            
+          
+        </tr>
+      
+        <tr>
+          <td class="num">8</td>
+          
+            <td class="num pos" title="vs KingTowsk">192.62</td>
+            
+          
+            <td class="num neg" title="vs brockhusk">149.75</td>
+            
+          
+            <td class="num pos" title="vs Erjohnson14">158.50</td>
+            
+          
+            <td class="num neg" title="vs cc5597">126.86</td>
+            
+          
+            <td class="num pos" title="vs MaxSirianni">163.01</td>
+            
+          
+            <td class="num neg" title="vs bgreenblatt">130.26</td>
+            
+          
+            <td class="num neg" title="vs TylerWicks">157.37</td>
+            
+          
+            <td class="num pos" title="vs JSanDusky69">138.87</td>
+            
+          
+            <td class="num pos" title="vs jdrobny">167.46</td>
+            
+          
+            <td class="num neg" title="vs charliekaufmann">124.99</td>
+            
+          
+        </tr>
+      
+        <tr>
+          <td class="num">9</td>
+          
+            <td class="num pos" title="vs MaxSirianni">150.78</td>
+            
+          
+            <td class="num pos" title="vs JSanDusky69">118.36</td>
+            
+          
+            <td class="num pos" title="vs TylerWicks">112.14</td>
+            
+          
+            <td class="num neg" title="vs Erjohnson14">121.63</td>
+            
+          
+            <td class="num neg" title="vs bgreenblatt">99.51</td>
+            
+          
+            <td class="num pos" title="vs jdrobny">151.30</td>
+            
+          
+            <td class="num neg" title="vs brockhusk">123.31</td>
+            
+          
+            <td class="num neg" title="vs cc5597">146.85</td>
+            
+          
+            <td class="num pos" title="vs charliekaufmann">155.84</td>
+            
+          
+            <td class="num neg" title="vs KingTowsk">105.94</td>
+            
+          
+        </tr>
+      
+        <tr>
+          <td class="num">10</td>
+          
+            <td class="num pos" title="vs TylerWicks">218.49</td>
+            
+          
+            <td class="num neg" title="vs MaxSirianni">109.67</td>
+            
+          
+            <td class="num pos" title="vs jdrobny">155.93</td>
+            
+          
+            <td class="num neg" title="vs bgreenblatt">140.07</td>
+            
+          
+            <td class="num neg" title="vs brockhusk">126.44</td>
+            
+          
+            <td class="num pos" title="vs charliekaufmann">174.34</td>
+            
+          
+            <td class="num pos" title="vs KingTowsk">134.09</td>
+            
+          
+            <td class="num neg" title="vs Erjohnson14">110.97</td>
+            
+          
+            <td class="num pos" title="vs JSanDusky69">152.23</td>
+            
+          
+            <td class="num neg" title="vs cc5597">108.70</td>
+            
+          
+        </tr>
+      
+        <tr>
+          <td class="num">11</td>
+          
+            <td class="num neg" title="vs charliekaufmann">113.71</td>
+            
+          
+            <td class="num pos" title="vs cc5597">153.01</td>
+            
+          
+            <td class="num pos" title="vs JSanDusky69">170.96</td>
+            
+          
+            <td class="num pos" title="vs MaxSirianni">129.31</td>
+            
+          
+            <td class="num pos" title="vs Erjohnson14">161.88</td>
+            
+          
+            <td class="num neg" title="vs TylerWicks">103.97</td>
+            
+          
+            <td class="num neg" title="vs jdrobny">91.66</td>
+            
+          
+            <td class="num pos" title="vs brockhusk">147.55</td>
+            
+          
+            <td class="num neg" title="vs KingTowsk">134.46</td>
+            
+          
+            <td class="num neg" title="vs bgreenblatt">117.00</td>
+            
+          
+        </tr>
+      
+        <tr>
+          <td class="num">12</td>
+          
+            <td class="num pos" title="vs Erjohnson14">197.40</td>
+            
+          
+            <td class="num neg" title="vs bgreenblatt">154.02</td>
+            
+          
+            <td class="num pos" title="vs KingTowsk">175.47</td>
+            
+          
+            <td class="num pos" title="vs JSanDusky69">141.30</td>
+            
+          
+            <td class="num pos" title="vs charliekaufmann">163.14</td>
+            
+          
+            <td class="num neg" title="vs brockhusk">159.09</td>
+            
+          
+            <td class="num pos" title="vs cc5597">116.32</td>
+            
+          
+            <td class="num neg" title="vs TylerWicks">128.23</td>
+            
+          
+            <td class="num neg" title="vs MaxSirianni">111.52</td>
+            
+          
+            <td class="num neg" title="vs jdrobny">114.88</td>
+            
+          
+        </tr>
+      
+        <tr>
+          <td class="num">13</td>
+          
+            <td class="num pos" title="vs JSanDusky69">140.16</td>
+            
+          
+            <td class="num pos" title="vs jdrobny">164.08</td>
+            
+          
+            <td class="num pos" title="vs charliekaufmann">146.13</td>
+            
+          
+            <td class="num neg" title="vs KingTowsk">136.41</td>
+            
+          
+            <td class="num pos" title="vs cc5597">150.30</td>
+            
+          
+            <td class="num neg" title="vs MaxSirianni">144.98</td>
+            
+          
+            <td class="num pos" title="vs Erjohnson14">180.53</td>
+            
+          
+            <td class="num neg" title="vs bgreenblatt">96.24</td>
+            
+          
+            <td class="num neg" title="vs TylerWicks">103.12</td>
+            
+          
+            <td class="num neg" title="vs brockhusk">126.61</td>
+            
+          
+        </tr>
+      
+        <tr>
+          <td class="num">14</td>
+          
+            <td class="num pos" title="vs cc5597">135.51</td>
+            
+          
+            <td class="num pos" title="vs Erjohnson14">150.02</td>
+            
+          
+            <td class="num neg" title="vs MaxSirianni">108.52</td>
+            
+          
+            <td class="num neg" title="vs charliekaufmann">136.28</td>
+            
+          
+            <td class="num neg" title="vs JSanDusky69">118.40</td>
+            
+          
+            <td class="num neg" title="vs KingTowsk">133.56</td>
+            
+          
+            <td class="num pos" title="vs bgreenblatt">148.06</td>
+            
+          
+            <td class="num pos" title="vs jdrobny">142.24</td>
+            
+          
+            <td class="num neg" title="vs brockhusk">106.26</td>
+            
+          
+            <td class="num pos" title="vs TylerWicks">152.36</td>
+            
+          
+        </tr>
+      
+        <tr class="playoff-week">
+          <td class="num">15<span class="fine">P</span></td>
+          
+            <td class="num">—</td>
+          
+            <td class="num">—</td>
+          
+            <td class="num pos" title="vs Erjohnson14">116.40</td>
+            
+          
+            <td class="num neg" title="vs TylerWicks">152.29</td>
+            
+          
+            <td class="num pos" title="vs jdrobny">198.66</td>
+            
+          
+            <td class="num neg" title="vs bgreenblatt">110.46</td>
+            
+          
+            <td class="num neg" title="vs JSanDusky69">140.97</td>
+            
+          
+            <td class="num neg" title="vs cc5597">149.39</td>
+            
+          
+            <td class="num pos" title="vs charliekaufmann">164.11</td>
+            
+          
+            <td class="num pos" title="vs MaxSirianni">148.23</td>
+            
+          
+        </tr>
+      
+        <tr class="playoff-week">
+          <td class="num">16<span class="fine">P</span></td>
+          
+            <td class="num neg" title="vs TylerWicks">159.45</td>
+            
+          
+            <td class="num neg" title="vs bgreenblatt">120.74</td>
+            
+          
+            <td class="num pos" title="vs KingTowsk">129.94</td>
+            
+          
+            <td class="num pos" title="vs Erjohnson14">157.31</td>
+            
+          
+            <td class="num pos" title="vs brockhusk">167.95</td>
+            
+          
+            <td class="num neg" title="vs jdrobny">144.16</td>
+            
+          
+            <td class="num pos" title="vs charliekaufmann">185.00</td>
+            
+          
+            <td class="num neg" title="vs MaxSirianni">125.65</td>
+            
+          
+            <td class="num neg" title="vs JSanDusky69">69.79</td>
+            
+          
+            <td class="num pos" title="vs cc5597">160.82</td>
+            
+          
+        </tr>
+      
+        <tr class="playoff-week">
+          <td class="num">17<span class="fine">P</span></td>
+          
+            <td class="num pos" title="vs KingTowsk">183.51</td>
+            
+          
+            <td class="num neg" title="vs brockhusk">161.54</td>
+            
+          
+            <td class="num pos" title="vs TylerWicks">130.46</td>
+            
+          
+            <td class="num">—</td>
+          
+            <td class="num neg" title="vs bgreenblatt">122.35</td>
+            
+          
+            <td class="num">—</td>
+          
+            <td class="num">—</td>
+          
+            <td class="num">—</td>
+          
+            <td class="num">—</td>
+          
+            <td class="num">—</td>
+          
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+  <p class="note">Green won the week, orange lost it. Hover a score for the opponent. P = playoff week.</p>
+</section>
+
+<section class="section">
+  <h2>Bracket</h2>
+  
+  <div class="bracket-round">
+    <h3>Round 1</h3>
+    
+    <p class="bracket-game">
+      <span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/e7af4deab0289b4f5505646424895246" alt="" width="24" height="24" loading="lazy">TylerWicks</span> <span class="pos">def.</span>
+      <span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/031e98053cebc51f2ca17b05f9bef39f" alt="" width="24" height="24" loading="lazy">jdrobny</span>
+      <span class="num">198.66–152.29</span>
+      
+      
+    </p>
+    
+    <p class="bracket-game">
+      <span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/b30101daf7f261c4bf86da2cd1577193" alt="" width="24" height="24" loading="lazy">bgreenblatt</span> <span class="pos">def.</span>
+      <span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/6e611998104204ee21e4b2bb3aa37a5f" alt="" width="24" height="24" loading="lazy">Erjohnson14</span>
+      <span class="num">116.4–110.46</span>
+      
+      
+    </p>
+    
+  </div>
+  
+  <div class="bracket-round">
+    <h3>Round 2</h3>
+    
+    <p class="bracket-game">
+      <span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/e7af4deab0289b4f5505646424895246" alt="" width="24" height="24" loading="lazy">TylerWicks</span> <span class="pos">def.</span>
+      <span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/e7af4deab0289b4f5505646424895246" alt="" width="24" height="24" loading="lazy">brockhusk</span>
+      <span class="num">167.95–159.45</span>
+      
+      
+    </p>
+    
+    <p class="bracket-game">
+      <span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/b30101daf7f261c4bf86da2cd1577193" alt="" width="24" height="24" loading="lazy">bgreenblatt</span> <span class="pos">def.</span>
+      <span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8519622c66cb50a87823353d553d806c" alt="" width="24" height="24" loading="lazy">KingTowsk</span>
+      <span class="num">129.94–120.74</span>
+      
+      
+    </p>
+    
+    <p class="bracket-game">
+      <span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/031e98053cebc51f2ca17b05f9bef39f" alt="" width="24" height="24" loading="lazy">jdrobny</span> <span class="pos">def.</span>
+      <span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/6e611998104204ee21e4b2bb3aa37a5f" alt="" width="24" height="24" loading="lazy">Erjohnson14</span>
+      <span class="num">157.31–144.16</span>
+      
+      
+    </p>
+    
+  </div>
+  
+  <div class="bracket-round">
+    <h3>Championship</h3>
+    
+    <p class="bracket-game title-game">
+      <span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/b30101daf7f261c4bf86da2cd1577193" alt="" width="24" height="24" loading="lazy">bgreenblatt</span> <span class="pos">def.</span>
+      <span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/e7af4deab0289b4f5505646424895246" alt="" width="24" height="24" loading="lazy">TylerWicks</span>
+      <span class="num">130.46–122.35</span>
+      <span class="hot">— the title</span>
+      
+    </p>
+    
+    <p class="bracket-game">
+      <span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/e7af4deab0289b4f5505646424895246" alt="" width="24" height="24" loading="lazy">brockhusk</span> <span class="pos">def.</span>
+      <span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8519622c66cb50a87823353d553d806c" alt="" width="24" height="24" loading="lazy">KingTowsk</span>
+      <span class="num">183.51–161.54</span>
+      
+      <span class="fine">— third place</span>
+    </p>
+    
+  </div>
+  
+</section>
+
+
+<section class="section">
+  <h2>Season superlatives</h2>
+  <div class="two-up">
+  
+    <div class="marquee"><span class="line-name">High week</span>
+      <span class="posted-sm">brockhusk</span><span class="detail">218.49 in week 10</span></div>
+  
+    <div class="marquee"><span class="line-name">Luckiest</span>
+      <span class="posted-sm">brockhusk</span><span class="detail">+3.33 wins vs schedule-neutral</span></div>
+  
+    <div class="marquee"><span class="line-name">Unluckiest</span>
+      <span class="posted-sm">charliekaufmann</span><span class="detail">-1.78 wins vs schedule-neutral</span></div>
+  
+  </div>
+</section>
+
+
+</main>
+<footer class="rail-footer">
+  <p>Every number on this board is recomputed from Sleeper's records. Argue with the data, not the bookkeeper.</p>
+  <p class="fine">Six seasons on file.</p>
+</footer>
+<script src="../assets/js/tables.js" defer></script>
+</body>
+</html>

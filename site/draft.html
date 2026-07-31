@@ -1,0 +1,961 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Draft & Keepers — The League</title>
+<link rel="icon" type="image/png" href="assets/img/favicon.png">
+<link rel="preload" href="assets/fonts/saira-condensed-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/chivo-mono-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<!--
+THESIS: The league as the house — every stat is a line posted on the board,
+with receipts; refuses the KPI-card dashboard arrangement.
+OWN-WORLD: matte near-black board (#0a0a0d) ruled into sections by thin brass
+rails; Saira Condensed signage caps; Chivo Mono tabular numerals in amber and
+silver; league purple fields for the house's own rows; the Trojan crest as
+house mark. Recognizable with all content removed: a black board of railed
+sections awaiting numbers.
+STORY: a league member lands mid-argument, finds the posted number in
+seconds, screenshots the receipt, wins the chat.
+FIRST VIEWPORT: board masthead (crest, THE LEAGUE, season status line), then
+the season's posted lines open the board; the argument-settling links sit in
+the first section.
+FORM: Las Vegas sportsbook tote board; candidate 5 of 7 on the ordered list;
+seed key f00tba11.
+FINISH: unreviewed and undocumented is unfinished; this build ends with the
+finish review, the verdict, and DESIGN.md.
+-->
+<header class="masthead">
+  <a class="crest" href="index.html">
+    <img src="assets/img/favicon.png" alt="" width="44" height="44">
+    <span class="wordmark">The League</span>
+  </a>
+  <p class="house-line">Est. 2021 · Downers Grove North · twelve chairs, one trophy</p>
+</header>
+<nav class="board-nav" aria-label="Site">
+  <a href="index.html">Board</a>
+  <a href="seasons.html">Seasons</a>
+  <a href="managers.html">Managers</a>
+  <a href="h2h.html">Head-to-Head</a>
+  <a href="records.html">Records</a>
+  <a href="draft.html" aria-current="page">Draft &amp; Keepers</a>
+  <a href="trades.html">Trades</a>
+  <a href="champions.html">Champions</a>
+</nav>
+<main>
+
+<h1 class="page-title">Draft &amp; Keepers</h1>
+
+<section class="section">
+  <h2>Keeper rules</h2>
+  <ol class="rules">
+    <li>A manager may keep 2 players maximum.</li><li>The player must have been drafted in the previous year&#39;s draft in round 6 or later. A player may not be kept two years in a row.</li><li>You keep a player at the round you drafted him — one round earlier if he ever left your roster (trade, drop and re-claim, or any acquisition from another manager).</li><li>Draft pick trading is allowed before and during the draft, including keepers. Future years&#39; picks cannot be traded.</li>
+  </ol>
+</section>
+
+<section class="section">
+  <h2>The audit</h2>
+  <p class="note"><strong class="num">50 of 69</strong> historical keepers charged the round the written rule requires. Every miss is the same clause: a player who left his roster kept at his original round instead of one earlier. Either the penalty isn't really league law, or the commissioner owes some apologies — the board just posts the lines.</p>
+  
+  <div class="board-panel">
+    <table class="sortable">
+      <thead><tr><th class="num">Season</th><th>Manager</th><th>Player</th><th class="num">Drafted rd</th><th class="num">Kept at</th><th class="num">Rule says</th><th>Left roster?</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td class="num">2022</td>
+          <td data-sort="KingTowsk"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8519622c66cb50a87823353d553d806c" alt="" width="24" height="24" loading="lazy"><a href="managers/kingtowsk.html">KingTowsk</a></span></td>
+          <td>Michael Pittman</td>
+          <td class="num">11</td>
+          <td class="num neg">11</td>
+          <td class="num pos">10</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2022</td>
+          <td data-sort="Erjohnson14"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/6e611998104204ee21e4b2bb3aa37a5f" alt="" width="24" height="24" loading="lazy"><a href="managers/erjohnson14.html">Erjohnson14</a></span></td>
+          <td>Javonte Williams</td>
+          <td class="num">8</td>
+          <td class="num neg">8</td>
+          <td class="num pos">7</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td>
+          <td data-sort="charliekaufmann"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/6a807a1e5ef51c7b64f1d4d06076f7d9" alt="" width="24" height="24" loading="lazy"><a href="managers/charliekaufmann.html">charliekaufmann</a></span></td>
+          <td>DeAndre Hopkins</td>
+          <td class="num">8</td>
+          <td class="num neg">8</td>
+          <td class="num pos">7</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2023</td>
+          <td data-sort="KingTowsk"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8519622c66cb50a87823353d553d806c" alt="" width="24" height="24" loading="lazy"><a href="managers/kingtowsk.html">KingTowsk</a></span></td>
+          <td>Brandon Aiyuk</td>
+          <td class="num">11</td>
+          <td class="num neg">11</td>
+          <td class="num pos">10</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td>
+          <td data-sort="cc5597"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8fcf0e0e6a75e96a591d2a4a4a400f41" alt="" width="24" height="24" loading="lazy"><a href="managers/cc5597.html">cc5597</a></span></td>
+          <td>Brock Purdy</td>
+          <td class="num">10</td>
+          <td class="num neg">10</td>
+          <td class="num pos">9</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td>
+          <td data-sort="cc5597"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8fcf0e0e6a75e96a591d2a4a4a400f41" alt="" width="24" height="24" loading="lazy"><a href="managers/cc5597.html">cc5597</a></span></td>
+          <td>C.J. Stroud</td>
+          <td class="num">12</td>
+          <td class="num neg">12</td>
+          <td class="num pos">11</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td>
+          <td data-sort="charliekaufmann"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/6a807a1e5ef51c7b64f1d4d06076f7d9" alt="" width="24" height="24" loading="lazy"><a href="managers/charliekaufmann.html">charliekaufmann</a></span></td>
+          <td>Sam LaPorta</td>
+          <td class="num">14</td>
+          <td class="num neg">14</td>
+          <td class="num pos">13</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td>
+          <td data-sort="charliekaufmann"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/6a807a1e5ef51c7b64f1d4d06076f7d9" alt="" width="24" height="24" loading="lazy"><a href="managers/charliekaufmann.html">charliekaufmann</a></span></td>
+          <td>Drake London</td>
+          <td class="num">6</td>
+          <td class="num neg">6</td>
+          <td class="num pos">5</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td>
+          <td data-sort="KingTowsk"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8519622c66cb50a87823353d553d806c" alt="" width="24" height="24" loading="lazy"><a href="managers/kingtowsk.html">KingTowsk</a></span></td>
+          <td>Michael Pittman</td>
+          <td class="num">7</td>
+          <td class="num neg">7</td>
+          <td class="num pos">6</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td>
+          <td data-sort="KingTowsk"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8519622c66cb50a87823353d553d806c" alt="" width="24" height="24" loading="lazy"><a href="managers/kingtowsk.html">KingTowsk</a></span></td>
+          <td>Zay Flowers</td>
+          <td class="num">10</td>
+          <td class="num neg">10</td>
+          <td class="num pos">9</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td>
+          <td data-sort="Erjohnson14"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/6e611998104204ee21e4b2bb3aa37a5f" alt="" width="24" height="24" loading="lazy"><a href="managers/erjohnson14.html">Erjohnson14</a></span></td>
+          <td>Jordan Love</td>
+          <td class="num">10</td>
+          <td class="num neg">10</td>
+          <td class="num pos">9</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td>
+          <td data-sort="Erjohnson14"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/6e611998104204ee21e4b2bb3aa37a5f" alt="" width="24" height="24" loading="lazy"><a href="managers/erjohnson14.html">Erjohnson14</a></span></td>
+          <td>Jordan Addison</td>
+          <td class="num">9</td>
+          <td class="num neg">9</td>
+          <td class="num pos">8</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2024</td>
+          <td data-sort="TylerWicks"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/e7af4deab0289b4f5505646424895246" alt="" width="24" height="24" loading="lazy"><a href="managers/tylerwicks.html">TylerWicks</a></span></td>
+          <td>Mike Evans</td>
+          <td class="num">8</td>
+          <td class="num neg">8</td>
+          <td class="num pos">7</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td>
+          <td data-sort="akepple9"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6" alt="" width="24" height="24" loading="lazy"><a href="managers/akepple9.html">akepple9</a></span></td>
+          <td>Chase Brown</td>
+          <td class="num">13</td>
+          <td class="num neg">13</td>
+          <td class="num pos">12</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td>
+          <td data-sort="cc5597"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8fcf0e0e6a75e96a591d2a4a4a400f41" alt="" width="24" height="24" loading="lazy"><a href="managers/cc5597.html">cc5597</a></span></td>
+          <td>Tony Pollard</td>
+          <td class="num">10</td>
+          <td class="num neg">10</td>
+          <td class="num pos">9</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td>
+          <td data-sort="bgreenblatt"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/b30101daf7f261c4bf86da2cd1577193" alt="" width="24" height="24" loading="lazy"><a href="managers/bgreenblatt.html">bgreenblatt</a></span></td>
+          <td>J.J. McCarthy</td>
+          <td class="num">14</td>
+          <td class="num neg">14</td>
+          <td class="num pos">13</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td>
+          <td data-sort="Erjohnson14"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/6e611998104204ee21e4b2bb3aa37a5f" alt="" width="24" height="24" loading="lazy"><a href="managers/erjohnson14.html">Erjohnson14</a></span></td>
+          <td>Jaxon Smith-Njigba</td>
+          <td class="num">10</td>
+          <td class="num neg">10</td>
+          <td class="num pos">9</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td>
+          <td data-sort="jdrobny"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/031e98053cebc51f2ca17b05f9bef39f" alt="" width="24" height="24" loading="lazy"><a href="managers/jdrobny.html">jdrobny</a></span></td>
+          <td>J.K. Dobbins</td>
+          <td class="num">16</td>
+          <td class="num neg">16</td>
+          <td class="num pos">15</td>
+          <td>Yes</td>
+        </tr>
+      
+        <tr>
+          <td class="num">2025</td>
+          <td data-sort="Jacktaco98"><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/f0edbf4278f53f9425db175073df6584" alt="" width="24" height="24" loading="lazy"><a href="managers/jacktaco98.html">Jacktaco98</a></span></td>
+          <td>Brian Robinson</td>
+          <td class="num">12</td>
+          <td class="num neg">12</td>
+          <td class="num pos">11</td>
+          <td>Yes</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+  
+</section>
+
+
+<section class="section">
+  <h2>Declared 2026 keepers</h2>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th>Manager</th><th>Keeping</th><th class="num">Round</th></tr></thead>
+      <tbody>
+      
+        <tr>
+          <td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6" alt="" width="24" height="24" loading="lazy">akepple9</span></td>
+          <td>Chris Olave</td><td class="num hot">6</td>
+        </tr>
+      
+        <tr>
+          <td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/b30101daf7f261c4bf86da2cd1577193" alt="" width="24" height="24" loading="lazy">bgreenblatt</span></td>
+          <td>Emeka Egbuka</td><td class="num hot">7</td>
+        </tr>
+      
+        <tr>
+          <td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/6e611998104204ee21e4b2bb3aa37a5f" alt="" width="24" height="24" loading="lazy">Erjohnson14</span></td>
+          <td>Trevor Lawrence</td><td class="num hot">8</td>
+        </tr>
+      
+        <tr>
+          <td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8519622c66cb50a87823353d553d806c" alt="" width="24" height="24" loading="lazy">KingTowsk</span></td>
+          <td>Quinshon Judkins</td><td class="num hot">8</td>
+        </tr>
+      
+        <tr>
+          <td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/6e611998104204ee21e4b2bb3aa37a5f" alt="" width="24" height="24" loading="lazy">Erjohnson14</span></td>
+          <td>Javonte Williams</td><td class="num hot">9</td>
+        </tr>
+      
+        <tr>
+          <td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/e7af4deab0289b4f5505646424895246" alt="" width="24" height="24" loading="lazy">TylerWicks</span></td>
+          <td>Tucker Kraft</td><td class="num hot">9</td>
+        </tr>
+      
+        <tr>
+          <td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/b30101daf7f261c4bf86da2cd1577193" alt="" width="24" height="24" loading="lazy">bgreenblatt</span></td>
+          <td>Jaxson Dart</td><td class="num hot">10</td>
+        </tr>
+      
+        <tr>
+          <td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/0f813fa81779005b70e54c8cec253a90" alt="" width="24" height="24" loading="lazy">JSanDusky69</span></td>
+          <td>Kyle Pitts</td><td class="num hot">11</td>
+        </tr>
+      
+        <tr>
+          <td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8519622c66cb50a87823353d553d806c" alt="" width="24" height="24" loading="lazy">KingTowsk</span></td>
+          <td>Dalton Kincaid</td><td class="num hot">12</td>
+        </tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+
+<section class="section">
+  <h2>Keeper value</h2>
+  <p class="note">Surplus = the keeper's points that season minus the average of everyone drafted in the same round. Positive means the keep beat the market.</p>
+  <div class="two-up">
+    <div class="board-panel">
+      <table>
+        <thead><tr><th>Manager</th><th class="num">Keeps</th><th class="num">Avg surplus</th><th class="num">Hit rate</th></tr></thead>
+        <tbody>
+        
+          <tr><td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/b3338675f635c2c1f42b469621d38ec6" alt="" width="24" height="24" loading="lazy">akepple9</span></td>
+          <td class="num">1</td>
+          <td class="num" data-sort="103.6"><span class="pos">+103.60</span></td>
+          <td class="num">1.0%</td></tr>
+        
+          <tr><td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8fcf0e0e6a75e96a591d2a4a4a400f41" alt="" width="24" height="24" loading="lazy">cc5597</span></td>
+          <td class="num">5</td>
+          <td class="num" data-sort="69.84"><span class="pos">+69.84</span></td>
+          <td class="num">1.0%</td></tr>
+        
+          <tr><td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/b30101daf7f261c4bf86da2cd1577193" alt="" width="24" height="24" loading="lazy">bgreenblatt</span></td>
+          <td class="num">8</td>
+          <td class="num" data-sort="58.66"><span class="pos">+58.66</span></td>
+          <td class="num">0.75%</td></tr>
+        
+          <tr><td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/e7af4deab0289b4f5505646424895246" alt="" width="24" height="24" loading="lazy">brockhusk</span></td>
+          <td class="num">5</td>
+          <td class="num" data-sort="50.3"><span class="pos">+50.30</span></td>
+          <td class="num">0.8%</td></tr>
+        
+          <tr><td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/e7af4deab0289b4f5505646424895246" alt="" width="24" height="24" loading="lazy">TylerWicks</span></td>
+          <td class="num">7</td>
+          <td class="num" data-sort="43.0"><span class="pos">+43.00</span></td>
+          <td class="num">0.8571%</td></tr>
+        
+          <tr><td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/6a807a1e5ef51c7b64f1d4d06076f7d9" alt="" width="24" height="24" loading="lazy">charliekaufmann</span></td>
+          <td class="num">7</td>
+          <td class="num" data-sort="31.97"><span class="pos">+31.97</span></td>
+          <td class="num">0.8571%</td></tr>
+        
+          <tr><td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/0f813fa81779005b70e54c8cec253a90" alt="" width="24" height="24" loading="lazy">JSanDusky69</span></td>
+          <td class="num">7</td>
+          <td class="num" data-sort="30.36"><span class="pos">+30.36</span></td>
+          <td class="num">0.7143%</td></tr>
+        
+          <tr><td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/6e611998104204ee21e4b2bb3aa37a5f" alt="" width="24" height="24" loading="lazy">Erjohnson14</span></td>
+          <td class="num">8</td>
+          <td class="num" data-sort="28.8"><span class="pos">+28.80</span></td>
+          <td class="num">0.625%</td></tr>
+        
+          <tr><td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8519622c66cb50a87823353d553d806c" alt="" width="24" height="24" loading="lazy">KingTowsk</span></td>
+          <td class="num">7</td>
+          <td class="num" data-sort="24.44"><span class="pos">+24.44</span></td>
+          <td class="num">0.8571%</td></tr>
+        
+          <tr><td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/031e98053cebc51f2ca17b05f9bef39f" alt="" width="24" height="24" loading="lazy">jdrobny</span></td>
+          <td class="num">8</td>
+          <td class="num" data-sort="20.52"><span class="pos">+20.52</span></td>
+          <td class="num">0.5%</td></tr>
+        
+          <tr><td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/8e1247598f587f8f4257ed435ba089be" alt="" width="24" height="24" loading="lazy">MaxSirianni</span></td>
+          <td class="num">5</td>
+          <td class="num" data-sort="-3.94"><span class="neg">-3.94</span></td>
+          <td class="num">0.6%</td></tr>
+        
+          <tr><td><span class="chip"><img src="https://sleepercdn.com/avatars/thumbs/f0edbf4278f53f9425db175073df6584" alt="" width="24" height="24" loading="lazy">Jacktaco98</span></td>
+          <td class="num">1</td>
+          <td class="num" data-sort="-42.5"><span class="neg">-42.50</span></td>
+          <td class="num">0.0%</td></tr>
+        
+        </tbody>
+      </table>
+    </div>
+    <div>
+      
+      <div class="marquee"><span class="line-name">2025 · kept round 12 by TylerWicks</span>
+        <span class="posted-sm">Bo Nix</span>
+        <span class="detail">232 pts · <span class="pos">+163.70</span> vs the round</span></div>
+      
+      <div class="marquee"><span class="line-name">2025 · kept round 10 by Erjohnson14</span>
+        <span class="posted-sm">Jaxon Smith-Njigba</span>
+        <span class="detail">293 pts · <span class="pos">+160.80</span> vs the round</span></div>
+      
+      <div class="marquee"><span class="line-name">2022 · kept round 6 by cc5597</span>
+        <span class="posted-sm">Joe Burrow</span>
+        <span class="detail">296 pts · <span class="pos">+134.50</span> vs the round</span></div>
+      
+      <div class="marquee"><span class="line-name">2024 · kept round 9 by bgreenblatt</span>
+        <span class="posted-sm">Kyler Murray</span>
+        <span class="detail">223 pts · <span class="pos">+122.60</span> vs the round</span></div>
+      
+      <div class="marquee"><span class="line-name">2022 · kept round 9 by jdrobny</span>
+        <span class="posted-sm">Justin Fields</span>
+        <span class="detail">242 pts · <span class="pos">+120.60</span> vs the round</span></div>
+      
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <h2>Steals &amp; busts</h2>
+  <div class="two-up">
+    <div class="board-panel">
+      <table>
+        <thead><tr><th colspan="2">Biggest steals</th><th class="num">Rd</th><th class="num">Pts</th><th class="num">Surplus</th></tr></thead>
+        <tbody>
+        
+          <tr><td class="num">2023</td><td>Sam Howell <span class="fine">(Erjohnson14)</span></td>
+          <td class="num">16</td><td class="num">240</td>
+          <td class="num pos">+179</td></tr>
+        
+          <tr><td class="num">2023</td><td>C.J. Stroud <span class="fine">(KingTowsk)</span></td>
+          <td class="num">12</td><td class="num">245</td>
+          <td class="num pos">+163</td></tr>
+        
+          <tr><td class="num">2022</td><td>Tyreek Hill <span class="fine">(cc5597)</span></td>
+          <td class="num">4</td><td class="num">297</td>
+          <td class="num pos">+150</td></tr>
+        
+          <tr><td class="num">2023</td><td>Tyreek Hill <span class="fine">(charliekaufmann)</span></td>
+          <td class="num">2</td><td class="num">334</td>
+          <td class="num pos">+148</td></tr>
+        
+          <tr><td class="num">2025</td><td>Daniel Jones <span class="fine">(KingTowsk)</span></td>
+          <td class="num">15</td><td class="num">221</td>
+          <td class="num pos">+136</td></tr>
+        
+          <tr><td class="num">2024</td><td>Ja&#39;Marr Chase <span class="fine">(bgreenblatt)</span></td>
+          <td class="num">2</td><td class="num">327</td>
+          <td class="num pos">+133</td></tr>
+        
+          <tr><td class="num">2024</td><td>Saquon Barkley <span class="fine">(Erjohnson14)</span></td>
+          <td class="num">3</td><td class="num">308</td>
+          <td class="num pos">+132</td></tr>
+        
+          <tr><td class="num">2024</td><td>Chase Brown <span class="fine">(Erjohnson14)</span></td>
+          <td class="num">13</td><td class="num">201</td>
+          <td class="num pos">+129</td></tr>
+        
+          <tr><td class="num">2021</td><td>Cooper Kupp <span class="fine">(JSanDusky69)</span></td>
+          <td class="num">5</td><td class="num">305</td>
+          <td class="num pos">+128</td></tr>
+        
+          <tr><td class="num">2023</td><td>CeeDee Lamb <span class="fine">(brockhusk)</span></td>
+          <td class="num">3</td><td class="num">286</td>
+          <td class="num pos">+127</td></tr>
+        
+          <tr><td class="num">2021</td><td>Deebo Samuel <span class="fine">(Erjohnson14)</span></td>
+          <td class="num">10</td><td class="num">235</td>
+          <td class="num pos">+126</td></tr>
+        
+          <tr><td class="num">2024</td><td>Bo Nix <span class="fine">(TylerWicks)</span></td>
+          <td class="num">12</td><td class="num">230</td>
+          <td class="num pos">+126</td></tr>
+        
+          <tr><td class="num">2022</td><td>Tony Pollard <span class="fine">(TylerWicks)</span></td>
+          <td class="num">8</td><td class="num">225</td>
+          <td class="num pos">+126</td></tr>
+        
+          <tr><td class="num">2025</td><td>Matthew Stafford <span class="fine">(jdrobny)</span></td>
+          <td class="num">10</td><td class="num">258</td>
+          <td class="num pos">+126</td></tr>
+        
+          <tr><td class="num">2022</td><td>Josh Jacobs <span class="fine">(jdrobny)</span></td>
+          <td class="num">6</td><td class="num">287</td>
+          <td class="num pos">+125</td></tr>
+        
+        </tbody>
+      </table>
+    </div>
+    <div class="board-panel">
+      <table>
+        <thead><tr><th colspan="2">Biggest busts</th><th class="num">Rd</th><th class="num">Pts</th><th class="num">Surplus</th></tr></thead>
+        <tbody>
+        
+          <tr><td class="num">2024</td><td>Christian McCaffrey <span class="fine">(MaxSirianni)</span></td>
+          <td class="num">1</td><td class="num">48</td>
+          <td class="num neg">-181</td></tr>
+        
+          <tr><td class="num">2023</td><td>Aaron Rodgers <span class="fine">(KingTowsk)</span></td>
+          <td class="num">4</td><td class="num">0</td>
+          <td class="num neg">-176</td></tr>
+        
+          <tr><td class="num">2025</td><td>Joe Burrow <span class="fine">(JSanDusky69)</span></td>
+          <td class="num">1</td><td class="num">58</td>
+          <td class="num neg">-164</td></tr>
+        
+          <tr><td class="num">2023</td><td>Nick Chubb <span class="fine">(brockhusk)</span></td>
+          <td class="num">2</td><td class="num">24</td>
+          <td class="num neg">-163</td></tr>
+        
+          <tr><td class="num">2025</td><td>Malik Nabers <span class="fine">(KingTowsk)</span></td>
+          <td class="num">2</td><td class="num">58</td>
+          <td class="num neg">-149</td></tr>
+        
+          <tr><td class="num">2022</td><td>Elijah Mitchell <span class="fine">(charliekaufmann)</span></td>
+          <td class="num">6</td><td class="num">26</td>
+          <td class="num neg">-136</td></tr>
+        
+          <tr><td class="num">2022</td><td>Trey Lance <span class="fine">(brockhusk)</span></td>
+          <td class="num">4</td><td class="num">11</td>
+          <td class="num neg">-135</td></tr>
+        
+          <tr><td class="num">2025</td><td>Mike Evans <span class="fine">(jdrobny)</span></td>
+          <td class="num">4</td><td class="num">34</td>
+          <td class="num neg">-132</td></tr>
+        
+          <tr><td class="num">2025</td><td>Joe Mixon <span class="fine">(jdrobny)</span></td>
+          <td class="num">8</td><td class="num">0</td>
+          <td class="num neg">-127</td></tr>
+        
+          <tr><td class="num">2025</td><td>James Conner <span class="fine">(Erjohnson14)</span></td>
+          <td class="num">5</td><td class="num">32</td>
+          <td class="num neg">-127</td></tr>
+        
+          <tr><td class="num">2021</td><td>Ryan Fitzpatrick <span class="fine">(TylerWicks)</span></td>
+          <td class="num">7</td><td class="num">-1</td>
+          <td class="num neg">-126</td></tr>
+        
+          <tr><td class="num">2023</td><td>Cam Akers <span class="fine">(charliekaufmann)</span></td>
+          <td class="num">5</td><td class="num">16</td>
+          <td class="num neg">-126</td></tr>
+        
+          <tr><td class="num">2021</td><td>Gus Edwards <span class="fine">(cc5597)</span></td>
+          <td class="num">7</td><td class="num">0</td>
+          <td class="num neg">-125</td></tr>
+        
+          <tr><td class="num">2021</td><td>Julio Jones <span class="fine">(TylerWicks)</span></td>
+          <td class="num">5</td><td class="num">55</td>
+          <td class="num neg">-122</td></tr>
+        
+          <tr><td class="num">2023</td><td>J.K. Dobbins <span class="fine">(JSanDusky69)</span></td>
+          <td class="num">8</td><td class="num">12</td>
+          <td class="num neg">-121</td></tr>
+        
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <h2>What a round is worth</h2>
+  <div class="board-panel pad"><svg viewBox="0 0 640 240" role="img" class="chart chart-bar" preserveAspectRatio="xMidYMid meet"><line x1="44" y1="210" x2="632" y2="210" stroke="#26232e" stroke-width="1"/><g class="bar" data-name="1"><path d="M48.0,210 v-178.0 q0,-4 4,-4 h16.2 q4,0 4,4 v178.0 z" fill="#8f66c9"><title>1: 225.84</title></path><text x="60.1" y="22.0" class="bar-val" text-anchor="middle">225.84</text><text x="60.1" y="230" class="tick" text-anchor="middle">1</text></g><g class="bar" data-name="2"><path d="M80.2,210 v-158.2 q0,-4 4,-4 h16.2 q4,0 4,4 v158.2 z" fill="#8f66c9"><title>2: 201.33</title></path><text x="92.3" y="41.8" class="bar-val" text-anchor="middle">201.33</text><text x="92.3" y="230" class="tick" text-anchor="middle">2</text></g><g class="bar" data-name="3"><path d="M112.4,210 v-128.8 q0,-4 4,-4 h16.2 q4,0 4,4 v128.8 z" fill="#8f66c9"><title>3: 164.81</title></path><text x="124.6" y="71.2" class="bar-val" text-anchor="middle">164.81</text><text x="124.6" y="230" class="tick" text-anchor="middle">3</text></g><g class="bar" data-name="4"><path d="M144.7,210 v-130.8 q0,-4 4,-4 h16.2 q4,0 4,4 v130.8 z" fill="#8f66c9"><title>4: 167.23</title></path><text x="156.8" y="69.2" class="bar-val" text-anchor="middle">167.23</text><text x="156.8" y="230" class="tick" text-anchor="middle">4</text></g><g class="bar" data-name="5"><path d="M176.9,210 v-118.2 q0,-4 4,-4 h16.2 q4,0 4,4 v118.2 z" fill="#8f66c9"><title>5: 151.61</title></path><text x="189.0" y="81.8" class="bar-val" text-anchor="middle">151.61</text><text x="189.0" y="230" class="tick" text-anchor="middle">5</text></g><g class="bar" data-name="6"><path d="M209.1,210 v-110.5 q0,-4 4,-4 h16.2 q4,0 4,4 v110.5 z" fill="#8f66c9"><title>6: 142.09</title></path><text x="221.2" y="89.5" class="bar-val" text-anchor="middle">142.09</text><text x="221.2" y="230" class="tick" text-anchor="middle">6</text></g><g class="bar" data-name="7"><path d="M241.3,210 v-104.3 q0,-4 4,-4 h16.2 q4,0 4,4 v104.3 z" fill="#8f66c9"><title>7: 134.41</title></path><text x="253.4" y="95.7" class="bar-val" text-anchor="middle">134.41</text><text x="253.4" y="230" class="tick" text-anchor="middle">7</text></g><g class="bar" data-name="8"><path d="M273.6,210 v-96.3 q0,-4 4,-4 h16.2 q4,0 4,4 v96.3 z" fill="#8f66c9"><title>8: 124.47</title></path><text x="285.7" y="103.7" class="bar-val" text-anchor="middle">124.47</text><text x="285.7" y="230" class="tick" text-anchor="middle">8</text></g><g class="bar" data-name="9"><path d="M305.8,210 v-88.7 q0,-4 4,-4 h16.2 q4,0 4,4 v88.7 z" fill="#8f66c9"><title>9: 115.07</title></path><text x="317.9" y="111.3" class="bar-val" text-anchor="middle">115.07</text><text x="317.9" y="230" class="tick" text-anchor="middle">9</text></g><g class="bar" data-name="10"><path d="M338.0,210 v-103.9 q0,-4 4,-4 h16.2 q4,0 4,4 v103.9 z" fill="#8f66c9"><title>10: 133.85</title></path><text x="350.1" y="96.1" class="bar-val" text-anchor="middle">133.85</text><text x="350.1" y="230" class="tick" text-anchor="middle">10</text></g><g class="bar" data-name="11"><path d="M370.2,210 v-76.1 q0,-4 4,-4 h16.2 q4,0 4,4 v76.1 z" fill="#8f66c9"><title>11: 99.34</title></path><text x="382.3" y="123.9" class="bar-val" text-anchor="middle">99.34</text><text x="382.3" y="230" class="tick" text-anchor="middle">11</text></g><g class="bar" data-name="12"><path d="M402.4,210 v-66.1 q0,-4 4,-4 h16.2 q4,0 4,4 v66.1 z" fill="#8f66c9"><title>12: 87.0</title></path><text x="414.6" y="133.9" class="bar-val" text-anchor="middle">87</text><text x="414.6" y="230" class="tick" text-anchor="middle">12</text></g><g class="bar" data-name="13"><path d="M434.7,210 v-66.2 q0,-4 4,-4 h16.2 q4,0 4,4 v66.2 z" fill="#8f66c9"><title>13: 87.15</title></path><text x="446.8" y="133.8" class="bar-val" text-anchor="middle">87.15</text><text x="446.8" y="230" class="tick" text-anchor="middle">13</text></g><g class="bar" data-name="14"><path d="M466.9,210 v-69.9 q0,-4 4,-4 h16.2 q4,0 4,4 v69.9 z" fill="#8f66c9"><title>14: 91.65</title></path><text x="479.0" y="130.1" class="bar-val" text-anchor="middle">91.65</text><text x="479.0" y="230" class="tick" text-anchor="middle">14</text></g><g class="bar" data-name="15"><path d="M499.1,210 v-59.0 q0,-4 4,-4 h16.2 q4,0 4,4 v59.0 z" fill="#8f66c9"><title>15: 78.12</title></path><text x="511.2" y="141.0" class="bar-val" text-anchor="middle">78.12</text><text x="511.2" y="230" class="tick" text-anchor="middle">15</text></g><g class="bar" data-name="16"><path d="M531.3,210 v-56.7 q0,-4 4,-4 h16.2 q4,0 4,4 v56.7 z" fill="#8f66c9"><title>16: 75.33</title></path><text x="543.4" y="143.3" class="bar-val" text-anchor="middle">75.33</text><text x="543.4" y="230" class="tick" text-anchor="middle">16</text></g><g class="bar" data-name="17"><path d="M563.6,210 v-49.2 q0,-4 4,-4 h16.2 q4,0 4,4 v49.2 z" fill="#8f66c9"><title>17: 66.07</title></path><text x="575.7" y="150.8" class="bar-val" text-anchor="middle">66.07</text><text x="575.7" y="230" class="tick" text-anchor="middle">17</text></g><g class="bar" data-name="18"><path d="M595.8,210 v-38.4 q0,-4 4,-4 h16.2 q4,0 4,4 v38.4 z" fill="#8f66c9"><title>18: 52.61</title></path><text x="607.9" y="161.6" class="bar-val" text-anchor="middle">52.61</text><text x="607.9" y="230" class="tick" text-anchor="middle">18</text></g></svg></div>
+  <p class="note">Average regular-season points per pick, by round, all seasons.</p>
+</section>
+
+<section class="section">
+  <h2>Draft slot outcomes</h2>
+  <div class="board-panel">
+    <table class="sortable">
+      <thead><tr><th class="num">Slot</th><th class="num">Drafts</th><th class="num">Avg finish</th><th class="num">Titles</th><th class="num">Playoff rate</th><th>Era note</th></tr></thead>
+      <tbody>
+      
+        <tr><td class="num">1</td><td class="num">5</td>
+        <td class="num">4.2</td><td class="num">0</td>
+        <td class="num">100.0%</td><td class="fine">10-team (n=4), 12-team (n=1)</td></tr>
+      
+        <tr><td class="num">2</td><td class="num">5</td>
+        <td class="num">6.4</td><td class="num">0</td>
+        <td class="num">60.0%</td><td class="fine">10-team (n=4), 12-team (n=1)</td></tr>
+      
+        <tr><td class="num">3</td><td class="num">5</td>
+        <td class="num">4.6</td><td class="num">0</td>
+        <td class="num">60.0%</td><td class="fine">10-team (n=4), 12-team (n=1)</td></tr>
+      
+        <tr><td class="num">4</td><td class="num">5</td>
+        <td class="num">3.8</td><td class="num hot">3</td>
+        <td class="num">80.0%</td><td class="fine">10-team (n=4), 12-team (n=1)</td></tr>
+      
+        <tr><td class="num">5</td><td class="num">5</td>
+        <td class="num">7.4</td><td class="num hot">1</td>
+        <td class="num">40.0%</td><td class="fine">10-team (n=4), 12-team (n=1)</td></tr>
+      
+        <tr><td class="num">6</td><td class="num">5</td>
+        <td class="num">5.6</td><td class="num">0</td>
+        <td class="num">60.0%</td><td class="fine">10-team (n=4), 12-team (n=1)</td></tr>
+      
+        <tr><td class="num">7</td><td class="num">5</td>
+        <td class="num">5.4</td><td class="num">0</td>
+        <td class="num">60.0%</td><td class="fine">10-team (n=4), 12-team (n=1)</td></tr>
+      
+        <tr><td class="num">8</td><td class="num">5</td>
+        <td class="num">6.4</td><td class="num hot">1</td>
+        <td class="num">60.0%</td><td class="fine">10-team (n=4), 12-team (n=1)</td></tr>
+      
+        <tr><td class="num">9</td><td class="num">5</td>
+        <td class="num">6.2</td><td class="num">0</td>
+        <td class="num">40.0%</td><td class="fine">10-team (n=4), 12-team (n=1)</td></tr>
+      
+        <tr><td class="num">10</td><td class="num">5</td>
+        <td class="num">8.6</td><td class="num">0</td>
+        <td class="num">0.0%</td><td class="fine">10-team (n=4), 12-team (n=1)</td></tr>
+      
+        <tr><td class="num">11</td><td class="num">1</td>
+        <td class="num">1.0</td><td class="num">0</td>
+        <td class="num">100.0%</td><td class="fine">12-team (n=1)</td></tr>
+      
+        <tr><td class="num">12</td><td class="num">1</td>
+        <td class="num">4.0</td><td class="num">0</td>
+        <td class="num">100.0%</td><td class="fine">12-team (n=1)</td></tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section">
+  <h2>The superflex question</h2>
+  <p class="note">Does drafting QBs early actually win here? First QB round vs final finish, every manager-season.</p>
+  <div class="board-panel">
+    <table class="sortable">
+      <thead><tr><th class="num">Season</th><th>Manager</th><th class="num">First QB rd</th><th class="num">QBs in first 5</th><th class="num">Finish</th></tr></thead>
+      <tbody>
+      
+        <tr><td class="num">2021</td>
+        <td data-sort="cc5597">cc5597</td>
+        <td class="num">4</td>
+        <td class="num">1</td>
+        <td class="num">1</td></tr>
+      
+        <tr><td class="num">2021</td>
+        <td data-sort="bgreenblatt">bgreenblatt</td>
+        <td class="num">1</td>
+        <td class="num">2</td>
+        <td class="num">2</td></tr>
+      
+        <tr><td class="num">2021</td>
+        <td data-sort="brockhusk">brockhusk</td>
+        <td class="num">1</td>
+        <td class="num">1</td>
+        <td class="num">10</td></tr>
+      
+        <tr><td class="num">2021</td>
+        <td data-sort="charliekaufmann">charliekaufmann</td>
+        <td class="num">2</td>
+        <td class="num">1</td>
+        <td class="num">4</td></tr>
+      
+        <tr><td class="num">2021</td>
+        <td data-sort="KingTowsk">KingTowsk</td>
+        <td class="num">1</td>
+        <td class="num">1</td>
+        <td class="num">9</td></tr>
+      
+        <tr><td class="num">2021</td>
+        <td data-sort="Erjohnson14">Erjohnson14</td>
+        <td class="num">1</td>
+        <td class="num">1</td>
+        <td class="num">3</td></tr>
+      
+        <tr><td class="num">2021</td>
+        <td data-sort="JSanDusky69">JSanDusky69</td>
+        <td class="num">1</td>
+        <td class="num">1</td>
+        <td class="num">5</td></tr>
+      
+        <tr><td class="num">2021</td>
+        <td data-sort="jdrobny">jdrobny</td>
+        <td class="num">2</td>
+        <td class="num">2</td>
+        <td class="num">6</td></tr>
+      
+        <tr><td class="num">2021</td>
+        <td data-sort="TylerWicks">TylerWicks</td>
+        <td class="num">3</td>
+        <td class="num">1</td>
+        <td class="num">7</td></tr>
+      
+        <tr><td class="num">2021</td>
+        <td data-sort="MaxSirianni">MaxSirianni</td>
+        <td class="num">2</td>
+        <td class="num">1</td>
+        <td class="num">8</td></tr>
+      
+        <tr><td class="num">2022</td>
+        <td data-sort="cc5597">cc5597</td>
+        <td class="num">3</td>
+        <td class="num">1</td>
+        <td class="num">2</td></tr>
+      
+        <tr><td class="num">2022</td>
+        <td data-sort="bgreenblatt">bgreenblatt</td>
+        <td class="num">1</td>
+        <td class="num">1</td>
+        <td class="num">4</td></tr>
+      
+        <tr><td class="num">2022</td>
+        <td data-sort="brockhusk">brockhusk</td>
+        <td class="num">1</td>
+        <td class="num">2</td>
+        <td class="num">5</td></tr>
+      
+        <tr><td class="num">2022</td>
+        <td data-sort="charliekaufmann">charliekaufmann</td>
+        <td class="num">3</td>
+        <td class="num">1</td>
+        <td class="num">7</td></tr>
+      
+        <tr><td class="num">2022</td>
+        <td data-sort="KingTowsk">KingTowsk</td>
+        <td class="num">1</td>
+        <td class="num">2</td>
+        <td class="num">3</td></tr>
+      
+        <tr><td class="num">2022</td>
+        <td data-sort="Erjohnson14">Erjohnson14</td>
+        <td class="num">2</td>
+        <td class="num">2</td>
+        <td class="num">6</td></tr>
+      
+        <tr><td class="num">2022</td>
+        <td data-sort="JSanDusky69">JSanDusky69</td>
+        <td class="num">2</td>
+        <td class="num">1</td>
+        <td class="num">8</td></tr>
+      
+        <tr><td class="num">2022</td>
+        <td data-sort="jdrobny">jdrobny</td>
+        <td class="num">1</td>
+        <td class="num">1</td>
+        <td class="num">1</td></tr>
+      
+        <tr><td class="num">2022</td>
+        <td data-sort="TylerWicks">TylerWicks</td>
+        <td class="num">2</td>
+        <td class="num">1</td>
+        <td class="num">10</td></tr>
+      
+        <tr><td class="num">2022</td>
+        <td data-sort="MaxSirianni">MaxSirianni</td>
+        <td class="num">4</td>
+        <td class="num">1</td>
+        <td class="num">9</td></tr>
+      
+        <tr><td class="num">2023</td>
+        <td data-sort="cc5597">cc5597</td>
+        <td class="num">1</td>
+        <td class="num">2</td>
+        <td class="num">9</td></tr>
+      
+        <tr><td class="num">2023</td>
+        <td data-sort="bgreenblatt">bgreenblatt</td>
+        <td class="num">1</td>
+        <td class="num">1</td>
+        <td class="num">3</td></tr>
+      
+        <tr><td class="num">2023</td>
+        <td data-sort="brockhusk">brockhusk</td>
+        <td class="num">1</td>
+        <td class="num">2</td>
+        <td class="num">1</td></tr>
+      
+        <tr><td class="num">2023</td>
+        <td data-sort="charliekaufmann">charliekaufmann</td>
+        <td class="num">1</td>
+        <td class="num">2</td>
+        <td class="num">8</td></tr>
+      
+        <tr><td class="num">2023</td>
+        <td data-sort="KingTowsk">KingTowsk</td>
+        <td class="num">3</td>
+        <td class="num">2</td>
+        <td class="num">2</td></tr>
+      
+        <tr><td class="num">2023</td>
+        <td data-sort="Erjohnson14">Erjohnson14</td>
+        <td class="num">1</td>
+        <td class="num">2</td>
+        <td class="num">6</td></tr>
+      
+        <tr><td class="num">2023</td>
+        <td data-sort="JSanDusky69">JSanDusky69</td>
+        <td class="num">10</td>
+        <td class="num">0</td>
+        <td class="num">10</td></tr>
+      
+        <tr><td class="num">2023</td>
+        <td data-sort="jdrobny">jdrobny</td>
+        <td class="num">1</td>
+        <td class="num">1</td>
+        <td class="num">4</td></tr>
+      
+        <tr><td class="num">2023</td>
+        <td data-sort="TylerWicks">TylerWicks</td>
+        <td class="num">3</td>
+        <td class="num">2</td>
+        <td class="num">5</td></tr>
+      
+        <tr><td class="num">2023</td>
+        <td data-sort="MaxSirianni">MaxSirianni</td>
+        <td class="num">1</td>
+        <td class="num">1</td>
+        <td class="num">7</td></tr>
+      
+        <tr><td class="num">2024</td>
+        <td data-sort="cc5597">cc5597</td>
+        <td class="num">11</td>
+        <td class="num">0</td>
+        <td class="num">8</td></tr>
+      
+        <tr><td class="num">2024</td>
+        <td data-sort="bgreenblatt">bgreenblatt</td>
+        <td class="num">6</td>
+        <td class="num">0</td>
+        <td class="num">1</td></tr>
+      
+        <tr><td class="num">2024</td>
+        <td data-sort="brockhusk">brockhusk</td>
+        <td class="num">1</td>
+        <td class="num">1</td>
+        <td class="num">7</td></tr>
+      
+        <tr><td class="num">2024</td>
+        <td data-sort="charliekaufmann">charliekaufmann</td>
+        <td class="num">2</td>
+        <td class="num">2</td>
+        <td class="num">5</td></tr>
+      
+        <tr><td class="num">2024</td>
+        <td data-sort="KingTowsk">KingTowsk</td>
+        <td class="num">1</td>
+        <td class="num">2</td>
+        <td class="num">2</td></tr>
+      
+        <tr><td class="num">2024</td>
+        <td data-sort="Erjohnson14">Erjohnson14</td>
+        <td class="num">1</td>
+        <td class="num">1</td>
+        <td class="num">3</td></tr>
+      
+        <tr><td class="num">2024</td>
+        <td data-sort="JSanDusky69">JSanDusky69</td>
+        <td class="num">6</td>
+        <td class="num">0</td>
+        <td class="num">4</td></tr>
+      
+        <tr><td class="num">2024</td>
+        <td data-sort="jdrobny">jdrobny</td>
+        <td class="num">1</td>
+        <td class="num">2</td>
+        <td class="num">9</td></tr>
+      
+        <tr><td class="num">2024</td>
+        <td data-sort="TylerWicks">TylerWicks</td>
+        <td class="num">2</td>
+        <td class="num">2</td>
+        <td class="num">6</td></tr>
+      
+        <tr><td class="num">2024</td>
+        <td data-sort="MaxSirianni">MaxSirianni</td>
+        <td class="num">2</td>
+        <td class="num">2</td>
+        <td class="num">10</td></tr>
+      
+        <tr><td class="num">2025</td>
+        <td data-sort="akepple9">akepple9</td>
+        <td class="num">1</td>
+        <td class="num">2</td>
+        <td class="num">6</td></tr>
+      
+        <tr><td class="num">2025</td>
+        <td data-sort="cc5597">cc5597</td>
+        <td class="num">1</td>
+        <td class="num">2</td>
+        <td class="num">1</td></tr>
+      
+        <tr><td class="num">2025</td>
+        <td data-sort="bgreenblatt">bgreenblatt</td>
+        <td class="num">8</td>
+        <td class="num">0</td>
+        <td class="num">5</td></tr>
+      
+        <tr><td class="num">2025</td>
+        <td data-sort="brockhusk">brockhusk</td>
+        <td class="num">1</td>
+        <td class="num">1</td>
+        <td class="num">11</td></tr>
+      
+        <tr><td class="num">2025</td>
+        <td data-sort="charliekaufmann">charliekaufmann</td>
+        <td class="num">3</td>
+        <td class="num">1</td>
+        <td class="num">9</td></tr>
+      
+        <tr><td class="num">2025</td>
+        <td data-sort="KingTowsk">KingTowsk</td>
+        <td class="num">3</td>
+        <td class="num">2</td>
+        <td class="num">10</td></tr>
+      
+        <tr><td class="num">2025</td>
+        <td data-sort="Erjohnson14">Erjohnson14</td>
+        <td class="num">1</td>
+        <td class="num">2</td>
+        <td class="num">3</td></tr>
+      
+        <tr><td class="num">2025</td>
+        <td data-sort="JSanDusky69">JSanDusky69</td>
+        <td class="num">1</td>
+        <td class="num">1</td>
+        <td class="num">7</td></tr>
+      
+        <tr><td class="num">2025</td>
+        <td data-sort="jdrobny">jdrobny</td>
+        <td class="num">2</td>
+        <td class="num">1</td>
+        <td class="num">12</td></tr>
+      
+        <tr><td class="num">2025</td>
+        <td data-sort="TylerWicks">TylerWicks</td>
+        <td class="num">4</td>
+        <td class="num">1</td>
+        <td class="num">4</td></tr>
+      
+        <tr><td class="num">2025</td>
+        <td data-sort="MaxSirianni">MaxSirianni</td>
+        <td class="num">5</td>
+        <td class="num">1</td>
+        <td class="num">8</td></tr>
+      
+        <tr><td class="num">2025</td>
+        <td data-sort="Jacktaco98">Jacktaco98</td>
+        <td class="num">1</td>
+        <td class="num">2</td>
+        <td class="num">2</td></tr>
+      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+</main>
+<footer class="rail-footer">
+  <p>Every number on this board is recomputed from Sleeper's records. Argue with the data, not the bookkeeper.</p>
+  <p class="fine">Six seasons on file.</p>
+</footer>
+<script src="assets/js/tables.js" defer></script>
+</body>
+</html>

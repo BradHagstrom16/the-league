@@ -18,7 +18,7 @@ DIVERGE_LOW = (0x8F, 0x66, 0xC9)    # purple — they own you
 DIVERGE_MID = (0x3A, 0x37, 0x43)    # neutral at .500
 DIVERGE_HIGH = (0xC8, 0x7F, 0x1A)   # amber — you're the house
 
-PAD_L, PAD_R, PAD_T, PAD_B = 44, 76, 14, 30
+PAD_L, PAD_R, PAD_T, PAD_B = 44, 110, 14, 30
 
 
 def _scale(vmin, vmax, lo, hi):
@@ -40,6 +40,16 @@ def svg_line(series, x_labels, *, w=640, h=280, y_invert=False):
 
     out = [f'<svg viewBox="0 0 {w} {h}" role="img" class="chart chart-line" '
            f'preserveAspectRatio="xMidYMid meet">']
+    # y ticks: low / mid / high of the value range, recessive.
+    lo_v, hi_v = min(vals), max(vals)
+    mid_v = (lo_v + hi_v) / 2
+    for tv in {lo_v, round(mid_v, 1), hi_v}:
+        ty = sy(tv)
+        lab_v = f"{tv:g}"
+        out.append(f'<line x1="{PAD_L}" y1="{ty:.1f}" x2="{w - PAD_R}" '
+                   f'y2="{ty:.1f}" stroke="{GRID}" stroke-width="1"/>')
+        out.append(f'<text x="{PAD_L - 8}" y="{ty + 4:.1f}" class="tick" '
+                   f'text-anchor="end">{lab_v}</text>')
     # Recessive grid: one line per x tick.
     for i, lab in enumerate(x_labels):
         x = sx(i)
@@ -124,14 +134,16 @@ def _diverge(t):
 def svg_heatmap(row_labels, col_labels, values, *, cell=40, fmt="{:.0f}"):
     """Matrix heatmap with 2px gaps; None cells stay surface-colored.
     Values are 0..1 win pcts colored on the diverging scale."""
-    lab_w, lab_h = 64, 24
-    w = lab_w + len(col_labels) * cell + 4
+    lab_w, lab_h = 110, 84
+    w = lab_w + len(col_labels) * cell + 40   # room for the last rotated label
     h = lab_h + len(row_labels) * cell + 4
     out = [f'<svg viewBox="0 0 {w} {h}" role="img" class="chart chart-heat" '
            f'preserveAspectRatio="xMidYMid meet">']
     for j, cl in enumerate(col_labels):
-        out.append(f'<text x="{lab_w + j * cell + cell / 2:.0f}" y="{lab_h - 8}" '
-                   f'class="tick" text-anchor="middle">{escape(str(cl))}</text>')
+        cx = lab_w + j * cell + cell / 2
+        out.append(f'<text x="{cx:.0f}" y="{lab_h - 10}" class="tick" '
+                   f'text-anchor="start" transform="rotate(-55 {cx:.0f} '
+                   f'{lab_h - 10})">{escape(str(cl))}</text>')
     for i, rl in enumerate(row_labels):
         y = lab_h + i * cell
         out.append(f'<text x="{lab_w - 8}" y="{y + cell / 2 + 4:.0f}" class="tick" '
@@ -145,7 +157,9 @@ def svg_heatmap(row_labels, col_labels, values, *, cell=40, fmt="{:.0f}"):
                            f'stroke="{GRID}"/>')
                 continue
             fill = _diverge(v)
-            ink = "#0a0a0d" if v >= 0.72 else "#e8e6ee"
+            # Dark ink only where the fill is truly light (both scale ends);
+            # mid-tones keep light ink to clear the 4.5:1 floor.
+            ink = "#0a0a0d" if (v >= 0.85 or v <= 0.15) else "#e8e6ee"
             out.append(f'<g class="cell"><rect x="{x + 1}" y="{y + 1}" '
                        f'width="{cell - 2}" height="{cell - 2}" rx="3" '
                        f'fill="{fill}"><title>{escape(str(rl))} vs '

@@ -1,0 +1,19 @@
+{% macro chip(name, avatar, href=None, rot=None) -%}
+<span class="chip">
+  {%- if rot %}<span class="rot">{{ rot }}</span>{% endif -%}
+  {%- if avatar -%}
+    <img src="https://sleepercdn.com/avatars/thumbs/{{ avatar }}" alt="" width="24" height="24" loading="lazy">
+  {%- else -%}
+    <span class="initial" aria-hidden="true">{{ name[:1]|upper }}</span>
+  {%- endif -%}
+  {%- if href %}<a href="{{ href }}">{{ name }}</a>{% else %}{{ name }}{% endif -%}
+</span>
+{%- endmacro %}
+
+{% macro wl(result) -%}
+<span class="{{ 'pos' if result == 'W' else ('neg' if result == 'L' else '') }}">{{ result }}</span>
+{%- endmacro %}
+
+{% macro delta(v) -%}
+<span class="{{ 'pos' if v > 0 else ('neg' if v < 0 else '') }}">{{ '%+.2f'|format(v) }}</span>
+{%- endmacro %}

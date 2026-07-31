@@ -1,0 +1,111 @@
+{% extends "base.html.j2" %}
+{% from "_macros.j2" import chip, delta %}
+{% block title %}{{ m.name }} — The League{% endblock %}
+{% block content %}
+<header class="mgr-head">
+  {% if m.avatar %}<img class="mgr-avatar" src="https://sleepercdn.com/avatars/{{ m.avatar }}" alt="" width="72" height="72">{% else %}<span class="initial mgr-avatar">{{ m.name[:1]|upper }}</span>{% endif %}
+  <div>
+    <h1 class="page-title">{{ m.name }}</h1>
+    <p class="note"><span class="rot">ROT {{ m.rot }}</span> @{{ m.handle }}{% if not m.active %} · departed{% endif %} · {{ m.seasons }} season{{ 's' if m.seasons != 1 }}</p>
+  </div>
+</header>
+
+<section class="section">
+  <h2>Career</h2>
+  <div class="stat-strip">
+    <div><span class="line-name">Record</span><span class="posted-sm">{{ m.wins }}–{{ m.losses }}{% if m.ties %}–{{ m.ties }}{% endif %}</span></div>
+    <div><span class="line-name">Win %</span><span class="posted-sm">{{ m.win_pct|pct }}</span></div>
+    <div><span class="line-name">Titles</span><span class="posted-sm{% if m.titles %} gold{% endif %}">{{ m.titles }}</span></div>
+    <div><span class="line-name">Avg finish</span><span class="posted-sm">{{ m.avg_finish }}</span></div>
+    <div><span class="line-name">Points for</span><span class="posted-sm">{{ m.pf|fmt0 }}</span></div>
+    {% if luck %}<div><span class="line-name">Career luck</span><span class="posted-sm">{{ delta(luck.luck_delta) }}</span></div>{% endif %}
+    {% if lineup %}<div><span class="line-name">Lineup efficiency</span><span class="posted-sm">{{ lineup.efficiency|pct }}</span></div>{% endif %}
+    {% if faab_spent %}<div><span class="line-name">FAAB spent</span><span class="posted-sm">${{ faab_spent|fmt0 }}</span></div>{% endif %}
+  </div>
+</section>
+
+<section class="section">
+  <h2>Finish by year</h2>
+  <div class="board-panel pad">{{ chart|safe }}</div>
+  <p class="note">Lower is better; 1 is the regular-season crown. Gaps are seasons outside the league.</p>
+</section>
+
+<section class="section">
+  <h2>Head-to-head</h2>
+  <div class="board-panel">
+    <table class="sortable">
+      <thead><tr><th>Opponent</th><th class="num">W</th><th class="num">L</th><th class="num">T</th><th class="num">Avg margin</th><th>Streak</th></tr></thead>
+      <tbody>
+      {% for r in h2h_rows %}
+        <tr>
+          <td data-sort="{{ r.opp.name }}">{{ chip(r.opp.name, r.opp.avatar, root ~ 'managers/' ~ r.opp.slug ~ '.html') }}</td>
+          <td class="num">{{ r.w }}</td><td class="num">{{ r.l }}</td><td class="num">{{ r.t }}</td>
+          <td class="num" data-sort="{{ r.avg_margin }}">{{ delta(r.avg_margin) }}</td>
+          <td class="num {{ 'pos' if r.streak.startswith('W') else ('neg' if r.streak.startswith('L') else '') }}">{{ r.streak }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <p class="note">All-time including playoffs. Full meeting logs live on the <a href="{{ root }}h2h.html">Head-to-Head board</a>.</p>
+</section>
+
+{% if steals or busts %}
+<section class="section">
+  <h2>Draft book</h2>
+  <div class="two-up">
+    {% if steals %}
+    <div>
+      <h3>Best value picks</h3>
+      {% for s in steals %}
+      <div class="marquee"><span class="line-name">{{ s.season }} · round {{ s.round }}</span>
+        <span class="posted-sm">{{ s.player_name }}</span>
+        <span class="detail">{{ s.points|fmt0 }} pts · {{ delta(s.surplus) }} vs the round</span></div>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% if busts %}
+    <div>
+      <h3>Worst value picks</h3>
+      {% for s in busts %}
+      <div class="marquee shame"><span class="line-name">{{ s.season }} · round {{ s.round }}</span>
+        <span class="posted-sm">{{ s.player_name }}</span>
+        <span class="detail">{{ s.points|fmt0 }} pts · {{ delta(s.surplus) }} vs the round</span></div>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</section>
+{% endif %}
+
+{% if keeps %}
+<section class="section">
+  <h2>Keeper history</h2>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th>Player</th><th class="num">Kept at</th><th class="num">Points</th><th class="num">Value vs round</th></tr></thead>
+      <tbody>
+      {% for k in keeps %}
+        <tr><td class="num">{{ k.season }}</td><td>{{ k.player_name }}</td>
+        <td class="num">{{ k.keep_round }}</td><td class="num">{{ k.points|fmt0 }}</td>
+        <td class="num" data-sort="{{ k.surplus }}">{{ delta(k.surplus) }}</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+{% endif %}
+
+{% if benchings %}
+<section class="section">
+  <h2>Hall of benchings</h2>
+  {% for b in benchings %}
+  <div class="marquee shame">
+    <span class="line-name">Week {{ b.week }}, {{ b.season }}</span>
+    <span class="posted-sm">−{{ b.delta|fmt2 }} left on the bench</span>
+    <span class="detail">Started {{ b.actual|fmt2 }}, best lineup {{ b.optimal|fmt2 }} · biggest miss: {{ b.biggest_miss_player }} ({{ b.biggest_miss_points|fmt2 }}){% if b.would_have_won %} · <strong class="neg">would have won the week</strong>{% endif %}</span>
+  </div>
+  {% endfor %}
+</section>
+{% endif %}
+{% endblock %}
