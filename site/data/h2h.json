@@ -1,0 +1,5298 @@
+{
+ "users": [
+  {
+   "user_id": "608781531883859968",
+   "name": "bgreenblatt"
+  },
+  {
+   "user_id": "735974647736213504",
+   "name": "KingTowsk"
+  },
+  {
+   "user_id": "736803054736822272",
+   "name": "TylerWicks"
+  },
+  {
+   "user_id": "716698629934481408",
+   "name": "charliekaufmann"
+  },
+  {
+   "user_id": "736740647758938112",
+   "name": "JSanDusky69"
+  },
+  {
+   "user_id": "736744257179770880",
+   "name": "jdrobny"
+  },
+  {
+   "user_id": "475399371639222272",
+   "name": "cc5597"
+  },
+  {
+   "user_id": "710284244835979264",
+   "name": "brockhusk"
+  },
+  {
+   "user_id": "736077599457026048",
+   "name": "Erjohnson14"
+  },
+  {
+   "user_id": "737091087440674816",
+   "name": "MaxSirianni"
+  },
+  {
+   "user_id": "1136842855890366464",
+   "name": "akepple9"
+  },
+  {
+   "user_id": "865793938542456832",
+   "name": "Jacktaco98"
+  }
+ ],
+ "grid": {
+  "608781531883859968": {
+   "736803054736822272": {
+    "w": 8,
+    "l": 1,
+    "t": 0,
+    "avg_margin": 25.46,
+    "streak": "W6"
+   },
+   "736744257179770880": {
+    "w": 5,
+    "l": 6,
+    "t": 0,
+    "avg_margin": -5.73,
+    "streak": "W5"
+   },
+   "710284244835979264": {
+    "w": 6,
+    "l": 3,
+    "t": 0,
+    "avg_margin": 17.62,
+    "streak": "W2"
+   },
+   "736077599457026048": {
+    "w": 5,
+    "l": 3,
+    "t": 0,
+    "avg_margin": 8.21,
+    "streak": "W2"
+   },
+   "475399371639222272": {
+    "w": 4,
+    "l": 5,
+    "t": 0,
+    "avg_margin": -17.25,
+    "streak": "L3"
+   },
+   "737091087440674816": {
+    "w": 3,
+    "l": 5,
+    "t": 0,
+    "avg_margin": -3.02,
+    "streak": "L1"
+   },
+   "736740647758938112": {
+    "w": 5,
+    "l": 3,
+    "t": 0,
+    "avg_margin": 16.24,
+    "streak": "L2"
+   },
+   "735974647736213504": {
+    "w": 5,
+    "l": 5,
+    "t": 0,
+    "avg_margin": -2.45,
+    "streak": "W1"
+   },
+   "716698629934481408": {
+    "w": 6,
+    "l": 2,
+    "t": 0,
+    "avg_margin": 22.7,
+    "streak": "L1"
+   },
+   "865793938542456832": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "avg_margin": 1.97,
+    "streak": "W1"
+   },
+   "1136842855890366464": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -26.87,
+    "streak": "L1"
+   }
+  },
+  "736803054736822272": {
+   "608781531883859968": {
+    "w": 1,
+    "l": 8,
+    "t": 0,
+    "avg_margin": -25.46,
+    "streak": "L6"
+   },
+   "710284244835979264": {
+    "w": 10,
+    "l": 1,
+    "t": 0,
+    "avg_margin": 22.19,
+    "streak": "W5"
+   },
+   "736744257179770880": {
+    "w": 5,
+    "l": 2,
+    "t": 0,
+    "avg_margin": 8.81,
+    "streak": "W3"
+   },
+   "735974647736213504": {
+    "w": 3,
+    "l": 6,
+    "t": 0,
+    "avg_margin": -11.6,
+    "streak": "L2"
+   },
+   "716698629934481408": {
+    "w": 5,
+    "l": 5,
+    "t": 0,
+    "avg_margin": 6.73,
+    "streak": "W1"
+   },
+   "475399371639222272": {
+    "w": 4,
+    "l": 4,
+    "t": 0,
+    "avg_margin": 12.03,
+    "streak": "L1"
+   },
+   "736077599457026048": {
+    "w": 3,
+    "l": 5,
+    "t": 0,
+    "avg_margin": -2.49,
+    "streak": "L1"
+   },
+   "736740647758938112": {
+    "w": 0,
+    "l": 6,
+    "t": 0,
+    "avg_margin": -33.5,
+    "streak": "L6"
+   },
+   "737091087440674816": {
+    "w": 2,
+    "l": 8,
+    "t": 0,
+    "avg_margin": -21.68,
+    "streak": "L2"
+   },
+   "1136842855890366464": {
+    "w": 2,
+    "l": 1,
+    "t": 0,
+    "avg_margin": 5.75,
+    "streak": "L1"
+   },
+   "865793938542456832": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -25.23,
+    "streak": "L1"
+   }
+  },
+  "475399371639222272": {
+   "736077599457026048": {
+    "w": 3,
+    "l": 5,
+    "t": 0,
+    "avg_margin": -6.18,
+    "streak": "L2"
+   },
+   "737091087440674816": {
+    "w": 3,
+    "l": 4,
+    "t": 0,
+    "avg_margin": 10.13,
+    "streak": "L4"
+   },
+   "735974647736213504": {
+    "w": 6,
+    "l": 4,
+    "t": 0,
+    "avg_margin": 10.14,
+    "streak": "W1"
+   },
+   "716698629934481408": {
+    "w": 7,
+    "l": 2,
+    "t": 0,
+    "avg_margin": 14.19,
+    "streak": "W2"
+   },
+   "608781531883859968": {
+    "w": 5,
+    "l": 4,
+    "t": 0,
+    "avg_margin": 17.25,
+    "streak": "W3"
+   },
+   "736803054736822272": {
+    "w": 4,
+    "l": 4,
+    "t": 0,
+    "avg_margin": -12.03,
+    "streak": "W1"
+   },
+   "736744257179770880": {
+    "w": 4,
+    "l": 5,
+    "t": 0,
+    "avg_margin": 0.06,
+    "streak": "W1"
+   },
+   "710284244835979264": {
+    "w": 3,
+    "l": 5,
+    "t": 0,
+    "avg_margin": -16.97,
+    "streak": "W2"
+   },
+   "736740647758938112": {
+    "w": 7,
+    "l": 3,
+    "t": 0,
+    "avg_margin": -6.23,
+    "streak": "W2"
+   },
+   "1136842855890366464": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 22.09,
+    "streak": "W1"
+   },
+   "865793938542456832": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 18.14,
+    "streak": "W1"
+   }
+  },
+  "736077599457026048": {
+   "475399371639222272": {
+    "w": 5,
+    "l": 3,
+    "t": 0,
+    "avg_margin": 6.18,
+    "streak": "W2"
+   },
+   "716698629934481408": {
+    "w": 4,
+    "l": 6,
+    "t": 0,
+    "avg_margin": 0.92,
+    "streak": "L3"
+   },
+   "737091087440674816": {
+    "w": 5,
+    "l": 4,
+    "t": 0,
+    "avg_margin": 19.88,
+    "streak": "W1"
+   },
+   "608781531883859968": {
+    "w": 3,
+    "l": 5,
+    "t": 0,
+    "avg_margin": -8.21,
+    "streak": "L2"
+   },
+   "735974647736213504": {
+    "w": 3,
+    "l": 4,
+    "t": 0,
+    "avg_margin": -11.47,
+    "streak": "W2"
+   },
+   "736740647758938112": {
+    "w": 4,
+    "l": 4,
+    "t": 0,
+    "avg_margin": 6.07,
+    "streak": "L2"
+   },
+   "736803054736822272": {
+    "w": 5,
+    "l": 3,
+    "t": 0,
+    "avg_margin": 2.49,
+    "streak": "W1"
+   },
+   "736744257179770880": {
+    "w": 5,
+    "l": 3,
+    "t": 0,
+    "avg_margin": 21.88,
+    "streak": "W1"
+   },
+   "710284244835979264": {
+    "w": 4,
+    "l": 6,
+    "t": 0,
+    "avg_margin": -10.71,
+    "streak": "W1"
+   },
+   "1136842855890366464": {
+    "w": 2,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 20.86,
+    "streak": "W2"
+   },
+   "865793938542456832": {
+    "w": 2,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 18.86,
+    "streak": "W2"
+   }
+  },
+  "736740647758938112": {
+   "737091087440674816": {
+    "w": 9,
+    "l": 1,
+    "t": 0,
+    "avg_margin": 12.18,
+    "streak": "W1"
+   },
+   "735974647736213504": {
+    "w": 2,
+    "l": 6,
+    "t": 0,
+    "avg_margin": -23.03,
+    "streak": "W1"
+   },
+   "716698629934481408": {
+    "w": 5,
+    "l": 5,
+    "t": 0,
+    "avg_margin": 4.65,
+    "streak": "L1"
+   },
+   "710284244835979264": {
+    "w": 4,
+    "l": 4,
+    "t": 0,
+    "avg_margin": -6.53,
+    "streak": "W1"
+   },
+   "736744257179770880": {
+    "w": 3,
+    "l": 7,
+    "t": 0,
+    "avg_margin": -19.41,
+    "streak": "W1"
+   },
+   "736077599457026048": {
+    "w": 4,
+    "l": 4,
+    "t": 0,
+    "avg_margin": -6.07,
+    "streak": "W2"
+   },
+   "608781531883859968": {
+    "w": 3,
+    "l": 5,
+    "t": 0,
+    "avg_margin": -16.24,
+    "streak": "W2"
+   },
+   "736803054736822272": {
+    "w": 6,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 33.5,
+    "streak": "W6"
+   },
+   "475399371639222272": {
+    "w": 3,
+    "l": 7,
+    "t": 0,
+    "avg_margin": 6.23,
+    "streak": "L2"
+   },
+   "865793938542456832": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -15.07,
+    "streak": "W1"
+   },
+   "1136842855890366464": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -27.16,
+    "streak": "L1"
+   }
+  },
+  "737091087440674816": {
+   "736740647758938112": {
+    "w": 1,
+    "l": 9,
+    "t": 0,
+    "avg_margin": -12.18,
+    "streak": "L1"
+   },
+   "475399371639222272": {
+    "w": 4,
+    "l": 3,
+    "t": 0,
+    "avg_margin": -10.13,
+    "streak": "W4"
+   },
+   "736077599457026048": {
+    "w": 4,
+    "l": 5,
+    "t": 0,
+    "avg_margin": -19.88,
+    "streak": "L1"
+   },
+   "736744257179770880": {
+    "w": 1,
+    "l": 7,
+    "t": 0,
+    "avg_margin": -27.31,
+    "streak": "L6"
+   },
+   "710284244835979264": {
+    "w": 3,
+    "l": 3,
+    "t": 0,
+    "avg_margin": -13.62,
+    "streak": "L1"
+   },
+   "608781531883859968": {
+    "w": 5,
+    "l": 3,
+    "t": 0,
+    "avg_margin": 3.02,
+    "streak": "W1"
+   },
+   "735974647736213504": {
+    "w": 3,
+    "l": 6,
+    "t": 0,
+    "avg_margin": -8.46,
+    "streak": "W1"
+   },
+   "716698629934481408": {
+    "w": 5,
+    "l": 4,
+    "t": 0,
+    "avg_margin": 10.42,
+    "streak": "W2"
+   },
+   "736803054736822272": {
+    "w": 8,
+    "l": 2,
+    "t": 0,
+    "avg_margin": 21.68,
+    "streak": "W2"
+   },
+   "1136842855890366464": {
+    "w": 0,
+    "l": 2,
+    "t": 0,
+    "avg_margin": -22.43,
+    "streak": "L2"
+   },
+   "865793938542456832": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "avg_margin": 19.05,
+    "streak": "W1"
+   }
+  },
+  "710284244835979264": {
+   "736744257179770880": {
+    "w": 4,
+    "l": 5,
+    "t": 0,
+    "avg_margin": 1.1,
+    "streak": "W1"
+   },
+   "736803054736822272": {
+    "w": 1,
+    "l": 10,
+    "t": 0,
+    "avg_margin": -22.19,
+    "streak": "L5"
+   },
+   "608781531883859968": {
+    "w": 3,
+    "l": 6,
+    "t": 0,
+    "avg_margin": -17.62,
+    "streak": "L2"
+   },
+   "736740647758938112": {
+    "w": 4,
+    "l": 4,
+    "t": 0,
+    "avg_margin": 6.53,
+    "streak": "L1"
+   },
+   "737091087440674816": {
+    "w": 3,
+    "l": 3,
+    "t": 0,
+    "avg_margin": 13.62,
+    "streak": "W1"
+   },
+   "735974647736213504": {
+    "w": 4,
+    "l": 6,
+    "t": 0,
+    "avg_margin": -1.14,
+    "streak": "W1"
+   },
+   "716698629934481408": {
+    "w": 5,
+    "l": 2,
+    "t": 0,
+    "avg_margin": -1.76,
+    "streak": "W1"
+   },
+   "475399371639222272": {
+    "w": 5,
+    "l": 3,
+    "t": 0,
+    "avg_margin": 16.97,
+    "streak": "L2"
+   },
+   "736077599457026048": {
+    "w": 6,
+    "l": 4,
+    "t": 0,
+    "avg_margin": 10.71,
+    "streak": "L1"
+   },
+   "865793938542456832": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -56.43,
+    "streak": "L1"
+   },
+   "1136842855890366464": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 41.51,
+    "streak": "W1"
+   }
+  },
+  "736744257179770880": {
+   "710284244835979264": {
+    "w": 5,
+    "l": 4,
+    "t": 0,
+    "avg_margin": -1.1,
+    "streak": "L1"
+   },
+   "608781531883859968": {
+    "w": 6,
+    "l": 5,
+    "t": 0,
+    "avg_margin": 5.73,
+    "streak": "L5"
+   },
+   "736803054736822272": {
+    "w": 2,
+    "l": 5,
+    "t": 0,
+    "avg_margin": -8.81,
+    "streak": "L3"
+   },
+   "737091087440674816": {
+    "w": 7,
+    "l": 1,
+    "t": 0,
+    "avg_margin": 27.31,
+    "streak": "W6"
+   },
+   "736740647758938112": {
+    "w": 7,
+    "l": 3,
+    "t": 0,
+    "avg_margin": 19.41,
+    "streak": "L1"
+   },
+   "716698629934481408": {
+    "w": 4,
+    "l": 4,
+    "t": 0,
+    "avg_margin": 6.5,
+    "streak": "W1"
+   },
+   "475399371639222272": {
+    "w": 5,
+    "l": 4,
+    "t": 0,
+    "avg_margin": -0.06,
+    "streak": "L1"
+   },
+   "736077599457026048": {
+    "w": 3,
+    "l": 5,
+    "t": 0,
+    "avg_margin": -21.88,
+    "streak": "L1"
+   },
+   "735974647736213504": {
+    "w": 4,
+    "l": 4,
+    "t": 0,
+    "avg_margin": -11.35,
+    "streak": "L1"
+   },
+   "1136842855890366464": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -4.22,
+    "streak": "L1"
+   },
+   "865793938542456832": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -12.93,
+    "streak": "L1"
+   }
+  },
+  "716698629934481408": {
+   "735974647736213504": {
+    "w": 6,
+    "l": 2,
+    "t": 0,
+    "avg_margin": 18.67,
+    "streak": "W2"
+   },
+   "736077599457026048": {
+    "w": 6,
+    "l": 4,
+    "t": 0,
+    "avg_margin": -0.92,
+    "streak": "W3"
+   },
+   "736740647758938112": {
+    "w": 5,
+    "l": 5,
+    "t": 0,
+    "avg_margin": -4.65,
+    "streak": "W1"
+   },
+   "475399371639222272": {
+    "w": 2,
+    "l": 7,
+    "t": 0,
+    "avg_margin": -14.19,
+    "streak": "L2"
+   },
+   "736803054736822272": {
+    "w": 5,
+    "l": 5,
+    "t": 0,
+    "avg_margin": -6.73,
+    "streak": "L1"
+   },
+   "736744257179770880": {
+    "w": 4,
+    "l": 4,
+    "t": 0,
+    "avg_margin": -6.5,
+    "streak": "L1"
+   },
+   "710284244835979264": {
+    "w": 2,
+    "l": 5,
+    "t": 0,
+    "avg_margin": 1.76,
+    "streak": "L1"
+   },
+   "737091087440674816": {
+    "w": 4,
+    "l": 5,
+    "t": 0,
+    "avg_margin": -10.42,
+    "streak": "L2"
+   },
+   "608781531883859968": {
+    "w": 2,
+    "l": 6,
+    "t": 0,
+    "avg_margin": -22.7,
+    "streak": "W1"
+   },
+   "865793938542456832": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 24.81,
+    "streak": "W1"
+   },
+   "1136842855890366464": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -58.37,
+    "streak": "L1"
+   }
+  },
+  "735974647736213504": {
+   "716698629934481408": {
+    "w": 2,
+    "l": 6,
+    "t": 0,
+    "avg_margin": -18.67,
+    "streak": "L2"
+   },
+   "736740647758938112": {
+    "w": 6,
+    "l": 2,
+    "t": 0,
+    "avg_margin": 23.03,
+    "streak": "L1"
+   },
+   "475399371639222272": {
+    "w": 4,
+    "l": 6,
+    "t": 0,
+    "avg_margin": -10.14,
+    "streak": "L1"
+   },
+   "736803054736822272": {
+    "w": 6,
+    "l": 3,
+    "t": 0,
+    "avg_margin": 11.6,
+    "streak": "W2"
+   },
+   "736077599457026048": {
+    "w": 4,
+    "l": 3,
+    "t": 0,
+    "avg_margin": 11.47,
+    "streak": "L2"
+   },
+   "710284244835979264": {
+    "w": 6,
+    "l": 4,
+    "t": 0,
+    "avg_margin": 1.14,
+    "streak": "L1"
+   },
+   "737091087440674816": {
+    "w": 6,
+    "l": 3,
+    "t": 0,
+    "avg_margin": 8.46,
+    "streak": "L1"
+   },
+   "608781531883859968": {
+    "w": 5,
+    "l": 5,
+    "t": 0,
+    "avg_margin": 2.45,
+    "streak": "L1"
+   },
+   "736744257179770880": {
+    "w": 4,
+    "l": 4,
+    "t": 0,
+    "avg_margin": 11.35,
+    "streak": "W1"
+   },
+   "865793938542456832": {
+    "w": 0,
+    "l": 2,
+    "t": 0,
+    "avg_margin": -29.48,
+    "streak": "L2"
+   },
+   "1136842855890366464": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -37.4,
+    "streak": "L1"
+   }
+  },
+  "865793938542456832": {
+   "608781531883859968": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -1.97,
+    "streak": "L1"
+   },
+   "716698629934481408": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -24.81,
+    "streak": "L1"
+   },
+   "736744257179770880": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 12.93,
+    "streak": "W1"
+   },
+   "710284244835979264": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 56.43,
+    "streak": "W1"
+   },
+   "735974647736213504": {
+    "w": 2,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 29.48,
+    "streak": "W2"
+   },
+   "736740647758938112": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "avg_margin": 15.07,
+    "streak": "L1"
+   },
+   "736077599457026048": {
+    "w": 0,
+    "l": 2,
+    "t": 0,
+    "avg_margin": -18.86,
+    "streak": "L2"
+   },
+   "1136842855890366464": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 5.05,
+    "streak": "W1"
+   },
+   "737091087440674816": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -19.05,
+    "streak": "L1"
+   },
+   "736803054736822272": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 25.23,
+    "streak": "W1"
+   },
+   "475399371639222272": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -18.14,
+    "streak": "L1"
+   }
+  },
+  "1136842855890366464": {
+   "736744257179770880": {
+    "w": 1,
+    "l": 1,
+    "t": 0,
+    "avg_margin": 4.22,
+    "streak": "W1"
+   },
+   "608781531883859968": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 26.87,
+    "streak": "W1"
+   },
+   "736077599457026048": {
+    "w": 0,
+    "l": 2,
+    "t": 0,
+    "avg_margin": -20.86,
+    "streak": "L2"
+   },
+   "736803054736822272": {
+    "w": 1,
+    "l": 2,
+    "t": 0,
+    "avg_margin": -5.75,
+    "streak": "W1"
+   },
+   "475399371639222272": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -22.09,
+    "streak": "L1"
+   },
+   "737091087440674816": {
+    "w": 2,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 22.43,
+    "streak": "W2"
+   },
+   "736740647758938112": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 27.16,
+    "streak": "W1"
+   },
+   "865793938542456832": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -5.05,
+    "streak": "L1"
+   },
+   "710284244835979264": {
+    "w": 0,
+    "l": 1,
+    "t": 0,
+    "avg_margin": -41.51,
+    "streak": "L1"
+   },
+   "716698629934481408": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 58.37,
+    "streak": "W1"
+   },
+   "735974647736213504": {
+    "w": 1,
+    "l": 0,
+    "t": 0,
+    "avg_margin": 37.4,
+    "streak": "W1"
+   }
+  }
+ },
+ "pairs": {
+  "608781531883859968|736803054736822272": [
+   {
+    "season": 2021,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 149.98,
+    "b_points": 115.9,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2021,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 151.56,
+    "b_points": 91.66,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2022,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 141.32,
+    "b_points": 175.3,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2022,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 161.45,
+    "b_points": 133.39,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2023,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 112.14,
+    "b_points": 99.51,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2023,
+    "week": 17,
+    "is_playoff": true,
+    "a_points": 130.46,
+    "b_points": 122.35,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2024,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 162.77,
+    "b_points": 74.11,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2025,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 131.9,
+    "b_points": 112.43,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2025,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 138.01,
+    "b_points": 125.78,
+    "winner_user": "608781531883859968"
+   }
+  ],
+  "475399371639222272|736077599457026048": [
+   {
+    "season": 2021,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 115.6,
+    "b_points": 134.24,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2021,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 124.24,
+    "b_points": 148.72,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2022,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 172.17,
+    "b_points": 135.51,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2023,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 87.74,
+    "b_points": 127.68,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2024,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 177.5,
+    "b_points": 124.94,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2025,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 151.7,
+    "b_points": 145.61,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2025,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 104.24,
+    "b_points": 155.77,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2025,
+    "week": 17,
+    "is_playoff": true,
+    "a_points": 160.91,
+    "b_points": 171.04,
+    "winner_user": "736077599457026048"
+   }
+  ],
+  "736740647758938112|737091087440674816": [
+   {
+    "season": 2021,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 158.68,
+    "b_points": 131.4,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2021,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 136.58,
+    "b_points": 124.84,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2022,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 183.07,
+    "b_points": 155.41,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2022,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 160.11,
+    "b_points": 140.95,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2023,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 131.82,
+    "b_points": 108.16,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2023,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 148.23,
+    "b_points": 140.97,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2024,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 149.81,
+    "b_points": 146.08,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2024,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 138.51,
+    "b_points": 135.5,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2025,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 127.85,
+    "b_points": 149.14,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2025,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 136.88,
+    "b_points": 117.28,
+    "winner_user": "736740647758938112"
+   }
+  ],
+  "710284244835979264|736744257179770880": [
+   {
+    "season": 2021,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 165.96,
+    "b_points": 129.64,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2021,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 74.42,
+    "b_points": 94.82,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2022,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 128.2,
+    "b_points": 149.16,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2022,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 105.81,
+    "b_points": 124.52,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2023,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 146.25,
+    "b_points": 137.82,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2024,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 117.23,
+    "b_points": 111.46,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2024,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 114.47,
+    "b_points": 115.09,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2025,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 117.22,
+    "b_points": 130.33,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2025,
+    "week": 17,
+    "is_playoff": true,
+    "a_points": 113.04,
+    "b_points": 79.85,
+    "winner_user": "710284244835979264"
+   }
+  ],
+  "716698629934481408|735974647736213504": [
+   {
+    "season": 2021,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 166.66,
+    "b_points": 155.68,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2021,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 151.0,
+    "b_points": 130.4,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2022,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 214.72,
+    "b_points": 118.18,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2023,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 106.05,
+    "b_points": 147.0,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2024,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 168.91,
+    "b_points": 164.09,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2024,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 149.75,
+    "b_points": 178.78,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2025,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 155.75,
+    "b_points": 105.06,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2025,
+    "week": 17,
+    "is_playoff": true,
+    "a_points": 129.76,
+    "b_points": 94.04,
+    "winner_user": "716698629934481408"
+   }
+  ],
+  "608781531883859968|736744257179770880": [
+   {
+    "season": 2021,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 100.64,
+    "b_points": 173.92,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2021,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 149.08,
+    "b_points": 168.56,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2021,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 112.32,
+    "b_points": 121.24,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2022,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 124.97,
+    "b_points": 166.22,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2022,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 116.42,
+    "b_points": 122.06,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2023,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 107.63,
+    "b_points": 137.67,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2023,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 155.93,
+    "b_points": 140.07,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2024,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 156.39,
+    "b_points": 143.43,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2024,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 165.6,
+    "b_points": 130.44,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2025,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 149.05,
+    "b_points": 145.05,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2025,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 170.93,
+    "b_points": 123.29,
+    "winner_user": "608781531883859968"
+   }
+  ],
+  "716698629934481408|736077599457026048": [
+   {
+    "season": 2021,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 167.94,
+    "b_points": 154.14,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2021,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 150.68,
+    "b_points": 114.74,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2021,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 106.36,
+    "b_points": 144.3,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2022,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 109.2,
+    "b_points": 142.8,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2022,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 116.04,
+    "b_points": 100.86,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2023,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 143.02,
+    "b_points": 146.53,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2023,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 110.97,
+    "b_points": 174.34,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2024,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 142.41,
+    "b_points": 111.85,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2025,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 152.45,
+    "b_points": 130.17,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2025,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 131.34,
+    "b_points": 119.84,
+    "winner_user": "716698629934481408"
+   }
+  ],
+  "475399371639222272|737091087440674816": [
+   {
+    "season": 2021,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 139.32,
+    "b_points": 120.14,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2021,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 129.1,
+    "b_points": 101.02,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2022,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 165.24,
+    "b_points": 85.18,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2023,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 158.23,
+    "b_points": 185.52,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2023,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 111.52,
+    "b_points": 116.32,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2024,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 148.93,
+    "b_points": 158.15,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2025,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 150.17,
+    "b_points": 165.26,
+    "winner_user": "737091087440674816"
+   }
+  ],
+  "735974647736213504|736740647758938112": [
+   {
+    "season": 2021,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 131.8,
+    "b_points": 134.6,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2021,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 172.58,
+    "b_points": 136.22,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2022,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 141.44,
+    "b_points": 110.7,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2023,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 118.36,
+    "b_points": 105.94,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2024,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 164.26,
+    "b_points": 113.15,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2024,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 171.37,
+    "b_points": 137.63,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2025,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 127.4,
+    "b_points": 99.49,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2025,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 141.3,
+    "b_points": 146.56,
+    "winner_user": "736740647758938112"
+   }
+  ],
+  "710284244835979264|736803054736822272": [
+   {
+    "season": 2021,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 130.8,
+    "b_points": 201.96,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2021,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 145.78,
+    "b_points": 153.56,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2021,
+    "week": 14,
+    "is_playoff": true,
+    "a_points": 134.42,
+    "b_points": 165.48,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2022,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 137.24,
+    "b_points": 164.44,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2023,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 114.31,
+    "b_points": 144.03,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2023,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 218.49,
+    "b_points": 126.44,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2023,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 159.45,
+    "b_points": 167.95,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2024,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 106.21,
+    "b_points": 113.81,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2024,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 123.42,
+    "b_points": 165.29,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2025,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 123.49,
+    "b_points": 199.72,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2025,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 107.14,
+    "b_points": 142.2,
+    "winner_user": "736803054736822272"
+   }
+  ],
+  "608781531883859968|710284244835979264": [
+   {
+    "season": 2021,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 181.9,
+    "b_points": 139.16,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2021,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 161.72,
+    "b_points": 135.9,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2022,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 140.62,
+    "b_points": 133.49,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2022,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 148.7,
+    "b_points": 151.26,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2022,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 153.25,
+    "b_points": 141.98,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2023,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 120.32,
+    "b_points": 164.59,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2024,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 175.64,
+    "b_points": 195.21,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2024,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 193.9,
+    "b_points": 141.07,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2025,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 176.8,
+    "b_points": 91.59,
+    "winner_user": "608781531883859968"
+   }
+  ],
+  "736077599457026048|737091087440674816": [
+   {
+    "season": 2021,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 138.3,
+    "b_points": 120.56,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2021,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 137.16,
+    "b_points": 142.72,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2022,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 110.65,
+    "b_points": 149.99,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2022,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 161.94,
+    "b_points": 119.2,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2023,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 140.74,
+    "b_points": 67.01,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2023,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 144.98,
+    "b_points": 180.53,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2024,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 143.84,
+    "b_points": 107.07,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2024,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 149.63,
+    "b_points": 150.01,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2025,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 176.04,
+    "b_points": 87.23,
+    "winner_user": "736077599457026048"
+   }
+  ],
+  "736744257179770880|736803054736822272": [
+   {
+    "season": 2021,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 171.08,
+    "b_points": 175.06,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2021,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 111.88,
+    "b_points": 117.76,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2022,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 117.22,
+    "b_points": 106.01,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2023,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 150.45,
+    "b_points": 123.41,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2023,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 152.29,
+    "b_points": 198.66,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2024,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 149.74,
+    "b_points": 191.27,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2025,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 110.6,
+    "b_points": 112.76,
+    "winner_user": "736803054736822272"
+   }
+  ],
+  "716698629934481408|736740647758938112": [
+   {
+    "season": 2021,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 131.34,
+    "b_points": 130.4,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2021,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 117.32,
+    "b_points": 129.3,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2021,
+    "week": 14,
+    "is_playoff": true,
+    "a_points": 117.28,
+    "b_points": 179.66,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2022,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 117.03,
+    "b_points": 156.38,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2022,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 150.56,
+    "b_points": 124.7,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2023,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 138.87,
+    "b_points": 124.99,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2024,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 99.41,
+    "b_points": 127.38,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2024,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 189.64,
+    "b_points": 119.61,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2025,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 120.24,
+    "b_points": 149.41,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2025,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 119.66,
+    "b_points": 106.01,
+    "winner_user": "716698629934481408"
+   }
+  ],
+  "475399371639222272|735974647736213504": [
+   {
+    "season": 2021,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 160.12,
+    "b_points": 114.84,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2021,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 148.04,
+    "b_points": 129.68,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2022,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 166.19,
+    "b_points": 130.42,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2022,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 150.74,
+    "b_points": 183.8,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2022,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 192.73,
+    "b_points": 144.13,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2023,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 96.47,
+    "b_points": 147.18,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2023,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 134.46,
+    "b_points": 153.01,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2024,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 135.05,
+    "b_points": 117.73,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2024,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 113.05,
+    "b_points": 137.63,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2025,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 191.85,
+    "b_points": 128.91,
+    "winner_user": "475399371639222272"
+   }
+  ],
+  "608781531883859968|736077599457026048": [
+   {
+    "season": 2021,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 141.34,
+    "b_points": 159.32,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2021,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 171.14,
+    "b_points": 178.86,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2022,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 172.7,
+    "b_points": 135.26,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2023,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 158.5,
+    "b_points": 130.26,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2023,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 116.4,
+    "b_points": 110.46,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2024,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 130.76,
+    "b_points": 203.93,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2024,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 188.39,
+    "b_points": 125.45,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2025,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 183.96,
+    "b_points": 153.96,
+    "winner_user": "608781531883859968"
+   }
+  ],
+  "736744257179770880|737091087440674816": [
+   {
+    "season": 2021,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 180.56,
+    "b_points": 97.46,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2021,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 131.04,
+    "b_points": 138.86,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2022,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 123.89,
+    "b_points": 122.19,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2023,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 166.77,
+    "b_points": 105.35,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2023,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 129.31,
+    "b_points": 91.66,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2024,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 129.63,
+    "b_points": 115.86,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2024,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 138.54,
+    "b_points": 116.74,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2025,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 114.0,
+    "b_points": 107.11,
+    "winner_user": "736744257179770880"
+   }
+  ],
+  "475399371639222272|716698629934481408": [
+   {
+    "season": 2021,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 110.18,
+    "b_points": 187.74,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2021,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 183.22,
+    "b_points": 116.72,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2022,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 160.5,
+    "b_points": 156.02,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2022,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 183.14,
+    "b_points": 139.77,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2023,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 155.84,
+    "b_points": 146.85,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2023,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 164.11,
+    "b_points": 149.39,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2024,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 111.93,
+    "b_points": 112.04,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2024,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 121.03,
+    "b_points": 119.09,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2025,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 153.68,
+    "b_points": 88.31,
+    "winner_user": "475399371639222272"
+   }
+  ],
+  "710284244835979264|736740647758938112": [
+   {
+    "season": 2021,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 147.1,
+    "b_points": 161.26,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2021,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 104.38,
+    "b_points": 182.24,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2022,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 104.96,
+    "b_points": 147.62,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2022,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 190.29,
+    "b_points": 94.5,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2023,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 138.89,
+    "b_points": 124.09,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2023,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 140.16,
+    "b_points": 126.61,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2024,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 165.66,
+    "b_points": 81.66,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2025,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 103.25,
+    "b_points": 124.48,
+    "winner_user": "736740647758938112"
+   }
+  ],
+  "735974647736213504|736803054736822272": [
+   {
+    "season": 2021,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 106.48,
+    "b_points": 127.94,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2021,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 116.32,
+    "b_points": 133.06,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2022,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 122.79,
+    "b_points": 109.92,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2022,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 179.89,
+    "b_points": 132.04,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2023,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 190.78,
+    "b_points": 114.71,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2024,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 141.32,
+    "b_points": 128.72,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2024,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 129.27,
+    "b_points": 157.26,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2024,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 172.55,
+    "b_points": 151.98,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2025,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 121.64,
+    "b_points": 120.98,
+    "winner_user": "735974647736213504"
+   }
+  ],
+  "475399371639222272|608781531883859968": [
+   {
+    "season": 2021,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 190.58,
+    "b_points": 213.58,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2021,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 185.78,
+    "b_points": 177.26,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2021,
+    "week": 17,
+    "is_playoff": true,
+    "a_points": 157.54,
+    "b_points": 166.96,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2022,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 162.08,
+    "b_points": 128.69,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2023,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 130.8,
+    "b_points": 134.52,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2024,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 106.22,
+    "b_points": 143.29,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2025,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 160.21,
+    "b_points": 107.04,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2025,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 186.38,
+    "b_points": 101.69,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2025,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 150.21,
+    "b_points": 101.54,
+    "winner_user": "475399371639222272"
+   }
+  ],
+  "735974647736213504|736077599457026048": [
+   {
+    "season": 2021,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 201.0,
+    "b_points": 131.56,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2022,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 129.57,
+    "b_points": 152.34,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2022,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 161.08,
+    "b_points": 139.19,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2023,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 147.47,
+    "b_points": 119.39,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2023,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 150.02,
+    "b_points": 133.56,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2024,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 174.94,
+    "b_points": 176.4,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2025,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 124.77,
+    "b_points": 156.09,
+    "winner_user": "736077599457026048"
+   }
+  ],
+  "710284244835979264|737091087440674816": [
+   {
+    "season": 2021,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 159.04,
+    "b_points": 166.68,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2022,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 111.7,
+    "b_points": 131.16,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2023,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 150.78,
+    "b_points": 123.31,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2024,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 175.53,
+    "b_points": 101.79,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2024,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 137.32,
+    "b_points": 143.9,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2025,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 159.66,
+    "b_points": 145.46,
+    "winner_user": "710284244835979264"
+   }
+  ],
+  "736740647758938112|736744257179770880": [
+   {
+    "season": 2021,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 102.94,
+    "b_points": 218.14,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2021,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 99.04,
+    "b_points": 119.9,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2021,
+    "week": 17,
+    "is_playoff": true,
+    "a_points": 145.74,
+    "b_points": 140.84,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2022,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 119.48,
+    "b_points": 123.61,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2022,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 85.99,
+    "b_points": 132.06,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2023,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 136.07,
+    "b_points": 167.97,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2023,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 114.88,
+    "b_points": 141.3,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2024,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 159.58,
+    "b_points": 126.44,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2025,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 95.64,
+    "b_points": 113.89,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2025,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 144.87,
+    "b_points": 114.16,
+    "winner_user": "736740647758938112"
+   }
+  ],
+  "716698629934481408|736803054736822272": [
+   {
+    "season": 2021,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 133.18,
+    "b_points": 121.22,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2022,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 126.03,
+    "b_points": 121.95,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2022,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 124.16,
+    "b_points": 136.56,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2022,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 146.23,
+    "b_points": 131.96,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2023,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 139.58,
+    "b_points": 170.53,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2023,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 128.23,
+    "b_points": 163.14,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2024,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 145.66,
+    "b_points": 115.02,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2024,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 115.71,
+    "b_points": 134.36,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2024,
+    "week": 17,
+    "is_playoff": true,
+    "a_points": 187.45,
+    "b_points": 165.6,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2025,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 121.77,
+    "b_points": 174.95,
+    "winner_user": "736803054736822272"
+   }
+  ],
+  "608781531883859968|737091087440674816": [
+   {
+    "season": 2021,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 169.56,
+    "b_points": 126.48,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2022,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 185.53,
+    "b_points": 107.22,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2022,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 138.03,
+    "b_points": 154.21,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2023,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 134.84,
+    "b_points": 189.74,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2023,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 108.52,
+    "b_points": 148.06,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2024,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 118.16,
+    "b_points": 140.32,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2024,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 137.66,
+    "b_points": 123.29,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2025,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 100.69,
+    "b_points": 127.8,
+    "winner_user": "737091087440674816"
+   }
+  ],
+  "736077599457026048|736740647758938112": [
+   {
+    "season": 2021,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 154.14,
+    "b_points": 185.98,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2022,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 126.27,
+    "b_points": 156.59,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2022,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 138.96,
+    "b_points": 78.71,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2023,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 131.17,
+    "b_points": 103.38,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2024,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 171.77,
+    "b_points": 137.66,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2024,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 178.96,
+    "b_points": 125.94,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2024,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 148.41,
+    "b_points": 177.52,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2025,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 115.63,
+    "b_points": 150.95,
+    "winner_user": "736740647758938112"
+   }
+  ],
+  "716698629934481408|736744257179770880": [
+   {
+    "season": 2021,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 143.92,
+    "b_points": 149.1,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2022,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 130.69,
+    "b_points": 113.67,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2022,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 102.75,
+    "b_points": 160.94,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2023,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 121.44,
+    "b_points": 126.13,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2023,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 142.24,
+    "b_points": 136.28,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2024,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 140.16,
+    "b_points": 138.82,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2025,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 119.59,
+    "b_points": 86.0,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2025,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 117.79,
+    "b_points": 159.63,
+    "winner_user": "736744257179770880"
+   }
+  ],
+  "710284244835979264|735974647736213504": [
+   {
+    "season": 2021,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 150.06,
+    "b_points": 134.24,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2021,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 97.72,
+    "b_points": 142.7,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2021,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 140.3,
+    "b_points": 144.16,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2022,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 130.15,
+    "b_points": 134.93,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2023,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 192.62,
+    "b_points": 149.75,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2023,
+    "week": 17,
+    "is_playoff": true,
+    "a_points": 183.51,
+    "b_points": 161.54,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2024,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 137.66,
+    "b_points": 146.88,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2025,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 125.92,
+    "b_points": 140.21,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2025,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 115.5,
+    "b_points": 151.08,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2025,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 124.04,
+    "b_points": 103.38,
+    "winner_user": "710284244835979264"
+   }
+  ],
+  "475399371639222272|736803054736822272": [
+   {
+    "season": 2021,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 137.42,
+    "b_points": 117.62,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2022,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 174.27,
+    "b_points": 106.98,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2023,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 128.59,
+    "b_points": 196.94,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2023,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 103.12,
+    "b_points": 150.3,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2024,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 115.62,
+    "b_points": 110.45,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2024,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 99.04,
+    "b_points": 147.39,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2025,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 111.21,
+    "b_points": 142.02,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2025,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 139.6,
+    "b_points": 133.43,
+    "winner_user": "475399371639222272"
+   }
+  ],
+  "608781531883859968|736740647758938112": [
+   {
+    "season": 2021,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 148.4,
+    "b_points": 135.24,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2022,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 190.9,
+    "b_points": 131.65,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2022,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 99.69,
+    "b_points": 152.46,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2023,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 126.38,
+    "b_points": 120.04,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2023,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 170.96,
+    "b_points": 117.0,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2024,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 199.69,
+    "b_points": 113.48,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2024,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 164.97,
+    "b_points": 175.19,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2025,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 140.84,
+    "b_points": 166.81,
+    "winner_user": "736740647758938112"
+   }
+  ],
+  "736077599457026048|736803054736822272": [
+   {
+    "season": 2021,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 160.48,
+    "b_points": 146.38,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2022,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 152.84,
+    "b_points": 100.28,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2022,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 133.29,
+    "b_points": 196.75,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2023,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 170.59,
+    "b_points": 110.22,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2023,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 103.97,
+    "b_points": 161.88,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2024,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 138.62,
+    "b_points": 119.67,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2024,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 175.78,
+    "b_points": 183.0,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2025,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 130.72,
+    "b_points": 128.21,
+    "winner_user": "736077599457026048"
+   }
+  ],
+  "735974647736213504|737091087440674816": [
+   {
+    "season": 2021,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 171.06,
+    "b_points": 98.98,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2021,
+    "week": 14,
+    "is_playoff": true,
+    "a_points": 109.8,
+    "b_points": 170.4,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2022,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 158.83,
+    "b_points": 138.13,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2022,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 165.78,
+    "b_points": 134.34,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2023,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 112.16,
+    "b_points": 106.03,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2023,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 109.67,
+    "b_points": 134.09,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2024,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 149.78,
+    "b_points": 142.72,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2025,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 175.38,
+    "b_points": 146.13,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2025,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 137.28,
+    "b_points": 142.77,
+    "winner_user": "737091087440674816"
+   }
+  ],
+  "475399371639222272|736744257179770880": [
+   {
+    "season": 2021,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 180.08,
+    "b_points": 143.4,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2022,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 119.68,
+    "b_points": 135.05,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2022,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 100.33,
+    "b_points": 158.12,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2022,
+    "week": 17,
+    "is_playoff": true,
+    "a_points": 119.01,
+    "b_points": 122.78,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2023,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 167.46,
+    "b_points": 126.86,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2024,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 151.66,
+    "b_points": 116.25,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2024,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 139.34,
+    "b_points": 174.65,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2024,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 101.47,
+    "b_points": 130.99,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2025,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 165.16,
+    "b_points": 135.58,
+    "winner_user": "475399371639222272"
+   }
+  ],
+  "710284244835979264|716698629934481408": [
+   {
+    "season": 2021,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 128.04,
+    "b_points": 122.18,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2022,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 105.22,
+    "b_points": 97.52,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2023,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 149.01,
+    "b_points": 142.94,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2023,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 113.71,
+    "b_points": 147.55,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2024,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 141.22,
+    "b_points": 116.04,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2024,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 102.91,
+    "b_points": 186.11,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2025,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 166.44,
+    "b_points": 106.54,
+    "winner_user": "710284244835979264"
+   }
+  ],
+  "608781531883859968|735974647736213504": [
+   {
+    "season": 2021,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 151.76,
+    "b_points": 125.66,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2022,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 174.02,
+    "b_points": 175.31,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2022,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 148.59,
+    "b_points": 142.55,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2022,
+    "week": 17,
+    "is_playoff": true,
+    "a_points": 133.24,
+    "b_points": 145.73,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2023,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 120.98,
+    "b_points": 187.73,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2023,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 175.47,
+    "b_points": 154.02,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2023,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 129.94,
+    "b_points": 120.74,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2024,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 169.28,
+    "b_points": 172.85,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2024,
+    "week": 17,
+    "is_playoff": true,
+    "a_points": 172.24,
+    "b_points": 205.05,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2025,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 153.24,
+    "b_points": 123.6,
+    "winner_user": "608781531883859968"
+   }
+  ],
+  "736077599457026048|736744257179770880": [
+   {
+    "season": 2021,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 159.62,
+    "b_points": 113.04,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2021,
+    "week": 14,
+    "is_playoff": true,
+    "a_points": 142.52,
+    "b_points": 153.96,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2022,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 176.14,
+    "b_points": 101.99,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2023,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 151.3,
+    "b_points": 121.63,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2023,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 144.16,
+    "b_points": 157.31,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2024,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 149.25,
+    "b_points": 109.45,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2024,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 161.0,
+    "b_points": 174.86,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2025,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 129.33,
+    "b_points": 106.08,
+    "winner_user": "736077599457026048"
+   }
+  ],
+  "716698629934481408|737091087440674816": [
+   {
+    "season": 2021,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 93.06,
+    "b_points": 119.98,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2022,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 177.28,
+    "b_points": 164.62,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2022,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 114.95,
+    "b_points": 102.2,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2023,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 121.74,
+    "b_points": 106.94,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2023,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 125.65,
+    "b_points": 185.0,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2024,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 148.3,
+    "b_points": 155.83,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2024,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 140.26,
+    "b_points": 136.6,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2025,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 103.4,
+    "b_points": 119.31,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2025,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 126.31,
+    "b_points": 154.23,
+    "winner_user": "737091087440674816"
+   }
+  ],
+  "736740647758938112|736803054736822272": [
+   {
+    "season": 2021,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 153.36,
+    "b_points": 131.64,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2022,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 118.2,
+    "b_points": 107.36,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2023,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 186.65,
+    "b_points": 119.39,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2023,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 152.36,
+    "b_points": 118.4,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2024,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 145.71,
+    "b_points": 120.15,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2025,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 161.76,
+    "b_points": 120.13,
+    "winner_user": "736740647758938112"
+   }
+  ],
+  "475399371639222272|710284244835979264": [
+   {
+    "season": 2021,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 131.36,
+    "b_points": 125.94,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2022,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 136.03,
+    "b_points": 185.38,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2022,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 125.22,
+    "b_points": 151.42,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2023,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 96.71,
+    "b_points": 114.08,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2023,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 106.26,
+    "b_points": 135.51,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2024,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 128.23,
+    "b_points": 162.26,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2024,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 130.08,
+    "b_points": 118.91,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2025,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 132.02,
+    "b_points": 128.21,
+    "winner_user": "475399371639222272"
+   }
+  ],
+  "608781531883859968|716698629934481408": [
+   {
+    "season": 2021,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 110.18,
+    "b_points": 159.36,
+    "winner_user": "716698629934481408"
+   },
+   {
+    "season": 2022,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 160.95,
+    "b_points": 124.87,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2023,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 152.98,
+    "b_points": 126.35,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2023,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 146.13,
+    "b_points": 96.24,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2024,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 147.01,
+    "b_points": 103.1,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2024,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 178.73,
+    "b_points": 174.72,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2025,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 181.85,
+    "b_points": 95.14,
+    "winner_user": "608781531883859968"
+   },
+   {
+    "season": 2025,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 113.79,
+    "b_points": 130.26,
+    "winner_user": "716698629934481408"
+   }
+  ],
+  "710284244835979264|736077599457026048": [
+   {
+    "season": 2021,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 122.22,
+    "b_points": 122.44,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2022,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 126.38,
+    "b_points": 101.25,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2022,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 144.09,
+    "b_points": 94.19,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2022,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 131.76,
+    "b_points": 106.56,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2023,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 130.58,
+    "b_points": 114.32,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2023,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 197.4,
+    "b_points": 159.09,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2024,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 127.7,
+    "b_points": 140.28,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2024,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 128.97,
+    "b_points": 173.78,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2025,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 153.44,
+    "b_points": 115.93,
+    "winner_user": "710284244835979264"
+   },
+   {
+    "season": 2025,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 81.01,
+    "b_points": 108.62,
+    "winner_user": "736077599457026048"
+   }
+  ],
+  "736803054736822272|737091087440674816": [
+   {
+    "season": 2021,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 103.6,
+    "b_points": 116.68,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2021,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 72.92,
+    "b_points": 108.72,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2021,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 67.92,
+    "b_points": 101.54,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2022,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 133.57,
+    "b_points": 151.74,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2022,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 139.92,
+    "b_points": 156.97,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2022,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 110.7,
+    "b_points": 175.41,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2023,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 163.01,
+    "b_points": 157.37,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2024,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 118.27,
+    "b_points": 113.29,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2024,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 110.72,
+    "b_points": 139.33,
+    "winner_user": "737091087440674816"
+   },
+   {
+    "season": 2025,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 105.36,
+    "b_points": 121.7,
+    "winner_user": "737091087440674816"
+   }
+  ],
+  "735974647736213504|736744257179770880": [
+   {
+    "season": 2021,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 144.24,
+    "b_points": 118.02,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2022,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 123.57,
+    "b_points": 126.84,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2022,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 109.49,
+    "b_points": 112.18,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2023,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 154.08,
+    "b_points": 162.54,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2023,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 164.08,
+    "b_points": 136.41,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2024,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 166.59,
+    "b_points": 102.32,
+    "winner_user": "735974647736213504"
+   },
+   {
+    "season": 2024,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 134.88,
+    "b_points": 157.81,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2025,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 149.53,
+    "b_points": 139.56,
+    "winner_user": "735974647736213504"
+   }
+  ],
+  "475399371639222272|736740647758938112": [
+   {
+    "season": 2021,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 91.12,
+    "b_points": 90.18,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2021,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 75.74,
+    "b_points": 171.04,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2022,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 125.31,
+    "b_points": 111.7,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2022,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 144.39,
+    "b_points": 141.3,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2023,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 124.83,
+    "b_points": 123.95,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2023,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 152.23,
+    "b_points": 108.7,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2023,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 69.79,
+    "b_points": 160.82,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2024,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 99.35,
+    "b_points": 159.66,
+    "winner_user": "736740647758938112"
+   },
+   {
+    "season": 2024,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 165.75,
+    "b_points": 122.79,
+    "winner_user": "475399371639222272"
+   },
+   {
+    "season": 2025,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 179.83,
+    "b_points": 100.47,
+    "winner_user": "475399371639222272"
+   }
+  ],
+  "608781531883859968|865793938542456832": [
+   {
+    "season": 2025,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 126.23,
+    "b_points": 133.51,
+    "winner_user": "865793938542456832"
+   },
+   {
+    "season": 2025,
+    "week": 17,
+    "is_playoff": true,
+    "a_points": 105.56,
+    "b_points": 94.34,
+    "winner_user": "608781531883859968"
+   }
+  ],
+  "1136842855890366464|736744257179770880": [
+   {
+    "season": 2025,
+    "week": 1,
+    "is_playoff": false,
+    "a_points": 137.22,
+    "b_points": 141.27,
+    "winner_user": "736744257179770880"
+   },
+   {
+    "season": 2025,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 170.42,
+    "b_points": 157.92,
+    "winner_user": "1136842855890366464"
+   }
+  ],
+  "1136842855890366464|608781531883859968": [
+   {
+    "season": 2025,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 155.54,
+    "b_points": 128.67,
+    "winner_user": "1136842855890366464"
+   }
+  ],
+  "716698629934481408|865793938542456832": [
+   {
+    "season": 2025,
+    "week": 2,
+    "is_playoff": false,
+    "a_points": 144.1,
+    "b_points": 119.29,
+    "winner_user": "716698629934481408"
+   }
+  ],
+  "1136842855890366464|736077599457026048": [
+   {
+    "season": 2025,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 113.69,
+    "b_points": 139.1,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2025,
+    "week": 15,
+    "is_playoff": true,
+    "a_points": 159.88,
+    "b_points": 176.19,
+    "winner_user": "736077599457026048"
+   }
+  ],
+  "736744257179770880|865793938542456832": [
+   {
+    "season": 2025,
+    "week": 3,
+    "is_playoff": false,
+    "a_points": 120.78,
+    "b_points": 133.71,
+    "winner_user": "865793938542456832"
+   }
+  ],
+  "710284244835979264|865793938542456832": [
+   {
+    "season": 2025,
+    "week": 4,
+    "is_playoff": false,
+    "a_points": 111.59,
+    "b_points": 168.02,
+    "winner_user": "865793938542456832"
+   }
+  ],
+  "735974647736213504|865793938542456832": [
+   {
+    "season": 2025,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 108.18,
+    "b_points": 119.17,
+    "winner_user": "865793938542456832"
+   },
+   {
+    "season": 2025,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 91.28,
+    "b_points": 139.24,
+    "winner_user": "865793938542456832"
+   }
+  ],
+  "1136842855890366464|736803054736822272": [
+   {
+    "season": 2025,
+    "week": 5,
+    "is_playoff": false,
+    "a_points": 141.64,
+    "b_points": 156.44,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2025,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 95.1,
+    "b_points": 179.11,
+    "winner_user": "736803054736822272"
+   },
+   {
+    "season": 2025,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 222.36,
+    "b_points": 140.81,
+    "winner_user": "1136842855890366464"
+   }
+  ],
+  "736740647758938112|865793938542456832": [
+   {
+    "season": 2025,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 103.14,
+    "b_points": 144.61,
+    "winner_user": "865793938542456832"
+   },
+   {
+    "season": 2025,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 132.46,
+    "b_points": 121.12,
+    "winner_user": "736740647758938112"
+   }
+  ],
+  "1136842855890366464|475399371639222272": [
+   {
+    "season": 2025,
+    "week": 6,
+    "is_playoff": false,
+    "a_points": 123.8,
+    "b_points": 145.89,
+    "winner_user": "475399371639222272"
+   }
+  ],
+  "736077599457026048|865793938542456832": [
+   {
+    "season": 2025,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 173.23,
+    "b_points": 144.82,
+    "winner_user": "736077599457026048"
+   },
+   {
+    "season": 2025,
+    "week": 16,
+    "is_playoff": true,
+    "a_points": 146.91,
+    "b_points": 137.6,
+    "winner_user": "736077599457026048"
+   }
+  ],
+  "1136842855890366464|737091087440674816": [
+   {
+    "season": 2025,
+    "week": 7,
+    "is_playoff": false,
+    "a_points": 134.88,
+    "b_points": 102.63,
+    "winner_user": "1136842855890366464"
+   },
+   {
+    "season": 2025,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 131.89,
+    "b_points": 119.27,
+    "winner_user": "1136842855890366464"
+   }
+  ],
+  "1136842855890366464|736740647758938112": [
+   {
+    "season": 2025,
+    "week": 8,
+    "is_playoff": false,
+    "a_points": 160.53,
+    "b_points": 133.37,
+    "winner_user": "1136842855890366464"
+   }
+  ],
+  "1136842855890366464|865793938542456832": [
+   {
+    "season": 2025,
+    "week": 9,
+    "is_playoff": false,
+    "a_points": 124.01,
+    "b_points": 129.06,
+    "winner_user": "865793938542456832"
+   }
+  ],
+  "1136842855890366464|710284244835979264": [
+   {
+    "season": 2025,
+    "week": 10,
+    "is_playoff": false,
+    "a_points": 128.0,
+    "b_points": 169.51,
+    "winner_user": "710284244835979264"
+   }
+  ],
+  "737091087440674816|865793938542456832": [
+   {
+    "season": 2025,
+    "week": 11,
+    "is_playoff": false,
+    "a_points": 102.92,
+    "b_points": 109.29,
+    "winner_user": "865793938542456832"
+   },
+   {
+    "season": 2025,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 138.67,
+    "b_points": 94.2,
+    "winner_user": "737091087440674816"
+   }
+  ],
+  "736803054736822272|865793938542456832": [
+   {
+    "season": 2025,
+    "week": 12,
+    "is_playoff": false,
+    "a_points": 141.14,
+    "b_points": 166.37,
+    "winner_user": "865793938542456832"
+   }
+  ],
+  "1136842855890366464|716698629934481408": [
+   {
+    "season": 2025,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 149.88,
+    "b_points": 91.51,
+    "winner_user": "1136842855890366464"
+   }
+  ],
+  "475399371639222272|865793938542456832": [
+   {
+    "season": 2025,
+    "week": 13,
+    "is_playoff": false,
+    "a_points": 126.12,
+    "b_points": 107.98,
+    "winner_user": "475399371639222272"
+   }
+  ],
+  "1136842855890366464|735974647736213504": [
+   {
+    "season": 2025,
+    "week": 14,
+    "is_playoff": false,
+    "a_points": 163.41,
+    "b_points": 126.01,
+    "winner_user": "1136842855890366464"
+   }
+  ]
+ },
+ "reg_playoff_split": {
+  "608781531883859968|736803054736822272": {
+   "reg": [
+    6,
+    1,
+    0
+   ],
+   "playoff": [
+    2,
+    0,
+    0
+   ]
+  },
+  "475399371639222272|736077599457026048": {
+   "reg": [
+    3,
+    4,
+    0
+   ],
+   "playoff": [
+    0,
+    1,
+    0
+   ]
+  },
+  "736740647758938112|737091087440674816": {
+   "reg": [
+    6,
+    1,
+    0
+   ],
+   "playoff": [
+    3,
+    0,
+    0
+   ]
+  },
+  "710284244835979264|736744257179770880": {
+   "reg": [
+    3,
+    5,
+    0
+   ],
+   "playoff": [
+    1,
+    0,
+    0
+   ]
+  },
+  "716698629934481408|735974647736213504": {
+   "reg": [
+    5,
+    2,
+    0
+   ],
+   "playoff": [
+    1,
+    0,
+    0
+   ]
+  },
+  "608781531883859968|736744257179770880": {
+   "reg": [
+    5,
+    4,
+    0
+   ],
+   "playoff": [
+    0,
+    2,
+    0
+   ]
+  },
+  "716698629934481408|736077599457026048": {
+   "reg": [
+    6,
+    3,
+    0
+   ],
+   "playoff": [
+    0,
+    1,
+    0
+   ]
+  },
+  "475399371639222272|737091087440674816": {
+   "reg": [
+    3,
+    4,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "735974647736213504|736740647758938112": {
+   "reg": [
+    6,
+    1,
+    0
+   ],
+   "playoff": [
+    0,
+    1,
+    0
+   ]
+  },
+  "710284244835979264|736803054736822272": {
+   "reg": [
+    1,
+    8,
+    0
+   ],
+   "playoff": [
+    0,
+    2,
+    0
+   ]
+  },
+  "608781531883859968|710284244835979264": {
+   "reg": [
+    5,
+    3,
+    0
+   ],
+   "playoff": [
+    1,
+    0,
+    0
+   ]
+  },
+  "736077599457026048|737091087440674816": {
+   "reg": [
+    5,
+    4,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "736744257179770880|736803054736822272": {
+   "reg": [
+    2,
+    4,
+    0
+   ],
+   "playoff": [
+    0,
+    1,
+    0
+   ]
+  },
+  "716698629934481408|736740647758938112": {
+   "reg": [
+    3,
+    4,
+    0
+   ],
+   "playoff": [
+    2,
+    1,
+    0
+   ]
+  },
+  "475399371639222272|735974647736213504": {
+   "reg": [
+    5,
+    4,
+    0
+   ],
+   "playoff": [
+    1,
+    0,
+    0
+   ]
+  },
+  "608781531883859968|736077599457026048": {
+   "reg": [
+    4,
+    3,
+    0
+   ],
+   "playoff": [
+    1,
+    0,
+    0
+   ]
+  },
+  "736744257179770880|737091087440674816": {
+   "reg": [
+    6,
+    1,
+    0
+   ],
+   "playoff": [
+    1,
+    0,
+    0
+   ]
+  },
+  "475399371639222272|716698629934481408": {
+   "reg": [
+    6,
+    2,
+    0
+   ],
+   "playoff": [
+    1,
+    0,
+    0
+   ]
+  },
+  "710284244835979264|736740647758938112": {
+   "reg": [
+    4,
+    4,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "735974647736213504|736803054736822272": {
+   "reg": [
+    5,
+    3,
+    0
+   ],
+   "playoff": [
+    1,
+    0,
+    0
+   ]
+  },
+  "475399371639222272|608781531883859968": {
+   "reg": [
+    3,
+    3,
+    0
+   ],
+   "playoff": [
+    2,
+    1,
+    0
+   ]
+  },
+  "735974647736213504|736077599457026048": {
+   "reg": [
+    3,
+    3,
+    0
+   ],
+   "playoff": [
+    1,
+    0,
+    0
+   ]
+  },
+  "710284244835979264|737091087440674816": {
+   "reg": [
+    3,
+    2,
+    0
+   ],
+   "playoff": [
+    0,
+    1,
+    0
+   ]
+  },
+  "736740647758938112|736744257179770880": {
+   "reg": [
+    2,
+    6,
+    0
+   ],
+   "playoff": [
+    1,
+    1,
+    0
+   ]
+  },
+  "716698629934481408|736803054736822272": {
+   "reg": [
+    3,
+    5,
+    0
+   ],
+   "playoff": [
+    2,
+    0,
+    0
+   ]
+  },
+  "608781531883859968|737091087440674816": {
+   "reg": [
+    3,
+    5,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "736077599457026048|736740647758938112": {
+   "reg": [
+    4,
+    3,
+    0
+   ],
+   "playoff": [
+    0,
+    1,
+    0
+   ]
+  },
+  "716698629934481408|736744257179770880": {
+   "reg": [
+    4,
+    3,
+    0
+   ],
+   "playoff": [
+    0,
+    1,
+    0
+   ]
+  },
+  "710284244835979264|735974647736213504": {
+   "reg": [
+    2,
+    4,
+    0
+   ],
+   "playoff": [
+    2,
+    2,
+    0
+   ]
+  },
+  "475399371639222272|736803054736822272": {
+   "reg": [
+    4,
+    4,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "608781531883859968|736740647758938112": {
+   "reg": [
+    5,
+    3,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "736077599457026048|736803054736822272": {
+   "reg": [
+    5,
+    2,
+    0
+   ],
+   "playoff": [
+    0,
+    1,
+    0
+   ]
+  },
+  "735974647736213504|737091087440674816": {
+   "reg": [
+    6,
+    2,
+    0
+   ],
+   "playoff": [
+    0,
+    1,
+    0
+   ]
+  },
+  "475399371639222272|736744257179770880": {
+   "reg": [
+    4,
+    3,
+    0
+   ],
+   "playoff": [
+    0,
+    2,
+    0
+   ]
+  },
+  "710284244835979264|716698629934481408": {
+   "reg": [
+    5,
+    2,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "608781531883859968|735974647736213504": {
+   "reg": [
+    4,
+    3,
+    0
+   ],
+   "playoff": [
+    1,
+    2,
+    0
+   ]
+  },
+  "736077599457026048|736744257179770880": {
+   "reg": [
+    5,
+    1,
+    0
+   ],
+   "playoff": [
+    0,
+    2,
+    0
+   ]
+  },
+  "716698629934481408|737091087440674816": {
+   "reg": [
+    4,
+    3,
+    0
+   ],
+   "playoff": [
+    0,
+    2,
+    0
+   ]
+  },
+  "736740647758938112|736803054736822272": {
+   "reg": [
+    6,
+    0,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "475399371639222272|710284244835979264": {
+   "reg": [
+    2,
+    5,
+    0
+   ],
+   "playoff": [
+    1,
+    0,
+    0
+   ]
+  },
+  "608781531883859968|716698629934481408": {
+   "reg": [
+    5,
+    2,
+    0
+   ],
+   "playoff": [
+    1,
+    0,
+    0
+   ]
+  },
+  "710284244835979264|736077599457026048": {
+   "reg": [
+    5,
+    4,
+    0
+   ],
+   "playoff": [
+    1,
+    0,
+    0
+   ]
+  },
+  "736803054736822272|737091087440674816": {
+   "reg": [
+    2,
+    5,
+    0
+   ],
+   "playoff": [
+    0,
+    3,
+    0
+   ]
+  },
+  "735974647736213504|736744257179770880": {
+   "reg": [
+    4,
+    4,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "475399371639222272|736740647758938112": {
+   "reg": [
+    7,
+    1,
+    0
+   ],
+   "playoff": [
+    0,
+    2,
+    0
+   ]
+  },
+  "608781531883859968|865793938542456832": {
+   "reg": [
+    0,
+    1,
+    0
+   ],
+   "playoff": [
+    1,
+    0,
+    0
+   ]
+  },
+  "1136842855890366464|736744257179770880": {
+   "reg": [
+    1,
+    1,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "1136842855890366464|608781531883859968": {
+   "reg": [
+    1,
+    0,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "716698629934481408|865793938542456832": {
+   "reg": [
+    1,
+    0,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "1136842855890366464|736077599457026048": {
+   "reg": [
+    0,
+    1,
+    0
+   ],
+   "playoff": [
+    0,
+    1,
+    0
+   ]
+  },
+  "736744257179770880|865793938542456832": {
+   "reg": [
+    0,
+    1,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "710284244835979264|865793938542456832": {
+   "reg": [
+    0,
+    1,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "735974647736213504|865793938542456832": {
+   "reg": [
+    0,
+    2,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "1136842855890366464|736803054736822272": {
+   "reg": [
+    0,
+    2,
+    0
+   ],
+   "playoff": [
+    1,
+    0,
+    0
+   ]
+  },
+  "736740647758938112|865793938542456832": {
+   "reg": [
+    1,
+    1,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "1136842855890366464|475399371639222272": {
+   "reg": [
+    0,
+    1,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "736077599457026048|865793938542456832": {
+   "reg": [
+    1,
+    0,
+    0
+   ],
+   "playoff": [
+    1,
+    0,
+    0
+   ]
+  },
+  "1136842855890366464|737091087440674816": {
+   "reg": [
+    2,
+    0,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "1136842855890366464|736740647758938112": {
+   "reg": [
+    1,
+    0,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "1136842855890366464|865793938542456832": {
+   "reg": [
+    0,
+    1,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "1136842855890366464|710284244835979264": {
+   "reg": [
+    0,
+    1,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "737091087440674816|865793938542456832": {
+   "reg": [
+    1,
+    1,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "736803054736822272|865793938542456832": {
+   "reg": [
+    0,
+    1,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "1136842855890366464|716698629934481408": {
+   "reg": [
+    1,
+    0,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "475399371639222272|865793938542456832": {
+   "reg": [
+    1,
+    0,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  },
+  "1136842855890366464|735974647736213504": {
+   "reg": [
+    1,
+    0,
+    0
+   ],
+   "playoff": [
+    0,
+    0,
+    0
+   ]
+  }
+ }
+}

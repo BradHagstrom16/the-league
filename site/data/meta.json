@@ -1,0 +1,19 @@
+{
+ "league_name": "The league",
+ "seasons": [
+  2021,
+  2022,
+  2023,
+  2024,
+  2025
+ ],
+ "current_season": 2026,
+ "league_status": "pre_draft",
+ "generated_utc": "",
+ "lore": {
+  "trophy_name": "",
+  "punishments": {},
+  "champion_notes": {}
+ },
+ "era_boundary": 2025
+}

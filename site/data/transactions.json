@@ -1,0 +1,2560 @@
+{
+ "faab_seasons": {
+  "2021": [
+   {
+    "user_id": "736077599457026048",
+    "name": "Erjohnson14",
+    "spent": 96.0,
+    "points_after": 140.2,
+    "ppd": 1.46
+   },
+   {
+    "user_id": "735974647736213504",
+    "name": "KingTowsk",
+    "spent": 105.0,
+    "points_after": 110.1,
+    "ppd": 1.05
+   },
+   {
+    "user_id": "475399371639222272",
+    "name": "cc5597",
+    "spent": 82.0,
+    "points_after": 109.12,
+    "ppd": 1.33
+   },
+   {
+    "user_id": "736744257179770880",
+    "name": "jdrobny",
+    "spent": 100.0,
+    "points_after": 91.6,
+    "ppd": 0.92
+   },
+   {
+    "user_id": "716698629934481408",
+    "name": "charliekaufmann",
+    "spent": 46.0,
+    "points_after": 45.7,
+    "ppd": 0.99
+   },
+   {
+    "user_id": "736803054736822272",
+    "name": "TylerWicks",
+    "spent": 95.0,
+    "points_after": 39.96,
+    "ppd": 0.42
+   },
+   {
+    "user_id": "736740647758938112",
+    "name": "JSanDusky69",
+    "spent": 89.0,
+    "points_after": 37.66,
+    "ppd": 0.42
+   },
+   {
+    "user_id": "710284244835979264",
+    "name": "brockhusk",
+    "spent": 100.0,
+    "points_after": 29.2,
+    "ppd": 0.29
+   },
+   {
+    "user_id": "608781531883859968",
+    "name": "bgreenblatt",
+    "spent": 106.0,
+    "points_after": 26.76,
+    "ppd": 0.25
+   },
+   {
+    "user_id": "737091087440674816",
+    "name": "MaxSirianni",
+    "spent": 87.0,
+    "points_after": 13.2,
+    "ppd": 0.15
+   }
+  ],
+  "2022": [
+   {
+    "user_id": "735974647736213504",
+    "name": "KingTowsk",
+    "spent": 140.0,
+    "points_after": 492.99,
+    "ppd": 3.52
+   },
+   {
+    "user_id": "736077599457026048",
+    "name": "Erjohnson14",
+    "spent": 162.0,
+    "points_after": 325.03,
+    "ppd": 2.01
+   },
+   {
+    "user_id": "608781531883859968",
+    "name": "bgreenblatt",
+    "spent": 125.0,
+    "points_after": 298.95,
+    "ppd": 2.39
+   },
+   {
+    "user_id": "737091087440674816",
+    "name": "MaxSirianni",
+    "spent": 98.0,
+    "points_after": 261.2,
+    "ppd": 2.67
+   },
+   {
+    "user_id": "475399371639222272",
+    "name": "cc5597",
+    "spent": 125.0,
+    "points_after": 225.46,
+    "ppd": 1.8
+   },
+   {
+    "user_id": "710284244835979264",
+    "name": "brockhusk",
+    "spent": 112.0,
+    "points_after": 224.08,
+    "ppd": 2.0
+   },
+   {
+    "user_id": "716698629934481408",
+    "name": "charliekaufmann",
+    "spent": 89.0,
+    "points_after": 219.2,
+    "ppd": 2.46
+   },
+   {
+    "user_id": "736803054736822272",
+    "name": "TylerWicks",
+    "spent": 97.0,
+    "points_after": 175.92,
+    "ppd": 1.81
+   },
+   {
+    "user_id": "736740647758938112",
+    "name": "JSanDusky69",
+    "spent": 85.0,
+    "points_after": 151.22,
+    "ppd": 1.78
+   },
+   {
+    "user_id": "736744257179770880",
+    "name": "jdrobny",
+    "spent": 110.0,
+    "points_after": 68.5,
+    "ppd": 0.62
+   }
+  ],
+  "2023": [
+   {
+    "user_id": "608781531883859968",
+    "name": "bgreenblatt",
+    "spent": 135.0,
+    "points_after": 361.54,
+    "ppd": 2.68
+   },
+   {
+    "user_id": "735974647736213504",
+    "name": "KingTowsk",
+    "spent": 155.0,
+    "points_after": 331.6,
+    "ppd": 2.14
+   },
+   {
+    "user_id": "736803054736822272",
+    "name": "TylerWicks",
+    "spent": 87.0,
+    "points_after": 247.22,
+    "ppd": 2.84
+   },
+   {
+    "user_id": "716698629934481408",
+    "name": "charliekaufmann",
+    "spent": 71.0,
+    "points_after": 241.7,
+    "ppd": 3.4
+   },
+   {
+    "user_id": "736740647758938112",
+    "name": "JSanDusky69",
+    "spent": 110.0,
+    "points_after": 149.4,
+    "ppd": 1.36
+   },
+   {
+    "user_id": "736077599457026048",
+    "name": "Erjohnson14",
+    "spent": 106.0,
+    "points_after": 124.75,
+    "ppd": 1.18
+   },
+   {
+    "user_id": "737091087440674816",
+    "name": "MaxSirianni",
+    "spent": 81.0,
+    "points_after": 63.04,
+    "ppd": 0.78
+   },
+   {
+    "user_id": "475399371639222272",
+    "name": "cc5597",
+    "spent": 120.0,
+    "points_after": 62.3,
+    "ppd": 0.52
+   },
+   {
+    "user_id": "710284244835979264",
+    "name": "brockhusk",
+    "spent": 116.0,
+    "points_after": 50.85,
+    "ppd": 0.44
+   },
+   {
+    "user_id": "736744257179770880",
+    "name": "jdrobny",
+    "spent": 125.0,
+    "points_after": 9.5,
+    "ppd": 0.08
+   }
+  ],
+  "2024": [
+   {
+    "user_id": "716698629934481408",
+    "name": "charliekaufmann",
+    "spent": 125.0,
+    "points_after": 485.15,
+    "ppd": 3.88
+   },
+   {
+    "user_id": "736077599457026048",
+    "name": "Erjohnson14",
+    "spent": 160.0,
+    "points_after": 443.2,
+    "ppd": 2.77
+   },
+   {
+    "user_id": "736744257179770880",
+    "name": "jdrobny",
+    "spent": 125.0,
+    "points_after": 257.64,
+    "ppd": 2.06
+   },
+   {
+    "user_id": "735974647736213504",
+    "name": "KingTowsk",
+    "spent": 136.0,
+    "points_after": 256.7,
+    "ppd": 1.89
+   },
+   {
+    "user_id": "737091087440674816",
+    "name": "MaxSirianni",
+    "spent": 81.0,
+    "points_after": 168.65,
+    "ppd": 2.08
+   },
+   {
+    "user_id": "710284244835979264",
+    "name": "brockhusk",
+    "spent": 95.0,
+    "points_after": 135.25,
+    "ppd": 1.42
+   },
+   {
+    "user_id": "736740647758938112",
+    "name": "JSanDusky69",
+    "spent": 108.0,
+    "points_after": 131.35,
+    "ppd": 1.22
+   },
+   {
+    "user_id": "608781531883859968",
+    "name": "bgreenblatt",
+    "spent": 125.0,
+    "points_after": 106.79,
+    "ppd": 0.85
+   },
+   {
+    "user_id": "475399371639222272",
+    "name": "cc5597",
+    "spent": 109.0,
+    "points_after": 105.9,
+    "ppd": 0.97
+   },
+   {
+    "user_id": "736803054736822272",
+    "name": "TylerWicks",
+    "spent": 54.0,
+    "points_after": 14.25,
+    "ppd": 0.26
+   }
+  ],
+  "2025": [
+   {
+    "user_id": "736077599457026048",
+    "name": "Erjohnson14",
+    "spent": 125.0,
+    "points_after": 458.85,
+    "ppd": 3.67
+   },
+   {
+    "user_id": "736740647758938112",
+    "name": "JSanDusky69",
+    "spent": 125.0,
+    "points_after": 249.8,
+    "ppd": 2.0
+   },
+   {
+    "user_id": "716698629934481408",
+    "name": "charliekaufmann",
+    "spent": 125.0,
+    "points_after": 199.19,
+    "ppd": 1.59
+   },
+   {
+    "user_id": "735974647736213504",
+    "name": "KingTowsk",
+    "spent": 126.0,
+    "points_after": 171.09,
+    "ppd": 1.36
+   },
+   {
+    "user_id": "736803054736822272",
+    "name": "TylerWicks",
+    "spent": 125.0,
+    "points_after": 168.93,
+    "ppd": 1.35
+   },
+   {
+    "user_id": "475399371639222272",
+    "name": "cc5597",
+    "spent": 124.0,
+    "points_after": 153.5,
+    "ppd": 1.24
+   },
+   {
+    "user_id": "710284244835979264",
+    "name": "brockhusk",
+    "spent": 84.0,
+    "points_after": 147.15,
+    "ppd": 1.75
+   },
+   {
+    "user_id": "1136842855890366464",
+    "name": "akepple9",
+    "spent": 30.0,
+    "points_after": 140.9,
+    "ppd": 4.7
+   },
+   {
+    "user_id": "865793938542456832",
+    "name": "Jacktaco98",
+    "spent": 125.0,
+    "points_after": 131.15,
+    "ppd": 1.05
+   },
+   {
+    "user_id": "608781531883859968",
+    "name": "bgreenblatt",
+    "spent": 125.0,
+    "points_after": 109.56,
+    "ppd": 0.88
+   },
+   {
+    "user_id": "736744257179770880",
+    "name": "jdrobny",
+    "spent": 111.0,
+    "points_after": 84.2,
+    "ppd": 0.76
+   },
+   {
+    "user_id": "737091087440674816",
+    "name": "MaxSirianni",
+    "spent": 43.0,
+    "points_after": 28.15,
+    "ppd": 0.65
+   }
+  ]
+ },
+ "best_buys": [
+  {
+   "season": 2025,
+   "week": 1,
+   "user_id": "736077599457026048",
+   "name": "Erjohnson14",
+   "player_name": "Tyler Loop",
+   "bid": 1.0,
+   "points_after": 82.0,
+   "ppd": 82.0
+  },
+  {
+   "season": 2022,
+   "week": 3,
+   "user_id": "735974647736213504",
+   "name": "KingTowsk",
+   "player_name": "Geno Smith",
+   "bid": 2.0,
+   "points_after": 160.84,
+   "ppd": 80.42
+  },
+  {
+   "season": 2024,
+   "week": 6,
+   "user_id": "716698629934481408",
+   "name": "charliekaufmann",
+   "player_name": "Philadelphia Eagles",
+   "bid": 1.0,
+   "points_after": 78.5,
+   "ppd": 78.5
+  },
+  {
+   "season": 2023,
+   "week": 1,
+   "user_id": "736803054736822272",
+   "name": "TylerWicks",
+   "player_name": "Jason Myers",
+   "bid": 1.0,
+   "points_after": 68.0,
+   "ppd": 68.0
+  },
+  {
+   "season": 2024,
+   "week": 3,
+   "user_id": "735974647736213504",
+   "name": "KingTowsk",
+   "player_name": "Ladd McConkey",
+   "bid": 1.0,
+   "points_after": 65.6,
+   "ppd": 65.6
+  },
+  {
+   "season": 2022,
+   "week": 3,
+   "user_id": "736077599457026048",
+   "name": "Erjohnson14",
+   "player_name": "Evan Engram",
+   "bid": 1.0,
+   "points_after": 59.4,
+   "ppd": 59.4
+  },
+  {
+   "season": 2025,
+   "week": 8,
+   "user_id": "736740647758938112",
+   "name": "JSanDusky69",
+   "player_name": "RJ Harvey",
+   "bid": 1.0,
+   "points_after": 51.2,
+   "ppd": 51.2
+  },
+  {
+   "season": 2025,
+   "week": 6,
+   "user_id": "736077599457026048",
+   "name": "Erjohnson14",
+   "player_name": "Seattle Seahawks",
+   "bid": 2.0,
+   "points_after": 102.25,
+   "ppd": 51.12
+  },
+  {
+   "season": 2024,
+   "week": 8,
+   "user_id": "736077599457026048",
+   "name": "Erjohnson14",
+   "player_name": "Cade Otton",
+   "bid": 1.0,
+   "points_after": 50.2,
+   "ppd": 50.2
+  },
+  {
+   "season": 2022,
+   "week": 1,
+   "user_id": "608781531883859968",
+   "name": "bgreenblatt",
+   "player_name": "Cleveland Browns",
+   "bid": 1.0,
+   "points_after": 46.75,
+   "ppd": 46.75
+  }
+ ],
+ "worst_buys": [
+  {
+   "season": 2021,
+   "week": 3,
+   "user_id": "716698629934481408",
+   "name": "charliekaufmann",
+   "player_name": "Peyton Barber",
+   "bid": 15.0,
+   "points_after": 0.0,
+   "ppd": 0.0
+  },
+  {
+   "season": 2021,
+   "week": 3,
+   "user_id": "608781531883859968",
+   "name": "bgreenblatt",
+   "player_name": "Josh Gordon",
+   "bid": 21.0,
+   "points_after": 0.0,
+   "ppd": 0.0
+  },
+  {
+   "season": 2021,
+   "week": 5,
+   "user_id": "608781531883859968",
+   "name": "bgreenblatt",
+   "player_name": "Darrel Williams",
+   "bid": 26.0,
+   "points_after": 0.0,
+   "ppd": 0.0
+  },
+  {
+   "season": 2021,
+   "week": 6,
+   "user_id": "737091087440674816",
+   "name": "MaxSirianni",
+   "player_name": "T.Y. Hilton",
+   "bid": 10.0,
+   "points_after": 0.0,
+   "ppd": 0.0
+  },
+  {
+   "season": 2021,
+   "week": 8,
+   "user_id": "737091087440674816",
+   "name": "MaxSirianni",
+   "player_name": "Jeremy McNichols",
+   "bid": 47.0,
+   "points_after": 0.0,
+   "ppd": 0.0
+  },
+  {
+   "season": 2021,
+   "week": 10,
+   "user_id": "475399371639222272",
+   "name": "cc5597",
+   "player_name": "Rhamondre Stevenson",
+   "bid": 17.0,
+   "points_after": 0.0,
+   "ppd": 0.0
+  },
+  {
+   "season": 2021,
+   "week": 11,
+   "user_id": "716698629934481408",
+   "name": "charliekaufmann",
+   "player_name": "Dontrell Hilliard",
+   "bid": 15.0,
+   "points_after": 0.0,
+   "ppd": 0.0
+  },
+  {
+   "season": 2021,
+   "week": 13,
+   "user_id": "736740647758938112",
+   "name": "JSanDusky69",
+   "player_name": "Seattle Seahawks",
+   "bid": 30.0,
+   "points_after": 0.0,
+   "ppd": 0.0
+  },
+  {
+   "season": 2021,
+   "week": 13,
+   "user_id": "736803054736822272",
+   "name": "TylerWicks",
+   "player_name": "Gerald Everett",
+   "bid": 30.0,
+   "points_after": 0.0,
+   "ppd": 0.0
+  },
+  {
+   "season": 2021,
+   "week": 13,
+   "user_id": "710284244835979264",
+   "name": "brockhusk",
+   "player_name": "Russell Gage",
+   "bid": 30.0,
+   "points_after": 0.0,
+   "ppd": 0.0
+  }
+ ],
+ "pickups": [
+  {
+   "season": 2022,
+   "week": 3,
+   "user_id": "735974647736213504",
+   "name": "KingTowsk",
+   "player_name": "Geno Smith",
+   "bid": 2.0,
+   "points_after": 160.84,
+   "ppd": 80.42
+  },
+  {
+   "season": 2023,
+   "week": 1,
+   "user_id": "608781531883859968",
+   "name": "bgreenblatt",
+   "player_name": "Nico Collins",
+   "bid": 10.0,
+   "points_after": 157.8,
+   "ppd": 15.78
+  },
+  {
+   "season": 2023,
+   "week": 3,
+   "user_id": "736803054736822272",
+   "name": "TylerWicks",
+   "player_name": "Baker Mayfield",
+   "bid": 15.0,
+   "points_after": 157.32,
+   "ppd": 10.49
+  },
+  {
+   "season": 2022,
+   "week": 3,
+   "user_id": "608781531883859968",
+   "name": "bgreenblatt",
+   "player_name": "Rhamondre Stevenson",
+   "bid": 11.0,
+   "points_after": 156.4,
+   "ppd": 14.22
+  },
+  {
+   "season": 2024,
+   "week": 2,
+   "user_id": "736744257179770880",
+   "name": "jdrobny",
+   "player_name": "Sam Darnold",
+   "bid": 36.0,
+   "points_after": 151.24,
+   "ppd": 4.2
+  },
+  {
+   "season": 2023,
+   "week": 2,
+   "user_id": "716698629934481408",
+   "name": "charliekaufmann",
+   "player_name": "Kyren Williams",
+   "bid": 13.0,
+   "points_after": 139.6,
+   "ppd": 10.74
+  },
+  {
+   "season": 2022,
+   "week": 3,
+   "user_id": "737091087440674816",
+   "name": "MaxSirianni",
+   "player_name": "T.J. Hockenson",
+   "bid": 5.0,
+   "points_after": 132.0,
+   "ppd": 26.4
+  },
+  {
+   "season": 2025,
+   "week": 2,
+   "user_id": "736077599457026048",
+   "name": "Erjohnson14",
+   "player_name": "Seattle Seahawks",
+   "bid": 4.0,
+   "points_after": 130.5,
+   "ppd": 32.62
+  },
+  {
+   "season": 2025,
+   "week": 5,
+   "user_id": "608781531883859968",
+   "name": "bgreenblatt",
+   "player_name": "Rico Dowdle",
+   "bid": 0.0,
+   "points_after": 129.6,
+   "ppd": null
+  },
+  {
+   "season": 2022,
+   "week": 5,
+   "user_id": "736077599457026048",
+   "name": "Erjohnson14",
+   "player_name": "Kenneth Walker",
+   "bid": 99.0,
+   "points_after": 124.0,
+   "ppd": 1.25
+  }
+ ],
+ "trades": [
+  {
+   "transaction_id": "751163434120450048",
+   "season": 2021,
+   "week": 4,
+   "date": "2021-10-05",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [
+      "Travis Kelce",
+      "D'Andre Swift"
+     ],
+     "points_after": 0.0
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Antonio Gibson",
+      "Kyle Pitts"
+     ],
+     "points_after": 0.0
+    }
+   ],
+   "winner_user_id": "608781531883859968",
+   "margin": 0.0
+  },
+  {
+   "transaction_id": "751173587574128640",
+   "season": 2021,
+   "week": 4,
+   "date": "2021-10-05",
+   "sides": [
+    {
+     "user_id": "736740647758938112",
+     "name": "JSanDusky69",
+     "players_gained": [
+      "Clyde Edwards-Helaire"
+     ],
+     "points_after": 0.0
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [],
+     "points_after": 0
+    }
+   ],
+   "winner_user_id": "736740647758938112",
+   "margin": 0.0
+  },
+  {
+   "transaction_id": "751174000801067008",
+   "season": 2021,
+   "week": 4,
+   "date": "2021-10-05",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Lamar Jackson"
+     ],
+     "points_after": 0.0
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Matt Ryan",
+      "Javonte Williams"
+     ],
+     "points_after": 0.0
+    }
+   ],
+   "winner_user_id": "736077599457026048",
+   "margin": 0.0
+  },
+  {
+   "transaction_id": "751858142513639424",
+   "season": 2021,
+   "week": 5,
+   "date": "2021-10-07",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Matt Ryan",
+      "Javonte Williams"
+     ],
+     "points_after": 72.62
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Lamar Jackson"
+     ],
+     "points_after": 95.94
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 23.32
+  },
+  {
+   "transaction_id": "751858241994153984",
+   "season": 2021,
+   "week": 5,
+   "date": "2021-10-07",
+   "sides": [
+    {
+     "user_id": "736740647758938112",
+     "name": "JSanDusky69",
+     "players_gained": [],
+     "points_after": 0
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Clyde Edwards-Helaire"
+     ],
+     "points_after": 11.2
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 11.2
+  },
+  {
+   "transaction_id": "751858490674438144",
+   "season": 2021,
+   "week": 5,
+   "date": "2021-10-07",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [
+      "Antonio Gibson",
+      "Kyle Pitts"
+     ],
+     "points_after": 76.1
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Travis Kelce",
+      "D'Andre Swift"
+     ],
+     "points_after": 196.5
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 120.4
+  },
+  {
+   "transaction_id": "754757205055799296",
+   "season": 2021,
+   "week": 6,
+   "date": "2021-10-15",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [],
+     "points_after": 0
+    },
+    {
+     "user_id": "736740647758938112",
+     "name": "JSanDusky69",
+     "players_gained": [
+      "Darrel Williams"
+     ],
+     "points_after": 68.7
+    }
+   ],
+   "winner_user_id": "736740647758938112",
+   "margin": 68.7
+  },
+  {
+   "transaction_id": "763825233907089408",
+   "season": 2021,
+   "week": 9,
+   "date": "2021-11-09",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Evan Engram"
+     ],
+     "points_after": 0.0
+    },
+    {
+     "user_id": "736740647758938112",
+     "name": "JSanDusky69",
+     "players_gained": [],
+     "points_after": 0
+    }
+   ],
+   "winner_user_id": "736077599457026048",
+   "margin": 0.0
+  },
+  {
+   "transaction_id": "764746224460148736",
+   "season": 2021,
+   "week": 10,
+   "date": "2021-11-11",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [
+      "Michael Pittman"
+     ],
+     "points_after": 26.3
+    },
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Antonio Brown",
+      "Cam Akers",
+      "Antonio Gibson"
+     ],
+     "points_after": 45.7
+    }
+   ],
+   "winner_user_id": "736077599457026048",
+   "margin": 19.4
+  },
+  {
+   "transaction_id": "771794546009956352",
+   "season": 2021,
+   "week": 13,
+   "date": "2021-12-01",
+   "sides": [
+    {
+     "user_id": "736740647758938112",
+     "name": "JSanDusky69",
+     "players_gained": [
+      "James Robinson"
+     ],
+     "points_after": 0.0
+    },
+    {
+     "user_id": "710284244835979264",
+     "name": "brockhusk",
+     "players_gained": [
+      "Tua Tagovailoa"
+     ],
+     "points_after": 0.0
+    }
+   ],
+   "winner_user_id": "736740647758938112",
+   "margin": 0.0
+  },
+  {
+   "transaction_id": "771963943378857984",
+   "season": 2021,
+   "week": 13,
+   "date": "2021-12-01",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [
+      "Justin Jefferson"
+     ],
+     "points_after": 0.0
+    },
+    {
+     "user_id": "736803054736822272",
+     "name": "TylerWicks",
+     "players_gained": [
+      "Adam Thielen",
+      "Myles Gaskin"
+     ],
+     "points_after": 0.0
+    }
+   ],
+   "winner_user_id": "608781531883859968",
+   "margin": 0.0
+  },
+  {
+   "transaction_id": "861057101949173760",
+   "season": 2022,
+   "week": 1,
+   "date": "2022-08-04",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [],
+     "points_after": 0
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Michael Pittman"
+     ],
+     "points_after": 130.3
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 130.3
+  },
+  {
+   "transaction_id": "881209015064182784",
+   "season": 2022,
+   "week": 4,
+   "date": "2022-09-29",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Tom Brady",
+      "Rashod Bateman"
+     ],
+     "points_after": 124.14
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Carson Wentz",
+      "Chris Godwin"
+     ],
+     "points_after": 157.16
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 33.02
+  },
+  {
+   "transaction_id": "883816838876889088",
+   "season": 2022,
+   "week": 5,
+   "date": "2022-10-06",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Diontae Johnson"
+     ],
+     "points_after": 0.0
+    },
+    {
+     "user_id": "710284244835979264",
+     "name": "brockhusk",
+     "players_gained": [
+      "David Njoku",
+      "Gabe Davis"
+     ],
+     "points_after": 91.0
+    }
+   ],
+   "winner_user_id": "710284244835979264",
+   "margin": 91.0
+  },
+  {
+   "transaction_id": "885236764825120768",
+   "season": 2022,
+   "week": 5,
+   "date": "2022-10-10",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [
+      "Mike Evans"
+     ],
+     "points_after": 78.5
+    },
+    {
+     "user_id": "716698629934481408",
+     "name": "charliekaufmann",
+     "players_gained": [
+      "DeAndre Hopkins",
+      "Travis Etienne"
+     ],
+     "points_after": 242.7
+    }
+   ],
+   "winner_user_id": "716698629934481408",
+   "margin": 164.2
+  },
+  {
+   "transaction_id": "885279554216845312",
+   "season": 2022,
+   "week": 5,
+   "date": "2022-10-10",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Miles Sanders"
+     ],
+     "points_after": 14.2
+    },
+    {
+     "user_id": "736803054736822272",
+     "name": "TylerWicks",
+     "players_gained": [
+      "DK Metcalf"
+     ],
+     "points_after": 118.2
+    }
+   ],
+   "winner_user_id": "736803054736822272",
+   "margin": 104.0
+  },
+  {
+   "transaction_id": "889292868110647296",
+   "season": 2022,
+   "week": 7,
+   "date": "2022-10-21",
+   "sides": [
+    {
+     "user_id": "736744257179770880",
+     "name": "jdrobny",
+     "players_gained": [
+      "DeVonta Smith"
+     ],
+     "points_after": 74.0
+    },
+    {
+     "user_id": "710284244835979264",
+     "name": "brockhusk",
+     "players_gained": [
+      "Clyde Edwards-Helaire"
+     ],
+     "points_after": 0.0
+    }
+   ],
+   "winner_user_id": "736744257179770880",
+   "margin": 74.0
+  },
+  {
+   "transaction_id": "890432834597593088",
+   "season": 2022,
+   "week": 7,
+   "date": "2022-10-24",
+   "sides": [
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Davante Adams"
+     ],
+     "points_after": 163.7
+    },
+    {
+     "user_id": "475399371639222272",
+     "name": "cc5597",
+     "players_gained": [
+      "Ezekiel Elliott",
+      "Jaylen Waddle"
+     ],
+     "points_after": 151.1
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 12.6
+  },
+  {
+   "transaction_id": "890762713259790336",
+   "season": 2022,
+   "week": 7,
+   "date": "2022-10-25",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [
+      "Allen Robinson",
+      "Jonathan Taylor"
+     ],
+     "points_after": 61.6
+    },
+    {
+     "user_id": "736803054736822272",
+     "name": "TylerWicks",
+     "players_gained": [
+      "Leonard Fournette",
+      "Darrell Henderson",
+      "Jakobi Meyers"
+     ],
+     "points_after": 63.8
+    }
+   ],
+   "winner_user_id": "736803054736822272",
+   "margin": 2.2
+  },
+  {
+   "transaction_id": "891065268426727424",
+   "season": 2022,
+   "week": 8,
+   "date": "2022-10-26",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Dallas Goedert",
+      "Damien Harris"
+     ],
+     "points_after": 33.8
+    },
+    {
+     "user_id": "736740647758938112",
+     "name": "JSanDusky69",
+     "players_gained": [
+      "Evan Engram",
+      "Miles Sanders"
+     ],
+     "points_after": 26.5
+    }
+   ],
+   "winner_user_id": "736077599457026048",
+   "margin": 7.3
+  },
+  {
+   "transaction_id": "893567130665156608",
+   "season": 2022,
+   "week": 9,
+   "date": "2022-11-02",
+   "sides": [
+    {
+     "user_id": "736744257179770880",
+     "name": "jdrobny",
+     "players_gained": [
+      "Isaiah Likely"
+     ],
+     "points_after": 0.0
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [],
+     "points_after": 0
+    }
+   ],
+   "winner_user_id": "736744257179770880",
+   "margin": 0.0
+  },
+  {
+   "transaction_id": "893601249537228800",
+   "season": 2022,
+   "week": 9,
+   "date": "2022-11-02",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Evan Engram"
+     ],
+     "points_after": 39.7
+    },
+    {
+     "user_id": "736740647758938112",
+     "name": "JSanDusky69",
+     "players_gained": [
+      "Darren Waller"
+     ],
+     "points_after": 0.0
+    }
+   ],
+   "winner_user_id": "736077599457026048",
+   "margin": 39.7
+  },
+  {
+   "transaction_id": "903146494411550720",
+   "season": 2022,
+   "week": 12,
+   "date": "2022-11-28",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [
+      "Stefon Diggs"
+     ],
+     "points_after": 28.9
+    },
+    {
+     "user_id": "716698629934481408",
+     "name": "charliekaufmann",
+     "players_gained": [
+      "Daniel Jones",
+      "Ja'Marr Chase"
+     ],
+     "points_after": 82.66
+    }
+   ],
+   "winner_user_id": "716698629934481408",
+   "margin": 53.76
+  },
+  {
+   "transaction_id": "903733306263269376",
+   "season": 2022,
+   "week": 13,
+   "date": "2022-11-30",
+   "sides": [
+    {
+     "user_id": "736740647758938112",
+     "name": "JSanDusky69",
+     "players_gained": [
+      "Ryan Tannehill",
+      "D'Onta Foreman"
+     ],
+     "points_after": 8.5
+    },
+    {
+     "user_id": "710284244835979264",
+     "name": "brockhusk",
+     "players_gained": [
+      "Samaje Perine",
+      "Miles Sanders"
+     ],
+     "points_after": 29.5
+    }
+   ],
+   "winner_user_id": "710284244835979264",
+   "margin": 21.0
+  },
+  {
+   "transaction_id": "1007497474248855552",
+   "season": 2023,
+   "week": 1,
+   "date": "2023-09-12",
+   "sides": [
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Brock Purdy"
+     ],
+     "points_after": 54.86
+    },
+    {
+     "user_id": "475399371639222272",
+     "name": "cc5597",
+     "players_gained": [
+      "Jaxon Smith-Njigba",
+      "C.J. Stroud"
+     ],
+     "points_after": 161.74
+    }
+   ],
+   "winner_user_id": "475399371639222272",
+   "margin": 106.88
+  },
+  {
+   "transaction_id": "986852839748091904",
+   "season": 2023,
+   "week": 1,
+   "date": "2023-07-17",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [],
+     "points_after": 0
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Brandon Aiyuk"
+     ],
+     "points_after": 7.3
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 7.3
+  },
+  {
+   "transaction_id": "987017661454315520",
+   "season": 2023,
+   "week": 1,
+   "date": "2023-07-18",
+   "sides": [
+    {
+     "user_id": "737091087440674816",
+     "name": "MaxSirianni",
+     "players_gained": [],
+     "points_after": 0
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Christian Kirk"
+     ],
+     "points_after": 15.4
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 15.4
+  },
+  {
+   "transaction_id": "1012534483301625856",
+   "season": 2023,
+   "week": 3,
+   "date": "2023-09-26",
+   "sides": [
+    {
+     "user_id": "716698629934481408",
+     "name": "charliekaufmann",
+     "players_gained": [
+      "Travis Kelce",
+      "Brandon Aiyuk"
+     ],
+     "points_after": 215.2
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Tyreek Hill"
+     ],
+     "points_after": 241.0
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 25.8
+  },
+  {
+   "transaction_id": "1015296486646689792",
+   "season": 2023,
+   "week": 5,
+   "date": "2023-10-04",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [
+      "Justin Herbert"
+     ],
+     "points_after": 138.92
+    },
+    {
+     "user_id": "716698629934481408",
+     "name": "charliekaufmann",
+     "players_gained": [
+      "Justin Fields",
+      "Rhamondre Stevenson"
+     ],
+     "points_after": 141.38
+    }
+   ],
+   "winner_user_id": "716698629934481408",
+   "margin": 2.46
+  },
+  {
+   "transaction_id": "1015759550487617536",
+   "season": 2023,
+   "week": 5,
+   "date": "2023-10-05",
+   "sides": [
+    {
+     "user_id": "736744257179770880",
+     "name": "jdrobny",
+     "players_gained": [
+      "Raheem Mostert",
+      "Puka Nacua"
+     ],
+     "points_after": 218.0
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Michael Pittman",
+      "Jerome Ford",
+      "Tank Dell"
+     ],
+     "points_after": 248.9
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 30.9
+  },
+  {
+   "transaction_id": "1017586104184217600",
+   "season": 2023,
+   "week": 5,
+   "date": "2023-10-10",
+   "sides": [
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Lamar Jackson",
+      "Jason Sanders",
+      "Jahmyr Gibbs",
+      "Anthony Richardson",
+      "Jaxon Smith-Njigba"
+     ],
+     "points_after": 187.36
+    },
+    {
+     "user_id": "475399371639222272",
+     "name": "cc5597",
+     "players_gained": [
+      "Kirk Cousins",
+      "Stefon Diggs",
+      "Riley Patterson",
+      "Brock Purdy"
+     ],
+     "points_after": 305.3
+    }
+   ],
+   "winner_user_id": "475399371639222272",
+   "margin": 117.94
+  },
+  {
+   "transaction_id": "1017609613715378176",
+   "season": 2023,
+   "week": 5,
+   "date": "2023-10-10",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [
+      "Justin Jefferson",
+      "Jonathan Taylor"
+     ],
+     "points_after": 89.9
+    },
+    {
+     "user_id": "736740647758938112",
+     "name": "JSanDusky69",
+     "players_gained": [
+      "Roschon Johnson",
+      "DJ Moore"
+     ],
+     "points_after": 121.6
+    }
+   ],
+   "winner_user_id": "736740647758938112",
+   "margin": 31.7
+  },
+  {
+   "transaction_id": "1017622109239017472",
+   "season": 2023,
+   "week": 5,
+   "date": "2023-10-10",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Patrick Mahomes",
+      "DeVonta Smith",
+      "Baltimore Ravens"
+     ],
+     "points_after": 268.34
+    },
+    {
+     "user_id": "736744257179770880",
+     "name": "jdrobny",
+     "players_gained": [
+      "Jalen Hurts",
+      "Dallas Cowboys"
+     ],
+     "points_after": 265.85
+    }
+   ],
+   "winner_user_id": "736077599457026048",
+   "margin": 2.49
+  },
+  {
+   "transaction_id": "1017949424879779840",
+   "season": 2023,
+   "week": 6,
+   "date": "2023-10-11",
+   "sides": [
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Jaylen Waddle"
+     ],
+     "points_after": 79.9
+    },
+    {
+     "user_id": "475399371639222272",
+     "name": "cc5597",
+     "players_gained": [
+      "Jahmyr Gibbs"
+     ],
+     "points_after": 139.6
+    }
+   ],
+   "winner_user_id": "475399371639222272",
+   "margin": 59.7
+  },
+  {
+   "transaction_id": "1020397844802437120",
+   "season": 2023,
+   "week": 7,
+   "date": "2023-10-18",
+   "sides": [
+    {
+     "user_id": "716698629934481408",
+     "name": "charliekaufmann",
+     "players_gained": [
+      "Sam LaPorta",
+      "Christian Kirk",
+      "Drake London"
+     ],
+     "points_after": 136.0
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Travis Kelce",
+      "Javonte Williams"
+     ],
+     "points_after": 158.4
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 22.4
+  },
+  {
+   "transaction_id": "1021176702866677760",
+   "season": 2023,
+   "week": 7,
+   "date": "2023-10-20",
+   "sides": [
+    {
+     "user_id": "736740647758938112",
+     "name": "JSanDusky69",
+     "players_gained": [
+      "Zach Evans"
+     ],
+     "points_after": 0.0
+    },
+    {
+     "user_id": "475399371639222272",
+     "name": "cc5597",
+     "players_gained": [
+      "Roschon Johnson"
+     ],
+     "points_after": 0.0
+    }
+   ],
+   "winner_user_id": "736740647758938112",
+   "margin": 0.0
+  },
+  {
+   "transaction_id": "1021809960725983232",
+   "season": 2023,
+   "week": 7,
+   "date": "2023-10-22",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [],
+     "points_after": 0
+    },
+    {
+     "user_id": "716698629934481408",
+     "name": "charliekaufmann",
+     "players_gained": [
+      "Joshua Dobbs"
+     ],
+     "points_after": 71.6
+    }
+   ],
+   "winner_user_id": "716698629934481408",
+   "margin": 71.6
+  },
+  {
+   "transaction_id": "1022950062890094592",
+   "season": 2023,
+   "week": 8,
+   "date": "2023-10-25",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Austin Ekeler"
+     ],
+     "points_after": 84.6
+    },
+    {
+     "user_id": "475399371639222272",
+     "name": "cc5597",
+     "players_gained": [
+      "Bijan Robinson",
+      "Jordan Addison"
+     ],
+     "points_after": 66.6
+    }
+   ],
+   "winner_user_id": "736077599457026048",
+   "margin": 18.0
+  },
+  {
+   "transaction_id": "1025061396955938816",
+   "season": 2023,
+   "week": 8,
+   "date": "2023-10-31",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [],
+     "points_after": 0
+    },
+    {
+     "user_id": "475399371639222272",
+     "name": "cc5597",
+     "players_gained": [
+      "Jimmy Garoppolo"
+     ],
+     "points_after": 0.0
+    }
+   ],
+   "winner_user_id": "608781531883859968",
+   "margin": 0.0
+  },
+  {
+   "transaction_id": "1025221853226340352",
+   "season": 2023,
+   "week": 8,
+   "date": "2023-10-31",
+   "sides": [
+    {
+     "user_id": "710284244835979264",
+     "name": "brockhusk",
+     "players_gained": [
+      "Jimmy Garoppolo",
+      "Diontae Johnson",
+      "Zack Moss"
+     ],
+     "points_after": 55.2
+    },
+    {
+     "user_id": "475399371639222272",
+     "name": "cc5597",
+     "players_gained": [
+      "Miles Sanders",
+      "Jordan Love"
+     ],
+     "points_after": 12.82
+    }
+   ],
+   "winner_user_id": "710284244835979264",
+   "margin": 42.38
+  },
+  {
+   "transaction_id": "1030563769006571520",
+   "season": 2023,
+   "week": 11,
+   "date": "2023-11-15",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "A.J. Brown"
+     ],
+     "points_after": 51.0
+    },
+    {
+     "user_id": "736803054736822272",
+     "name": "TylerWicks",
+     "players_gained": [
+      "Mike Evans",
+      "DeVonta Smith"
+     ],
+     "points_after": 117.0
+    }
+   ],
+   "winner_user_id": "736803054736822272",
+   "margin": 66.0
+  },
+  {
+   "transaction_id": "1032701902519201792",
+   "season": 2023,
+   "week": 11,
+   "date": "2023-11-21",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [
+      "Travis Etienne",
+      "Will Levis"
+     ],
+     "points_after": 64.28
+    },
+    {
+     "user_id": "737091087440674816",
+     "name": "MaxSirianni",
+     "players_gained": [
+      "Saquon Barkley",
+      "Trevor Lawrence"
+     ],
+     "points_after": 77.98
+    }
+   ],
+   "winner_user_id": "737091087440674816",
+   "margin": 13.7
+  },
+  {
+   "transaction_id": "1032716584600629248",
+   "season": 2023,
+   "week": 11,
+   "date": "2023-11-21",
+   "sides": [
+    {
+     "user_id": "736740647758938112",
+     "name": "JSanDusky69",
+     "players_gained": [
+      "Jakobi Meyers",
+      "James Cook"
+     ],
+     "points_after": 48.6
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "De'Von Achane"
+     ],
+     "points_after": 37.4
+    }
+   ],
+   "winner_user_id": "736740647758938112",
+   "margin": 11.2
+  },
+  {
+   "transaction_id": "1033092266392436736",
+   "season": 2023,
+   "week": 12,
+   "date": "2023-11-22",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Jordan Love",
+      "Bijan Robinson"
+     ],
+     "points_after": 64.3
+    },
+    {
+     "user_id": "475399371639222272",
+     "name": "cc5597",
+     "players_gained": [
+      "Sam Howell",
+      "Jaylen Warren"
+     ],
+     "points_after": 6.5
+    }
+   ],
+   "winner_user_id": "736077599457026048",
+   "margin": 57.8
+  },
+  {
+   "transaction_id": "1117664976229081088",
+   "season": 2024,
+   "week": 1,
+   "date": "2024-07-12",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Jordan Addison"
+     ],
+     "points_after": 9.6
+    },
+    {
+     "user_id": "475399371639222272",
+     "name": "cc5597",
+     "players_gained": [],
+     "points_after": 0
+    }
+   ],
+   "winner_user_id": "736077599457026048",
+   "margin": 9.6
+  },
+  {
+   "transaction_id": "1120820060567752704",
+   "season": 2024,
+   "week": 1,
+   "date": "2024-07-21",
+   "sides": [
+    {
+     "user_id": "737091087440674816",
+     "name": "MaxSirianni",
+     "players_gained": [],
+     "points_after": 0
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Zay Flowers"
+     ],
+     "points_after": 75.8
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 75.8
+  },
+  {
+   "transaction_id": "1142152119500378112",
+   "season": 2024,
+   "week": 3,
+   "date": "2024-09-18",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Jaxon Smith-Njigba"
+     ],
+     "points_after": 92.0
+    },
+    {
+     "user_id": "736803054736822272",
+     "name": "TylerWicks",
+     "players_gained": [
+      "J.K. Dobbins"
+     ],
+     "points_after": 9.2
+    }
+   ],
+   "winner_user_id": "736077599457026048",
+   "margin": 82.8
+  },
+  {
+   "transaction_id": "1144452483616722944",
+   "season": 2024,
+   "week": 3,
+   "date": "2024-09-24",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Bucky Irving",
+      "Jake Ferguson"
+     ],
+     "points_after": 90.2
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "James Conner"
+     ],
+     "points_after": 32.8
+    }
+   ],
+   "winner_user_id": "736077599457026048",
+   "margin": 57.4
+  },
+  {
+   "transaction_id": "1150158526812319744",
+   "season": 2024,
+   "week": 6,
+   "date": "2024-10-10",
+   "sides": [
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Justin Jefferson",
+      "J.K. Dobbins"
+     ],
+     "points_after": 194.08
+    },
+    {
+     "user_id": "736803054736822272",
+     "name": "TylerWicks",
+     "players_gained": [
+      "Marvin Harrison",
+      "James Conner",
+      "Tucker Kraft"
+     ],
+     "points_after": 254.7
+    }
+   ],
+   "winner_user_id": "736803054736822272",
+   "margin": 60.62
+  },
+  {
+   "transaction_id": "1150165922410455040",
+   "season": 2024,
+   "week": 6,
+   "date": "2024-10-10",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "DJ Moore"
+     ],
+     "points_after": 40.1
+    },
+    {
+     "user_id": "736740647758938112",
+     "name": "JSanDusky69",
+     "players_gained": [
+      "Jordan Love"
+     ],
+     "points_after": 91.0
+    }
+   ],
+   "winner_user_id": "736740647758938112",
+   "margin": 50.9
+  },
+  {
+   "transaction_id": "1154883240256360448",
+   "season": 2024,
+   "week": 8,
+   "date": "2024-10-23",
+   "sides": [
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Rhamondre Stevenson",
+      "Tank Dell"
+     ],
+     "points_after": 72.5
+    },
+    {
+     "user_id": "475399371639222272",
+     "name": "cc5597",
+     "players_gained": [
+      "Khalil Shakir",
+      "Zay Flowers"
+     ],
+     "points_after": 95.9
+    }
+   ],
+   "winner_user_id": "475399371639222272",
+   "margin": 23.4
+  },
+  {
+   "transaction_id": "1154937039763378176",
+   "season": 2024,
+   "week": 8,
+   "date": "2024-10-23",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [
+      "Anthony Richardson"
+     ],
+     "points_after": 0.0
+    },
+    {
+     "user_id": "716698629934481408",
+     "name": "charliekaufmann",
+     "players_gained": [
+      "Drake Maye"
+     ],
+     "points_after": 63.14
+    }
+   ],
+   "winner_user_id": "716698629934481408",
+   "margin": 63.14
+  },
+  {
+   "transaction_id": "1158184629950672896",
+   "season": 2024,
+   "week": 9,
+   "date": "2024-11-01",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Drake London"
+     ],
+     "points_after": 38.8
+    },
+    {
+     "user_id": "716698629934481408",
+     "name": "charliekaufmann",
+     "players_gained": [
+      "Jonathan Taylor"
+     ],
+     "points_after": 41.5
+    }
+   ],
+   "winner_user_id": "716698629934481408",
+   "margin": 2.7
+  },
+  {
+   "transaction_id": "1159708391112118272",
+   "season": 2024,
+   "week": 9,
+   "date": "2024-11-05",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [],
+     "points_after": 0
+    },
+    {
+     "user_id": "736803054736822272",
+     "name": "TylerWicks",
+     "players_gained": [
+      "Jaylen Waddle"
+     ],
+     "points_after": 37.5
+    }
+   ],
+   "winner_user_id": "736803054736822272",
+   "margin": 37.5
+  },
+  {
+   "transaction_id": "1164706538624372736",
+   "season": 2024,
+   "week": 11,
+   "date": "2024-11-19",
+   "sides": [
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [],
+     "points_after": 0
+    },
+    {
+     "user_id": "710284244835979264",
+     "name": "brockhusk",
+     "players_gained": [
+      "DeAndre Hopkins"
+     ],
+     "points_after": 40.7
+    }
+   ],
+   "winner_user_id": "710284244835979264",
+   "margin": 40.7
+  },
+  {
+   "transaction_id": "1167243682509271040",
+   "season": 2024,
+   "week": 12,
+   "date": "2024-11-26",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [
+      "Tua Tagovailoa"
+     ],
+     "points_after": 49.74
+    },
+    {
+     "user_id": "737091087440674816",
+     "name": "MaxSirianni",
+     "players_gained": [
+      "Davante Adams"
+     ],
+     "points_after": 26.4
+    }
+   ],
+   "winner_user_id": "608781531883859968",
+   "margin": 23.34
+  },
+  {
+   "transaction_id": "1169350192165097472",
+   "season": 2024,
+   "week": 13,
+   "date": "2024-12-02",
+   "sides": [
+    {
+     "user_id": "736744257179770880",
+     "name": "jdrobny",
+     "players_gained": [
+      "J.K. Dobbins",
+      "Anthony Richardson",
+      "Tank Dell"
+     ],
+     "points_after": 0.0
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Sam Darnold"
+     ],
+     "points_after": 35.58
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 35.58
+  },
+  {
+   "transaction_id": "1169508310639742976",
+   "season": 2024,
+   "week": 13,
+   "date": "2024-12-02",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [
+      "De'Von Achane"
+     ],
+     "points_after": 18.9
+    },
+    {
+     "user_id": "475399371639222272",
+     "name": "cc5597",
+     "players_gained": [
+      "J.J. McCarthy",
+      "Tony Pollard"
+     ],
+     "points_after": 14.9
+    }
+   ],
+   "winner_user_id": "608781531883859968",
+   "margin": 4.0
+  },
+  {
+   "transaction_id": "1254902397159882752",
+   "season": 2025,
+   "week": 1,
+   "date": "2025-07-26",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [
+      "J.J. McCarthy"
+     ],
+     "points_after": 0.82
+    },
+    {
+     "user_id": "475399371639222272",
+     "name": "cc5597",
+     "players_gained": [],
+     "points_after": 0
+    }
+   ],
+   "winner_user_id": "608781531883859968",
+   "margin": 0.82
+  },
+  {
+   "transaction_id": "1276228805903523840",
+   "season": 2025,
+   "week": 3,
+   "date": "2025-09-23",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Ja'Marr Chase",
+      "Javonte Williams"
+     ],
+     "points_after": 328.8
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Brian Thomas",
+      "Jaxon Smith-Njigba"
+     ],
+     "points_after": 279.9
+    }
+   ],
+   "winner_user_id": "736077599457026048",
+   "margin": 48.9
+  },
+  {
+   "transaction_id": "1281312013229785088",
+   "season": 2025,
+   "week": 5,
+   "date": "2025-10-07",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Omarion Hampton",
+      "Trevor Lawrence"
+     ],
+     "points_after": 116.72
+    },
+    {
+     "user_id": "736740647758938112",
+     "name": "JSanDusky69",
+     "players_gained": [
+      "D'Andre Swift",
+      "Justin Fields"
+     ],
+     "points_after": 137.56
+    }
+   ],
+   "winner_user_id": "736740647758938112",
+   "margin": 20.84
+  },
+  {
+   "transaction_id": "1282038787374870528",
+   "season": 2025,
+   "week": 6,
+   "date": "2025-10-09",
+   "sides": [
+    {
+     "user_id": "716698629934481408",
+     "name": "charliekaufmann",
+     "players_gained": [
+      "TreVeyon Henderson",
+      "Jordan Addison"
+     ],
+     "points_after": 150.1
+    },
+    {
+     "user_id": "710284244835979264",
+     "name": "brockhusk",
+     "players_gained": [
+      "Ashton Jeanty"
+     ],
+     "points_after": 90.7
+    }
+   ],
+   "winner_user_id": "716698629934481408",
+   "margin": 59.4
+  },
+  {
+   "transaction_id": "1282140322960265216",
+   "season": 2025,
+   "week": 6,
+   "date": "2025-10-09",
+   "sides": [
+    {
+     "user_id": "716698629934481408",
+     "name": "charliekaufmann",
+     "players_gained": [
+      "Tony Pollard",
+      "Jaylen Waddle",
+      "Aaron Rodgers"
+     ],
+     "points_after": 198.48
+    },
+    {
+     "user_id": "475399371639222272",
+     "name": "cc5597",
+     "players_gained": [
+      "Bijan Robinson"
+     ],
+     "points_after": 141.1
+    }
+   ],
+   "winner_user_id": "716698629934481408",
+   "margin": 57.38
+  },
+  {
+   "transaction_id": "1288286180382609408",
+   "season": 2025,
+   "week": 8,
+   "date": "2025-10-26",
+   "sides": [
+    {
+     "user_id": "736740647758938112",
+     "name": "JSanDusky69",
+     "players_gained": [
+      "Caleb Williams"
+     ],
+     "points_after": 120.18
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Brock Bowers",
+      "Jameson Williams"
+     ],
+     "points_after": 179.1
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 58.92
+  },
+  {
+   "transaction_id": "1289298635292422144",
+   "season": 2025,
+   "week": 9,
+   "date": "2025-10-29",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Troy Franklin"
+     ],
+     "points_after": 19.1
+    },
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Kareem Hunt"
+     ],
+     "points_after": 42.7
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 23.6
+  },
+  {
+   "transaction_id": "1289454783123443712",
+   "season": 2025,
+   "week": 9,
+   "date": "2025-10-29",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Erjohnson14",
+     "players_gained": [
+      "Jauan Jennings"
+     ],
+     "points_after": 15.1
+    },
+    {
+     "user_id": "736744257179770880",
+     "name": "jdrobny",
+     "players_gained": [
+      "Rhamondre Stevenson"
+     ],
+     "points_after": 2.0
+    }
+   ],
+   "winner_user_id": "736077599457026048",
+   "margin": 13.1
+  },
+  {
+   "transaction_id": "1289655658739687424",
+   "season": 2025,
+   "week": 9,
+   "date": "2025-10-30",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "bgreenblatt",
+     "players_gained": [
+      "Los Angeles Rams"
+     ],
+     "points_after": 9.25
+    },
+    {
+     "user_id": "716698629934481408",
+     "name": "charliekaufmann",
+     "players_gained": [
+      "Green Bay Packers"
+     ],
+     "points_after": 19.0
+    }
+   ],
+   "winner_user_id": "716698629934481408",
+   "margin": 9.75
+  },
+  {
+   "transaction_id": "1299505649406713856",
+   "season": 2025,
+   "week": 13,
+   "date": "2025-11-26",
+   "sides": [
+    {
+     "user_id": "735974647736213504",
+     "name": "KingTowsk",
+     "players_gained": [
+      "Dalton Kincaid",
+      "Joe Burrow",
+      "CeeDee Lamb"
+     ],
+     "points_after": 55.56
+    },
+    {
+     "user_id": "475399371639222272",
+     "name": "cc5597",
+     "players_gained": [
+      "Brock Bowers",
+      "Marcus Mariota",
+      "Jaxon Smith-Njigba"
+     ],
+     "points_after": 41.7
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 13.86
+  }
+ ],
+ "activity": {
+  "736077599457026048": {
+   "adds": 200,
+   "drops": 197,
+   "trades": 23
+  },
+  "475399371639222272": {
+   "adds": 151,
+   "drops": 152,
+   "trades": 15
+  },
+  "736803054736822272": {
+   "adds": 90,
+   "drops": 89,
+   "trades": 7
+  },
+  "608781531883859968": {
+   "adds": 282,
+   "drops": 291,
+   "trades": 20
+  },
+  "710284244835979264": {
+   "adds": 121,
+   "drops": 120,
+   "trades": 7
+  },
+  "735974647736213504": {
+   "adds": 338,
+   "drops": 333,
+   "trades": 29
+  },
+  "737091087440674816": {
+   "adds": 74,
+   "drops": 74,
+   "trades": 4
+  },
+  "736740647758938112": {
+   "adds": 177,
+   "drops": 177,
+   "trades": 14
+  },
+  "736744257179770880": {
+   "adds": 119,
+   "drops": 117,
+   "trades": 6
+  },
+  "716698629934481408": {
+   "adds": 125,
+   "drops": 126,
+   "trades": 11
+  },
+  "865793938542456832": {
+   "adds": 28,
+   "drops": 28,
+   "trades": 0
+  },
+  "1136842855890366464": {
+   "adds": 16,
+   "drops": 17,
+   "trades": 0
+  }
+ }
+}
