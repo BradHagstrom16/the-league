@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}The League{% endblock %}</title>
+<link rel="icon" type="image/png" href="{{ root }}assets/img/favicon.png">
+<link rel="preload" href="{{ root }}assets/fonts/saira-condensed-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ root }}assets/fonts/chivo-mono-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="{{ root }}assets/css/style.css">
+</head>
+<body>
+<!--
+THESIS: The league as the house — every stat is a line posted on the board,
+with receipts; refuses the KPI-card dashboard arrangement.
+OWN-WORLD: matte near-black board (#0a0a0d) ruled into sections by thin brass
+rails; Saira Condensed signage caps; Chivo Mono tabular numerals in amber and
+silver; league purple fields for the house's own rows; the Trojan crest as
+house mark. Recognizable with all content removed: a black board of railed
+sections awaiting numbers.
+STORY: a league member lands mid-argument, finds the posted number in
+seconds, screenshots the receipt, wins the chat.
+FIRST VIEWPORT: board masthead (crest, THE LEAGUE, season status line), then
+the season's posted lines open the board; the argument-settling links sit in
+the first section.
+FORM: Las Vegas sportsbook tote board; candidate 5 of 7 on the ordered list;
+seed key f00tba11.
+FINISH: unreviewed and undocumented is unfinished; this build ends with the
+finish review, the verdict, and DESIGN.md.
+-->
+<header class="masthead">
+  <a class="crest" href="{{ root }}index.html">
+    <img src="{{ root }}assets/img/favicon.png" alt="" width="44" height="44">
+    <span class="wordmark">The League</span>
+  </a>
+  <p class="house-line">{% block houseline %}Est. 2021 · Downers Grove North · twelve chairs, one trophy{% endblock %}</p>
+</header>
+<nav class="board-nav" aria-label="Site">
+  <a href="{{ root }}index.html">Board</a>
+  <a href="{{ root }}seasons.html">Seasons</a>
+  <a href="{{ root }}managers.html">Managers</a>
+  <a href="{{ root }}h2h.html">Head-to-Head</a>
+  <a href="{{ root }}records.html">Records</a>
+  <a href="{{ root }}draft.html">Draft &amp; Keepers</a>
+  <a href="{{ root }}trades.html">Trades</a>
+  <a href="{{ root }}champions.html">Champions</a>
+</nav>
+<main>
+{% block content %}{% endblock %}
+</main>
+<footer class="rail-footer">
+  <p>Every number on this board is recomputed from Sleeper's records — argue with the data, not the bookkeeper.</p>
+  <p class="fine">{% if meta and meta.generated_utc %}Lines posted {{ meta.generated_utc }} · {% endif %}Six seasons on file.</p>
+</footer>
+<script src="{{ root }}assets/js/tables.js" defer></script>
+</body>
+</html>

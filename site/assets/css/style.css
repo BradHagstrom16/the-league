@@ -1,0 +1,193 @@
+/* The Board — design system.
+   World: Las Vegas sportsbook tote board carrying The League's purple.
+   Surfaces are matte near-black; sections are ruled by thin brass rails;
+   numerals are tabular mono in amber/silver; signage caps carry headings. */
+
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("../fonts/saira-condensed-600.woff2") format("woff2");
+  font-weight: 600; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("../fonts/saira-condensed-700.woff2") format("woff2");
+  font-weight: 700; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Chivo Mono";
+  src: url("../fonts/chivo-mono-var.woff2") format("woff2");
+  font-weight: 100 900; font-style: normal; font-display: swap;
+}
+
+:root {
+  --board: #0a0a0d;          /* the black field */
+  --board-raised: #121017;   /* section panels */
+  --rail: #4a3f2e;           /* brass rail, unlit */
+  --rail-lit: #8a7347;       /* brass rail, catching light */
+  --ink: #e8e6ee;            /* posted text */
+  --ink-dim: #9a95a8;        /* secondary */
+  --purple: #825ea4;         /* the house */
+  --purple-deep: #481878;    /* DGN heritage */
+  --purple-glow: #a78bc8;
+  --amber: #f5a018;          /* money, champions, the number that matters */
+  --silver: #d1d1d1;         /* posted numerals at rest */
+  --win: #58b368;
+  --loss: #d4643f;
+  --chart-1: #8f66c9; --chart-2: #c87f1a; --chart-3: #2694c9;
+  --display: "Saira Condensed", "Arial Narrow", sans-serif;
+  --nums: "Chivo Mono", ui-monospace, monospace;
+  --body: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--board); color: var(--ink);
+  font-family: var(--body); font-size: 16px; line-height: 1.55;
+}
+img { max-width: 100%; }
+a { color: var(--purple-glow); text-decoration: none; }
+a:hover { color: var(--amber); }
+:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+
+/* ---- masthead: the house sign ---------------------------------------- */
+.masthead {
+  display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap;
+  padding: 18px clamp(16px, 4vw, 40px) 10px;
+  border-bottom: 1px solid var(--rail);
+}
+.crest { display: inline-flex; align-items: center; gap: 12px; }
+.crest img { border-radius: 50%; }
+.wordmark {
+  font-family: var(--display); font-weight: 700; font-size: 1.9rem;
+  letter-spacing: 0.04em; text-transform: uppercase; color: var(--ink);
+}
+.house-line { margin: 0 0 4px auto; color: var(--ink-dim); font-size: 0.85rem; }
+
+/* ---- nav: section tabs on the rail ------------------------------------ */
+.board-nav {
+  position: sticky; top: 0; z-index: 10;
+  display: flex; gap: 2px; overflow-x: auto;
+  background: linear-gradient(var(--board-raised), var(--board));
+  border-bottom: 2px solid var(--rail-lit);
+  padding: 0 clamp(8px, 3vw, 32px);
+}
+.board-nav a {
+  font-family: var(--display); font-weight: 600; font-size: 0.95rem;
+  letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--ink-dim); padding: 12px 14px 10px; white-space: nowrap;
+  border-bottom: 3px solid transparent;
+}
+.board-nav a:hover { color: var(--ink); }
+.board-nav a[aria-current="page"] { color: var(--amber); border-bottom-color: var(--amber); }
+
+/* ---- board sections ---------------------------------------------------- */
+main { max-width: 72rem; margin: 0 auto; padding: 24px clamp(12px, 3vw, 32px) 64px; }
+.section { margin: 40px 0 0; }
+.section > h2 {
+  font-family: var(--display); font-weight: 700; font-size: 1.5rem;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  margin: 0 0 4px; color: var(--ink);
+  display: flex; align-items: center; gap: 12px;
+}
+.section > h2::after {
+  content: ""; flex: 1; height: 1px;
+  background: linear-gradient(90deg, var(--rail-lit), var(--rail) 60%, transparent);
+}
+.section > .note { color: var(--ink-dim); font-size: 0.9rem; margin: 2px 0 14px; }
+
+/* ---- tables: posted lines --------------------------------------------- */
+.board-panel {
+  background: var(--board-raised); border: 1px solid var(--rail);
+  border-radius: 6px; overflow-x: auto; margin: 14px 0;
+}
+table { border-collapse: collapse; width: 100%; font-size: 0.95rem; }
+th, td { padding: 9px 14px; text-align: left; white-space: nowrap; }
+thead th {
+  font-family: var(--display); font-weight: 600; font-size: 0.82rem;
+  letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-dim);
+  border-bottom: 1px solid var(--rail-lit); position: sticky; top: 0;
+  background: var(--board-raised);
+}
+tbody tr { border-bottom: 1px solid #1c1922; }
+tbody tr:last-child { border-bottom: none; }
+tbody tr:hover { background: #171420; }
+td.num, th.num { text-align: right; font-family: var(--nums); font-variant-numeric: tabular-nums; }
+td.num { color: var(--silver); }
+td.num.hot { color: var(--amber); font-weight: 600; }
+.pos { color: var(--win); } .neg { color: var(--loss); }
+table.sortable th { cursor: pointer; user-select: none; }
+table.sortable th:hover { color: var(--ink); }
+table.sortable th[data-dir="asc"]::after { content: " ▲"; color: var(--amber); }
+table.sortable th[data-dir="desc"]::after { content: " ▼"; color: var(--amber); }
+
+/* rotation number: every manager posts under one */
+.rot {
+  font-family: var(--nums); font-size: 0.78rem; color: var(--rail-lit);
+  letter-spacing: 0.05em; margin-right: 8px;
+}
+
+/* ---- manager chip ------------------------------------------------------ */
+.chip { display: inline-flex; align-items: center; gap: 8px; }
+.chip img, .chip .initial {
+  width: 24px; height: 24px; border-radius: 50%; flex: none;
+  background: var(--purple-deep); color: var(--ink);
+  display: inline-flex; align-items: center; justify-content: center;
+  font-family: var(--display); font-weight: 600; font-size: 0.8rem;
+}
+
+/* ---- the marquee row: one posted line at hero scale -------------------- */
+.marquee {
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px 18px;
+  background: var(--board-raised); border: 1px solid var(--rail);
+  border-left: 4px solid var(--purple); border-radius: 6px;
+  padding: 18px 20px; margin: 14px 0;
+}
+.marquee .line-name {
+  font-family: var(--display); font-weight: 600; font-size: 1rem;
+  letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-dim);
+  width: 100%;
+}
+.marquee .posted {
+  font-family: var(--nums); font-variant-numeric: tabular-nums;
+  font-weight: 600; font-size: clamp(2rem, 6vw, 3.2rem);
+  color: var(--amber); line-height: 1;
+}
+.marquee .detail { color: var(--ink-dim); font-size: 0.92rem; }
+
+/* ---- charts ------------------------------------------------------------ */
+.chart { width: 100%; height: auto; display: block; }
+.chart .tick { font: 11px var(--nums); fill: var(--ink-dim); }
+.chart .end-label { font: 600 12px var(--display); letter-spacing: 0.04em; }
+.chart .bar-val { font: 11px var(--nums); fill: var(--ink-dim); }
+.chart .cell-val { font: 600 11px var(--nums); }
+.chart .pt:hover { r: 6; }
+
+/* ---- the posting: numerals settle onto the board on load --------------- */
+@keyframes post-in {
+  0% { opacity: 0; transform: translateY(-3px); }
+  40% { opacity: 0.4; }
+  60% { opacity: 0.15; }
+  100% { opacity: 1; transform: none; }
+}
+.post-in { animation: post-in 0.5s steps(4, end) both; }
+@media (prefers-reduced-motion: reduce) {
+  .post-in { animation: none; }
+  * { scroll-behavior: auto !important; }
+}
+
+/* ---- footer rail -------------------------------------------------------- */
+.rail-footer {
+  border-top: 2px solid var(--rail-lit);
+  padding: 20px clamp(16px, 4vw, 40px) 40px;
+  color: var(--ink-dim); font-size: 0.9rem;
+}
+.rail-footer .fine { font-size: 0.78rem; color: #6d6879; }
+
+/* ---- small screens ------------------------------------------------------ */
+@media (max-width: 640px) {
+  .masthead { padding-bottom: 8px; }
+  .wordmark { font-size: 1.5rem; }
+  .house-line { display: none; }
+  th, td { padding: 8px 10px; }
+}
