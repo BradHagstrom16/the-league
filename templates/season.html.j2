@@ -66,7 +66,7 @@
           {{ chip(g.winner.name, g.winner.avatar) }} <span class="pos">def.</span>
           {% if g.loser %}{{ chip(g.loser.name, g.loser.avatar) }}{% endif %}
           {% if g.score %}<span class="num">{{ g.score }}</span>{% endif %}
-          {% if g.position == 1 %}<span class="hot">the title</span>{% endif %}
+          {% if g.position == 1 %}<span class="champ-mark">the title</span>{% endif %}
           {% if g.position == 3 %}<span class="fine">third place</span>{% endif %}
         </div>
       {% endfor %}

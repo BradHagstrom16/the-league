@@ -293,6 +293,7 @@ tbody tr:hover td:first-child { background: #171420; }
   width: 20px; height: 1px; background: var(--rail-lit); }
 .bracket-round:first-child .bracket-game::before { content: none; }
 .bracket-game.title-game { font-size: 1.1rem; border-color: var(--rail-lit); }
+.bracket-game .champ-mark, .bracket-game .fine { display: block; margin-top: 4px; }
 
 /* rules */
 .rules { line-height: 1.8; padding-left: 1.2rem; max-width: 65ch; }
