@@ -85,6 +85,12 @@ def _users(payload):
     return out
 
 
+def _keeper_flagged(a):
+    """Does this audit row actually break a keeper rule? A wrong charged
+    round, an ineligible drafted round, or a back-to-back keep."""
+    return not a["charged_ok"] or not a["eligible_round"] or a["repeat_keep"]
+
+
 def _season_ctx(payload, data, season):
     """Everything the per-season page needs."""
     import pandas as pd
@@ -325,8 +331,12 @@ def build_pages(payload):
     by_round_chart = charts.svg_bar(
         [(str(r["round"]), r["avg_points"]) for r in d["by_round"]], h=240)
     audit = payload["keepers"]["audit"]
-    flagged = [a for a in audit if not a["charged_ok"] or not a["eligible_round"]
-               or a["repeat_keep"]]
+    flagged = [a for a in audit if _keeper_flagged(a)]
+    # Legal, not violations: two keepers drafted in the same round, one moved
+    # up. A bumped keeper who *also* broke a rule belongs in `flagged` alone --
+    # a keeper owed the bumped round who didn't get it is still a miss, and
+    # listing him in both tables would call the same row a violation and fine.
+    collisions = [a for a in audit if a["bumped"] and not _keeper_flagged(a)]
     positions = ("QB", "RB", "WR", "TE")
     tendency_rows = sorted(
         [{"user_id": uid,
@@ -344,6 +354,7 @@ def build_pages(payload):
         "d": d, "by_round_chart": by_round_chart,
         "tendency_rows": tendency_rows, "qb_groups": qb_groups,
         "keepers": payload["keepers"], "flagged": flagged,
+        "collisions": collisions,
         "summary": payload["keepers"]["summary"],
     })
 

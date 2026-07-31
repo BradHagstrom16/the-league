@@ -64,6 +64,57 @@ def test_audit(tiny):
     assert not rows["KX"]["repeat_keep"]
 
 
+def _collide(tiny, kw_keep_round):
+    """u1 keeps two players both drafted in 2023 round 7: KX at rd 7 and KW at
+    `kw_keep_round`. Only one of them can occupy round 7, so one moves up."""
+    d = _mini(tiny)
+    d.drafts = pd.concat([d.drafts, pd.DataFrame([
+        dict(season=2023, round=7, overall_pick=26, draft_slot=1,
+             slot_owner_roster_id=1, roster_id=1, traded_pick=0, user_id="u1",
+             manager="h1", player_id="KW", player_name="KW", position="RB",
+             is_keeper=False),
+        dict(season=2024, round=kw_keep_round, overall_pick=(kw_keep_round - 1) * 4 + 1,
+             draft_slot=1, slot_owner_roster_id=1, roster_id=1, traded_pick=0,
+             user_id="u1", manager="h1", player_id="KW", player_name="KW",
+             position="RB", is_keeper=True),
+    ])], ignore_index=True)
+    return d
+
+
+def test_collision_bumps_one_keeper(tiny):
+    # Both drafted rd 7, kept at 7 and 6: a legal pair, one of them bumped.
+    d = _collide(tiny, 6)
+    rows = {r["player_id"]: r for r in audit_keepers(d)}
+    assert rows["KX"]["charged_ok"] and rows["KX"]["need"] == 7
+    assert rows["KW"]["charged_ok"] and rows["KW"]["need"] == 6
+    assert rows["KW"]["bumped"] and not rows["KX"]["bumped"]
+    flags = compute_keepers(d)["summary"]["rule_flags"]
+    assert flags["wrong_round_charge"] == 0
+
+
+def test_collision_assignment_is_interchangeable(tiny):
+    # The rule doesn't say *which* of the two moves up, so the rounds are
+    # graded as a set: KX up to 6 and KW at 7 is just as legal as the reverse.
+    d = _collide(tiny, 7)
+    d.drafts.loc[(d.drafts.season == 2024) & (d.drafts.player_id == "KX"), "round"] = 6
+    rows = {r["player_id"]: r for r in audit_keepers(d)}
+    assert rows["KX"]["charged_ok"] and rows["KX"]["bumped"]
+    assert rows["KW"]["charged_ok"] and not rows["KW"]["bumped"]
+
+
+def test_collision_still_catches_wrong_round(tiny):
+    # Both drafted rd 7, kept at 7 and 5: round 6 was owed, so the 5 is a miss.
+    rows = {r["player_id"]: r for r in audit_keepers(_collide(tiny, 5))}
+    assert rows["KX"]["charged_ok"] and rows["KX"]["need"] == 7
+    assert not rows["KW"]["charged_ok"] and rows["KW"]["need"] == 6
+
+
+def test_no_collision_leaves_rounds_alone(tiny):
+    # KX/KY/KZ sit on three different managers, so nothing collides.
+    rows = audit_keepers(_mini(tiny))
+    assert rows and all(r["need"] == r["prev_round"] and not r["bumped"] for r in rows)
+
+
 def test_constants():
     assert KEEPER_MIN_ROUND == 6
     assert MAX_KEEPERS == 2
@@ -77,7 +128,8 @@ def test_compute_keepers_structure(tiny):
         "A manager may keep 2 players maximum.",
         "The player must have been drafted in the previous year's draft in "
         "round 6 or later. A player may not be kept two years in a row.",
-        "You keep a player at the round you drafted him.",
+        "You keep a player at the round you drafted him. If two keepers were "
+        "drafted in the same round, one of them moves up a round.",
         "Draft pick trading is allowed before and during the draft, "
         "including keepers. Future years' picks cannot be traded.",
     ]
