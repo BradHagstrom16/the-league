@@ -1,12 +1,12 @@
 {% extends "base.html.j2" %}
 {% from "_macros.j2" import chip %}
-{% block title %}The League — the board{% endblock %}
+{% block title %}The League · the board{% endblock %}
 {% block content %}
 
 {% if status in ("pre_draft", "drafting") %}
 <section class="section draft-room post-in">
   <div class="hero-board">
-    <img class="hero-crest" src="assets/img/logo.png" alt="The League — Trojan raising a beer over the wordmark" width="300" height="300">
+    <img class="hero-crest" src="assets/img/logo.png" alt="The League crest, a Trojan raising a beer over the wordmark" width="300" height="300">
     <div class="hero-copy">
       <h1>The Draft Room is open</h1>
       <p class="note">Season {{ meta.current_season }} hasn't kicked off. Keepers are being declared, picks are being plotted, and somebody is about to reach.</p>
@@ -43,7 +43,7 @@
 {% else %}
 <section class="section post-in">
   <div class="marquee">
-    <span class="line-name">Season {{ meta.current_season }} — live</span>
+    <span class="line-name">Season {{ meta.current_season }} · live</span>
     <span class="detail">Fresh lines post every Tuesday morning. <a href="seasons/{{ meta.current_season }}.html">This week's board →</a></span>
   </div>
 </section>
@@ -53,12 +53,12 @@
   <h2>The house</h2>
   <div class="two-up">
     <div class="marquee">
-      <span class="line-name">Reigning champion — {{ reigning.season }}</span>
+      <span class="line-name">Reigning champion · {{ reigning.season }}</span>
       <span class="posted">{{ chip(reigning.champion_name, users[reigning.champion_user].avatar if reigning.champion_user in users else '', root ~ 'managers/' ~ users[reigning.champion_user].slug ~ '.html' if reigning.champion_user in users else None) }}</span>
       <span class="detail">{% if lore.trophy_name %}Holder of {{ lore.trophy_name }}.{% else %}Trophy name unrecorded; commissioner, fill in <code>league_lore.yml</code>.{% endif %}</span>
     </div>
     <div class="marquee shame">
-      <span class="line-name">Toilet bowl loser — {{ reigning.season }}</span>
+      <span class="line-name">Toilet bowl loser · {{ reigning.season }}</span>
       <span class="posted">{{ chip(last_place.name, users[last_place.user_id].avatar if last_place.user_id in users else '', root ~ 'managers/' ~ users[last_place.user_id].slug ~ '.html' if last_place.user_id in users else None) }}</span>
       <span class="detail">{% if lore.punishments.get(reigning.season|string) or lore.punishments.get(reigning.season) %}{{ lore.punishments.get(reigning.season|string) or lore.punishments.get(reigning.season) }}{% else %}Punishment unrecorded. The group chat knows.{% endif %}</span>
     </div>

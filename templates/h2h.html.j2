@@ -1,6 +1,6 @@
 {% extends "base.html.j2" %}
 {% from "_macros.j2" import chip %}
-{% block title %}Head-to-Head — The League{% endblock %}
+{% block title %}Head-to-Head · The League{% endblock %}
 {% block content %}
 <h1 class="page-title">Head-to-Head</h1>
 <p class="note">Win percentage, all-time including playoffs, read row-owns-column: amber means the row manager owns the matchup, purple means he's owned. Click any pair below the grid for the full meeting log.</p>
@@ -25,7 +25,7 @@
           <td>{% if g.is_playoff %}<span class="fine">playoff</span>{% endif %}</td>
           <td class="num{% if g.winner_user == p.a.user_id %} hot{% endif %}">{{ g.a_points|line }}</td>
           <td class="num{% if g.winner_user == p.b.user_id %} hot{% endif %}">{{ g.b_points|line }}</td>
-          <td>{{ users[g.winner_user].name if g.winner_user in users else '—' }}</td>
+          <td>{{ users[g.winner_user].name if g.winner_user in users else '–' }}</td>
         </tr>
       {% endfor %}
       </tbody>

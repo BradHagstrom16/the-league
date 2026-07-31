@@ -1,6 +1,6 @@
 {% extends "base.html.j2" %}
 {% from "_macros.j2" import chip, delta %}
-{% block title %}Draft & Keepers — The League{% endblock %}
+{% block title %}Draft & Keepers · The League{% endblock %}
 {% block content %}
 <h1 class="page-title">Draft &amp; Keepers</h1>
 
@@ -129,7 +129,7 @@
   </div>
   <p class="note">Average regular-season points per pick, by round, all seasons.
   Hit rate = the share of that round's picks that at least met the round's own
-  average — how often a pick pays its price.</p>
+  average. That is how often a pick pays its price.</p>
 </section>
 
 <section class="section">
@@ -173,7 +173,7 @@
 <section class="section">
   <h2>The superflex question</h2>
   <p class="note">Does drafting QBs early actually win here? First QB round vs
-  final finish, grouped by season — earliest reach first. Amber marks a
+  final finish, grouped by season, earliest reach first. Amber marks a
   first-place finish.</p>
   <div class="board-panel">
     <table>
@@ -185,9 +185,9 @@
         {% for r in g.rows %}
         <tr>
           <td>{{ chip(users[r.user_id].name if r.user_id in users else '?', users[r.user_id].avatar if r.user_id in users else '', 'managers/' ~ users[r.user_id].slug ~ '.html' if r.user_id in users else None) }}</td>
-          <td class="num">{{ r.first_qb_round if r.first_qb_round is not none else '—' }}</td>
+          <td class="num">{{ r.first_qb_round if r.first_qb_round is not none else '–' }}</td>
           <td class="num">{{ r.qbs_in_first_5 }}</td>
-          <td class="num{% if r.finish == 1 %} hot{% endif %}">{{ r.finish if r.finish is not none else '—' }}</td>
+          <td class="num{% if r.finish == 1 %} hot{% endif %}">{{ r.finish if r.finish is not none else '–' }}</td>
         </tr>
         {% endfor %}
       {% endfor %}

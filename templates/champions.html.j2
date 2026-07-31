@@ -1,6 +1,6 @@
 {% extends "base.html.j2" %}
 {% from "_macros.j2" import chip %}
-{% block title %}Champions & Shame — The League{% endblock %}
+{% block title %}Champions & Shame · The League{% endblock %}
 {% block content %}
 <h1 class="page-title">Champions &amp; Shame</h1>
 <div class="two-col">
@@ -17,7 +17,7 @@
   </section>
   <section class="section">
     <h2>Wall of Shame</h2>
-    <p class="note">The toilet bowl decides who lives here — win the losers bracket, win the punishment. Sentences as recorded by the commissioner.</p>
+    <p class="note">The toilet bowl decides who lives here: win the losers bracket, win the punishment. Sentences as recorded by the commissioner.</p>
     {% for s in season_rows|reverse %}
     <div class="marquee shame">
       <span class="line-name">{{ s.season }}</span>

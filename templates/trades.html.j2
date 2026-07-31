@@ -1,12 +1,12 @@
 {% extends "base.html.j2" %}
 {% from "_macros.j2" import chip, delta %}
-{% block title %}Trades & Waivers — The League{% endblock %}
+{% block title %}Trades & Waivers · The League{% endblock %}
 {% block content %}
 <h1 class="page-title">Trades &amp; Waivers</h1>
 
 <section class="section">
   <h2>FAAB leaderboards</h2>
-  <p class="note">$125 a season. Points-after counts only weeks the pickup actually started for the buyer — no credit for stash-and-forget.</p>
+  <p class="note">$125 a season. Points-after counts only weeks the pickup actually started for the buyer. No credit for stash-and-forget.</p>
   {% for y in faab_years %}
   <h3 id="faab-{{ y }}">{{ y }}</h3>
   <div class="board-panel">
@@ -18,7 +18,7 @@
         <tr><td data-sort="{{ users[r.user_id].name if r.user_id in users else '' }}">{{ chip(users[r.user_id].name if r.user_id in users else '?', users[r.user_id].avatar if r.user_id in users else '', 'managers/' ~ users[r.user_id].slug ~ '.html' if r.user_id in users else None) }}</td>
         <td class="num">${{ r.spent|fmt0 }}</td>
         <td class="num">{{ r.points_after|fmt0 }}</td>
-        <td class="num{% if r.ppd == best_ppd %} hot{% endif %}">{{ r.ppd|line if r.ppd is not none else '—' }}</td></tr>
+        <td class="num{% if r.ppd == best_ppd %} hot{% endif %}">{{ r.ppd|line if r.ppd is not none else '–' }}</td></tr>
       {% endfor %}
       </tbody>
     </table>
@@ -36,7 +36,7 @@
         {% for b in tx.best_buys %}
           <tr><td class="num">{{ b.season }}</td><td>{{ b.player_name }} <span class="fine">({{ users[b.user_id].name if b.user_id in users else '?' }})</span></td>
           <td class="num">${{ b.bid|fmt0 }}</td><td class="num">{{ b.points_after|fmt0 }}</td>
-          <td class="num pos">{{ b.ppd|line if b.ppd is not none else '—' }}</td></tr>
+          <td class="num pos">{{ b.ppd|line if b.ppd is not none else '–' }}</td></tr>
         {% endfor %}
         </tbody>
       </table>
@@ -48,7 +48,7 @@
         {% for b in tx.worst_buys %}
           <tr><td class="num">{{ b.season }}</td><td>{{ b.player_name }} <span class="fine">({{ users[b.user_id].name if b.user_id in users else '?' }})</span></td>
           <td class="num">${{ b.bid|fmt0 }}</td><td class="num">{{ b.points_after|fmt0 }}</td>
-          <td class="num neg">{{ b.ppd|line if b.ppd is not none else '—' }}</td></tr>
+          <td class="num neg">{{ b.ppd|line if b.ppd is not none else '–' }}</td></tr>
         {% endfor %}
         </tbody>
       </table>
@@ -84,7 +84,7 @@
     <p class="trade-side{% if s.user_id == t.winner_user_id and t.margin > 0 %} won{% endif %}">
       {{ chip(users[s.user_id].name if s.user_id in users else '?', users[s.user_id].avatar if s.user_id in users else '') }}
       received {{ s.players_gained|join(', ') if s.players_gained else 'nothing but vibes' }}
-      — <span class="num">{{ s.points_after|fmt0 }} pts after</span>
+      · <span class="num">{{ s.points_after|fmt0 }} pts after</span>
       {% if s.user_id == t.winner_user_id and t.margin > 0 %}<span class="pos">✓ won by {{ t.margin|fmt0 }}</span>{% endif %}
     </p>
     {% endfor %}

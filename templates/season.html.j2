@@ -1,6 +1,6 @@
 {% extends "base.html.j2" %}
 {% from "_macros.j2" import chip, wl, delta %}
-{% block title %}{{ season }} season — The League{% endblock %}
+{% block title %}{{ season }} season · The League{% endblock %}
 {% block content %}
 <h1 class="page-title">{{ season }}</h1>
 
@@ -21,7 +21,7 @@
           <td class="num">{{ r.losses|int }}</td>
           <td class="num">{{ r.points_for|fmt2 }}</td>
           <td class="num">{{ r.points_against|fmt2 }}</td>
-          <td class="num" data-sort="{{ r.luck if r.luck is not none else 0 }}">{% if r.luck is not none %}{{ delta(r.luck) }}{% else %}—{% endif %}</td>
+          <td class="num" data-sort="{{ r.luck if r.luck is not none else 0 }}">{% if r.luck is not none %}{{ delta(r.luck) }}{% else %}–{% endif %}</td>
           <td>{% if r.champion %}<span class="champ-mark">Champion</span>{% elif r.made_playoffs %}Playoffs{% endif %}</td>
         </tr>
       {% endfor %}
@@ -44,7 +44,7 @@
           <td class="num">{{ row.week }}{% if row.playoff %}<span class="fine">P</span>{% endif %}</td>
           {% for c in row.cells %}
             {% if c %}<td class="num {{ 'pos' if c.result == 'W' else ('neg' if c.result == 'L' else '') }}" title="vs {{ c.opp }}">{{ c.pts|line }}</td>
-            {% else %}<td class="num">—</td>{% endif %}
+            {% else %}<td class="num">–</td>{% endif %}
           {% endfor %}
         </tr>
       {% endfor %}
@@ -66,8 +66,8 @@
           {{ chip(g.winner.name, g.winner.avatar) }} <span class="pos">def.</span>
           {% if g.loser %}{{ chip(g.loser.name, g.loser.avatar) }}{% endif %}
           {% if g.score %}<span class="num">{{ g.score }}</span>{% endif %}
-          {% if g.position == 1 %}<span class="hot">— the title</span>{% endif %}
-          {% if g.position == 3 %}<span class="fine">— third place</span>{% endif %}
+          {% if g.position == 1 %}<span class="hot">the title</span>{% endif %}
+          {% if g.position == 3 %}<span class="fine">third place</span>{% endif %}
         </div>
       {% endfor %}
       </div>

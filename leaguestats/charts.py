@@ -80,7 +80,7 @@ def svg_line(series, x_labels, *, w=640, h=280, y_invert=False):
                 continue
             x, y = sx(i), sy(v)
             out.append(f'<circle class="pt" cx="{x:.1f}" cy="{y:.1f}" r="4" '
-                       f'fill="{color}"><title>{escape(str(name))} — '
+                       f'fill="{color}"><title>{escape(str(name))} · '
                        f'{escape(str(x_labels[i]))}: {v}</title></circle>')
         if pts:
             lx, ly = pts[-1]

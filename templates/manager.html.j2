@@ -1,6 +1,6 @@
 {% extends "base.html.j2" %}
 {% from "_macros.j2" import chip, delta %}
-{% block title %}{{ m.name }} — The League{% endblock %}
+{% block title %}{{ m.name }} · The League{% endblock %}
 {% block content %}
 <header class="mgr-head">
   {% if m.avatar %}<img class="mgr-avatar" src="https://sleepercdn.com/avatars/{{ m.avatar }}" alt="" width="72" height="72">{% else %}<span class="initial mgr-avatar">{{ m.name[:1]|upper }}</span>{% endif %}
