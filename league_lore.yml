@@ -1,4 +1,4 @@
 # Hand-maintained league lore. The site renders placeholders until this is filled in.
-trophy_name: ""            # what the champion's trophy is called
+trophy_name: "The League Trophy"            # what the champion's trophy is called
 punishments: {}            # season -> what last place had to do, e.g. 2024: "Ate a ghost pepper"
 champion_notes: {}         # season -> one-liner about that title run
