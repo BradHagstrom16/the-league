@@ -260,7 +260,17 @@ STANDING_FIELDS = [
 ]
 
 
-def pull_standings(seasons, draft_rows):
+def pull_standings(seasons, draft_rows, recomp=None):
+    """
+    recomp maps (season, roster_id) -> (pf, pa) recomputed from regular-season
+    matchup rows. Sleeper's frozen roster.settings.fpts disagrees with its own
+    matchup data by up to ~6 points for 2021-2024 (stat corrections applied to
+    matchups but never backfilled into the frozen totals). The matchup-derived
+    numbers are canonical here so standings reconcile exactly with every other
+    stat computed from weekly rows; the finish order is identical either way
+    (verified for all five played seasons).
+    """
+    recomp = recomp or {}
     out_dir = DATA_DIR / "standings"
     out_dir.mkdir(exist_ok=True)
     all_rows = []
@@ -284,6 +294,9 @@ def pull_standings(seasons, draft_rows):
                 rid = r["roster_id"]
                 t = idx.get(rid, {})
                 pf = fpts(s, "fpts")
+                pa = fpts(s, "fpts_against")
+                if (season, rid) in recomp:
+                    pf, pa = recomp[(season, rid)]
                 pp = fpts(s, "ppts")
                 rows.append({
                     "season": season,
@@ -295,7 +308,7 @@ def pull_standings(seasons, draft_rows):
                     "losses": s.get("losses", 0),
                     "ties": s.get("ties", 0),
                     "points_for": pf,
-                    "points_against": fpts(s, "fpts_against"),
+                    "points_against": pa,
                     "potential_points": pp,
                     # How much of your ceiling you actually started.
                     "efficiency": round(pf / pp, 4) if pp else "",
@@ -362,6 +375,9 @@ def pull_matchups(seasons, players):
     all_rows = []
     all_pts = []
     all_pw = []
+    # (season, roster_id) -> [pf, pa] summed over regular-season weeks; the
+    # canonical points totals (see pull_standings docstring).
+    recomp = {}
 
     for league in seasons:
         season = league["season"]
@@ -449,6 +465,10 @@ def pull_matchups(seasons, players):
                             "result": "W" if ap > bp else ("L" if ap < bp else "T"),
                             "is_playoff": week >= playoff_start,
                         })
+                        if week < playoff_start:
+                            e = recomp.setdefault((season, a["roster_id"]), [0.0, 0.0])
+                            e[0] += ap
+                            e[1] += bp
 
             rows.sort(key=lambda r: (r["week"], r["roster_id"]))
             write_csv(out_dir / f"matchups_{season}.csv", MATCHUP_FIELDS, rows)
@@ -482,7 +502,7 @@ def pull_matchups(seasons, players):
     print(f"  matchups_all.csv: {len(all_rows)} rows")
     print(f"  player_points_all.csv: {len(all_pts)} rows")
     print(f"  player_weeks_all.csv: {len(all_pw)} rows")
-    return all_rows
+    return all_rows, {k: (round(v[0], 2), round(v[1], 2)) for k, v in recomp.items()}
 
 
 # ---------------------------------------------------------------------------
@@ -730,11 +750,11 @@ if __name__ == "__main__":
     print("\n=== SETTINGS ===")
     pull_settings(seasons)
 
-    print("\n=== STANDINGS ===")
-    pull_standings(seasons, draft_rows)
-
     print("\n=== MATCHUPS ===")
-    pull_matchups(seasons, players)
+    _, recomp = pull_matchups(seasons, players)
+
+    print("\n=== STANDINGS ===")
+    pull_standings(seasons, draft_rows, recomp)
 
     print("\n=== BRACKETS ===")
     pull_brackets(seasons)
