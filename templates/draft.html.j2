@@ -13,7 +13,7 @@
 
 <section class="section">
   <h2>The audit</h2>
-  <p class="note"><strong class="num">{{ summary.charged_ok }} of {{ summary.n }}</strong> historical keepers charged exactly their drafted round, the way the rule reads.{% if summary.charged_ok == summary.n and not flagged %} Six seasons, zero disputes. The books are clean.{% endif %}</p>
+  <p class="note"><strong class="num">{{ summary.charged_ok }} of {{ summary.n }}</strong> historical keepers charged correctly, the way the rule reads.{% if summary.charged_ok == summary.n and not flagged %} Six seasons, zero disputes. The books are clean.{% endif %}</p>
   {% if flagged %}
   <div class="board-panel">
     <table class="sortable">
@@ -35,6 +35,29 @@
   </div>
   {% endif %}
 </section>
+
+{% if collisions %}
+<section class="section">
+  <h2>Round collisions</h2>
+  <p class="note">Trade for a keeper who went in the same round as one of your own and only one of them can hold that slot. The other moves up a round. These are legal, not misses.</p>
+  <div class="board-panel">
+    <table>
+      <thead><tr><th class="num">Season</th><th>Manager</th><th>Player</th><th class="num">Drafted rd</th><th class="num">Charged</th></tr></thead>
+      <tbody>
+      {% for a in collisions %}
+        <tr>
+          <td class="num">{{ a.season }}</td>
+          <td>{{ chip(users[a.user_id].name if a.user_id in users else a.name, users[a.user_id].avatar if a.user_id in users else '', 'managers/' ~ users[a.user_id].slug ~ '.html' if a.user_id in users else None) }}</td>
+          <td>{{ a.player_name }}</td>
+          <td class="num">{{ a.prev_round }}</td>
+          <td class="num hot">{{ a.keep_round }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+{% endif %}
 
 {% if keepers.declared_next %}
 <section class="section">

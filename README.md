@@ -63,16 +63,18 @@ Everything else regenerates from the API. These two do not:
 1. A manager may keep 2 players maximum.
 2. The player must have been drafted in the previous year's draft in round 6
    or later. A player may not be kept two years in a row.
-3. You keep a player at the round you drafted him. (No penalty for players
-   who left a roster — commissioner-confirmed; the GGG league next door does
-   it differently.)
+3. You keep a player at the round you drafted him. If two keepers were
+   drafted in the same round, one of them moves up a round. (No penalty for
+   players who left a roster — commissioner-confirmed; the GGG league next
+   door does it differently.)
 4. Draft pick trading is allowed before and during the draft, including
    keepers. Future years' picks cannot be traded.
 
 Sleeper enforces none of this. The draft page audits every historical keeper
-against these rules: all 69 keeps in league history were charged exactly
-their drafted round. Six seasons, zero disputes. Somewhere a commissioner
-is quietly proud.
+against these rules: all 69 keeps in league history were charged correctly,
+including two same-round collisions (2023 Towsk, 2024 BJ) where a traded-in
+keeper shared a round with one of the manager's own and had to move up.
+Six seasons, zero disputes. Somewhere a commissioner is quietly proud.
 
 ## What's in here
 
@@ -86,7 +88,7 @@ templates/                 Jinja2 page templates
 site/                      the generated site (GitHub Pages serves this) — never hand-edit
 data/                      per-season CSVs + *_all.csv — committed so the repo
                            is useful without running anything
-tests/                     pytest suite (46 tests, incl. hand-computed fixtures
+tests/                     pytest suite (53 tests, incl. hand-computed fixtures
                            and a brute-force-verified lineup optimizer)
 PRODUCT.md, DESIGN.md      product record and design system (impeccable)
 ```

@@ -7,10 +7,14 @@ govern):
 1. A manager may keep 2 players maximum.
 2. The player must have been drafted in the previous year's draft in round
    6 or later. A player may not be kept two years in a row.
-3. You keep a player at the round you drafted him. (Confirmed by the
-   commissioner 2026-07-31: this league has NO one-round-earlier penalty
-   for players who left a roster — unlike the GGG league this audit port
-   came from. `left_roster` is kept as context only.)
+3. You keep a player at the round you drafted him. If two keepers were
+   drafted in the same round, one of them moves up a round. (Confirmed by
+   the commissioner 2026-07-31: this league has NO one-round-earlier
+   penalty for players who left a roster — unlike the GGG league this audit
+   port came from. `left_roster` is kept as context only. The same-round
+   collision case is real and reachable via trades, since a manager can
+   acquire a keeper who was drafted in the same round as one of his own:
+   see `_resolve_collisions`.)
 4. Draft pick trading is allowed before and during the draft, including
    keepers. Future years' picks cannot be traded.
 
@@ -33,7 +37,8 @@ RULES = [
     "A manager may keep 2 players maximum.",
     "The player must have been drafted in the previous year's draft in "
     "round 6 or later. A player may not be kept two years in a row.",
-    "You keep a player at the round you drafted him.",
+    "You keep a player at the round you drafted him. If two keepers were "
+    "drafted in the same round, one of them moves up a round.",
     "Draft pick trading is allowed before and during the draft, including "
     "keepers. Future years' picks cannot be traded.",
 ]
@@ -75,6 +80,44 @@ def left_roster(data: LeagueData, season: int, player_id: str, user_id: str) -> 
 
     r2u = data.r2u(season)
     return any(r2u.get(int(r)) == user_id for r in gone.roster_id)
+
+
+def _resolve_collisions(rows: list[dict]) -> None:
+    """Re-grade each manager-season's keepers together, in place.
+
+    Two keepers can't both occupy the same draft slot, so when a manager's
+    keepers were drafted in the same round (reachable via trade: you can
+    acquire someone drafted in the same round as one of your own picks) one
+    of them moves up a round. Graded per rule 3.
+
+    The rule doesn't say *which* of the two moves up, so this grades the
+    rounds as a set: build the multiset of rounds the manager owes, then
+    pair it against the rounds he actually used, both sorted ascending.
+    Sorted pairing is the assignment that minimises total mismatch, so a
+    manager who resolved a collision either way passes, while a real miss
+    still lands on exactly one row (two keepers owed rounds 8 and 9 but kept
+    at 9 and 7 flags the 7 and passes the 9).
+    """
+    by_manager: dict[tuple, list[dict]] = {}
+    for r in rows:
+        by_manager.setdefault((r["season"], r["user_id"]), []).append(r)
+
+    for group in by_manager.values():
+        if len(group) < 2:
+            continue
+        taken: set[int] = set()
+        owed = []
+        for r in sorted(group, key=lambda r: r["prev_round"]):
+            rd = r["prev_round"]
+            while rd in taken and rd > 1:  # cascades, though MAX_KEEPERS caps it at one step
+                rd -= 1
+            taken.add(rd)
+            owed.append(rd)
+
+        for r, need in zip(sorted(group, key=lambda r: r["keep_round"]), sorted(owed)):
+            r["need"] = need
+            r["charged_ok"] = bool(r["keep_round"] == need)
+            r["bumped"] = bool(need != r["prev_round"])
 
 
 def audit_keepers(data: LeagueData) -> list[dict]:
@@ -125,8 +168,13 @@ def audit_keepers(data: LeagueData) -> list[dict]:
             "charged_ok": bool(keep_round == need),
             "eligible_round": bool(prev_round >= KEEPER_MIN_ROUND),
             "repeat_keep": bool(p["is_keeper"]),
+            # Eligibility stays keyed off the *drafted* round, not the charged
+            # one: rule 2 asks where the player went in last year's draft, so a
+            # round-6 keeper bumped to 5 by a collision is still eligible.
+            "bumped": False,
         })
 
+    _resolve_collisions(rows)
     rows.sort(key=lambda r: (r["season"], str(r["user_id"]), str(r["player_id"])))
     return rows
 

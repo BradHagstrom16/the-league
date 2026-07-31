@@ -327,6 +327,8 @@ def build_pages(payload):
     audit = payload["keepers"]["audit"]
     flagged = [a for a in audit if not a["charged_ok"] or not a["eligible_round"]
                or a["repeat_keep"]]
+    # Legal, not violations: two keepers drafted in the same round, one moved up.
+    collisions = [a for a in audit if a["bumped"]]
     positions = ("QB", "RB", "WR", "TE")
     tendency_rows = sorted(
         [{"user_id": uid,
@@ -344,6 +346,7 @@ def build_pages(payload):
         "d": d, "by_round_chart": by_round_chart,
         "tendency_rows": tendency_rows, "qb_groups": qb_groups,
         "keepers": payload["keepers"], "flagged": flagged,
+        "collisions": collisions,
         "summary": payload["keepers"]["summary"],
     })
 

@@ -2,7 +2,7 @@
  "rules": [
   "A manager may keep 2 players maximum.",
   "The player must have been drafted in the previous year's draft in round 6 or later. A player may not be kept two years in a row.",
-  "You keep a player at the round you drafted him.",
+  "You keep a player at the round you drafted him. If two keepers were drafted in the same round, one of them moves up a round.",
   "Draft pick trading is allowed before and during the draft, including keepers. Future years' picks cannot be traded."
  ],
  "audit": [
@@ -18,7 +18,8 @@
    "need": 6,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -32,7 +33,8 @@
    "need": 8,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -46,7 +48,8 @@
    "need": 12,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -60,7 +63,8 @@
    "need": 7,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -74,7 +78,8 @@
    "need": 7,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -88,7 +93,8 @@
    "need": 15,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -102,7 +108,8 @@
    "need": 11,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -116,7 +123,8 @@
    "need": 10,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -130,7 +138,8 @@
    "need": 10,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -144,7 +153,8 @@
    "need": 8,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -158,7 +168,8 @@
    "need": 10,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -172,7 +183,8 @@
    "need": 12,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -186,7 +198,8 @@
    "need": 11,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -200,7 +213,8 @@
    "need": 9,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -214,7 +228,8 @@
    "need": 14,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -228,7 +243,8 @@
    "need": 11,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2022,
@@ -242,7 +258,8 @@
    "need": 13,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -256,7 +273,8 @@
    "need": 6,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -270,7 +288,8 @@
    "need": 16,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -284,7 +303,8 @@
    "need": 7,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -298,7 +318,8 @@
    "need": 13,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -312,7 +333,8 @@
    "need": 8,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -326,7 +348,8 @@
    "need": 12,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -337,10 +360,11 @@
    "prev_round": 11,
    "keep_round": 10,
    "left": true,
-   "need": 11,
-   "charged_ok": false,
+   "need": 10,
+   "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": true
   },
   {
    "season": 2023,
@@ -354,7 +378,8 @@
    "need": 11,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -368,7 +393,8 @@
    "need": 11,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -382,7 +408,8 @@
    "need": 12,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -396,7 +423,8 @@
    "need": 14,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -410,7 +438,8 @@
    "need": 6,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -424,7 +453,8 @@
    "need": 16,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -438,7 +468,8 @@
    "need": 6,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -452,7 +483,8 @@
    "need": 8,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -466,7 +498,8 @@
    "need": 15,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -480,7 +513,8 @@
    "need": 7,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2023,
@@ -494,7 +528,8 @@
    "need": 16,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -508,7 +543,8 @@
    "need": 10,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -522,7 +558,8 @@
    "need": 12,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -536,7 +573,8 @@
    "need": 7,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -550,7 +588,8 @@
    "need": 9,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -564,7 +603,8 @@
    "need": 9,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -578,7 +618,8 @@
    "need": 15,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -592,7 +633,8 @@
    "need": 14,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -606,7 +648,8 @@
    "need": 6,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -620,7 +663,8 @@
    "need": 7,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -634,7 +678,8 @@
    "need": 10,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -648,7 +693,8 @@
    "need": 10,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -662,7 +708,8 @@
    "need": 9,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -676,7 +723,8 @@
    "need": 9,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -687,10 +735,11 @@
    "prev_round": 9,
    "keep_round": 8,
    "left": true,
-   "need": 9,
-   "charged_ok": false,
+   "need": 8,
+   "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": true
   },
   {
    "season": 2024,
@@ -704,7 +753,8 @@
    "need": 14,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -718,7 +768,8 @@
    "need": 8,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -732,7 +783,8 @@
    "need": 8,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -746,7 +798,8 @@
    "need": 14,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2024,
@@ -760,7 +813,8 @@
    "need": 12,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2025,
@@ -774,7 +828,8 @@
    "need": 13,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2025,
@@ -788,7 +843,8 @@
    "need": 10,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2025,
@@ -802,7 +858,8 @@
    "need": 14,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2025,
@@ -816,7 +873,8 @@
    "need": 11,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2025,
@@ -830,7 +888,8 @@
    "need": 13,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2025,
@@ -844,7 +903,8 @@
    "need": 8,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2025,
@@ -858,7 +918,8 @@
    "need": 12,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2025,
@@ -872,7 +933,8 @@
    "need": 11,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2025,
@@ -886,7 +948,8 @@
    "need": 10,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2025,
@@ -900,7 +963,8 @@
    "need": 10,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2025,
@@ -914,7 +978,8 @@
    "need": 6,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2025,
@@ -928,7 +993,8 @@
    "need": 16,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2025,
@@ -942,7 +1008,8 @@
    "need": 12,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2025,
@@ -956,7 +1023,8 @@
    "need": 8,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   },
   {
    "season": 2025,
@@ -970,17 +1038,18 @@
    "need": 12,
    "charged_ok": true,
    "eligible_round": true,
-   "repeat_keep": false
+   "repeat_keep": false,
+   "bumped": false
   }
  ],
  "summary": {
   "n": 69,
-  "charged_ok": 67,
+  "charged_ok": 69,
   "rule_flags": {
    "max_keepers_exceeded": 0,
    "ineligible_round": 0,
    "repeat_keep": 0,
-   "wrong_round_charge": 2
+   "wrong_round_charge": 0
   }
  },
  "value": [
