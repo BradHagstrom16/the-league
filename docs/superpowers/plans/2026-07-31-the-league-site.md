@@ -1043,7 +1043,7 @@ def test_records(tiny):
 - Consumes: every `compute_*` (Tasks 4–11), `load_data`, `write_name_template`
 - Produces:
   - `util.to_jsonable(obj)` — recursively converts numpy/pandas scalar types (`int64`, `float64`, `bool_`), dict keys included, so `json.dumps` never chokes.
-  - `build_site.py` main: `load_data(ROOT)` → `write_name_template(ROOT)` → run all eight compute functions → write `site/data/{career,h2h,luck,lineups,drafts,keepers,transactions,records}.json` + `site/data/meta.json` (`{league_name, seasons: played list, current_season, generated_utc (from env var BUILD_TIME or empty — no Date.now equivalent needed, the Action passes it), lore, era_boundary: 2025}`).
+  - `build_site.py` main: `load_data(ROOT)` → `write_name_template(ROOT)` → run all eight compute functions → write `site/data/{career,h2h,luck,lineups,drafts,keepers,transactions,records}.json` + `site/data/meta.json` (`{league_name, seasons: played list, current_season, league_status (the newest season's Sleeper status — drives the home page mode), generated_utc (from env var BUILD_TIME or empty — no Date.now equivalent needed, the Action passes it), lore, era_boundary: 2025}`).
   - `PAGES: list` placeholder constant the render tasks will fill; for now build ends after JSON.
 
 - [ ] **Step 1: Failing tests** — `tests/test_build.py`:
@@ -1091,6 +1091,8 @@ def test_full_build_on_real_data(tmp_path, monkeypatch):
   - `templates/base.html.j2` blocks: `title`, `content`; top nav links: `index.html`, `seasons.html`, `managers.html`, `h2h.html`, `records.html`, `draft.html`, `trades.html`, `champions.html` (all site-root-relative via a `root` ctx var, e.g. `{{ root }}records.html`, so nested pages link correctly)
 
 **Design directive (governs this task and Tasks 14–16):** the repo root has `PRODUCT.md` — the impeccable skill's product record, written with the user before execution. Read it first. Then, before any CSS or markup: invoke the `impeccable` skill, run its setup script (`context.mjs`), and follow its **new-work** flow to choose and commit the site's visual world (`DESIGN.md` + surface briefs) — expect mostly Operate/Read modes for stats surfaces, but let new-work decide per surface, honoring whatever brand commitments PRODUCT.md pins. Load the skill's `craft-floor.md` immediately before editing UI files. Invoke the `dataviz` skill before writing `charts.py`. Iterate on visuals in a real browser: `python3 -m http.server 8100 --directory site` + the browser MCP tools. Dark-mode-first with a `prefers-color-scheme: light` variant; system font stack; Sleeper avatars via `https://sleepercdn.com/avatars/thumbs/{avatar_id}` with a CSS-initial fallback when blank. These are constraints for new-work, not a substitute for it.
+
+**Binding brand assets** (see PRODUCT.md Brand Commitments): `images/Theleaguemainfinal.PNG` (primary logo — purple Trojan + "THE LEAGUE" wordmark, black-native) and `images/DGNLogo.jpeg` (DGN Trojans seal, heritage accent). Copy web-optimized versions into `site/assets/img/` during this task (downscale the PNG to ~600px wide for the hero + a small favicon crop of the Trojan head; `sips`/Pillow are fine). League purple derives from these images — extract the actual values, don't guess.
 
 - [ ] **Step 1: Failing chart/render tests**:
 
@@ -1161,7 +1163,11 @@ CSS: design tokens (`--bg`, `--surface`, `--text`, `--muted`, `--accent`, `--win
 - Produces: `site/index.html`, `site/seasons.html` (index of years), `site/seasons/{year}.html` per played season, `site/records.html`. `build_pages(payload: dict) -> list[Path]` returns written paths (Tasks 15–16 extend it).
 
 Page content contracts:
-- **index**: hero with league name + season count; reigning champion card (name, avatar, trophy name from lore or placeholder); current punishment holder card (lore); all-time table (career.managers: name, W-L, win%, PF, titles, playoff apps) sortable; 4 marquee records pulled from `records` by key (`team_week_high`, `blowout`, `win_streak`, `season_pf_high`); finish-trajectory `svg_line` of all managers (y_invert).
+- **index**: the hero is seasonal, chosen by `meta.league_status` (user-confirmed behavior):
+  - `pre_draft`/`drafting` → **Draft Room**: league logo hero, declared 2026 keepers (or "none declared yet"), keeper rules card, links to draft history/slot analysis;
+  - `in_season`/`post_season` → **Weekly companion**: latest completed week's results with drama framing (nailbiter, blowout, heist of the week from luck data);
+  - `complete` → **Record book**: reigning champion celebration + marquee records.
+  Below the hero, always: reigning champion card (name, avatar, trophy name from lore or placeholder); current punishment holder card (lore); all-time table (career.managers: name, W-L, win%, PF, titles, playoff apps) sortable; 4 marquee records pulled from `records` by key (`team_week_high`, `blowout`, `win_streak`, `season_pf_high`); finish-trajectory `svg_line` of all managers (y_invert). Since 2026 is currently `pre_draft`, the Draft Room hero is what ships first — build all three variants, test selects by status.
 - **season page**: final standings table (finish, name, W-L, PF, PA, luck_delta from `luck.seasons[year]`); weekly results grid (weeks × managers, W/L colored, score in cell, `data-sort` on points); playoff bracket rendered as rounds of matchup cards from `brackets` rows (winners bracket; roster ids → names via that season's crosswalk — pass a per-season `rid_names` dict in ctx); season superlatives (highest week, biggest blowout, luckiest/unluckiest from that season's luck rows).
 - **records**: every entry in `records.records` as a card: label, value, holder with avatar, detail line. Group regular/playoff/player/bench by key prefix order given in Task 11.
 
@@ -1342,6 +1348,22 @@ If `gh` is not authenticated, STOP and ask the user to run `! gh auth login` rat
 - [ ] **Step 5: Commit any README tweaks and push.** Report the live URL, and remind the user to fill in `manager_names.csv` and `league_lore.yml` and push (or just edit on GitHub — the push-triggered Action rebuilds the site with real names automatically).
 
 ---
+
+## Execution blueprint (user-directed: per-task mode, chosen on merit)
+
+| Task | Mode | Why |
+|---|---|---|
+| 1 puller | **Inline** | Live network runs and data eyeballing; everything downstream depends on these CSVs being right |
+| 2 validation | **Subagent** | Precisely specified, self-verifying via tests against committed data |
+| 3 loading + fixture | **Subagent** (strict review) | Keystone interfaces, but fully specified in-plan including the fixture code |
+| 4–7 career/h2h/luck/lineups | **Subagent wave 1 (parallel)** | Independent modules, disjoint files, hand-computed test expectations in-plan |
+| 8–11 drafts/keepers/tx/records | **Subagent wave 2 (parallel)** | Same |
+| 12 build orchestrator | **Inline** | Cross-module integration against real data; edge cases need judgment across modules |
+| 13 design system | **Inline** | impeccable new-work with binding brand assets; browser iteration; design coherence lives in one context |
+| 14–16 pages | **Inline** | Continuity within the committed visual world; heavy visual iteration |
+| 17 publish + CI | **Inline** | Touches the user's GitHub account; publishing gate |
+
+Subagent protocol: agents implement + run their own tests but do NOT commit; the orchestrator reviews each diff, runs the full suite, and makes the task's commit. Waves are 4 agents each; wave 2 dispatches only after wave 1 is reviewed and committed (keeps conftest/loading interface disputes from multiplying).
 
 ## Post-plan notes for the executor
 
