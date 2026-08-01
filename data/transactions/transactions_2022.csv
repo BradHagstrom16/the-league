@@ -16,7 +16,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,874808532565336064,1,waiver,complete,1662933116621,2022-09-11,1,bgreenblatt,drop,NO,New Orleans Saints,DEF,
 2022,874721746987798528,1,commissioner,complete,1662912425327,2022-09-11,7,KingTowsk,add,6126,Irv Smith,TE,
 2022,874714654948216832,1,waiver,complete,1662910734453,2022-09-11,10,cc5597,add,947,Julio Jones,WR,11
-2022,872332797824667648,1,waiver,complete,1662342855462,2022-09-04,1,bgreenblatt,add,NO,New Orleans Saints,DEF,1
+2022,872332797824667648,1,waiver,complete,1662342855462,2022-09-05,1,bgreenblatt,add,NO,New Orleans Saints,DEF,1
 2022,861057101949173760,1,trade,complete,1659654520073,2022-08-04,7,KingTowsk,add,6819,Michael Pittman,WR,
 2022,861057101949173760,1,trade,complete,1659654520073,2022-08-04,1,bgreenblatt,drop,6819,Michael Pittman,WR,
 2022,837115572734009344,1,free_agent,complete,1653946414696,2022-05-30,1,bgreenblatt,drop,2359,Ameer Abdullah,RB,
@@ -46,14 +46,14 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,875842673075023872,2,waiver,complete,1663179674932,2022-09-14,5,kaufmannc,add,4195,Jake Elliott,K,1
 2022,875842673075023872,2,waiver,complete,1663179674932,2022-09-14,5,kaufmannc,drop,4227,Harrison Butker,K,
 2022,875766470968283136,2,waiver,failed,1663161506934,2022-09-14,5,kaufmannc,add,5284,Jeff Wilson,RB,25
-2022,880658479810076672,3,waiver,failed,1664327852731,2022-09-27,7,KingTowsk,add,IND,Indianapolis Colts,DEF,1
-2022,880658479810076672,3,waiver,failed,1664327852731,2022-09-27,7,KingTowsk,drop,BAL,Baltimore Ravens,DEF,
-2022,880658425485500416,3,waiver,complete,1664327839779,2022-09-27,7,KingTowsk,add,NYG,New York Giants,DEF,1
-2022,880658425485500416,3,waiver,complete,1664327839779,2022-09-27,7,KingTowsk,drop,BAL,Baltimore Ravens,DEF,
-2022,880658100422807552,3,waiver,failed,1664327762278,2022-09-27,7,KingTowsk,add,5987,Alexander Mattison,RB,3
-2022,880658100422807552,3,waiver,failed,1664327762278,2022-09-27,7,KingTowsk,drop,6945,Antonio Gibson,RB,
-2022,880658052087681024,3,waiver,complete,1664327750754,2022-09-27,7,KingTowsk,add,7608,Khalil Herbert,RB,9
-2022,880658052087681024,3,waiver,complete,1664327750754,2022-09-27,7,KingTowsk,drop,6945,Antonio Gibson,RB,
+2022,880658479810076672,3,waiver,failed,1664327852731,2022-09-28,7,KingTowsk,add,IND,Indianapolis Colts,DEF,1
+2022,880658479810076672,3,waiver,failed,1664327852731,2022-09-28,7,KingTowsk,drop,BAL,Baltimore Ravens,DEF,
+2022,880658425485500416,3,waiver,complete,1664327839779,2022-09-28,7,KingTowsk,add,NYG,New York Giants,DEF,1
+2022,880658425485500416,3,waiver,complete,1664327839779,2022-09-28,7,KingTowsk,drop,BAL,Baltimore Ravens,DEF,
+2022,880658100422807552,3,waiver,failed,1664327762278,2022-09-28,7,KingTowsk,add,5987,Alexander Mattison,RB,3
+2022,880658100422807552,3,waiver,failed,1664327762278,2022-09-28,7,KingTowsk,drop,6945,Antonio Gibson,RB,
+2022,880658052087681024,3,waiver,complete,1664327750754,2022-09-28,7,KingTowsk,add,7608,Khalil Herbert,RB,9
+2022,880658052087681024,3,waiver,complete,1664327750754,2022-09-28,7,KingTowsk,drop,6945,Antonio Gibson,RB,
 2022,880591618531758080,3,waiver,complete,1664311911760,2022-09-27,7,KingTowsk,add,1373,Geno Smith,QB,2
 2022,880591618531758080,3,waiver,complete,1664311911760,2022-09-27,7,KingTowsk,drop,5870,Daniel Jones,QB,
 2022,880591377455603712,3,waiver,failed,1664311854283,2022-09-27,7,KingTowsk,add,GB,Green Bay Packers,DEF,6
@@ -66,8 +66,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,880486156876783616,3,waiver,complete,1664286767742,2022-09-27,2,Erjohnson14,drop,NO,New Orleans Saints,DEF,
 2022,880470499908718592,3,waiver,failed,1664283034830,2022-09-27,3,MaxSirianni,add,7608,Khalil Herbert,RB,20
 2022,880470466954137600,3,waiver,complete,1664283026973,2022-09-27,3,MaxSirianni,add,5987,Alexander Mattison,RB,20
-2022,880298729847283712,3,waiver,failed,1664242081656,2022-09-26,2,Erjohnson14,add,4666,Younghoe Koo,K,1
-2022,880298729847283712,3,waiver,failed,1664242081656,2022-09-26,2,Erjohnson14,drop,6083,Matt Gay,K,
+2022,880298729847283712,3,waiver,failed,1664242081656,2022-09-27,2,Erjohnson14,add,4666,Younghoe Koo,K,1
+2022,880298729847283712,3,waiver,failed,1664242081656,2022-09-27,2,Erjohnson14,drop,6083,Matt Gay,K,
 2022,880150977796370432,3,waiver,failed,1664206854822,2022-09-26,1,bgreenblatt,add,GB,Green Bay Packers,DEF,6
 2022,880150977796370432,3,waiver,failed,1664206854822,2022-09-26,1,bgreenblatt,drop,CLE,Cleveland Browns,DEF,
 2022,879854233057656832,3,waiver,complete,1664136105363,2022-09-25,1,bgreenblatt,add,7611,Rhamondre Stevenson,RB,11
@@ -113,8 +113,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,883011655699750912,4,waiver,complete,1664888893583,2022-10-04,3,MaxSirianni,add,JAX,Jacksonville Jaguars,DEF,1
 2022,883011655699750912,4,waiver,complete,1664888893583,2022-10-04,3,MaxSirianni,drop,4381,Taysom Hill,TE,
 2022,882289663648743424,4,waiver,complete,1664716757264,2022-10-02,7,KingTowsk,add,8154,Brian Robinson,RB,1
-2022,881733785455087616,4,waiver,complete,1664584225575,2022-09-30,1,bgreenblatt,add,MIN,Minnesota Vikings,DEF,2
-2022,881733785455087616,4,waiver,complete,1664584225575,2022-09-30,1,bgreenblatt,drop,CLE,Cleveland Browns,DEF,
+2022,881733785455087616,4,waiver,complete,1664584225575,2022-10-01,1,bgreenblatt,add,MIN,Minnesota Vikings,DEF,2
+2022,881733785455087616,4,waiver,complete,1664584225575,2022-10-01,1,bgreenblatt,drop,CLE,Cleveland Browns,DEF,
 2022,881661814126153728,4,waiver,complete,1664567066273,2022-09-30,1,bgreenblatt,add,5038,Michael Gallup,WR,1
 2022,881661814126153728,4,waiver,complete,1664567066273,2022-09-30,1,bgreenblatt,drop,8119,Jahan Dotson,WR,
 2022,881573417038692352,4,waiver,complete,1664545990765,2022-09-30,3,MaxSirianni,add,4381,Taysom Hill,TE,5
@@ -190,10 +190,10 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,884913638597861376,5,waiver,complete,1665342361643,2022-10-09,1,bgreenblatt,drop,7596,Elijah Moore,WR,
 2022,884880795993686016,5,free_agent,complete,1665334531356,2022-10-09,7,KingTowsk,add,TEN,Tennessee Titans,DEF,
 2022,884880795993686016,5,free_agent,complete,1665334531356,2022-10-09,7,KingTowsk,drop,7608,Khalil Herbert,RB,
-2022,884654161768185856,5,waiver,complete,1665280497546,2022-10-08,9,brockhusk,add,8259,Cameron Dicker,K,1
-2022,884654161768185856,5,waiver,complete,1665280497546,2022-10-08,9,brockhusk,drop,4227,Harrison Butker,K,
+2022,884654161768185856,5,waiver,complete,1665280497546,2022-10-09,9,brockhusk,add,8259,Cameron Dicker,K,1
+2022,884654161768185856,5,waiver,complete,1665280497546,2022-10-09,9,brockhusk,drop,4227,Harrison Butker,K,
 2022,884506202938433536,5,waiver,complete,1665245221412,2022-10-08,8,TylerWicks,add,5086,Marquez Valdes-Scantling,WR,1
-2022,883907662801620992,5,waiver,complete,1665102518323,2022-10-06,2,Erjohnson14,add,5987,Alexander Mattison,RB,5
+2022,883907662801620992,5,waiver,complete,1665102518323,2022-10-07,2,Erjohnson14,add,5987,Alexander Mattison,RB,5
 2022,883893090065604608,5,free_agent,complete,1665099043912,2022-10-06,9,brockhusk,drop,5906,Dawson Knox,TE,
 2022,883816838876889088,5,trade,complete,1665080864212,2022-10-06,9,brockhusk,add,4033,David Njoku,TE,
 2022,883816838876889088,5,trade,complete,1665080864212,2022-10-06,2,Erjohnson14,add,5937,Diontae Johnson,WR,
@@ -254,8 +254,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,887019103481806848,6,waiver,complete,1665844343589,2022-10-15,2,Erjohnson14,add,8142,Alec Pierce,WR,0
 2022,887018846161416192,6,waiver,failed,1665844282239,2022-10-15,2,Erjohnson14,add,5916,Darrell Henderson,RB,0
 2022,887018799310942208,6,free_agent,complete,1665844271069,2022-10-15,2,Erjohnson14,drop,7588,Javonte Williams,RB,
-2022,886823033308999680,6,waiver,complete,1665797596817,2022-10-14,10,cc5597,add,6126,Irv Smith,TE,0
-2022,886823033308999680,6,waiver,complete,1665797596817,2022-10-14,10,cc5597,drop,5133,Tyler Conklin,TE,
+2022,886823033308999680,6,waiver,complete,1665797596817,2022-10-15,10,cc5597,add,6126,Irv Smith,TE,0
+2022,886823033308999680,6,waiver,complete,1665797596817,2022-10-15,10,cc5597,drop,5133,Tyler Conklin,TE,
 2022,886751153885822976,6,waiver,complete,1665780459427,2022-10-14,1,bgreenblatt,add,5916,Darrell Henderson,RB,5
 2022,886751153885822976,6,waiver,complete,1665780459427,2022-10-14,1,bgreenblatt,drop,5038,Michael Gallup,WR,
 2022,886389085562929152,6,waiver,complete,1665694135612,2022-10-13,4,jdrobny,add,BAL,Baltimore Ravens,DEF,0
@@ -286,11 +286,11 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,885916025705779200,6,waiver,failed,1665581349353,2022-10-12,2,Erjohnson14,drop,5987,Alexander Mattison,RB,
 2022,885912892401377280,6,waiver,failed,1665580602315,2022-10-12,2,Erjohnson14,add,4973,Hayden Hurst,TE,0
 2022,885912892401377280,6,waiver,failed,1665580602315,2022-10-12,2,Erjohnson14,drop,5987,Alexander Mattison,RB,
-2022,890859038496256000,7,waiver,complete,1666759855439,2022-10-25,10,cc5597,add,5248,Gus Edwards,RB,36
-2022,890859038496256000,7,waiver,complete,1666759855439,2022-10-25,10,cc5597,drop,4197,Isaiah McKenzie,WR,
-2022,890796346670735360,7,waiver,complete,1666744908543,2022-10-25,1,bgreenblatt,add,2306,Jameis Winston,QB,15
-2022,890796346670735360,7,waiver,complete,1666744908543,2022-10-25,1,bgreenblatt,drop,2078,Odell Beckham,WR,
-2022,890794710594347008,7,waiver,complete,1666744518472,2022-10-25,1,bgreenblatt,add,6126,Irv Smith,TE,3
+2022,890859038496256000,7,waiver,complete,1666759855439,2022-10-26,10,cc5597,add,5248,Gus Edwards,RB,36
+2022,890859038496256000,7,waiver,complete,1666759855439,2022-10-26,10,cc5597,drop,4197,Isaiah McKenzie,WR,
+2022,890796346670735360,7,waiver,complete,1666744908543,2022-10-26,1,bgreenblatt,add,2306,Jameis Winston,QB,15
+2022,890796346670735360,7,waiver,complete,1666744908543,2022-10-26,1,bgreenblatt,drop,2078,Odell Beckham,WR,
+2022,890794710594347008,7,waiver,complete,1666744518472,2022-10-26,1,bgreenblatt,add,6126,Irv Smith,TE,3
 2022,890771040492642304,7,waiver,complete,1666738875080,2022-10-25,8,TylerWicks,add,4993,Mike Gesicki,TE,0
 2022,890771040492642304,7,waiver,complete,1666738875080,2022-10-25,8,TylerWicks,drop,NE,New England Patriots,DEF,
 2022,890765061235486720,7,waiver,complete,1666737449514,2022-10-25,2,Erjohnson14,add,IND,Indianapolis Colts,DEF,0
@@ -337,14 +337,14 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,890613602506280960,7,waiver,complete,1666701338939,2022-10-25,5,kaufmannc,drop,4602,Robert Tonyan,TE,
 2022,890597749349883904,7,waiver,complete,1666697559252,2022-10-25,1,bgreenblatt,add,TEN,Tennessee Titans,DEF,0
 2022,890597749349883904,7,waiver,complete,1666697559252,2022-10-25,1,bgreenblatt,drop,CIN,Cincinnati Bengals,DEF,
-2022,890432834597593088,7,trade,complete,1666658240511,2022-10-24,7,KingTowsk,add,2133,Davante Adams,WR,
-2022,890432834597593088,7,trade,complete,1666658240511,2022-10-24,10,cc5597,add,3164,Ezekiel Elliott,RB,
-2022,890432834597593088,7,trade,complete,1666658240511,2022-10-24,10,cc5597,add,7526,Jaylen Waddle,WR,
-2022,890432834597593088,7,trade,complete,1666658240511,2022-10-24,10,cc5597,drop,2133,Davante Adams,WR,
-2022,890432834597593088,7,trade,complete,1666658240511,2022-10-24,7,KingTowsk,drop,3164,Ezekiel Elliott,RB,
-2022,890432834597593088,7,trade,complete,1666658240511,2022-10-24,7,KingTowsk,drop,7526,Jaylen Waddle,WR,
-2022,890112071801745408,7,waiver,failed,1666581764701,2022-10-23,5,kaufmannc,add,5248,Gus Edwards,RB,5
-2022,890112071801745408,7,waiver,failed,1666581764701,2022-10-23,5,kaufmannc,drop,3242,Kenyan Drake,RB,
+2022,890432834597593088,7,trade,complete,1666658240511,2022-10-25,7,KingTowsk,add,2133,Davante Adams,WR,
+2022,890432834597593088,7,trade,complete,1666658240511,2022-10-25,10,cc5597,add,3164,Ezekiel Elliott,RB,
+2022,890432834597593088,7,trade,complete,1666658240511,2022-10-25,10,cc5597,add,7526,Jaylen Waddle,WR,
+2022,890432834597593088,7,trade,complete,1666658240511,2022-10-25,10,cc5597,drop,2133,Davante Adams,WR,
+2022,890432834597593088,7,trade,complete,1666658240511,2022-10-25,7,KingTowsk,drop,3164,Ezekiel Elliott,RB,
+2022,890432834597593088,7,trade,complete,1666658240511,2022-10-25,7,KingTowsk,drop,7526,Jaylen Waddle,WR,
+2022,890112071801745408,7,waiver,failed,1666581764701,2022-10-24,5,kaufmannc,add,5248,Gus Edwards,RB,5
+2022,890112071801745408,7,waiver,failed,1666581764701,2022-10-24,5,kaufmannc,drop,3242,Kenyan Drake,RB,
 2022,889948806517886976,7,free_agent,complete,1666542839224,2022-10-23,7,KingTowsk,add,7585,Davis Mills,QB,
 2022,889948765212360704,7,free_agent,complete,1666542829376,2022-10-23,7,KingTowsk,drop,7606,Kadarius Toney,WR,
 2022,889912731262750720,7,waiver,complete,1666534238213,2022-10-23,2,Erjohnson14,add,7527,Mac Jones,QB,0
@@ -373,10 +373,10 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,888903185790603264,7,waiver,complete,1666293543816,2022-10-20,10,cc5597,drop,6126,Irv Smith,TE,
 2022,888862796006350848,7,waiver,failed,1666283914141,2022-10-20,6,JSanDusky69,add,5870,Daniel Jones,QB,0
 2022,888862796006350848,7,waiver,failed,1666283914141,2022-10-20,6,JSanDusky69,drop,LAR,Los Angeles Rams,DEF,
-2022,888647154762305536,7,waiver,complete,1666232501262,2022-10-19,9,brockhusk,add,LV,Las Vegas Raiders,DEF,3
-2022,888647154762305536,7,waiver,complete,1666232501262,2022-10-19,9,brockhusk,drop,4381,Taysom Hill,TE,
-2022,888647024315183104,7,waiver,complete,1666232470161,2022-10-19,9,brockhusk,add,5870,Daniel Jones,QB,3
-2022,888647024315183104,7,waiver,complete,1666232470161,2022-10-19,9,brockhusk,drop,7538,Zach Wilson,QB,
+2022,888647154762305536,7,waiver,complete,1666232501262,2022-10-20,9,brockhusk,add,LV,Las Vegas Raiders,DEF,3
+2022,888647154762305536,7,waiver,complete,1666232501262,2022-10-20,9,brockhusk,drop,4381,Taysom Hill,TE,
+2022,888647024315183104,7,waiver,complete,1666232470161,2022-10-20,9,brockhusk,add,5870,Daniel Jones,QB,3
+2022,888647024315183104,7,waiver,complete,1666232470161,2022-10-20,9,brockhusk,drop,7538,Zach Wilson,QB,
 2022,888559557297979392,7,waiver,failed,1666211616399,2022-10-19,10,cc5597,add,5870,Daniel Jones,QB,3
 2022,888559557297979392,7,waiver,failed,1666211616399,2022-10-19,10,cc5597,drop,3257,Jacoby Brissett,QB,
 2022,888521231064879104,7,waiver,complete,1666202478713,2022-10-19,10,cc5597,add,3467,Taylor Bertolet,K,0
@@ -395,7 +395,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,888434931620057088,7,waiver,complete,1666181903322,2022-10-19,3,MaxSirianni,drop,2306,Jameis Winston,QB,
 2022,888433997804490752,7,free_agent,complete,1666181680683,2022-10-19,8,TylerWicks,drop,1825,Jarvis Landry,WR,
 2022,888433690257059840,7,free_agent,complete,1666181607358,2022-10-19,7,KingTowsk,drop,5272,Greg Joseph,K,
-2022,893336782291251200,8,waiver,complete,1667350595594,2022-11-01,6,JSanDusky69,add,4066,Evan Engram,TE,5
+2022,893336782291251200,8,waiver,complete,1667350595594,2022-11-02,6,JSanDusky69,add,4066,Evan Engram,TE,5
 2022,893294188727451648,8,waiver,complete,1667340440497,2022-11-01,9,brockhusk,add,1049,Ryan Tannehill,QB,6
 2022,893294188727451648,8,waiver,complete,1667340440497,2022-11-01,9,brockhusk,drop,5870,Daniel Jones,QB,
 2022,893294054438391808,8,waiver,complete,1667340408480,2022-11-01,9,brockhusk,add,CIN,Cincinnati Bengals,DEF,3
@@ -442,8 +442,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,892219863727357952,8,waiver,complete,1667084301457,2022-10-29,1,bgreenblatt,add,8161,Malik Willis,QB,0
 2022,892219863727357952,8,waiver,complete,1667084301457,2022-10-29,1,bgreenblatt,drop,2306,Jameis Winston,QB,
 2022,892143305788481536,8,waiver,complete,1667066048622,2022-10-29,2,Erjohnson14,add,5038,Michael Gallup,WR,0
-2022,891890705541271552,8,waiver,complete,1667005824030,2022-10-28,10,cc5597,add,6951,Eno Benjamin,RB,1
-2022,891890705541271552,8,waiver,complete,1667005824030,2022-10-28,10,cc5597,drop,1049,Ryan Tannehill,QB,
+2022,891890705541271552,8,waiver,complete,1667005824030,2022-10-29,10,cc5597,add,6951,Eno Benjamin,RB,1
+2022,891890705541271552,8,waiver,complete,1667005824030,2022-10-29,10,cc5597,drop,1049,Ryan Tannehill,QB,
 2022,891825522022260736,8,waiver,failed,1666990283068,2022-10-28,2,Erjohnson14,add,6951,Eno Benjamin,RB,0
 2022,891800862559969280,8,waiver,complete,1666984403794,2022-10-28,6,JSanDusky69,add,5347,Nyheim Miller-Hines,RB,0
 2022,891710781568393216,8,waiver,complete,1666962926812,2022-10-28,7,KingTowsk,add,7090,Darnell Mooney,WR,0
@@ -468,11 +468,11 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,891398471297744896,8,waiver,failed,1666888466241,2022-10-27,7,KingTowsk,drop,NYJ,New York Jets,DEF,
 2022,891365192754372608,8,waiver,complete,1666880532018,2022-10-27,1,bgreenblatt,add,8131,Isaiah Likely,TE,0
 2022,891365192754372608,8,waiver,complete,1666880532018,2022-10-27,1,bgreenblatt,drop,6126,Irv Smith,TE,
-2022,891186009788915712,8,waiver,failed,1666837811470,2022-10-26,9,brockhusk,add,4973,Hayden Hurst,TE,0
-2022,891186009788915712,8,waiver,failed,1666837811470,2022-10-26,9,brockhusk,drop,5906,Dawson Knox,TE,
-2022,891185721535504384,8,waiver,complete,1666837742745,2022-10-26,9,brockhusk,add,1352,Robert Woods,WR,0
-2022,891176278676467712,8,waiver,complete,1666835491392,2022-10-26,2,Erjohnson14,add,2747,Jason Myers,K,0
-2022,891176278676467712,8,waiver,complete,1666835491392,2022-10-26,2,Erjohnson14,drop,4958,Brett Maher,K,
+2022,891186009788915712,8,waiver,failed,1666837811470,2022-10-27,9,brockhusk,add,4973,Hayden Hurst,TE,0
+2022,891186009788915712,8,waiver,failed,1666837811470,2022-10-27,9,brockhusk,drop,5906,Dawson Knox,TE,
+2022,891185721535504384,8,waiver,complete,1666837742745,2022-10-27,9,brockhusk,add,1352,Robert Woods,WR,0
+2022,891176278676467712,8,waiver,complete,1666835491392,2022-10-27,2,Erjohnson14,add,2747,Jason Myers,K,0
+2022,891176278676467712,8,waiver,complete,1666835491392,2022-10-27,2,Erjohnson14,drop,4958,Brett Maher,K,
 2022,891096990874906624,8,waiver,complete,1666816587707,2022-10-26,3,MaxSirianni,add,4973,Hayden Hurst,TE,0
 2022,891096990874906624,8,waiver,complete,1666816587707,2022-10-26,3,MaxSirianni,drop,LAC,Los Angeles Chargers,DEF,
 2022,891065268426727424,8,trade,complete,1666809024486,2022-10-26,6,JSanDusky69,add,4066,Evan Engram,TE,
@@ -491,10 +491,10 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,890980422547361792,8,waiver,failed,1666788795652,2022-10-26,2,Erjohnson14,drop,GB,Green Bay Packers,DEF,
 2022,890963811417403392,8,waiver,failed,1666784835250,2022-10-26,7,KingTowsk,add,5248,Gus Edwards,RB,10
 2022,890963811417403392,8,waiver,failed,1666784835250,2022-10-26,7,KingTowsk,drop,NYJ,New York Jets,DEF,
-2022,895889991425761280,9,waiver,complete,1667959328088,2022-11-08,2,Erjohnson14,add,5917,Mecole Hardman,WR,0
-2022,895889991425761280,9,waiver,complete,1667959328088,2022-11-08,2,Erjohnson14,drop,4066,Evan Engram,TE,
-2022,895889925105438720,9,waiver,failed,1667959312276,2022-11-08,2,Erjohnson14,add,5284,Jeff Wilson,RB,11
-2022,895889925105438720,9,waiver,failed,1667959312276,2022-11-08,2,Erjohnson14,drop,4066,Evan Engram,TE,
+2022,895889991425761280,9,waiver,complete,1667959328088,2022-11-09,2,Erjohnson14,add,5917,Mecole Hardman,WR,0
+2022,895889991425761280,9,waiver,complete,1667959328088,2022-11-09,2,Erjohnson14,drop,4066,Evan Engram,TE,
+2022,895889925105438720,9,waiver,failed,1667959312276,2022-11-09,2,Erjohnson14,add,5284,Jeff Wilson,RB,11
+2022,895889925105438720,9,waiver,failed,1667959312276,2022-11-09,2,Erjohnson14,drop,4066,Evan Engram,TE,
 2022,895799934635376640,9,waiver,complete,1667937856876,2022-11-08,4,jdrobny,add,7565,Terrace Marshall,WR,3
 2022,895799692934524928,9,waiver,failed,1667937799250,2022-11-08,4,jdrobny,add,5284,Jeff Wilson,RB,17
 2022,895797762854281216,9,waiver,complete,1667937339083,2022-11-08,7,KingTowsk,add,5284,Jeff Wilson,RB,21
@@ -512,7 +512,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,895703126240518144,9,waiver,failed,1667914775956,2022-11-08,3,MaxSirianni,drop,8154,Brian Robinson,RB,
 2022,895692503968301056,9,waiver,complete,1667912243409,2022-11-08,6,JSanDusky69,add,NYG,New York Giants,DEF,5
 2022,895692503968301056,9,waiver,complete,1667912243409,2022-11-08,6,JSanDusky69,drop,MIA,Miami Dolphins,DEF,
-2022,895142473964445696,9,free_agent,complete,1667781106037,2022-11-06,7,KingTowsk,add,8205,Isiah Pacheco,RB,
+2022,895142473964445696,9,free_agent,complete,1667781106037,2022-11-07,7,KingTowsk,add,8205,Isiah Pacheco,RB,
 2022,895031743319621632,9,free_agent,complete,1667754705794,2022-11-06,9,brockhusk,add,5985,Foster Moreau,TE,
 2022,895031743319621632,9,free_agent,complete,1667754705794,2022-11-06,9,brockhusk,drop,5906,Dawson Knox,TE,
 2022,895031223657938944,9,free_agent,complete,1667754581897,2022-11-06,9,brockhusk,add,7538,Zach Wilson,QB,
@@ -582,8 +582,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,898276252543238144,10,free_agent,complete,1668528257073,2022-11-15,6,JSanDusky69,drop,1339,Zach Ertz,TE,
 2022,898254623763263488,10,waiver,failed,1668523100370,2022-11-15,1,bgreenblatt,add,1992,Allen Robinson,WR,0
 2022,898254623763263488,10,waiver,failed,1668523100370,2022-11-15,1,bgreenblatt,drop,7670,Joshua Palmer,WR,
-2022,898076247639748608,10,waiver,complete,1668480572188,2022-11-14,1,bgreenblatt,add,WAS,Washington Commanders,DEF,3
-2022,898076247639748608,10,waiver,complete,1668480572188,2022-11-14,1,bgreenblatt,drop,KC,Kansas City Chiefs,DEF,
+2022,898076247639748608,10,waiver,complete,1668480572188,2022-11-15,1,bgreenblatt,add,WAS,Washington Commanders,DEF,3
+2022,898076247639748608,10,waiver,complete,1668480572188,2022-11-15,1,bgreenblatt,drop,KC,Kansas City Chiefs,DEF,
 2022,897901686021087232,10,waiver,complete,1668438953455,2022-11-14,4,jdrobny,add,2197,Brandin Cooks,WR,21
 2022,897901686021087232,10,waiver,complete,1668438953455,2022-11-14,4,jdrobny,drop,LAR,Los Angeles Rams,DEF,
 2022,897561345728851968,10,waiver,complete,1668357810006,2022-11-13,9,brockhusk,add,5001,Dalton Schultz,TE,0
@@ -624,8 +624,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,896108294656307200,10,waiver,failed,1668011375634,2022-11-09,10,cc5597,drop,4973,Hayden Hurst,TE,
 2022,896108192113840128,10,waiver,complete,1668011351186,2022-11-09,10,cc5597,add,LV,Las Vegas Raiders,DEF,0
 2022,896108192113840128,10,waiver,complete,1668011351186,2022-11-09,10,cc5597,drop,4973,Hayden Hurst,TE,
-2022,901004626428645376,11,waiver,failed,1669178752098,2022-11-22,2,Erjohnson14,add,5906,Dawson Knox,TE,9
-2022,901004626428645376,11,waiver,failed,1669178752098,2022-11-22,2,Erjohnson14,drop,5985,Foster Moreau,TE,
+2022,901004626428645376,11,waiver,failed,1669178752098,2022-11-23,2,Erjohnson14,add,5906,Dawson Knox,TE,9
+2022,901004626428645376,11,waiver,failed,1669178752098,2022-11-23,2,Erjohnson14,drop,5985,Foster Moreau,TE,
 2022,900907670398214144,11,waiver,failed,1669155635979,2022-11-22,7,KingTowsk,add,6528,Joey Slye,K,0
 2022,900907645173694464,11,waiver,failed,1669155629965,2022-11-22,7,KingTowsk,add,6650,Chase McLaughlin,K,0
 2022,900907536436375552,11,waiver,failed,1669155604040,2022-11-22,7,KingTowsk,add,17,Matt Prater,K,0
@@ -655,8 +655,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,900793023573741568,11,waiver,complete,1669128302046,2022-11-22,6,JSanDusky69,add,4147,Samaje Perine,RB,16
 2022,900792941981872128,11,free_agent,complete,1669128282593,2022-11-22,6,JSanDusky69,drop,7585,Davis Mills,QB,
 2022,900792331056328704,11,free_agent,complete,1669128136937,2022-11-22,6,JSanDusky69,drop,7553,Kyle Pitts,TE,
-2022,900259366040002560,11,waiver,complete,1669001068175,2022-11-20,1,bgreenblatt,add,8135,Treylon Burks,WR,10
-2022,900259366040002560,11,waiver,complete,1669001068175,2022-11-20,1,bgreenblatt,drop,7606,Kadarius Toney,WR,
+2022,900259366040002560,11,waiver,complete,1669001068175,2022-11-21,1,bgreenblatt,add,8135,Treylon Burks,WR,10
+2022,900259366040002560,11,waiver,complete,1669001068175,2022-11-21,1,bgreenblatt,drop,7606,Kadarius Toney,WR,
 2022,900109827144130560,11,free_agent,complete,1668965415324,2022-11-20,10,cc5597,add,5880,Parris Campbell,WR,
 2022,900109827144130560,11,free_agent,complete,1668965415324,2022-11-20,10,cc5597,drop,6951,Eno Benjamin,RB,
 2022,900107918182162432,11,free_agent,complete,1668964960192,2022-11-20,2,Erjohnson14,add,5985,Foster Moreau,TE,
@@ -689,12 +689,12 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,898601216966307840,11,waiver,complete,1668605734629,2022-11-16,3,MaxSirianni,add,CIN,Cincinnati Bengals,DEF,3
 2022,898601125111013376,11,free_agent,complete,1668605712729,2022-11-16,3,MaxSirianni,drop,3678,Wil Lutz,K,
 2022,898600963693223936,11,free_agent,complete,1668605674244,2022-11-16,3,MaxSirianni,drop,ARI,Arizona Cardinals,DEF,
-2022,903558638080430080,12,waiver,failed,1669787675927,2022-11-29,10,cc5597,add,TB,Tampa Bay Buccaneers,DEF,3
-2022,903558638080430080,12,waiver,failed,1669787675927,2022-11-29,10,cc5597,drop,5890,Damien Harris,RB,
-2022,903558594312884224,12,waiver,complete,1669787665492,2022-11-29,10,cc5597,add,SEA,Seattle Seahawks,DEF,5
-2022,903558594312884224,12,waiver,complete,1669787665492,2022-11-29,10,cc5597,drop,5890,Damien Harris,RB,
-2022,903515803721465856,12,waiver,complete,1669777463420,2022-11-29,6,JSanDusky69,add,8150,Kyren Williams,RB,4
-2022,903515765976846336,12,waiver,complete,1669777454421,2022-11-29,6,JSanDusky69,add,6828,AJ Dillon,RB,0
+2022,903558638080430080,12,waiver,failed,1669787675927,2022-11-30,10,cc5597,add,TB,Tampa Bay Buccaneers,DEF,3
+2022,903558638080430080,12,waiver,failed,1669787675927,2022-11-30,10,cc5597,drop,5890,Damien Harris,RB,
+2022,903558594312884224,12,waiver,complete,1669787665492,2022-11-30,10,cc5597,add,SEA,Seattle Seahawks,DEF,5
+2022,903558594312884224,12,waiver,complete,1669787665492,2022-11-30,10,cc5597,drop,5890,Damien Harris,RB,
+2022,903515803721465856,12,waiver,complete,1669777463420,2022-11-30,6,JSanDusky69,add,8150,Kyren Williams,RB,4
+2022,903515765976846336,12,waiver,complete,1669777454421,2022-11-30,6,JSanDusky69,add,6828,AJ Dillon,RB,0
 2022,903468421268881408,12,waiver,complete,1669766166563,2022-11-29,7,KingTowsk,add,TEN,Tennessee Titans,DEF,0
 2022,903468421268881408,12,waiver,complete,1669766166563,2022-11-29,7,KingTowsk,drop,MIA,Miami Dolphins,DEF,
 2022,903467607573872640,12,waiver,failed,1669765972563,2022-11-29,7,KingTowsk,add,5089,Mike White,QB,1
@@ -714,12 +714,12 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,903330059463766016,12,waiver,complete,1669733178539,2022-11-29,5,kaufmannc,drop,7561,Elijah Mitchell,RB,
 2022,903324317008568320,12,waiver,failed,1669731809430,2022-11-29,2,Erjohnson14,add,SEA,Seattle Seahawks,DEF,1
 2022,903324317008568320,12,waiver,failed,1669731809430,2022-11-29,2,Erjohnson14,drop,8130,Trey McBride,TE,
-2022,903146494411550720,12,trade,complete,1669689413219,2022-11-28,1,bgreenblatt,add,2449,Stefon Diggs,WR,
-2022,903146494411550720,12,trade,complete,1669689413219,2022-11-28,5,kaufmannc,add,5870,Daniel Jones,QB,
-2022,903146494411550720,12,trade,complete,1669689413219,2022-11-28,5,kaufmannc,add,7564,Ja'Marr Chase,WR,
-2022,903146494411550720,12,trade,complete,1669689413219,2022-11-28,5,kaufmannc,drop,2449,Stefon Diggs,WR,
-2022,903146494411550720,12,trade,complete,1669689413219,2022-11-28,1,bgreenblatt,drop,5870,Daniel Jones,QB,
-2022,903146494411550720,12,trade,complete,1669689413219,2022-11-28,1,bgreenblatt,drop,7564,Ja'Marr Chase,WR,
+2022,903146494411550720,12,trade,complete,1669689413219,2022-11-29,1,bgreenblatt,add,2449,Stefon Diggs,WR,
+2022,903146494411550720,12,trade,complete,1669689413219,2022-11-29,5,kaufmannc,add,5870,Daniel Jones,QB,
+2022,903146494411550720,12,trade,complete,1669689413219,2022-11-29,5,kaufmannc,add,7564,Ja'Marr Chase,WR,
+2022,903146494411550720,12,trade,complete,1669689413219,2022-11-29,5,kaufmannc,drop,2449,Stefon Diggs,WR,
+2022,903146494411550720,12,trade,complete,1669689413219,2022-11-29,1,bgreenblatt,drop,5870,Daniel Jones,QB,
+2022,903146494411550720,12,trade,complete,1669689413219,2022-11-29,1,bgreenblatt,drop,7564,Ja'Marr Chase,WR,
 2022,903083524356329472,12,waiver,complete,1669674399988,2022-11-28,2,Erjohnson14,add,2747,Jason Myers,K,0
 2022,903083524356329472,12,waiver,complete,1669674399988,2022-11-28,2,Erjohnson14,drop,4958,Brett Maher,K,
 2022,903067376663277568,12,free_agent,complete,1669670550078,2022-11-28,2,Erjohnson14,drop,7090,Darnell Mooney,WR,
@@ -731,8 +731,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,902968106387906560,12,free_agent,complete,1669646882200,2022-11-28,6,JSanDusky69,drop,1992,Allen Robinson,WR,
 2022,902841539645071360,12,waiver,failed,1669616706337,2022-11-28,9,brockhusk,add,5089,Mike White,QB,3
 2022,902841539645071360,12,waiver,failed,1669616706337,2022-11-28,9,brockhusk,drop,1049,Ryan Tannehill,QB,
-2022,902787302098206720,12,waiver,complete,1669603775098,2022-11-27,1,bgreenblatt,add,CLE,Cleveland Browns,DEF,0
-2022,902787302098206720,12,waiver,complete,1669603775098,2022-11-27,1,bgreenblatt,drop,WAS,Washington Commanders,DEF,
+2022,902787302098206720,12,waiver,complete,1669603775098,2022-11-28,1,bgreenblatt,add,CLE,Cleveland Browns,DEF,0
+2022,902787302098206720,12,waiver,complete,1669603775098,2022-11-28,1,bgreenblatt,drop,WAS,Washington Commanders,DEF,
 2022,902680331403145216,12,waiver,complete,1669578271297,2022-11-27,2,Erjohnson14,add,5089,Mike White,QB,21
 2022,902680331403145216,12,waiver,complete,1669578271297,2022-11-27,2,Erjohnson14,drop,1234,Russell Wilson,QB,
 2022,902632747649642496,12,waiver,failed,1669566926446,2022-11-27,5,kaufmannc,add,4381,Taysom Hill,TE,0
@@ -754,8 +754,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,901183663910383616,12,waiver,failed,1669221437960,2022-11-23,8,TylerWicks,drop,5916,Darrell Henderson,RB,
 2022,901183580473012224,12,free_agent,complete,1669221418067,2022-11-23,3,MaxSirianni,drop,7601,Rondale Moore,WR,
 2022,901183513716469760,12,free_agent,complete,1669221402151,2022-11-23,8,TylerWicks,drop,5086,Marquez Valdes-Scantling,WR,
-2022,906080990764707840,13,waiver,complete,1670389051671,2022-12-06,8,TylerWicks,add,8138,James Cook,RB,10
-2022,906079805429182464,13,waiver,complete,1670388769064,2022-12-06,8,TylerWicks,add,6149,Darius Slayton,WR,10
+2022,906080990764707840,13,waiver,complete,1670389051671,2022-12-07,8,TylerWicks,add,8138,James Cook,RB,10
+2022,906079805429182464,13,waiver,complete,1670388769064,2022-12-07,8,TylerWicks,add,6149,Darius Slayton,WR,10
 2022,905961469181796352,13,waiver,complete,1670360555504,2022-12-06,10,cc5597,add,6828,AJ Dillon,RB,16
 2022,905961469181796352,13,waiver,complete,1670360555504,2022-12-06,10,cc5597,drop,5248,Gus Edwards,RB,
 2022,905919358549909504,13,waiver,failed,1670350515547,2022-12-06,7,KingTowsk,add,LAR,Los Angeles Rams,DEF,0
@@ -782,8 +782,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,905159301562560512,13,waiver,failed,1670169303840,2022-12-04,2,Erjohnson14,drop,8408,Jordan Mason,RB,
 2022,904493362491641856,13,waiver,complete,1670010531593,2022-12-02,6,JSanDusky69,add,2161,Jerick McKinnon,RB,0
 2022,904493362491641856,13,waiver,complete,1670010531593,2022-12-02,6,JSanDusky69,drop,6828,AJ Dillon,RB,
-2022,904203777161670656,13,waiver,complete,1669941489071,2022-12-01,2,Erjohnson14,add,PIT,Pittsburgh Steelers,DEF,0
-2022,904203777161670656,13,waiver,complete,1669941489071,2022-12-01,2,Erjohnson14,drop,8130,Trey McBride,TE,
+2022,904203777161670656,13,waiver,complete,1669941489071,2022-12-02,2,Erjohnson14,add,PIT,Pittsburgh Steelers,DEF,0
+2022,904203777161670656,13,waiver,complete,1669941489071,2022-12-02,2,Erjohnson14,drop,8130,Trey McBride,TE,
 2022,904132533116223488,13,waiver,complete,1669924503166,2022-12-01,9,brockhusk,add,GB,Green Bay Packers,DEF,3
 2022,904132533116223488,13,waiver,complete,1669924503166,2022-12-01,9,brockhusk,drop,4147,Samaje Perine,RB,
 2022,904113410479083520,13,waiver,failed,1669919943974,2022-12-01,2,Erjohnson14,add,WAS,Washington Commanders,DEF,0
@@ -818,7 +818,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,903681920049799168,13,waiver,failed,1669817068639,2022-11-30,7,KingTowsk,drop,4082,Curtis Samuel,WR,
 2022,903681768912220160,13,waiver,complete,1669817032605,2022-11-30,7,KingTowsk,add,8122,Zonovan Knight,RB,21
 2022,903681768912220160,13,waiver,complete,1669817032605,2022-11-30,7,KingTowsk,drop,4082,Curtis Samuel,WR,
-2022,908579732650602496,14,free_agent,complete,1670984798160,2022-12-13,1,bgreenblatt,drop,4039,Cooper Kupp,WR,
+2022,908579732650602496,14,free_agent,complete,1670984798160,2022-12-14,1,bgreenblatt,drop,4039,Cooper Kupp,WR,
 2022,908502210093326336,14,waiver,complete,1670966315342,2022-12-13,5,kaufmannc,add,8172,Greg Dulcich,TE,7
 2022,908502210093326336,14,waiver,complete,1670966315342,2022-12-13,5,kaufmannc,drop,5985,Foster Moreau,TE,
 2022,908472975903412224,14,waiver,complete,1670959345368,2022-12-13,2,Erjohnson14,add,7594,Chuba Hubbard,RB,3
@@ -846,8 +846,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,907363228961652736,14,waiver,complete,1670694761079,2022-12-10,6,JSanDusky69,drop,4973,Hayden Hurst,TE,
 2022,906934051020238848,14,waiver,failed,1670592437084,2022-12-09,6,JSanDusky69,add,2214,Cameron Brate,TE,0
 2022,906933936607899648,14,waiver,failed,1670592409806,2022-12-09,6,JSanDusky69,add,8210,Chig Okonkwo,TE,0
-2022,906398809385562112,14,waiver,complete,1670464825534,2022-12-07,2,Erjohnson14,add,6012,Travis Homer,RB,0
-2022,906398809385562112,14,waiver,complete,1670464825534,2022-12-07,2,Erjohnson14,drop,8408,Jordan Mason,RB,
+2022,906398809385562112,14,waiver,complete,1670464825534,2022-12-08,2,Erjohnson14,add,6012,Travis Homer,RB,0
+2022,906398809385562112,14,waiver,complete,1670464825534,2022-12-08,2,Erjohnson14,drop,8408,Jordan Mason,RB,
 2022,906279137612894208,14,waiver,complete,1670436293561,2022-12-07,6,JSanDusky69,add,5906,Dawson Knox,TE,0
 2022,906265466144751616,14,waiver,complete,1670433034028,2022-12-07,1,bgreenblatt,add,ARI,Arizona Cardinals,DEF,0
 2022,906265466144751616,14,waiver,complete,1670433034028,2022-12-07,1,bgreenblatt,drop,CLE,Cleveland Browns,DEF,
@@ -876,11 +876,11 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,910299590082084864,15,free_agent,complete,1671394844125,2022-12-18,1,bgreenblatt,drop,5890,Damien Harris,RB,
 2022,909828557965438976,15,waiver,failed,1671282541317,2022-12-17,1,bgreenblatt,add,3269,Chris Moore,WR,0
 2022,909828557965438976,15,waiver,failed,1671282541317,2022-12-17,1,bgreenblatt,drop,5890,Damien Harris,RB,
-2022,909665311178248192,15,waiver,complete,1671243620250,2022-12-16,2,Erjohnson14,add,3269,Chris Moore,WR,0
-2022,909665311178248192,15,waiver,complete,1671243620250,2022-12-16,2,Erjohnson14,drop,7596,Elijah Moore,WR,
+2022,909665311178248192,15,waiver,complete,1671243620250,2022-12-17,2,Erjohnson14,add,3269,Chris Moore,WR,0
+2022,909665311178248192,15,waiver,complete,1671243620250,2022-12-17,2,Erjohnson14,drop,7596,Elijah Moore,WR,
 2022,909576192989376512,15,waiver,complete,1671222372818,2022-12-16,1,bgreenblatt,add,DEN,Denver Broncos,DEF,0
 2022,909576192989376512,15,waiver,complete,1671222372818,2022-12-16,1,bgreenblatt,drop,PIT,Pittsburgh Steelers,DEF,
-2022,909312499672227840,15,waiver,complete,1671159503432,2022-12-15,1,bgreenblatt,add,5890,Damien Harris,RB,0
+2022,909312499672227840,15,waiver,complete,1671159503432,2022-12-16,1,bgreenblatt,add,5890,Damien Harris,RB,0
 2022,909132417011458048,15,waiver,complete,1671116568380,2022-12-15,4,jdrobny,add,8135,Treylon Burks,WR,1
 2022,909132417011458048,15,waiver,complete,1671116568380,2022-12-15,4,jdrobny,drop,8131,Isaiah Likely,TE,
 2022,908871492593676288,15,waiver,complete,1671054359151,2022-12-14,6,JSanDusky69,add,533,Colt McCoy,QB,0
@@ -911,14 +911,14 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2022,911925610069475328,16,free_agent,complete,1671782517500,2022-12-23,6,JSanDusky69,drop,1049,Ryan Tannehill,QB,
 2022,911696655773249536,16,waiver,complete,1671727930542,2022-12-22,8,TylerWicks,add,5230,Michael Badgley,K,0
 2022,911696655773249536,16,waiver,complete,1671727930542,2022-12-22,8,TylerWicks,drop,49,Robbie Gould,K,
-2022,911521220135038976,16,waiver,complete,1671686103426,2022-12-21,6,JSanDusky69,add,515,Rob Gronkowski,TE,7
-2022,911521220135038976,16,waiver,complete,1671686103426,2022-12-21,6,JSanDusky69,drop,4111,D'Onta Foreman,RB,
+2022,911521220135038976,16,waiver,complete,1671686103426,2022-12-22,6,JSanDusky69,add,515,Rob Gronkowski,TE,7
+2022,911521220135038976,16,waiver,complete,1671686103426,2022-12-22,6,JSanDusky69,drop,4111,D'Onta Foreman,RB,
 2022,911361015663656960,16,free_agent,complete,1671647907704,2022-12-21,5,kaufmannc,drop,8172,Greg Dulcich,TE,
 2022,914239653845274624,17,waiver,complete,1672334228529,2022-12-29,4,jdrobny,add,2197,Brandin Cooks,WR,0
 2022,914239653845274624,17,waiver,complete,1672334228529,2022-12-29,4,jdrobny,drop,4147,Samaje Perine,RB,
 2022,914220021289791488,17,waiver,failed,1672329547763,2022-12-29,7,KingTowsk,add,NYG,New York Giants,DEF,0
 2022,914220021289791488,17,waiver,failed,1672329547763,2022-12-29,7,KingTowsk,drop,536,Antonio Brown,WR,
-2022,914012119849406464,17,waiver,complete,1672279980197,2022-12-28,10,cc5597,add,8123,Hassan Haskins,RB,0
+2022,914012119849406464,17,waiver,complete,1672279980197,2022-12-29,10,cc5597,add,8123,Hassan Haskins,RB,0
 2022,913949838503469056,17,waiver,complete,1672265131167,2022-12-28,4,jdrobny,add,7045,Joshua Kelley,RB,27
 2022,913949838503469056,17,waiver,complete,1672265131167,2022-12-28,4,jdrobny,drop,6826,Cole Kmet,TE,
 2022,913946120676700160,17,waiver,complete,1672264244768,2022-12-28,1,bgreenblatt,add,NYG,New York Giants,DEF,0

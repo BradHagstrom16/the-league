@@ -1,5 +1,5 @@
 season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager,action,player_id,player_name,position,faab_bid
-2021,743705510959812608,1,waiver,complete,1631675720494,2021-09-14,2,Erjohnson14,add,2152,Teddy Bridgewater,QB,
+2021,743705510959812608,1,waiver,complete,1631675720494,2021-09-15,2,Erjohnson14,add,2152,Teddy Bridgewater,QB,
 2021,743611394401923072,1,waiver,complete,1631653281358,2021-09-14,10,cc5597,add,7561,Elijah Mitchell,RB,
 2021,743576557544673280,1,waiver,failed,1631644975604,2021-09-14,8,TylerWicks,add,7561,Elijah Mitchell,RB,
 2021,743576557544673280,1,waiver,failed,1631644975604,2021-09-14,8,TylerWicks,drop,1408,Le'Veon Bell,RB,
@@ -8,20 +8,20 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,743509792051564544,1,waiver,complete,1631629057470,2021-09-14,8,TylerWicks,add,2711,Taylor Heinicke,QB,
 2021,743498282482995200,1,waiver,failed,1631626313375,2021-09-14,2,Erjohnson14,add,7561,Elijah Mitchell,RB,
 2021,743497357806698496,1,waiver,failed,1631626092915,2021-09-14,3,MaxSirianni,add,7561,Elijah Mitchell,RB,
-2021,743355072750239744,1,waiver,failed,1631592169514,2021-09-13,1,bgreenblatt,add,7561,Elijah Mitchell,RB,
-2021,742975835996786688,1,waiver,complete,1631501752426,2021-09-12,1,bgreenblatt,add,5947,Jakobi Meyers,WR,
-2021,742975835996786688,1,waiver,complete,1631501752426,2021-09-12,1,bgreenblatt,drop,7596,Elijah Moore,WR,
+2021,743355072750239744,1,waiver,failed,1631592169514,2021-09-14,1,bgreenblatt,add,7561,Elijah Mitchell,RB,
+2021,742975835996786688,1,waiver,complete,1631501752426,2021-09-13,1,bgreenblatt,add,5947,Jakobi Meyers,WR,
+2021,742975835996786688,1,waiver,complete,1631501752426,2021-09-13,1,bgreenblatt,drop,7596,Elijah Moore,WR,
 2021,742921355678683136,1,waiver,complete,1631488763306,2021-09-12,1,bgreenblatt,add,3200,Sterling Shepard,WR,
 2021,742921355678683136,1,waiver,complete,1631488763306,2021-09-12,1,bgreenblatt,drop,7565,Terrace Marshall,WR,
-2021,741882881189916672,1,free_agent,complete,1631241171694,2021-09-09,9,brockhusk,add,1476,Latavius Murray,RB,
-2021,741882881189916672,1,free_agent,complete,1631241171694,2021-09-09,9,brockhusk,drop,5052,Ronald Jones,RB,
+2021,741882881189916672,1,free_agent,complete,1631241171694,2021-09-10,9,brockhusk,add,1476,Latavius Murray,RB,
+2021,741882881189916672,1,free_agent,complete,1631241171694,2021-09-10,9,brockhusk,drop,5052,Ronald Jones,RB,
 2021,741783560553615360,1,free_agent,complete,1631217491809,2021-09-09,8,TylerWicks,add,1408,Le'Veon Bell,RB,
 2021,741783560553615360,1,free_agent,complete,1631217491809,2021-09-09,8,TylerWicks,drop,5848,Marquise Brown,WR,
 2021,741768382344511488,1,free_agent,complete,1631213873042,2021-09-09,7,KingTowsk,add,7098,Ty'Son Williams,RB,
 2021,741768382344511488,1,free_agent,complete,1631213873042,2021-09-09,7,KingTowsk,drop,4066,Evan Engram,TE,
-2021,741522133913583616,1,free_agent,complete,1631155162841,2021-09-08,7,KingTowsk,add,CAR,Carolina Panthers,DEF,
-2021,741522133913583616,1,free_agent,complete,1631155162841,2021-09-08,7,KingTowsk,drop,2391,David Johnson,RB,
-2021,741509383661469696,1,free_agent,complete,1631152122944,2021-09-08,1,bgreenblatt,add,7565,Terrace Marshall,WR,
+2021,741522133913583616,1,free_agent,complete,1631155162841,2021-09-09,7,KingTowsk,add,CAR,Carolina Panthers,DEF,
+2021,741522133913583616,1,free_agent,complete,1631155162841,2021-09-09,7,KingTowsk,drop,2391,David Johnson,RB,
+2021,741509383661469696,1,free_agent,complete,1631152122944,2021-09-09,1,bgreenblatt,add,7565,Terrace Marshall,WR,
 2021,746178549412651008,2,waiver,failed,1632265338808,2021-09-21,7,KingTowsk,add,3200,Sterling Shepard,WR,
 2021,746178549412651008,2,waiver,failed,1632265338808,2021-09-21,7,KingTowsk,drop,6798,Jalen Reagor,WR,
 2021,746081173406683136,2,waiver,failed,1632242122559,2021-09-21,7,KingTowsk,add,CAR,Carolina Panthers,DEF,
@@ -42,8 +42,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,746040595507744768,2,waiver,complete,1632232448034,2021-09-21,2,Erjohnson14,drop,3209,Devontae Booker,RB,
 2021,746034605722820608,2,waiver,complete,1632231019958,2021-09-21,3,MaxSirianni,add,1535,Cordarrelle Patterson,RB,
 2021,746034605722820608,2,waiver,complete,1632231019958,2021-09-21,3,MaxSirianni,drop,6814,Laviska Shenault,WR,
-2021,745865035200528384,2,waiver,complete,1632190591195,2021-09-20,1,bgreenblatt,add,CAR,Carolina Panthers,DEF,
-2021,745865035200528384,2,waiver,complete,1632190591195,2021-09-20,1,bgreenblatt,drop,GB,Green Bay Packers,DEF,
+2021,745865035200528384,2,waiver,complete,1632190591195,2021-09-21,1,bgreenblatt,add,CAR,Carolina Panthers,DEF,
+2021,745865035200528384,2,waiver,complete,1632190591195,2021-09-21,1,bgreenblatt,drop,GB,Green Bay Packers,DEF,
 2021,745821229034123264,2,waiver,complete,1632180146991,2021-09-20,10,cc5597,add,5870,Daniel Jones,QB,
 2021,745821229034123264,2,waiver,complete,1632180146991,2021-09-20,10,cc5597,drop,6768,Tua Tagovailoa,QB,
 2021,745719348433387520,2,waiver,failed,1632155856763,2021-09-20,9,brockhusk,add,7601,Rondale Moore,WR,
@@ -51,8 +51,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,745360321467953152,2,free_agent,complete,1632070258064,2021-09-19,10,cc5597,drop,5052,Ronald Jones,RB,
 2021,744655843290644480,2,free_agent,complete,1631902297378,2021-09-17,1,bgreenblatt,add,GB,Green Bay Packers,DEF,
 2021,744655843290644480,2,free_agent,complete,1631902297378,2021-09-17,1,bgreenblatt,drop,SF,San Francisco 49ers,DEF,
-2021,744418115320045568,2,waiver,failed,1631845618613,2021-09-16,1,bgreenblatt,add,3200,Sterling Shepard,WR,
-2021,744418115320045568,2,waiver,failed,1631845618613,2021-09-16,1,bgreenblatt,drop,2410,Jamison Crowder,WR,
+2021,744418115320045568,2,waiver,failed,1631845618613,2021-09-17,1,bgreenblatt,add,3200,Sterling Shepard,WR,
+2021,744418115320045568,2,waiver,failed,1631845618613,2021-09-17,1,bgreenblatt,drop,2410,Jamison Crowder,WR,
 2021,744272091951546368,2,free_agent,complete,1631810803929,2021-09-16,6,JSanDusky69,add,1817,Sammy Watkins,WR,
 2021,744270403232440320,2,free_agent,complete,1631810401307,2021-09-16,1,bgreenblatt,add,2410,Jamison Crowder,WR,
 2021,744270403232440320,2,free_agent,complete,1631810401307,2021-09-16,1,bgreenblatt,drop,3200,Sterling Shepard,WR,
@@ -64,8 +64,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,744256647588909056,2,free_agent,complete,1631807121706,2021-09-16,7,KingTowsk,drop,1837,Jimmy Garoppolo,QB,
 2021,744255649457790976,2,free_agent,complete,1631806883733,2021-09-16,7,KingTowsk,add,1837,Jimmy Garoppolo,QB,
 2021,744255649457790976,2,free_agent,complete,1631806883733,2021-09-16,7,KingTowsk,drop,CAR,Carolina Panthers,DEF,
-2021,744060911135907840,2,free_agent,complete,1631760454499,2021-09-15,9,brockhusk,add,NE,New England Patriots,DEF,
-2021,744060911135907840,2,free_agent,complete,1631760454499,2021-09-15,9,brockhusk,drop,1476,Latavius Murray,RB,
+2021,744060911135907840,2,free_agent,complete,1631760454499,2021-09-16,9,brockhusk,add,NE,New England Patriots,DEF,
+2021,744060911135907840,2,free_agent,complete,1631760454499,2021-09-16,9,brockhusk,drop,1476,Latavius Murray,RB,
 2021,743922752767045632,2,free_agent,complete,1631727514977,2021-09-15,2,Erjohnson14,add,49,Robbie Gould,K,
 2021,743922752767045632,2,free_agent,complete,1631727514977,2021-09-15,2,Erjohnson14,drop,1266,Greg Zuerlein,K,
 2021,743909906083655680,2,free_agent,complete,1631724452089,2021-09-15,1,bgreenblatt,add,1848,James White,RB,
@@ -92,8 +92,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,748308715924496384,3,waiver,failed,1632773210081,2021-09-27,9,brockhusk,drop,5110,Russell Gage,WR,
 2021,748306793154883584,3,waiver,complete,1632772751679,2021-09-27,1,bgreenblatt,add,1244,Josh Gordon,WR,21
 2021,748306793154883584,3,waiver,complete,1632772751679,2021-09-27,1,bgreenblatt,drop,1848,James White,RB,
-2021,748006267129491456,3,waiver,complete,1632701100669,2021-09-26,1,bgreenblatt,add,TEN,Tennessee Titans,DEF,
-2021,748006267129491456,3,waiver,complete,1632701100669,2021-09-26,1,bgreenblatt,drop,CAR,Carolina Panthers,DEF,
+2021,748006267129491456,3,waiver,complete,1632701100669,2021-09-27,1,bgreenblatt,add,TEN,Tennessee Titans,DEF,
+2021,748006267129491456,3,waiver,complete,1632701100669,2021-09-27,1,bgreenblatt,drop,CAR,Carolina Panthers,DEF,
 2021,747879294365421568,3,free_agent,complete,1632670828003,2021-09-26,6,JSanDusky69,drop,1339,Zach Ertz,TE,
 2021,747144133721919488,3,free_agent,complete,1632495552047,2021-09-24,7,KingTowsk,add,5284,Jeff Wilson,RB,
 2021,747144133721919488,3,free_agent,complete,1632495552047,2021-09-24,7,KingTowsk,drop,6083,Matt Gay,K,
@@ -108,7 +108,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,746391578150588416,3,free_agent,complete,1632316128817,2021-09-22,9,brockhusk,add,6870,Bryan Edwards,WR,
 2021,746330747023069184,3,waiver,complete,1632301625546,2021-09-22,1,bgreenblatt,add,6814,Laviska Shenault,WR,
 2021,746330747023069184,3,waiver,complete,1632301625546,2021-09-22,1,bgreenblatt,drop,2410,Jamison Crowder,WR,
-2021,751269549818683392,4,waiver,failed,1633479127891,2021-10-05,3,MaxSirianni,add,1833,Damien Williams,RB,10
+2021,751269549818683392,4,waiver,failed,1633479127891,2021-10-06,3,MaxSirianni,add,1833,Damien Williams,RB,10
 2021,751263743509409792,4,waiver,complete,1633477743559,2021-10-05,7,KingTowsk,add,7608,Khalil Herbert,RB,5
 2021,751263743509409792,4,waiver,complete,1633477743559,2021-10-05,7,KingTowsk,drop,7601,Rondale Moore,WR,
 2021,751263302860025856,4,waiver,failed,1633477638500,2021-10-05,7,KingTowsk,add,4147,Samaje Perine,RB,20
@@ -139,10 +139,10 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,751128381894037504,4,waiver,complete,1633445470835,2021-10-05,2,Erjohnson14,drop,367,Jared Cook,TE,
 2021,751101773405642752,4,waiver,complete,1633439126877,2021-10-05,2,Erjohnson14,add,CAR,Carolina Panthers,DEF,0
 2021,751101773405642752,4,waiver,complete,1633439126877,2021-10-05,2,Erjohnson14,drop,DEN,Denver Broncos,DEF,
-2021,750935285495529472,4,waiver,failed,1633399433066,2021-10-04,9,brockhusk,add,5001,Dalton Schultz,TE,10
-2021,750935285495529472,4,waiver,failed,1633399433066,2021-10-04,9,brockhusk,drop,5110,Russell Gage,WR,
-2021,750935125696765952,4,waiver,complete,1633399394967,2021-10-04,9,brockhusk,add,5906,Dawson Knox,TE,20
-2021,750935125696765952,4,waiver,complete,1633399394967,2021-10-04,9,brockhusk,drop,5110,Russell Gage,WR,
+2021,750935285495529472,4,waiver,failed,1633399433066,2021-10-05,9,brockhusk,add,5001,Dalton Schultz,TE,10
+2021,750935285495529472,4,waiver,failed,1633399433066,2021-10-05,9,brockhusk,drop,5110,Russell Gage,WR,
+2021,750935125696765952,4,waiver,complete,1633399394967,2021-10-05,9,brockhusk,add,5906,Dawson Knox,TE,20
+2021,750935125696765952,4,waiver,complete,1633399394967,2021-10-05,9,brockhusk,drop,5110,Russell Gage,WR,
 2021,750474710038626304,4,waiver,failed,1633289623320,2021-10-03,1,bgreenblatt,add,1833,Damien Williams,RB,11
 2021,750474710038626304,4,waiver,failed,1633289623320,2021-10-03,1,bgreenblatt,drop,3157,William Fuller,WR,
 2021,750472549162557440,4,waiver,failed,1633289108127,2021-10-03,1,bgreenblatt,add,5906,Dawson Knox,TE,0
@@ -167,17 +167,17 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,753637032470974464,5,waiver,complete,1634043579741,2021-10-12,2,Erjohnson14,add,GB,Green Bay Packers,DEF,0
 2021,753637032470974464,5,waiver,complete,1634043579741,2021-10-12,2,Erjohnson14,drop,CAR,Carolina Panthers,DEF,
 2021,753632657350516736,5,waiver,failed,1634042536631,2021-10-12,3,MaxSirianni,add,5549,Darrel Williams,RB,15
-2021,753505192565178368,5,waiver,failed,1634012146658,2021-10-11,6,JSanDusky69,add,5549,Darrel Williams,RB,21
-2021,753470647694680064,5,waiver,failed,1634003910519,2021-10-11,1,bgreenblatt,add,3214,Hunter Henry,TE,0
-2021,753470647694680064,5,waiver,failed,1634003910519,2021-10-11,1,bgreenblatt,drop,1244,Josh Gordon,WR,
-2021,753453857576763392,5,waiver,failed,1633999907443,2021-10-11,2,Erjohnson14,add,5549,Darrel Williams,RB,25
+2021,753505192565178368,5,waiver,failed,1634012146658,2021-10-12,6,JSanDusky69,add,5549,Darrel Williams,RB,21
+2021,753470647694680064,5,waiver,failed,1634003910519,2021-10-12,1,bgreenblatt,add,3214,Hunter Henry,TE,0
+2021,753470647694680064,5,waiver,failed,1634003910519,2021-10-12,1,bgreenblatt,drop,1244,Josh Gordon,WR,
+2021,753453857576763392,5,waiver,failed,1633999907443,2021-10-12,2,Erjohnson14,add,5549,Darrel Williams,RB,25
 2021,753377753776185344,5,waiver,complete,1633981762883,2021-10-11,4,jdrobny,add,3214,Hunter Henry,TE,26
 2021,753377753776185344,5,waiver,complete,1633981762883,2021-10-11,4,jdrobny,drop,6826,Cole Kmet,TE,
 2021,753370393368203264,5,free_agent,complete,1633980008025,2021-10-11,6,JSanDusky69,drop,4040,JuJu Smith-Schuster,WR,
-2021,753153798993780736,5,waiver,complete,1633928367902,2021-10-10,1,bgreenblatt,add,CIN,Cincinnati Bengals,DEF,0
-2021,753153798993780736,5,waiver,complete,1633928367902,2021-10-10,1,bgreenblatt,drop,MIN,Minnesota Vikings,DEF,
-2021,753102765253107712,5,waiver,complete,1633916200510,2021-10-10,1,bgreenblatt,add,7606,Kadarius Toney,WR,22
-2021,753102765253107712,5,waiver,complete,1633916200510,2021-10-10,1,bgreenblatt,drop,6814,Laviska Shenault,WR,
+2021,753153798993780736,5,waiver,complete,1633928367902,2021-10-11,1,bgreenblatt,add,CIN,Cincinnati Bengals,DEF,0
+2021,753153798993780736,5,waiver,complete,1633928367902,2021-10-11,1,bgreenblatt,drop,MIN,Minnesota Vikings,DEF,
+2021,753102765253107712,5,waiver,complete,1633916200510,2021-10-11,1,bgreenblatt,add,7606,Kadarius Toney,WR,22
+2021,753102765253107712,5,waiver,complete,1633916200510,2021-10-11,1,bgreenblatt,drop,6814,Laviska Shenault,WR,
 2021,752653841094311936,5,waiver,complete,1633809168650,2021-10-09,5,kaufmannc,add,CLE,Cleveland Browns,DEF,1
 2021,752653841094311936,5,waiver,complete,1633809168650,2021-10-09,5,kaufmannc,drop,DAL,Dallas Cowboys,DEF,
 2021,752633778131972096,5,free_agent,complete,1633804385267,2021-10-09,10,cc5597,add,CHI,Chicago Bears,DEF,
@@ -189,7 +189,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,752351717475106816,5,free_agent,complete,1633737136766,2021-10-08,6,JSanDusky69,add,2214,Cameron Brate,TE,
 2021,752239172722515968,5,free_agent,complete,1633710304006,2021-10-08,5,kaufmannc,add,391,Ryan Succop,K,
 2021,752239172722515968,5,free_agent,complete,1633710304006,2021-10-08,5,kaufmannc,drop,3594,Peyton Barber,RB,
-2021,752033339422285824,5,free_agent,complete,1633661229523,2021-10-07,10,cc5597,drop,CIN,Cincinnati Bengals,DEF,
+2021,752033339422285824,5,free_agent,complete,1633661229523,2021-10-08,10,cc5597,drop,CIN,Cincinnati Bengals,DEF,
 2021,751983243326402560,5,waiver,complete,1633649285683,2021-10-07,8,TylerWicks,add,5967,Tony Pollard,RB,10
 2021,751871243556368384,5,waiver,complete,1633622582857,2021-10-07,7,KingTowsk,add,DEN,Denver Broncos,DEF,6
 2021,751871243556368384,5,waiver,complete,1633622582857,2021-10-07,7,KingTowsk,drop,7608,Khalil Herbert,RB,
@@ -225,10 +225,10 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,751467498435661824,5,waiver,failed,1633526322519,2021-10-06,1,bgreenblatt,add,DEN,Denver Broncos,DEF,0
 2021,751467498435661824,5,waiver,failed,1633526322519,2021-10-06,1,bgreenblatt,drop,3157,William Fuller,WR,
 2021,751441063947919360,5,free_agent,complete,1633520020046,2021-10-06,5,kaufmannc,add,DAL,Dallas Cowboys,DEF,
-2021,756384634157314048,6,waiver,complete,1634698659031,2021-10-19,2,Erjohnson14,add,6694,D'Ernest Johnson,RB,11
-2021,756384634157314048,6,waiver,complete,1634698659031,2021-10-19,2,Erjohnson14,drop,3225,Tyler Boyd,WR,
-2021,756357335361925120,6,waiver,complete,1634692150491,2021-10-19,3,MaxSirianni,add,1110,T.Y. Hilton,WR,10
-2021,756357335361925120,6,waiver,complete,1634692150491,2021-10-19,3,MaxSirianni,drop,1433,Brandon McManus,K,
+2021,756384634157314048,6,waiver,complete,1634698659031,2021-10-20,2,Erjohnson14,add,6694,D'Ernest Johnson,RB,11
+2021,756384634157314048,6,waiver,complete,1634698659031,2021-10-20,2,Erjohnson14,drop,3225,Tyler Boyd,WR,
+2021,756357335361925120,6,waiver,complete,1634692150491,2021-10-20,3,MaxSirianni,add,1110,T.Y. Hilton,WR,10
+2021,756357335361925120,6,waiver,complete,1634692150491,2021-10-20,3,MaxSirianni,drop,1433,Brandon McManus,K,
 2021,756232560471838720,6,waiver,failed,1634662401839,2021-10-19,7,KingTowsk,add,5095,Daniel Carlson,K,2
 2021,756232560471838720,6,waiver,failed,1634662401839,2021-10-19,7,KingTowsk,drop,4195,Jake Elliott,K,
 2021,756232258486161408,6,waiver,failed,1634662329840,2021-10-19,7,KingTowsk,add,6694,D'Ernest Johnson,RB,7
@@ -243,10 +243,10 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,756194255776657408,6,waiver,failed,1634653269289,2021-10-19,1,bgreenblatt,drop,5987,Alexander Mattison,RB,
 2021,756185587970629632,6,waiver,complete,1634651202722,2021-10-19,10,cc5597,add,5095,Daniel Carlson,K,6
 2021,756185587970629632,6,waiver,complete,1634651202722,2021-10-19,10,cc5597,drop,1266,Greg Zuerlein,K,
-2021,756026468538359808,6,waiver,failed,1634613265693,2021-10-18,5,kaufmannc,add,1110,T.Y. Hilton,WR,0
-2021,756026273079435264,6,waiver,failed,1634613219092,2021-10-18,5,kaufmannc,add,6694,D'Ernest Johnson,RB,0
-2021,756006640309964800,6,waiver,complete,1634608538275,2021-10-18,1,bgreenblatt,add,7609,Demetric Felton,RB,0
-2021,756006640309964800,6,waiver,complete,1634608538275,2021-10-18,1,bgreenblatt,drop,7608,Khalil Herbert,RB,
+2021,756026468538359808,6,waiver,failed,1634613265693,2021-10-19,5,kaufmannc,add,1110,T.Y. Hilton,WR,0
+2021,756026273079435264,6,waiver,failed,1634613219092,2021-10-19,5,kaufmannc,add,6694,D'Ernest Johnson,RB,0
+2021,756006640309964800,6,waiver,complete,1634608538275,2021-10-19,1,bgreenblatt,add,7609,Demetric Felton,RB,0
+2021,756006640309964800,6,waiver,complete,1634608538275,2021-10-19,1,bgreenblatt,drop,7608,Khalil Herbert,RB,
 2021,755906835990577152,6,waiver,complete,1634584743071,2021-10-18,1,bgreenblatt,add,CAR,Carolina Panthers,DEF,0
 2021,755906835990577152,6,waiver,complete,1634584743071,2021-10-18,1,bgreenblatt,drop,CIN,Cincinnati Bengals,DEF,
 2021,755906013756022784,6,free_agent,complete,1634584547035,2021-10-18,1,bgreenblatt,add,1837,Jimmy Garoppolo,QB,
@@ -303,12 +303,12 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,758977789553680384,7,waiver,complete,1635316915456,2021-10-27,6,JSanDusky69,add,1825,Jarvis Landry,WR,0
 2021,758977722109267968,7,waiver,failed,1635316899376,2021-10-27,6,JSanDusky69,add,7567,Kenny Gainwell,RB,6
 2021,758977288787382272,7,free_agent,complete,1635316796064,2021-10-27,6,JSanDusky69,drop,1476,Latavius Murray,RB,
-2021,758907724305129472,7,waiver,complete,1635300210599,2021-10-26,7,KingTowsk,add,5272,Greg Joseph,K,0
-2021,758907724305129472,7,waiver,complete,1635300210599,2021-10-26,7,KingTowsk,drop,650,Nick Folk,K,
-2021,758907687445606400,7,waiver,failed,1635300201811,2021-10-26,7,KingTowsk,add,1266,Greg Zuerlein,K,0
-2021,758907687445606400,7,waiver,failed,1635300201811,2021-10-26,7,KingTowsk,drop,650,Nick Folk,K,
-2021,758907198695923712,7,waiver,failed,1635300085284,2021-10-26,7,KingTowsk,add,CIN,Cincinnati Bengals,DEF,2
-2021,758907198695923712,7,waiver,failed,1635300085284,2021-10-26,7,KingTowsk,drop,NO,New Orleans Saints,DEF,
+2021,758907724305129472,7,waiver,complete,1635300210599,2021-10-27,7,KingTowsk,add,5272,Greg Joseph,K,0
+2021,758907724305129472,7,waiver,complete,1635300210599,2021-10-27,7,KingTowsk,drop,650,Nick Folk,K,
+2021,758907687445606400,7,waiver,failed,1635300201811,2021-10-27,7,KingTowsk,add,1266,Greg Zuerlein,K,0
+2021,758907687445606400,7,waiver,failed,1635300201811,2021-10-27,7,KingTowsk,drop,650,Nick Folk,K,
+2021,758907198695923712,7,waiver,failed,1635300085284,2021-10-27,7,KingTowsk,add,CIN,Cincinnati Bengals,DEF,2
+2021,758907198695923712,7,waiver,failed,1635300085284,2021-10-27,7,KingTowsk,drop,NO,New Orleans Saints,DEF,
 2021,758818073175289856,7,waiver,complete,1635278836104,2021-10-26,2,Erjohnson14,add,7567,Kenny Gainwell,RB,7
 2021,758818073175289856,7,waiver,complete,1635278836104,2021-10-26,2,Erjohnson14,drop,956,Mark Ingram,RB,
 2021,758815109303914496,7,waiver,failed,1635278129462,2021-10-26,3,MaxSirianni,add,CIN,Cincinnati Bengals,DEF,5
@@ -334,10 +334,10 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,758458619606986752,7,waiver,complete,1635193135695,2021-10-25,9,brockhusk,drop,138,Ben Roethlisberger,QB,
 2021,758386404291170304,7,waiver,failed,1635175918222,2021-10-25,5,kaufmannc,add,5022,Dallas Goedert,TE,2
 2021,758386404291170304,7,waiver,failed,1635175918222,2021-10-25,5,kaufmannc,drop,4985,Rashaad Penny,RB,
-2021,758179292781121536,7,free_agent,complete,1635126538990,2021-10-24,1,bgreenblatt,add,5987,Alexander Mattison,RB,
-2021,758179292781121536,7,free_agent,complete,1635126538990,2021-10-24,1,bgreenblatt,drop,3327,Alex Collins,RB,
-2021,758179027268956160,7,waiver,failed,1635126475687,2021-10-24,1,bgreenblatt,add,CIN,Cincinnati Bengals,DEF,2
-2021,758179027268956160,7,waiver,failed,1635126475687,2021-10-24,1,bgreenblatt,drop,CAR,Carolina Panthers,DEF,
+2021,758179292781121536,7,free_agent,complete,1635126538990,2021-10-25,1,bgreenblatt,add,5987,Alexander Mattison,RB,
+2021,758179292781121536,7,free_agent,complete,1635126538990,2021-10-25,1,bgreenblatt,drop,3327,Alex Collins,RB,
+2021,758179027268956160,7,waiver,failed,1635126475687,2021-10-25,1,bgreenblatt,add,CIN,Cincinnati Bengals,DEF,2
+2021,758179027268956160,7,waiver,failed,1635126475687,2021-10-25,1,bgreenblatt,drop,CAR,Carolina Panthers,DEF,
 2021,758132909042720768,7,free_agent,complete,1635115480245,2021-10-24,1,bgreenblatt,add,2747,Jason Myers,K,
 2021,758132909042720768,7,free_agent,complete,1635115480245,2021-10-24,1,bgreenblatt,drop,6528,Joey Slye,K,
 2021,758073832266735616,7,free_agent,complete,1635101395244,2021-10-24,8,TylerWicks,add,2214,Cameron Brate,TE,
@@ -347,14 +347,14 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,757383377241448448,7,free_agent,complete,1634936777938,2021-10-22,2,Erjohnson14,add,2168,Devonta Freeman,RB,
 2021,757367686002024448,7,free_agent,complete,1634933036855,2021-10-22,6,JSanDusky69,add,4602,Robert Tonyan,TE,
 2021,757367613444722688,7,free_agent,complete,1634933019556,2021-10-22,6,JSanDusky69,drop,7601,Rondale Moore,WR,
-2021,757113342753243136,7,free_agent,complete,1634872396699,2021-10-21,2,Erjohnson14,add,956,Mark Ingram,RB,
-2021,757113342753243136,7,free_agent,complete,1634872396699,2021-10-21,2,Erjohnson14,drop,4149,Jamaal Williams,RB,
+2021,757113342753243136,7,free_agent,complete,1634872396699,2021-10-22,2,Erjohnson14,add,956,Mark Ingram,RB,
+2021,757113342753243136,7,free_agent,complete,1634872396699,2021-10-22,2,Erjohnson14,drop,4149,Jamaal Williams,RB,
 2021,757049259840442368,7,free_agent,complete,1634857118142,2021-10-21,6,JSanDusky69,add,6989,Marquez Callaway,WR,
 2021,757049159361896448,7,waiver,failed,1634857094186,2021-10-21,6,JSanDusky69,add,7608,Khalil Herbert,RB,2
 2021,757049143951867904,7,waiver,failed,1634857090512,2021-10-21,1,bgreenblatt,add,4152,Marlon Mack,RB,0
 2021,757049143951867904,7,waiver,failed,1634857090512,2021-10-21,1,bgreenblatt,drop,7609,Demetric Felton,RB,
 2021,757049051031400448,7,free_agent,complete,1634857068358,2021-10-21,6,JSanDusky69,drop,4066,Evan Engram,TE,
-2021,756759941909467136,7,waiver,complete,1634788139372,2021-10-20,4,jdrobny,add,7608,Khalil Herbert,RB,1
+2021,756759941909467136,7,waiver,complete,1634788139372,2021-10-21,4,jdrobny,add,7608,Khalil Herbert,RB,1
 2021,756644533596463104,7,free_agent,complete,1634760623886,2021-10-20,1,bgreenblatt,add,4017,Deshaun Watson,QB,
 2021,756644533596463104,7,free_agent,complete,1634760623886,2021-10-20,1,bgreenblatt,drop,1837,Jimmy Garoppolo,QB,
 2021,756627874555068416,7,waiver,complete,1634756652062,2021-10-20,7,KingTowsk,add,4152,Marlon Mack,RB,1
@@ -374,14 +374,14 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,756541073488289792,7,free_agent,complete,1634735957074,2021-10-20,2,Erjohnson14,drop,GB,Green Bay Packers,DEF,
 2021,756522026331713536,7,free_agent,complete,1634731415878,2021-10-20,7,KingTowsk,add,650,Nick Folk,K,
 2021,756522026331713536,7,free_agent,complete,1634731415878,2021-10-20,7,KingTowsk,drop,4195,Jake Elliott,K,
-2021,761427347663622144,8,waiver,complete,1635900935620,2021-11-02,2,Erjohnson14,add,6753,Derrick Gore,RB,0
-2021,761427347663622144,8,waiver,complete,1635900935620,2021-11-02,2,Erjohnson14,drop,7567,Kenny Gainwell,RB,
-2021,761427261135142912,8,waiver,complete,1635900914990,2021-11-02,2,Erjohnson14,add,5347,Nyheim Miller-Hines,RB,2
-2021,761427261135142912,8,waiver,complete,1635900914990,2021-11-02,2,Erjohnson14,drop,6694,D'Ernest Johnson,RB,
-2021,761427200351289344,8,waiver,complete,1635900900499,2021-11-02,2,Erjohnson14,add,2319,DeVante Parker,WR,0
-2021,761427200351289344,8,waiver,complete,1635900900499,2021-11-02,2,Erjohnson14,drop,1992,Allen Robinson,WR,
-2021,761427008474501120,8,waiver,complete,1635900854751,2021-11-02,2,Erjohnson14,add,MIA,Miami Dolphins,DEF,2
-2021,761427008474501120,8,waiver,complete,1635900854751,2021-11-02,2,Erjohnson14,drop,SF,San Francisco 49ers,DEF,
+2021,761427347663622144,8,waiver,complete,1635900935620,2021-11-03,2,Erjohnson14,add,6753,Derrick Gore,RB,0
+2021,761427347663622144,8,waiver,complete,1635900935620,2021-11-03,2,Erjohnson14,drop,7567,Kenny Gainwell,RB,
+2021,761427261135142912,8,waiver,complete,1635900914990,2021-11-03,2,Erjohnson14,add,5347,Nyheim Miller-Hines,RB,2
+2021,761427261135142912,8,waiver,complete,1635900914990,2021-11-03,2,Erjohnson14,drop,6694,D'Ernest Johnson,RB,
+2021,761427200351289344,8,waiver,complete,1635900900499,2021-11-03,2,Erjohnson14,add,2319,DeVante Parker,WR,0
+2021,761427200351289344,8,waiver,complete,1635900900499,2021-11-03,2,Erjohnson14,drop,1992,Allen Robinson,WR,
+2021,761427008474501120,8,waiver,complete,1635900854751,2021-11-03,2,Erjohnson14,add,MIA,Miami Dolphins,DEF,2
+2021,761427008474501120,8,waiver,complete,1635900854751,2021-11-03,2,Erjohnson14,drop,SF,San Francisco 49ers,DEF,
 2021,761376713933451264,8,waiver,complete,1635888863598,2021-11-02,7,KingTowsk,add,2257,Carlos Hyde,RB,0
 2021,761376531141496832,8,waiver,failed,1635888820017,2021-11-02,7,KingTowsk,add,4219,Jeremy McNichols,RB,11
 2021,761364926257319936,8,free_agent,complete,1635886053197,2021-11-02,7,KingTowsk,drop,4152,Marlon Mack,RB,
@@ -399,7 +399,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,761301840846565376,8,waiver,failed,1635871012463,2021-11-02,1,bgreenblatt,drop,DEN,Denver Broncos,DEF,
 2021,761267790735876096,8,waiver,complete,1635862894284,2021-11-02,10,cc5597,add,1837,Jimmy Garoppolo,QB,21
 2021,761267790735876096,8,waiver,complete,1635862894284,2021-11-02,10,cc5597,drop,5095,Daniel Carlson,K,
-2021,761105154257911808,8,free_agent,complete,1635824118726,2021-11-01,6,JSanDusky69,drop,4602,Robert Tonyan,TE,
+2021,761105154257911808,8,free_agent,complete,1635824118726,2021-11-02,6,JSanDusky69,drop,4602,Robert Tonyan,TE,
 2021,760917709692231680,8,free_agent,complete,1635779428459,2021-11-01,1,bgreenblatt,add,184,Adrian Peterson,RB,
 2021,760917709692231680,8,free_agent,complete,1635779428459,2021-11-01,1,bgreenblatt,drop,7045,Joshua Kelley,RB,
 2021,760912353540845568,8,waiver,complete,1635778151453,2021-11-01,3,MaxSirianni,add,4219,Jeremy McNichols,RB,47
@@ -441,10 +441,10 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,759027271314104320,8,free_agent,complete,1635328712827,2021-10-27,1,bgreenblatt,drop,4531,Ricky Seals-Jones,TE,
 2021,758984793966006272,8,free_agent,complete,1635318585438,2021-10-27,6,JSanDusky69,add,5967,Tony Pollard,RB,
 2021,758984793966006272,8,free_agent,complete,1635318585438,2021-10-27,6,JSanDusky69,drop,1817,Sammy Watkins,WR,
-2021,763985799036399616,9,waiver,complete,1636510917961,2021-11-09,7,KingTowsk,add,6694,D'Ernest Johnson,RB,9
-2021,763985799036399616,9,waiver,complete,1636510917961,2021-11-09,7,KingTowsk,drop,4082,Curtis Samuel,WR,
-2021,763953754583183360,9,waiver,complete,1636503277968,2021-11-09,1,bgreenblatt,add,4335,P.J. Walker,QB,0
-2021,763953754583183360,9,waiver,complete,1636503277968,2021-11-09,1,bgreenblatt,drop,DEN,Denver Broncos,DEF,
+2021,763985799036399616,9,waiver,complete,1636510917961,2021-11-10,7,KingTowsk,add,6694,D'Ernest Johnson,RB,9
+2021,763985799036399616,9,waiver,complete,1636510917961,2021-11-10,7,KingTowsk,drop,4082,Curtis Samuel,WR,
+2021,763953754583183360,9,waiver,complete,1636503277968,2021-11-10,1,bgreenblatt,add,4335,P.J. Walker,QB,0
+2021,763953754583183360,9,waiver,complete,1636503277968,2021-11-10,1,bgreenblatt,drop,DEN,Denver Broncos,DEF,
 2021,763937182263140352,9,waiver,failed,1636499326819,2021-11-09,2,Erjohnson14,add,6694,D'Ernest Johnson,RB,5
 2021,763937182263140352,9,waiver,failed,1636499326819,2021-11-09,2,Erjohnson14,drop,2319,DeVante Parker,WR,
 2021,763850395570319360,9,waiver,complete,1636478635259,2021-11-09,7,KingTowsk,add,7610,Trey Lance,QB,2
@@ -521,7 +521,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,765669234108973056,10,free_agent,complete,1636912280159,2021-11-14,9,brockhusk,add,533,Colt McCoy,QB,
 2021,765669234108973056,10,free_agent,complete,1636912280159,2021-11-14,9,brockhusk,drop,3423,Robbie Chosen,WR,
 2021,765651986719977472,10,free_agent,complete,1636908168061,2021-11-14,9,brockhusk,drop,5870,Daniel Jones,QB,
-2021,765414120685260800,10,free_agent,complete,1636851456379,2021-11-13,3,MaxSirianni,drop,138,Ben Roethlisberger,QB,
+2021,765414120685260800,10,free_agent,complete,1636851456379,2021-11-14,3,MaxSirianni,drop,138,Ben Roethlisberger,QB,
 2021,765308882846429184,10,free_agent,complete,1636826365723,2021-11-13,4,jdrobny,add,2410,Jamison Crowder,WR,
 2021,765308324165177344,10,free_agent,complete,1636826232523,2021-11-13,4,jdrobny,drop,SEA,Seattle Seahawks,DEF,
 2021,765308188991107072,10,free_agent,complete,1636826200295,2021-11-13,4,jdrobny,add,5110,Russell Gage,WR,
@@ -537,16 +537,16 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,764984535887794176,10,free_agent,complete,1636749035382,2021-11-12,4,jdrobny,add,DEN,Denver Broncos,DEF,
 2021,764983979882442752,10,free_agent,complete,1636748902820,2021-11-12,2,Erjohnson14,add,956,Mark Ingram,RB,
 2021,764983979882442752,10,free_agent,complete,1636748902820,2021-11-12,2,Erjohnson14,drop,5347,Nyheim Miller-Hines,RB,
-2021,764749536081211392,10,free_agent,complete,1636693007062,2021-11-11,2,Erjohnson14,drop,2749,Raheem Mostert,RB,
-2021,764748860248928256,10,free_agent,complete,1636692845931,2021-11-11,2,Erjohnson14,drop,2319,DeVante Parker,WR,
-2021,764746224460148736,10,trade,complete,1636692217510,2021-11-11,2,Erjohnson14,add,536,Antonio Brown,WR,
-2021,764746224460148736,10,trade,complete,1636692217510,2021-11-11,1,bgreenblatt,add,6819,Michael Pittman,WR,
-2021,764746224460148736,10,trade,complete,1636692217510,2021-11-11,2,Erjohnson14,add,6938,Cam Akers,RB,
-2021,764746224460148736,10,trade,complete,1636692217510,2021-11-11,2,Erjohnson14,add,6945,Antonio Gibson,RB,
-2021,764746224460148736,10,trade,complete,1636692217510,2021-11-11,1,bgreenblatt,drop,536,Antonio Brown,WR,
-2021,764746224460148736,10,trade,complete,1636692217510,2021-11-11,2,Erjohnson14,drop,6819,Michael Pittman,WR,
-2021,764746224460148736,10,trade,complete,1636692217510,2021-11-11,1,bgreenblatt,drop,6938,Cam Akers,RB,
-2021,764746224460148736,10,trade,complete,1636692217510,2021-11-11,1,bgreenblatt,drop,6945,Antonio Gibson,RB,
+2021,764749536081211392,10,free_agent,complete,1636693007062,2021-11-12,2,Erjohnson14,drop,2749,Raheem Mostert,RB,
+2021,764748860248928256,10,free_agent,complete,1636692845931,2021-11-12,2,Erjohnson14,drop,2319,DeVante Parker,WR,
+2021,764746224460148736,10,trade,complete,1636692217510,2021-11-12,2,Erjohnson14,add,536,Antonio Brown,WR,
+2021,764746224460148736,10,trade,complete,1636692217510,2021-11-12,1,bgreenblatt,add,6819,Michael Pittman,WR,
+2021,764746224460148736,10,trade,complete,1636692217510,2021-11-12,2,Erjohnson14,add,6938,Cam Akers,RB,
+2021,764746224460148736,10,trade,complete,1636692217510,2021-11-12,2,Erjohnson14,add,6945,Antonio Gibson,RB,
+2021,764746224460148736,10,trade,complete,1636692217510,2021-11-12,1,bgreenblatt,drop,536,Antonio Brown,WR,
+2021,764746224460148736,10,trade,complete,1636692217510,2021-11-12,2,Erjohnson14,drop,6819,Michael Pittman,WR,
+2021,764746224460148736,10,trade,complete,1636692217510,2021-11-12,1,bgreenblatt,drop,6938,Cam Akers,RB,
+2021,764746224460148736,10,trade,complete,1636692217510,2021-11-12,1,bgreenblatt,drop,6945,Antonio Gibson,RB,
 2021,764572300183011328,10,free_agent,complete,1636650750731,2021-11-11,6,JSanDusky69,drop,7567,Kenny Gainwell,RB,
 2021,764542266730774528,10,free_agent,complete,1636643590198,2021-11-11,7,KingTowsk,add,954,Cam Newton,QB,
 2021,764542266730774528,10,free_agent,complete,1636643590198,2021-11-11,7,KingTowsk,drop,7610,Trey Lance,QB,
@@ -577,15 +577,15 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,768902588795092992,11,waiver,complete,1637683171989,2021-11-23,9,brockhusk,add,1945,Chris Boswell,K,0
 2021,768902588795092992,11,waiver,complete,1637683171989,2021-11-23,9,brockhusk,drop,533,Colt McCoy,QB,
 2021,768897127316353024,11,waiver,complete,1637681869871,2021-11-23,8,TylerWicks,add,CHI,Chicago Bears,DEF,5
-2021,768727312002002944,11,waiver,failed,1637641382745,2021-11-22,5,kaufmannc,add,2391,David Johnson,RB,0
-2021,768727312002002944,11,waiver,failed,1637641382745,2021-11-22,5,kaufmannc,drop,6824,Donovan Peoples-Jones,WR,
+2021,768727312002002944,11,waiver,failed,1637641382745,2021-11-23,5,kaufmannc,add,2391,David Johnson,RB,0
+2021,768727312002002944,11,waiver,failed,1637641382745,2021-11-23,5,kaufmannc,drop,6824,Donovan Peoples-Jones,WR,
 2021,768504004891299840,11,waiver,complete,1637588142181,2021-11-22,1,bgreenblatt,add,3327,Alex Collins,RB,8
 2021,768504004891299840,11,waiver,complete,1637588142181,2021-11-22,1,bgreenblatt,drop,5947,Jakobi Meyers,WR,
-2021,768314744418627584,11,waiver,failed,1637543018968,2021-11-21,1,bgreenblatt,add,CHI,Chicago Bears,DEF,0
-2021,768314744418627584,11,waiver,failed,1637543018968,2021-11-21,1,bgreenblatt,drop,5284,Jeff Wilson,RB,
+2021,768314744418627584,11,waiver,failed,1637543018968,2021-11-22,1,bgreenblatt,add,CHI,Chicago Bears,DEF,0
+2021,768314744418627584,11,waiver,failed,1637543018968,2021-11-22,1,bgreenblatt,drop,5284,Jeff Wilson,RB,
 2021,768164493053325312,11,free_agent,complete,1637507196251,2021-11-21,4,jdrobny,add,WAS,Washington Commanders,DEF,
 2021,768164493053325312,11,free_agent,complete,1637507196251,2021-11-21,4,jdrobny,drop,5110,Russell Gage,WR,
-2021,767954382309478400,11,free_agent,complete,1637457101946,2021-11-20,6,JSanDusky69,drop,1067,Marvin Jones,WR,
+2021,767954382309478400,11,free_agent,complete,1637457101946,2021-11-21,6,JSanDusky69,drop,1067,Marvin Jones,WR,
 2021,767444573483012096,11,waiver,complete,1637335554050,2021-11-19,1,bgreenblatt,add,2711,Taylor Heinicke,QB,2
 2021,767444573483012096,11,waiver,complete,1637335554050,2021-11-19,1,bgreenblatt,drop,NO,New Orleans Saints,DEF,
 2021,767439092400156672,11,waiver,complete,1637334247258,2021-11-19,2,Erjohnson14,add,1837,Jimmy Garoppolo,QB,2
@@ -608,25 +608,25 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,766733964214960128,11,free_agent,complete,1637166131598,2021-11-17,10,cc5597,add,MIA,Miami Dolphins,DEF,
 2021,766733964214960128,11,free_agent,complete,1637166131598,2021-11-17,10,cc5597,drop,1837,Jimmy Garoppolo,QB,
 2021,766698058149941248,11,free_agent,complete,1637157570926,2021-11-17,2,Erjohnson14,drop,4066,Evan Engram,TE,
-2021,771622801328181248,12,waiver,failed,1638331721196,2021-11-30,2,Erjohnson14,add,4149,Jamaal Williams,RB,12
-2021,771622801328181248,12,waiver,failed,1638331721196,2021-11-30,2,Erjohnson14,drop,2378,Tevin Coleman,RB,
-2021,771612978012377088,12,waiver,failed,1638329379136,2021-11-30,7,KingTowsk,add,391,Ryan Succop,K,0
-2021,771612978012377088,12,waiver,failed,1638329379136,2021-11-30,7,KingTowsk,drop,650,Nick Folk,K,
-2021,771612382647672832,12,waiver,failed,1638329237189,2021-11-30,3,MaxSirianni,add,4149,Jamaal Williams,RB,5
-2021,771612382647672832,12,waiver,failed,1638329237189,2021-11-30,3,MaxSirianni,drop,4150,Wayne Gallman,RB,
-2021,771607113314217984,12,waiver,failed,1638327980882,2021-11-30,7,KingTowsk,add,7599,Jermar Jefferson,RB,0
-2021,771606909307461632,12,waiver,complete,1638327932243,2021-11-30,7,KingTowsk,add,7720,Kene Nwangwu,RB,0
-2021,771606841808560128,12,waiver,failed,1638327916150,2021-11-30,8,TylerWicks,add,5987,Alexander Mattison,RB,45
-2021,771606378363162624,12,free_agent,complete,1638327805656,2021-11-30,8,TylerWicks,drop,4273,Chris Carson,RB,
-2021,771606262981971968,12,free_agent,complete,1638327778147,2021-11-30,7,KingTowsk,drop,5133,Tyler Conklin,TE,
-2021,771606221907177472,12,free_agent,complete,1638327768354,2021-11-30,7,KingTowsk,drop,6694,D'Ernest Johnson,RB,
-2021,771605922689757184,12,waiver,failed,1638327697015,2021-11-30,7,KingTowsk,add,4381,Taysom Hill,TE,0
-2021,771605922689757184,12,waiver,failed,1638327697015,2021-11-30,7,KingTowsk,drop,827,Tyrod Taylor,QB,
-2021,771605734851997696,12,waiver,complete,1638327652231,2021-11-30,7,KingTowsk,add,4149,Jamaal Williams,RB,27
-2021,771605685262745600,12,waiver,failed,1638327640408,2021-11-30,7,KingTowsk,add,5987,Alexander Mattison,RB,28
-2021,771586326960132096,12,free_agent,complete,1638323025029,2021-11-30,3,MaxSirianni,drop,4219,Jeremy McNichols,RB,
-2021,771561153427030016,12,waiver,complete,1638317023191,2021-11-30,1,bgreenblatt,add,2359,Ameer Abdullah,RB,0
-2021,771561153427030016,12,waiver,complete,1638317023191,2021-11-30,1,bgreenblatt,drop,5284,Jeff Wilson,RB,
+2021,771622801328181248,12,waiver,failed,1638331721196,2021-12-01,2,Erjohnson14,add,4149,Jamaal Williams,RB,12
+2021,771622801328181248,12,waiver,failed,1638331721196,2021-12-01,2,Erjohnson14,drop,2378,Tevin Coleman,RB,
+2021,771612978012377088,12,waiver,failed,1638329379136,2021-12-01,7,KingTowsk,add,391,Ryan Succop,K,0
+2021,771612978012377088,12,waiver,failed,1638329379136,2021-12-01,7,KingTowsk,drop,650,Nick Folk,K,
+2021,771612382647672832,12,waiver,failed,1638329237189,2021-12-01,3,MaxSirianni,add,4149,Jamaal Williams,RB,5
+2021,771612382647672832,12,waiver,failed,1638329237189,2021-12-01,3,MaxSirianni,drop,4150,Wayne Gallman,RB,
+2021,771607113314217984,12,waiver,failed,1638327980882,2021-12-01,7,KingTowsk,add,7599,Jermar Jefferson,RB,0
+2021,771606909307461632,12,waiver,complete,1638327932243,2021-12-01,7,KingTowsk,add,7720,Kene Nwangwu,RB,0
+2021,771606841808560128,12,waiver,failed,1638327916150,2021-12-01,8,TylerWicks,add,5987,Alexander Mattison,RB,45
+2021,771606378363162624,12,free_agent,complete,1638327805656,2021-12-01,8,TylerWicks,drop,4273,Chris Carson,RB,
+2021,771606262981971968,12,free_agent,complete,1638327778147,2021-12-01,7,KingTowsk,drop,5133,Tyler Conklin,TE,
+2021,771606221907177472,12,free_agent,complete,1638327768354,2021-12-01,7,KingTowsk,drop,6694,D'Ernest Johnson,RB,
+2021,771605922689757184,12,waiver,failed,1638327697015,2021-12-01,7,KingTowsk,add,4381,Taysom Hill,TE,0
+2021,771605922689757184,12,waiver,failed,1638327697015,2021-12-01,7,KingTowsk,drop,827,Tyrod Taylor,QB,
+2021,771605734851997696,12,waiver,complete,1638327652231,2021-12-01,7,KingTowsk,add,4149,Jamaal Williams,RB,27
+2021,771605685262745600,12,waiver,failed,1638327640408,2021-12-01,7,KingTowsk,add,5987,Alexander Mattison,RB,28
+2021,771586326960132096,12,free_agent,complete,1638323025029,2021-12-01,3,MaxSirianni,drop,4219,Jeremy McNichols,RB,
+2021,771561153427030016,12,waiver,complete,1638317023191,2021-12-01,1,bgreenblatt,add,2359,Ameer Abdullah,RB,0
+2021,771561153427030016,12,waiver,complete,1638317023191,2021-12-01,1,bgreenblatt,drop,5284,Jeff Wilson,RB,
 2021,771545045265403904,12,waiver,complete,1638313182706,2021-11-30,2,Erjohnson14,add,5987,Alexander Mattison,RB,56
 2021,771545045265403904,12,waiver,complete,1638313182706,2021-11-30,2,Erjohnson14,drop,2378,Tevin Coleman,RB,
 2021,771487679933227008,12,waiver,failed,1638299505745,2021-11-30,1,bgreenblatt,add,4149,Jamaal Williams,RB,0
@@ -643,8 +643,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,771421360734982144,12,waiver,complete,1638283694016,2021-11-30,2,Erjohnson14,drop,HOU,Houston Texans,DEF,
 2021,771290312755806208,12,waiver,failed,1638252449743,2021-11-30,10,cc5597,add,391,Ryan Succop,K,6
 2021,771290312755806208,12,waiver,failed,1638252449743,2021-11-30,10,cc5597,drop,5095,Daniel Carlson,K,
-2021,771257985300377600,12,waiver,complete,1638244742277,2021-11-29,6,JSanDusky69,add,4157,Tarik Cohen,RB,0
-2021,771257985300377600,12,waiver,complete,1638244742277,2021-11-29,6,JSanDusky69,drop,2020,Cairo Santos,K,
+2021,771257985300377600,12,waiver,complete,1638244742277,2021-11-30,6,JSanDusky69,add,4157,Tarik Cohen,RB,0
+2021,771257985300377600,12,waiver,complete,1638244742277,2021-11-30,6,JSanDusky69,drop,2020,Cairo Santos,K,
 2021,771138615177760768,12,waiver,failed,1638216282222,2021-11-29,6,JSanDusky69,add,5987,Alexander Mattison,RB,37
 2021,771138615177760768,12,waiver,failed,1638216282222,2021-11-29,6,JSanDusky69,drop,CAR,Carolina Panthers,DEF,
 2021,771132483512188928,12,waiver,complete,1638214820319,2021-11-29,8,TylerWicks,add,4381,Taysom Hill,TE,15
@@ -659,32 +659,32 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,770832612201017344,12,waiver,failed,1638143325427,2021-11-28,1,bgreenblatt,drop,642,Golden Tate,WR,
 2021,770731258392576000,12,free_agent,complete,1638119160796,2021-11-28,9,brockhusk,add,24,Matt Ryan,QB,
 2021,770731258392576000,12,free_agent,complete,1638119160796,2021-11-28,9,brockhusk,drop,5870,Daniel Jones,QB,
-2021,770485883328729088,12,free_agent,complete,1638060658822,2021-11-27,1,bgreenblatt,add,642,Golden Tate,WR,
-2021,770485883328729088,12,free_agent,complete,1638060658822,2021-11-27,1,bgreenblatt,drop,5987,Alexander Mattison,RB,
-2021,770480558848524288,12,free_agent,complete,1638059389367,2021-11-27,10,cc5597,drop,5248,Gus Edwards,RB,
+2021,770485883328729088,12,free_agent,complete,1638060658822,2021-11-28,1,bgreenblatt,add,642,Golden Tate,WR,
+2021,770485883328729088,12,free_agent,complete,1638060658822,2021-11-28,1,bgreenblatt,drop,5987,Alexander Mattison,RB,
+2021,770480558848524288,12,free_agent,complete,1638059389367,2021-11-28,10,cc5597,drop,5248,Gus Edwards,RB,
 2021,770456229129637888,12,free_agent,complete,1638053588710,2021-11-27,8,TylerWicks,add,5122,Boston Scott,RB,
 2021,770455100719280128,12,free_agent,complete,1638053319676,2021-11-27,2,Erjohnson14,add,5947,Jakobi Meyers,WR,
 2021,770455100719280128,12,free_agent,complete,1638053319676,2021-11-27,2,Erjohnson14,drop,7496,Nick Westbrook-Ikhine,WR,
-2021,769811441313488896,12,free_agent,complete,1637899859315,2021-11-25,4,jdrobny,add,4089,Gerald Everett,TE,
-2021,769811441313488896,12,free_agent,complete,1637899859315,2021-11-25,4,jdrobny,drop,6130,Devin Singletary,RB,
+2021,769811441313488896,12,free_agent,complete,1637899859315,2021-11-26,4,jdrobny,add,4089,Gerald Everett,TE,
+2021,769811441313488896,12,free_agent,complete,1637899859315,2021-11-26,4,jdrobny,drop,6130,Devin Singletary,RB,
 2021,769701547415588864,12,free_agent,complete,1637873658568,2021-11-25,2,Erjohnson14,add,7496,Nick Westbrook-Ikhine,WR,
 2021,769646039815901184,12,free_agent,complete,1637860424525,2021-11-25,2,Erjohnson14,add,HOU,Houston Texans,DEF,
 2021,769646039815901184,12,free_agent,complete,1637860424525,2021-11-25,2,Erjohnson14,drop,TEN,Tennessee Titans,DEF,
 2021,769358027097784320,12,free_agent,complete,1637791756942,2021-11-24,6,JSanDusky69,add,2391,David Johnson,RB,
 2021,769358027097784320,12,free_agent,complete,1637791756942,2021-11-24,6,JSanDusky69,drop,3242,Kenyan Drake,RB,
 2021,769254940685287424,12,free_agent,complete,1637767179226,2021-11-24,2,Erjohnson14,drop,6156,Benny Snell,RB,
-2021,774158378409803776,13,waiver,complete,1638936249881,2021-12-07,6,JSanDusky69,add,SEA,Seattle Seahawks,DEF,30
-2021,774158378409803776,13,waiver,complete,1638936249881,2021-12-07,6,JSanDusky69,drop,4157,Tarik Cohen,RB,
-2021,774153207009128448,13,waiver,complete,1638935016923,2021-12-07,7,KingTowsk,add,7538,Zach Wilson,QB,1
-2021,774153207009128448,13,waiver,complete,1638935016923,2021-12-07,7,KingTowsk,drop,827,Tyrod Taylor,QB,
+2021,774158378409803776,13,waiver,complete,1638936249881,2021-12-08,6,JSanDusky69,add,SEA,Seattle Seahawks,DEF,30
+2021,774158378409803776,13,waiver,complete,1638936249881,2021-12-08,6,JSanDusky69,drop,4157,Tarik Cohen,RB,
+2021,774153207009128448,13,waiver,complete,1638935016923,2021-12-08,7,KingTowsk,add,7538,Zach Wilson,QB,1
+2021,774153207009128448,13,waiver,complete,1638935016923,2021-12-08,7,KingTowsk,drop,827,Tyrod Taylor,QB,
 2021,774004291743637504,13,waiver,failed,1638899512757,2021-12-07,2,Erjohnson14,add,SEA,Seattle Seahawks,DEF,0
 2021,774003615772827648,13,waiver,failed,1638899351593,2021-12-07,9,brockhusk,add,SEA,Seattle Seahawks,DEF,0
 2021,774003615772827648,13,waiver,failed,1638899351593,2021-12-07,9,brockhusk,drop,17,Matt Prater,K,
 2021,773954808288772096,13,free_agent,complete,1638887714982,2021-12-07,4,jdrobny,drop,NYG,New York Giants,DEF,
 2021,773954590335959040,13,free_agent,complete,1638887663018,2021-12-07,4,jdrobny,drop,829,Andy Dalton,QB,
 2021,773940833849319424,13,free_agent,complete,1638884383216,2021-12-07,7,KingTowsk,drop,6039,Ty Johnson,RB,
-2021,773783721383149568,13,waiver,complete,1638846924685,2021-12-06,8,TylerWicks,add,4089,Gerald Everett,TE,30
-2021,773783721383149568,13,waiver,complete,1638846924685,2021-12-06,8,TylerWicks,drop,4131,Kenny Golladay,WR,
+2021,773783721383149568,13,waiver,complete,1638846924685,2021-12-07,8,TylerWicks,add,4089,Gerald Everett,TE,30
+2021,773783721383149568,13,waiver,complete,1638846924685,2021-12-07,8,TylerWicks,drop,4131,Kenny Golladay,WR,
 2021,773718456624361472,13,waiver,complete,1638831364354,2021-12-06,9,brockhusk,add,5110,Russell Gage,WR,30
 2021,773718456624361472,13,waiver,complete,1638831364354,2021-12-06,9,brockhusk,drop,2431,Mike Davis,RB,
 2021,773623342606462976,13,waiver,complete,1638808687405,2021-12-06,8,TylerWicks,add,956,Mark Ingram,RB,35
@@ -701,7 +701,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,773251869769441280,13,free_agent,complete,1638720121379,2021-12-05,7,KingTowsk,add,GB,Green Bay Packers,DEF,
 2021,773251869769441280,13,free_agent,complete,1638720121379,2021-12-05,7,KingTowsk,drop,7720,Kene Nwangwu,RB,
 2021,772867797842812928,13,free_agent,complete,1638628551496,2021-12-04,5,kaufmannc,add,3242,Kenyan Drake,RB,
-2021,772665955426934784,13,free_agent,complete,1638580428514,2021-12-03,2,Erjohnson14,drop,956,Mark Ingram,RB,
+2021,772665955426934784,13,free_agent,complete,1638580428514,2021-12-04,2,Erjohnson14,drop,956,Mark Ingram,RB,
 2021,772637401062440960,13,free_agent,complete,1638573620623,2021-12-03,1,bgreenblatt,add,5052,Ronald Jones,RB,
 2021,772637401062440960,13,free_agent,complete,1638573620623,2021-12-03,1,bgreenblatt,drop,3327,Alex Collins,RB,
 2021,772617056125386752,13,free_agent,complete,1638568770012,2021-12-03,2,Erjohnson14,add,4962,Sony Michel,RB,
@@ -719,17 +719,17 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,772154916868333568,13,waiver,failed,1638458587427,2021-12-02,5,kaufmannc,add,2378,Tevin Coleman,RB,10
 2021,772154916868333568,13,waiver,failed,1638458587427,2021-12-02,5,kaufmannc,drop,4034,Christian McCaffrey,RB,
 2021,772154661544316928,13,free_agent,complete,1638458526553,2021-12-02,5,kaufmannc,drop,7062,Rodrigo Blankenship,K,
-2021,771978478491963392,13,free_agent,complete,1638416521240,2021-12-01,8,TylerWicks,drop,5122,Boston Scott,RB,
-2021,771963943378857984,13,trade,complete,1638413055799,2021-12-01,8,TylerWicks,add,1689,Adam Thielen,WR,
-2021,771963943378857984,13,trade,complete,1638413055799,2021-12-01,8,TylerWicks,add,5980,Myles Gaskin,RB,
-2021,771963943378857984,13,trade,complete,1638413055799,2021-12-01,1,bgreenblatt,add,6794,Justin Jefferson,WR,
-2021,771963943378857984,13,trade,complete,1638413055799,2021-12-01,1,bgreenblatt,drop,1689,Adam Thielen,WR,
-2021,771963943378857984,13,trade,complete,1638413055799,2021-12-01,1,bgreenblatt,drop,5980,Myles Gaskin,RB,
-2021,771963943378857984,13,trade,complete,1638413055799,2021-12-01,8,TylerWicks,drop,6794,Justin Jefferson,WR,
-2021,771926414529314816,13,free_agent,complete,1638404108224,2021-12-01,7,KingTowsk,add,5272,Greg Joseph,K,
-2021,771926414529314816,13,free_agent,complete,1638404108224,2021-12-01,7,KingTowsk,drop,49,Robbie Gould,K,
-2021,771926202876284928,13,free_agent,complete,1638404057762,2021-12-01,7,KingTowsk,add,49,Robbie Gould,K,
-2021,771926202876284928,13,free_agent,complete,1638404057762,2021-12-01,7,KingTowsk,drop,650,Nick Folk,K,
+2021,771978478491963392,13,free_agent,complete,1638416521240,2021-12-02,8,TylerWicks,drop,5122,Boston Scott,RB,
+2021,771963943378857984,13,trade,complete,1638413055799,2021-12-02,8,TylerWicks,add,1689,Adam Thielen,WR,
+2021,771963943378857984,13,trade,complete,1638413055799,2021-12-02,8,TylerWicks,add,5980,Myles Gaskin,RB,
+2021,771963943378857984,13,trade,complete,1638413055799,2021-12-02,1,bgreenblatt,add,6794,Justin Jefferson,WR,
+2021,771963943378857984,13,trade,complete,1638413055799,2021-12-02,1,bgreenblatt,drop,1689,Adam Thielen,WR,
+2021,771963943378857984,13,trade,complete,1638413055799,2021-12-02,1,bgreenblatt,drop,5980,Myles Gaskin,RB,
+2021,771963943378857984,13,trade,complete,1638413055799,2021-12-02,8,TylerWicks,drop,6794,Justin Jefferson,WR,
+2021,771926414529314816,13,free_agent,complete,1638404108224,2021-12-02,7,KingTowsk,add,5272,Greg Joseph,K,
+2021,771926414529314816,13,free_agent,complete,1638404108224,2021-12-02,7,KingTowsk,drop,49,Robbie Gould,K,
+2021,771926202876284928,13,free_agent,complete,1638404057762,2021-12-02,7,KingTowsk,add,49,Robbie Gould,K,
+2021,771926202876284928,13,free_agent,complete,1638404057762,2021-12-02,7,KingTowsk,drop,650,Nick Folk,K,
 2021,771799076789481472,13,free_agent,complete,1638373748541,2021-12-01,6,JSanDusky69,add,7523,Trevor Lawrence,QB,
 2021,771798986347679744,13,free_agent,complete,1638373726978,2021-12-01,6,JSanDusky69,drop,CAR,Carolina Panthers,DEF,
 2021,771798685540564992,13,free_agent,complete,1638373655260,2021-12-01,3,MaxSirianni,add,6130,Devin Singletary,RB,
@@ -742,10 +742,10 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,771790356110020608,13,free_agent,complete,1638371669369,2021-12-01,8,TylerWicks,add,3225,Tyler Boyd,WR,
 2021,771790105269645312,13,free_agent,complete,1638371609564,2021-12-01,1,bgreenblatt,add,2319,DeVante Parker,WR,
 2021,771790105269645312,13,free_agent,complete,1638371609564,2021-12-01,1,bgreenblatt,drop,642,Golden Tate,WR,
-2021,776710127842619392,14,waiver,failed,1639544634355,2021-12-14,6,JSanDusky69,add,6943,Gabe Davis,WR,0
-2021,776710014193795072,14,waiver,complete,1639544607259,2021-12-14,6,JSanDusky69,add,830,A.J. Green,WR,0
-2021,776707924096561152,14,free_agent,complete,1639544108941,2021-12-14,4,jdrobny,drop,CAR,Carolina Panthers,DEF,
-2021,776707549763338240,14,free_agent,complete,1639544019693,2021-12-14,4,jdrobny,drop,3163,Jared Goff,QB,
+2021,776710127842619392,14,waiver,failed,1639544634355,2021-12-15,6,JSanDusky69,add,6943,Gabe Davis,WR,0
+2021,776710014193795072,14,waiver,complete,1639544607259,2021-12-15,6,JSanDusky69,add,830,A.J. Green,WR,0
+2021,776707924096561152,14,free_agent,complete,1639544108941,2021-12-15,4,jdrobny,drop,CAR,Carolina Panthers,DEF,
+2021,776707549763338240,14,free_agent,complete,1639544019693,2021-12-15,4,jdrobny,drop,3163,Jared Goff,QB,
 2021,776633276415787008,14,waiver,complete,1639526311547,2021-12-14,10,cc5597,add,391,Ryan Succop,K,1
 2021,776633276415787008,14,waiver,complete,1639526311547,2021-12-14,10,cc5597,drop,5095,Daniel Carlson,K,
 2021,776570959028203520,14,waiver,complete,1639511453924,2021-12-14,9,brockhusk,add,5046,Royce Freeman,RB,20
@@ -766,8 +766,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,775803249814093824,14,free_agent,complete,1639328417784,2021-12-12,6,JSanDusky69,add,4171,Josh Reynolds,WR,
 2021,775802882804240384,14,free_agent,complete,1639328330282,2021-12-12,7,KingTowsk,add,7599,Jermar Jefferson,RB,
 2021,775802882804240384,14,free_agent,complete,1639328330282,2021-12-12,7,KingTowsk,drop,3209,Devontae Booker,RB,
-2021,775619871454195712,14,waiver,complete,1639284696976,2021-12-11,1,bgreenblatt,add,2359,Ameer Abdullah,RB,0
-2021,775619871454195712,14,waiver,complete,1639284696976,2021-12-11,1,bgreenblatt,drop,6039,Ty Johnson,RB,
+2021,775619871454195712,14,waiver,complete,1639284696976,2021-12-12,1,bgreenblatt,add,2359,Ameer Abdullah,RB,0
+2021,775619871454195712,14,waiver,complete,1639284696976,2021-12-12,1,bgreenblatt,drop,6039,Ty Johnson,RB,
 2021,775513301084925952,14,free_agent,complete,1639259288620,2021-12-11,9,brockhusk,add,5284,Jeff Wilson,RB,
 2021,775513301084925952,14,free_agent,complete,1639259288620,2021-12-11,9,brockhusk,drop,391,Ryan Succop,K,
 2021,775145534917881856,14,free_agent,complete,1639171606333,2021-12-10,1,bgreenblatt,add,6039,Ty Johnson,RB,
@@ -777,8 +777,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,775141243780014080,14,free_agent,complete,1639170583246,2021-12-10,4,jdrobny,add,3163,Jared Goff,QB,
 2021,775136661486022656,14,free_agent,complete,1639169490742,2021-12-10,10,cc5597,add,4131,Kenny Golladay,WR,
 2021,775136661486022656,14,free_agent,complete,1639169490742,2021-12-10,10,cc5597,drop,5917,Mecole Hardman,WR,
-2021,774829424536469504,14,free_agent,complete,1639096239745,2021-12-09,8,TylerWicks,add,5086,Marquez Valdes-Scantling,WR,
-2021,774829010076221440,14,free_agent,complete,1639096140930,2021-12-09,8,TylerWicks,drop,928,Randall Cobb,WR,
+2021,774829424536469504,14,free_agent,complete,1639096239745,2021-12-10,8,TylerWicks,add,5086,Marquez Valdes-Scantling,WR,
+2021,774829010076221440,14,free_agent,complete,1639096140930,2021-12-10,8,TylerWicks,drop,928,Randall Cobb,WR,
 2021,774802294276485120,14,free_agent,complete,1639089771387,2021-12-09,8,TylerWicks,add,7066,K.J. Osborn,WR,
 2021,774659676540440576,14,free_agent,complete,1639055768669,2021-12-09,3,MaxSirianni,add,7496,Nick Westbrook-Ikhine,WR,
 2021,774659676540440576,14,free_agent,complete,1639055768669,2021-12-09,3,MaxSirianni,drop,7608,Khalil Herbert,RB,
@@ -798,13 +798,13 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,774302591952760832,14,free_agent,complete,1638970633069,2021-12-08,8,TylerWicks,add,TEN,Tennessee Titans,DEF,
 2021,774302591952760832,14,free_agent,complete,1638970633069,2021-12-08,8,TylerWicks,drop,TB,Tampa Bay Buccaneers,DEF,
 2021,774301521239203840,14,free_agent,complete,1638970377791,2021-12-08,2,Erjohnson14,add,NO,New Orleans Saints,DEF,
-2021,779223742328016896,15,waiver,complete,1640143926749,2021-12-21,4,jdrobny,add,5110,Russell Gage,WR,10
-2021,779223742328016896,15,waiver,complete,1640143926749,2021-12-21,4,jdrobny,drop,4089,Gerald Everett,TE,
-2021,779223383551373312,15,waiver,complete,1640143841210,2021-12-21,4,jdrobny,add,NYJ,New York Jets,DEF,1
-2021,779223383551373312,15,waiver,complete,1640143841210,2021-12-21,4,jdrobny,drop,5127,Kyle Allen,QB,
+2021,779223742328016896,15,waiver,complete,1640143926749,2021-12-22,4,jdrobny,add,5110,Russell Gage,WR,10
+2021,779223742328016896,15,waiver,complete,1640143926749,2021-12-22,4,jdrobny,drop,4089,Gerald Everett,TE,
+2021,779223383551373312,15,waiver,complete,1640143841210,2021-12-22,4,jdrobny,add,NYJ,New York Jets,DEF,1
+2021,779223383551373312,15,waiver,complete,1640143841210,2021-12-22,4,jdrobny,drop,5127,Kyle Allen,QB,
 2021,779163254961541120,15,waiver,complete,1640129505437,2021-12-21,7,KingTowsk,add,6943,Gabe Davis,WR,0
 2021,779163254961541120,15,waiver,complete,1640129505437,2021-12-21,7,KingTowsk,drop,2410,Jamison Crowder,WR,
-2021,778810923526959104,15,free_agent,complete,1640045503077,2021-12-20,6,JSanDusky69,drop,5870,Daniel Jones,QB,
+2021,778810923526959104,15,free_agent,complete,1640045503077,2021-12-21,6,JSanDusky69,drop,5870,Daniel Jones,QB,
 2021,778421669269565440,15,free_agent,complete,1639952697630,2021-12-19,4,jdrobny,add,5127,Kyle Allen,QB,
 2021,778421669269565440,15,free_agent,complete,1639952697630,2021-12-19,4,jdrobny,drop,538,Emmanuel Sanders,WR,
 2021,778396049797939200,15,free_agent,complete,1639946589472,2021-12-19,1,bgreenblatt,add,6011,Gardner Minshew,QB,
@@ -812,14 +812,14 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,778387995329265664,15,free_agent,complete,1639944669137,2021-12-19,6,JSanDusky69,drop,3200,Sterling Shepard,WR,
 2021,778343033346551808,15,free_agent,complete,1639933949365,2021-12-19,7,KingTowsk,add,5284,Jeff Wilson,RB,
 2021,778343033346551808,15,free_agent,complete,1639933949365,2021-12-19,7,KingTowsk,drop,1992,Allen Robinson,WR,
-2021,778147656924082176,15,free_agent,complete,1639887367996,2021-12-18,4,jdrobny,add,4089,Gerald Everett,TE,
-2021,777378645810573312,15,free_agent,complete,1639704021459,2021-12-16,4,jdrobny,add,LV,Las Vegas Raiders,DEF,
+2021,778147656924082176,15,free_agent,complete,1639887367996,2021-12-19,4,jdrobny,add,4089,Gerald Everett,TE,
+2021,777378645810573312,15,free_agent,complete,1639704021459,2021-12-17,4,jdrobny,add,LV,Las Vegas Raiders,DEF,
 2021,777209001443246080,15,free_agent,complete,1639663575090,2021-12-16,7,KingTowsk,add,7601,Rondale Moore,WR,
 2021,777209001443246080,15,free_agent,complete,1639663575090,2021-12-16,7,KingTowsk,drop,1426,DeAndre Hopkins,WR,
-2021,777011269692727296,15,free_agent,complete,1639616432167,2021-12-15,8,TylerWicks,add,1266,Greg Zuerlein,K,
-2021,777011241154703360,15,free_agent,complete,1639616425363,2021-12-15,8,TylerWicks,drop,7839,Evan McPherson,K,
-2021,777011064838725632,15,free_agent,complete,1639616383326,2021-12-15,8,TylerWicks,drop,4089,Gerald Everett,TE,
-2021,777010570036625408,15,free_agent,complete,1639616265356,2021-12-15,8,TylerWicks,drop,5086,Marquez Valdes-Scantling,WR,
+2021,777011269692727296,15,free_agent,complete,1639616432167,2021-12-16,8,TylerWicks,add,1266,Greg Zuerlein,K,
+2021,777011241154703360,15,free_agent,complete,1639616425363,2021-12-16,8,TylerWicks,drop,7839,Evan McPherson,K,
+2021,777011064838725632,15,free_agent,complete,1639616383326,2021-12-16,8,TylerWicks,drop,4089,Gerald Everett,TE,
+2021,777010570036625408,15,free_agent,complete,1639616265356,2021-12-16,8,TylerWicks,drop,5086,Marquez Valdes-Scantling,WR,
 2021,776835012032110592,15,free_agent,complete,1639574409066,2021-12-15,7,KingTowsk,add,7083,Tyler Huntley,QB,
 2021,776835012032110592,15,free_agent,complete,1639574409066,2021-12-15,7,KingTowsk,drop,7538,Zach Wilson,QB,
 2021,776834426918268928,15,free_agent,complete,1639574269565,2021-12-15,7,KingTowsk,add,650,Nick Folk,K,
@@ -828,7 +828,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,781621281794752512,16,waiver,complete,1640715544702,2021-12-28,6,JSanDusky69,add,CHI,Chicago Bears,DEF,30
 2021,781621281794752512,16,waiver,complete,1640715544702,2021-12-28,6,JSanDusky69,drop,4171,Josh Reynolds,WR,
 2021,781620081766596608,16,free_agent,complete,1640715258593,2021-12-28,6,JSanDusky69,drop,6955,James Robinson,RB,
-2021,781346069287391232,16,waiver,complete,1640649928927,2021-12-27,1,bgreenblatt,add,7610,Trey Lance,QB,0
+2021,781346069287391232,16,waiver,complete,1640649928927,2021-12-28,1,bgreenblatt,add,7610,Trey Lance,QB,0
 2021,781316325296431104,16,waiver,failed,1640642837407,2021-12-27,4,jdrobny,add,CHI,Chicago Bears,DEF,0
 2021,781316325296431104,16,waiver,failed,1640642837407,2021-12-27,4,jdrobny,drop,LV,Las Vegas Raiders,DEF,
 2021,781315353820217344,16,waiver,complete,1640642605789,2021-12-27,4,jdrobny,add,5122,Boston Scott,RB,8
@@ -838,7 +838,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,780541691232124928,16,free_agent,complete,1640458150254,2021-12-25,7,KingTowsk,add,2711,Taylor Heinicke,QB,
 2021,780541691232124928,16,free_agent,complete,1640458150254,2021-12-25,7,KingTowsk,drop,7083,Tyler Huntley,QB,
 2021,780146639942905856,16,free_agent,complete,1640363962687,2021-12-24,7,KingTowsk,add,2460,C.J. Uzomah,TE,
-2021,779902114842570752,16,free_agent,complete,1640305663360,2021-12-23,1,bgreenblatt,drop,7606,Kadarius Toney,WR,
+2021,779902114842570752,16,free_agent,complete,1640305663360,2021-12-24,1,bgreenblatt,drop,7606,Kadarius Toney,WR,
 2021,779805803384307712,16,free_agent,complete,1640282700919,2021-12-23,4,jdrobny,add,5131,Justin Jackson,RB,
 2021,779415947445452800,16,free_agent,complete,1640189752020,2021-12-22,6,JSanDusky69,add,4195,Jake Elliott,K,
 2021,779410770952835072,16,free_agent,complete,1640188517848,2021-12-22,7,KingTowsk,add,5095,Daniel Carlson,K,
@@ -846,7 +846,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2021,779410603163938816,16,free_agent,complete,1640188477844,2021-12-22,7,KingTowsk,drop,7601,Rondale Moore,WR,
 2021,779410543810363392,16,free_agent,complete,1640188463693,2021-12-22,7,KingTowsk,drop,5272,Greg Joseph,K,
 2021,779374830351953920,16,free_agent,complete,1640179948941,2021-12-22,1,bgreenblatt,drop,6011,Gardner Minshew,QB,
-2021,784311499333173248,17,free_agent,complete,1641356942545,2022-01-04,1,bgreenblatt,drop,536,Antonio Brown,WR,
+2021,784311499333173248,17,free_agent,complete,1641356942545,2022-01-05,1,bgreenblatt,drop,536,Antonio Brown,WR,
 2021,781952140150243328,17,free_agent,complete,1640794427481,2021-12-29,4,jdrobny,add,CLE,Cleveland Browns,DEF,
 2021,781952106730020864,17,free_agent,complete,1640794419513,2021-12-29,4,jdrobny,drop,5122,Boston Scott,RB,
 2021,781952074576420864,17,free_agent,complete,1640794411847,2021-12-29,4,jdrobny,drop,LV,Las Vegas Raiders,DEF,
