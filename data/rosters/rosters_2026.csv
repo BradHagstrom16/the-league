@@ -19,7 +19,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2026,2,Erjohnson14,The TrashMen,12507,Omarion Hampton,RB,LAC,bench
 2026,2,Erjohnson14,The TrashMen,1466,Travis Kelce,TE,KC,bench
 2026,2,Erjohnson14,The TrashMen,2307,Marcus Mariota,QB,WAS,bench
-2026,2,Erjohnson14,The TrashMen,2449,Stefon Diggs,WR,,starter
+2026,2,Erjohnson14,The TrashMen,2449,Stefon Diggs,WR,WAS,starter
 2026,2,Erjohnson14,The TrashMen,3451,Ka'imi Fairbairn,K,HOU,starter
 2026,2,Erjohnson14,The TrashMen,5859,A.J. Brown,WR,NE,starter
 2026,2,Erjohnson14,The TrashMen,7049,Jauan Jennings,WR,MIN,bench
@@ -59,7 +59,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2026,4,jdrobny,Stick em up,6797,Justin Herbert,QB,LAC,starter
 2026,4,jdrobny,Stick em up,7611,Rhamondre Stevenson,RB,NE,bench
 2026,4,jdrobny,Stick em up,7839,Evan McPherson,K,CIN,starter
-2026,4,jdrobny,Stick em up,9220,Evan Hull,RB,HOU,starter
+2026,4,jdrobny,Stick em up,9220,Evan Hull,RB,ARI,starter
 2026,4,jdrobny,Stick em up,9500,Josh Downs,WR,IND,bench
 2026,4,jdrobny,Stick em up,9508,Tyjae Spears,RB,TEN,bench
 2026,4,jdrobny,Stick em up,9754,Quentin Johnston,WR,LAC,starter
