@@ -1769,9 +1769,27 @@
    "round": 6
   },
   {
+   "user_id": "865793938542456832",
+   "name": "Beaut",
+   "player_name": "Travis Etienne",
+   "round": 6
+  },
+  {
+   "user_id": "710284244835979264",
+   "name": "B-Husk",
+   "player_name": "Rome Odunze",
+   "round": 6
+  },
+  {
    "user_id": "608781531883859968",
    "name": "Benny G",
    "player_name": "Emeka Egbuka",
+   "round": 7
+  },
+  {
+   "user_id": "737091087440674816",
+   "name": "Siri",
+   "player_name": "Tyler Warren",
    "round": 7
   },
   {
@@ -1803,6 +1821,12 @@
    "name": "Benny G",
    "player_name": "Jaxson Dart",
    "round": 10
+  },
+  {
+   "user_id": "737091087440674816",
+   "name": "Siri",
+   "player_name": "Sam Darnold",
+   "round": 11
   },
   {
    "user_id": "736740647758938112",

@@ -18,7 +18,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,1,bgreenblatt,Ellis is a homo,IND,Indianapolis Colts,DEF,IND,starter
 2021,1,bgreenblatt,Ellis is a homo,SF,San Francisco 49ers,DEF,SF,bench
 2021,2,Erjohnson14,Ben choked ,1837,Jimmy Garoppolo,QB,,starter
-2021,2,Erjohnson14,Ben choked ,2152,Teddy Bridgewater,QB,DET,bench
+2021,2,Erjohnson14,Ben choked ,2152,Teddy Bridgewater,QB,,bench
 2021,2,Erjohnson14,Ben choked ,4046,Patrick Mahomes,QB,KC,starter
 2021,2,Erjohnson14,Ben choked ,4866,Saquon Barkley,RB,PHI,bench
 2021,2,Erjohnson14,Ben choked ,4962,Sony Michel,RB,,bench
@@ -40,7 +40,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,3,MaxSirianni,Brad can you Diggs it?,1110,T.Y. Hilton,WR,,bench
 2021,3,MaxSirianni,Brad can you Diggs it?,1234,Russell Wilson,QB,,starter
 2021,3,MaxSirianni,Brad can you Diggs it?,1535,Cordarrelle Patterson,RB,,starter
-2021,3,MaxSirianni,Brad can you Diggs it?,2449,Stefon Diggs,WR,,starter
+2021,3,MaxSirianni,Brad can you Diggs it?,2449,Stefon Diggs,WR,WAS,starter
 2021,3,MaxSirianni,Brad can you Diggs it?,3161,Carson Wentz,QB,MIN,starter
 2021,3,MaxSirianni,Brad can you Diggs it?,4029,Dalvin Cook,RB,,starter
 2021,3,MaxSirianni,Brad can you Diggs it?,4068,Mike Williams,WR,,starter
@@ -180,7 +180,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,10,cc5597,No Punt Intended,6770,Joe Burrow,QB,CIN,starter
 2021,10,cc5597,No Punt Intended,6801,Tee Higgins,WR,CIN,starter
 2021,10,cc5597,No Punt Intended,7090,Darnell Mooney,WR,NYG,starter
-2021,10,cc5597,No Punt Intended,7561,Elijah Mitchell,RB,PHI,starter
+2021,10,cc5597,No Punt Intended,7561,Elijah Mitchell,RB,,starter
 2021,10,cc5597,No Punt Intended,7611,Rhamondre Stevenson,RB,NE,bench
 2021,10,cc5597,No Punt Intended,DAL,Dallas Cowboys,DEF,DAL,starter
 2021,10,cc5597,No Punt Intended,MIA,Miami Dolphins,DEF,MIA,bench

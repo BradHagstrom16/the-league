@@ -17,7 +17,9 @@ import json
 import time
 import urllib.error
 import urllib.request
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 # The 2026 season of The League. Everything else is discovered by walking
 # previous_league_id, so only this ID needs updating each new season.
@@ -33,7 +35,21 @@ API = "https://api.sleeper.app/v1"
 # each season's playoff_week_start rather than assuming a fixed schedule.
 MAX_WEEK = 18
 
+# Sleeper timestamps are epoch ms. Rendering them against the runner's clock
+# made every date depend on where the pull ran: Actions is UTC, a laptop is
+# not. The league drafts and trades in the evening Central, which is the next
+# day in UTC, so an unpinned clock moved dates a day and flipped them back on
+# the next run. Pin to the league's own clock.
+LEAGUE_TZ = ZoneInfo("America/Chicago")
+
 errors = []
+
+
+def league_date(ms):
+    """Epoch ms -> YYYY-MM-DD on the league's clock ("" when ms is missing)."""
+    if not ms:
+        return ""
+    return datetime.fromtimestamp(ms / 1000, LEAGUE_TZ).strftime("%Y-%m-%d")
 
 
 def note_error(ctx, exc):
@@ -624,8 +640,7 @@ def pull_transactions(seasons, players):
                     # cannot distinguish a June drop from a week-1 drop. The
                     # created timestamp can.
                     cms = tx.get("created")
-                    cdate = (time.strftime("%Y-%m-%d", time.localtime(cms / 1000))
-                             if cms else "")
+                    cdate = league_date(cms)
                     for action, mapping in (("add", tx.get("adds")), ("drop", tx.get("drops"))):
                         for pid, rid in (mapping or {}).items():
                             t = idx.get(rid, {})
@@ -707,8 +722,7 @@ def pull_settings(seasons):
             "playoff_week_start": s.get("playoff_week_start", ""),
             "playoff_seed_type": s.get("playoff_seed_type", ""),
             "draft_start_ms": (lg.get("_draft_start") or ""),
-            "draft_date": (time.strftime("%Y-%m-%d", time.localtime(lg["_draft_start"] / 1000))
-                           if lg.get("_draft_start") else ""),
+            "draft_date": league_date(lg.get("_draft_start")),
             "waiver_budget": s.get("waiver_budget", ""),
             "trade_deadline": s.get("trade_deadline", ""),
             "roster_positions": "|".join(lg.get("roster_positions") or []),

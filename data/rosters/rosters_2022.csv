@@ -1,7 +1,7 @@
 season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,1,bgreenblatt,Taylor Park Boys,1466,Travis Kelce,TE,KC,starter
 2022,1,bgreenblatt,Taylor Park Boys,2216,Mike Evans,WR,SF,starter
-2022,1,bgreenblatt,Taylor Park Boys,2449,Stefon Diggs,WR,,starter
+2022,1,bgreenblatt,Taylor Park Boys,2449,Stefon Diggs,WR,WAS,starter
 2022,1,bgreenblatt,Taylor Park Boys,4866,Saquon Barkley,RB,PHI,starter
 2022,1,bgreenblatt,Taylor Park Boys,4881,Lamar Jackson,QB,BAL,bench
 2022,1,bgreenblatt,Taylor Park Boys,503,Graham Gano,K,,starter
@@ -146,7 +146,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,9,brockhusk,Super Flex Offenders ,SF,San Francisco 49ers,DEF,SF,starter
 2022,10,cc5597,The Bengalphin Boys,1535,Cordarrelle Patterson,RB,,bench
 2022,10,cc5597,The Bengalphin Boys,1689,Adam Thielen,WR,,bench
-2022,10,cc5597,The Bengalphin Boys,2152,Teddy Bridgewater,QB,DET,bench
+2022,10,cc5597,The Bengalphin Boys,2152,Teddy Bridgewater,QB,,bench
 2022,10,cc5597,The Bengalphin Boys,3164,Ezekiel Elliott,RB,,starter
 2022,10,cc5597,The Bengalphin Boys,3294,Dak Prescott,QB,DAL,starter
 2022,10,cc5597,The Bengalphin Boys,3321,Tyreek Hill,WR,,starter

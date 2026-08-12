@@ -4,8 +4,11 @@ on:
   push:
     branches: [main]
   schedule:
-    # Tuesdays 14:00 UTC (~9am ET), September–January: after MNF stats settle.
-    - cron: "0 14 * 9-12,1 2"
+    # Tuesdays 14:00 UTC (~9am ET), August–January. September on is in-season,
+    # timed after MNF stats settle. August is keeper-declaration and pre-draft
+    # season, when the board moves weekly but the monthly keepalive alone left
+    # it stale for weeks at a stretch.
+    - cron: "0 14 * 8-12,1 2"
     # Monthly keepalive year-round, so scheduled workflows don't get disabled.
     - cron: "0 14 1 * *"
 permissions:
