@@ -1,20 +1,20 @@
 season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
-2026,1,bgreenblatt,Young and Beautiful ,11533,Brandon Aubrey,K,DAL,starter
-2026,1,bgreenblatt,Young and Beautiful ,11588,Jawhar Jordan,RB,HOU,bench
-2026,1,bgreenblatt,Young and Beautiful ,11647,Kimani Vidal,RB,LAC,bench
-2026,1,bgreenblatt,Young and Beautiful ,12508,Jaxson Dart,QB,NYG,starter
-2026,1,bgreenblatt,Young and Beautiful ,12514,Emeka Egbuka,WR,TB,starter
-2026,1,bgreenblatt,Young and Beautiful ,12526,Tetairoa McMillan,WR,CAR,starter
-2026,1,bgreenblatt,Young and Beautiful ,3257,Jacoby Brissett,QB,ARI,starter
-2026,1,bgreenblatt,Young and Beautiful ,6803,Brandon Aiyuk,WR,SF,bench
-2026,1,bgreenblatt,Young and Beautiful ,7021,Rico Dowdle,RB,PIT,starter
-2026,1,bgreenblatt,Young and Beautiful ,7594,Chuba Hubbard,RB,CAR,bench
-2026,1,bgreenblatt,Young and Beautiful ,8112,Drake London,WR,ATL,starter
-2026,1,bgreenblatt,Young and Beautiful ,8130,Trey McBride,TE,ARI,starter
-2026,1,bgreenblatt,Young and Beautiful ,8131,Isaiah Likely,TE,NYG,bench
-2026,1,bgreenblatt,Young and Beautiful ,8151,Kenneth Walker,RB,KC,starter
-2026,1,bgreenblatt,Young and Beautiful ,9228,Bryce Young,QB,CAR,bench
-2026,1,bgreenblatt,Young and Beautiful ,TEN,Tennessee Titans,DEF,TEN,starter
+2026,1,bgreenblatt,bgreenblatt,11533,Brandon Aubrey,K,DAL,starter
+2026,1,bgreenblatt,bgreenblatt,11588,Jawhar Jordan,RB,HOU,bench
+2026,1,bgreenblatt,bgreenblatt,11647,Kimani Vidal,RB,LAC,bench
+2026,1,bgreenblatt,bgreenblatt,12508,Jaxson Dart,QB,NYG,starter
+2026,1,bgreenblatt,bgreenblatt,12514,Emeka Egbuka,WR,TB,starter
+2026,1,bgreenblatt,bgreenblatt,12526,Tetairoa McMillan,WR,CAR,starter
+2026,1,bgreenblatt,bgreenblatt,3257,Jacoby Brissett,QB,ARI,starter
+2026,1,bgreenblatt,bgreenblatt,6803,Brandon Aiyuk,WR,SF,bench
+2026,1,bgreenblatt,bgreenblatt,7021,Rico Dowdle,RB,PIT,starter
+2026,1,bgreenblatt,bgreenblatt,7594,Chuba Hubbard,RB,CAR,bench
+2026,1,bgreenblatt,bgreenblatt,8112,Drake London,WR,ATL,starter
+2026,1,bgreenblatt,bgreenblatt,8130,Trey McBride,TE,ARI,starter
+2026,1,bgreenblatt,bgreenblatt,8131,Isaiah Likely,TE,NYG,bench
+2026,1,bgreenblatt,bgreenblatt,8151,Kenneth Walker,RB,KC,starter
+2026,1,bgreenblatt,bgreenblatt,9228,Bryce Young,QB,CAR,bench
+2026,1,bgreenblatt,bgreenblatt,TEN,Tennessee Titans,DEF,TEN,starter
 2026,2,Erjohnson14,The TrashMen,12474,Woody Marks,RB,HOU,bench
 2026,2,Erjohnson14,The TrashMen,12507,Omarion Hampton,RB,LAC,bench
 2026,2,Erjohnson14,The TrashMen,1466,Travis Kelce,TE,KC,bench
@@ -151,7 +151,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2026,10,cc5597,Baby Dak Gibbs,11627,Troy Franklin,WR,DEN,bench
 2026,10,cc5597,Baby Dak Gibbs,11655,Tyrone Tracy,RB,NYG,bench
 2026,10,cc5597,Baby Dak Gibbs,12545,Tyler Shough,QB,NO,bench
-2026,10,cc5597,Baby Dak Gibbs,1479,Keenan Allen,WR,,bench
+2026,10,cc5597,Baby Dak Gibbs,1479,Keenan Allen,WR,IND,bench
 2026,10,cc5597,Baby Dak Gibbs,2216,Mike Evans,WR,SF,starter
 2026,10,cc5597,Baby Dak Gibbs,3214,Hunter Henry,TE,NE,starter
 2026,10,cc5597,Baby Dak Gibbs,3294,Dak Prescott,QB,DAL,starter

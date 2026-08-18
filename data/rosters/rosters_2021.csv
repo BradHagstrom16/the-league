@@ -78,7 +78,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,5,kaufmannc,Cleveland Steamers,1144,Cole Beasley,WR,,starter
 2021,5,kaufmannc,Cleveland Steamers,1166,Kirk Cousins,QB,LV,starter
 2021,5,kaufmannc,Cleveland Steamers,1348,Dustin Hopkins,K,,starter
-2021,5,kaufmannc,Cleveland Steamers,1479,Keenan Allen,WR,,starter
+2021,5,kaufmannc,Cleveland Steamers,1479,Keenan Allen,WR,IND,starter
 2021,5,kaufmannc,Cleveland Steamers,3294,Dak Prescott,QB,DAL,starter
 2021,5,kaufmannc,Cleveland Steamers,4351,Tim Patrick,WR,NYJ,bench
 2021,5,kaufmannc,Cleveland Steamers,4455,Matt Breida,RB,,bench
@@ -133,7 +133,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,8,TylerWicks,Opted Out,1689,Adam Thielen,WR,,starter
 2021,8,TylerWicks,Opted Out,2028,Derek Carr,QB,,starter
 2021,8,TylerWicks,Opted Out,2374,Tyler Lockett,WR,,starter
-2021,8,TylerWicks,Opted Out,2505,Darren Waller,TE,,bench
+2021,8,TylerWicks,Opted Out,2505,Darren Waller,TE,CAR,bench
 2021,8,TylerWicks,Opted Out,3225,Tyler Boyd,WR,,bench
 2021,8,TylerWicks,Opted Out,3664,J.D. McKissic,RB,,ir
 2021,8,TylerWicks,Opted Out,4199,Aaron Jones,RB,MIN,starter

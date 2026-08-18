@@ -1,7 +1,7 @@
 season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,1,bgreenblatt,Taylor Park Boys,11533,Brandon Aubrey,K,DAL,starter
-2023,1,bgreenblatt,Taylor Park Boys,1479,Keenan Allen,WR,,ir
-2023,1,bgreenblatt,Taylor Park Boys,2505,Darren Waller,TE,,starter
+2023,1,bgreenblatt,Taylor Park Boys,1479,Keenan Allen,WR,IND,ir
+2023,1,bgreenblatt,Taylor Park Boys,2505,Darren Waller,TE,CAR,starter
 2023,1,bgreenblatt,Taylor Park Boys,4035,Alvin Kamara,RB,NO,starter
 2023,1,bgreenblatt,Taylor Park Boys,559,Tim Tebow,TE,,bench
 2023,1,bgreenblatt,Taylor Park Boys,5849,Kyler Murray,QB,MIN,starter
@@ -105,7 +105,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,7,KingTowsk,Leeroy Jenkins,6819,Michael Pittman,WR,PIT,starter
 2023,7,KingTowsk,Leeroy Jenkins,7526,Jaylen Waddle,WR,DEN,ir
 2023,7,KingTowsk,Leeroy Jenkins,7588,Javonte Williams,RB,DAL,starter
-2023,7,KingTowsk,Leeroy Jenkins,8139,Zamir White,RB,,bench
+2023,7,KingTowsk,Leeroy Jenkins,8139,Zamir White,RB,SF,bench
 2023,7,KingTowsk,Leeroy Jenkins,8143,Jerome Ford,RB,WAS,bench
 2023,7,KingTowsk,Leeroy Jenkins,9226,De'Von Achane,RB,MIA,starter
 2023,7,KingTowsk,Leeroy Jenkins,9486,Dontayvion Wicks,WR,PHI,bench
@@ -147,7 +147,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,10,cc5597,Bill Ninerkingz,2449,Stefon Diggs,WR,WAS,starter
 2023,10,cc5597,Bill Ninerkingz,4037,Chris Godwin,WR,TB,bench
 2023,10,cc5597,Bill Ninerkingz,4217,George Kittle,TE,SF,starter
-2023,10,cc5597,Bill Ninerkingz,4234,Noah Brown,WR,,bench
+2023,10,cc5597,Bill Ninerkingz,4234,Noah Brown,WR,LV,bench
 2023,10,cc5597,Bill Ninerkingz,5045,Courtland Sutton,WR,DEN,bench
 2023,10,cc5597,Bill Ninerkingz,5987,Alexander Mattison,RB,,bench
 2023,10,cc5597,Bill Ninerkingz,7042,Tyler Bass,K,BUF,starter

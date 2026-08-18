@@ -82,7 +82,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,5,kaufmannc,Mar-a-lago Raiders ,DAL,Dallas Cowboys,DEF,DAL,starter
 2022,6,JSanDusky69,2 Girls 0 Kupps,2161,Jerick McKinnon,RB,,starter
 2022,6,JSanDusky69,2 Girls 0 Kupps,2374,Tyler Lockett,WR,,bench
-2022,6,JSanDusky69,2 Girls 0 Kupps,2505,Darren Waller,TE,,starter
+2022,6,JSanDusky69,2 Girls 0 Kupps,2505,Darren Waller,TE,CAR,starter
 2022,6,JSanDusky69,2 Girls 0 Kupps,4035,Alvin Kamara,RB,NO,starter
 2022,6,JSanDusky69,2 Girls 0 Kupps,4040,JuJu Smith-Schuster,WR,NYG,starter
 2022,6,JSanDusky69,2 Girls 0 Kupps,4137,James Conner,RB,ARI,starter
@@ -112,7 +112,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,7,KingTowsk,Leeroy Jenkins,8167,Christian Watson,WR,GB,starter
 2022,7,KingTowsk,Leeroy Jenkins,8205,Isiah Pacheco,RB,DET,starter
 2022,7,KingTowsk,Leeroy Jenkins,PHI,Philadelphia Eagles,DEF,PHI,starter
-2022,8,TylerWicks,Sick of Gesicki,1479,Keenan Allen,WR,,starter
+2022,8,TylerWicks,Sick of Gesicki,1479,Keenan Allen,WR,IND,starter
 2022,8,TylerWicks,Sick of Gesicki,2028,Derek Carr,QB,,starter
 2022,8,TylerWicks,Sick of Gesicki,2711,Taylor Heinicke,QB,,starter
 2022,8,TylerWicks,Sick of Gesicki,3969,Leonard Fournette,RB,,bench
@@ -158,6 +158,6 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,10,cc5597,The Bengalphin Boys,6828,AJ Dillon,RB,CAR,bench
 2022,10,cc5597,The Bengalphin Boys,7526,Jaylen Waddle,WR,DEN,starter
 2022,10,cc5597,The Bengalphin Boys,7600,Pat Freiermuth,TE,PIT,starter
-2022,10,cc5597,The Bengalphin Boys,8123,Hassan Haskins,RB,,bench
+2022,10,cc5597,The Bengalphin Boys,8123,Hassan Haskins,RB,NE,bench
 2022,10,cc5597,The Bengalphin Boys,8155,Breece Hall,RB,NYJ,ir
 2022,10,cc5597,The Bengalphin Boys,LAC,Los Angeles Chargers,DEF,LAC,starter
