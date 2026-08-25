@@ -40,7 +40,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,3,MaxSirianni,I hate Joe Burrow,5872,Deebo Samuel,WR,SF,starter
 2023,3,MaxSirianni,I hate Joe Burrow,6111,Jake Browning,QB,TB,bench
 2023,3,MaxSirianni,I hate Joe Burrow,7523,Trevor Lawrence,QB,JAX,starter
-2023,3,MaxSirianni,I hate Joe Burrow,7528,Najee Harris,RB,,bench
+2023,3,MaxSirianni,I hate Joe Burrow,7528,Najee Harris,RB,NYG,bench
 2023,3,MaxSirianni,I hate Joe Burrow,7564,Ja'Marr Chase,WR,CIN,bench
 2023,3,MaxSirianni,I hate Joe Burrow,7839,Evan McPherson,K,CIN,starter
 2023,3,MaxSirianni,I hate Joe Burrow,9500,Josh Downs,WR,IND,bench
@@ -66,7 +66,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,5,kaufmannc,London Has Fallen,10859,Sam LaPorta,TE,DET,starter
 2023,5,kaufmannc,London Has Fallen,1426,DeAndre Hopkins,WR,,starter
 2023,5,kaufmannc,London Has Fallen,4018,Joe Mixon,RB,,starter
-2023,5,kaufmannc,London Has Fallen,4080,Zay Jones,WR,,bench
+2023,5,kaufmannc,London Has Fallen,4080,Zay Jones,WR,HOU,bench
 2023,5,kaufmannc,London Has Fallen,4950,Christian Kirk,WR,SF,ir
 2023,5,kaufmannc,London Has Fallen,5119,Jason Sanders,K,NYJ,starter
 2023,5,kaufmannc,London Has Fallen,5854,Drew Lock,QB,SEA,bench
@@ -96,7 +96,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,6,JSanDusky69,Tua Girls One Kupp,8155,Breece Hall,RB,NYJ,starter
 2023,6,JSanDusky69,Tua Girls One Kupp,DEN,Denver Broncos,DEF,DEN,starter
 2023,7,KingTowsk,Leeroy Jenkins,10222,Jayden Reed,WR,GB,starter
-2023,7,KingTowsk,Leeroy Jenkins,10937,Jake Moody,K,WAS,starter
+2023,7,KingTowsk,Leeroy Jenkins,10937,Jake Moody,K,,starter
 2023,7,KingTowsk,Leeroy Jenkins,1466,Travis Kelce,TE,KC,starter
 2023,7,KingTowsk,Leeroy Jenkins,3321,Tyreek Hill,WR,,starter
 2023,7,KingTowsk,Leeroy Jenkins,4199,Aaron Jones,RB,MIN,starter
@@ -105,7 +105,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,7,KingTowsk,Leeroy Jenkins,6819,Michael Pittman,WR,PIT,starter
 2023,7,KingTowsk,Leeroy Jenkins,7526,Jaylen Waddle,WR,DEN,ir
 2023,7,KingTowsk,Leeroy Jenkins,7588,Javonte Williams,RB,DAL,starter
-2023,7,KingTowsk,Leeroy Jenkins,8139,Zamir White,RB,SF,bench
+2023,7,KingTowsk,Leeroy Jenkins,8139,Zamir White,RB,NO,bench
 2023,7,KingTowsk,Leeroy Jenkins,8143,Jerome Ford,RB,WAS,bench
 2023,7,KingTowsk,Leeroy Jenkins,9226,De'Von Achane,RB,MIA,starter
 2023,7,KingTowsk,Leeroy Jenkins,9486,Dontayvion Wicks,WR,PHI,bench

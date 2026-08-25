@@ -33,7 +33,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,2,Erjohnson14,Ben choked ,6786,CeeDee Lamb,WR,DAL,starter
 2021,2,Erjohnson14,Ben choked ,6938,Cam Akers,RB,,bench
 2021,2,Erjohnson14,Ben choked ,6945,Antonio Gibson,RB,,starter
-2021,2,Erjohnson14,Ben choked ,7528,Najee Harris,RB,,starter
+2021,2,Erjohnson14,Ben choked ,7528,Najee Harris,RB,NYG,starter
 2021,2,Erjohnson14,Ben choked ,7588,Javonte Williams,RB,DAL,bench
 2021,2,Erjohnson14,Ben choked ,NO,New Orleans Saints,DEF,NO,bench
 2021,2,Erjohnson14,Ben choked ,TB,Tampa Bay Buccaneers,DEF,TB,starter
@@ -115,7 +115,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,7,KingTowsk,The Toilet Bowl Champ,260,Josh Johnson,QB,CIN,starter
 2021,7,KingTowsk,The Toilet Bowl Champ,4149,Jamaal Williams,RB,,bench
 2021,7,KingTowsk,The Toilet Bowl Champ,4881,Lamar Jackson,QB,BAL,ir
-2021,7,KingTowsk,The Toilet Bowl Champ,5095,Daniel Carlson,K,,starter
+2021,7,KingTowsk,The Toilet Bowl Champ,5095,Daniel Carlson,K,NO,starter
 2021,7,KingTowsk,The Toilet Bowl Champ,5284,Jeff Wilson,RB,,starter
 2021,7,KingTowsk,The Toilet Bowl Champ,5848,Marquise Brown,WR,PHI,starter
 2021,7,KingTowsk,The Toilet Bowl Champ,5937,Diontae Johnson,WR,,starter
