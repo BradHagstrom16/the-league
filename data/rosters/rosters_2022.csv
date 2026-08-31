@@ -17,7 +17,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,1,bgreenblatt,Taylor Park Boys,NYG,New York Giants,DEF,NYG,starter
 2022,2,Erjohnson14,Dairy Sanders,167,Tom Brady,QB,,starter
 2022,2,Erjohnson14,Dairy Sanders,2747,Jason Myers,K,SEA,starter
-2022,2,Erjohnson14,Dairy Sanders,3269,Chris Moore,WR,BAL,starter
+2022,2,Erjohnson14,Dairy Sanders,3269,Chris Moore,WR,,starter
 2022,2,Erjohnson14,Dairy Sanders,4034,Christian McCaffrey,RB,SF,starter
 2022,2,Erjohnson14,Dairy Sanders,4066,Evan Engram,TE,DEN,starter
 2022,2,Erjohnson14,Dairy Sanders,5022,Dallas Goedert,TE,PHI,bench
@@ -27,7 +27,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,2,Erjohnson14,Dairy Sanders,5937,Diontae Johnson,WR,,bench
 2022,2,Erjohnson14,Dairy Sanders,6945,Antonio Gibson,RB,,bench
 2022,2,Erjohnson14,Dairy Sanders,7594,Chuba Hubbard,RB,CAR,bench
-2022,2,Erjohnson14,Dairy Sanders,8129,Dameon Pierce,RB,PHI,bench
+2022,2,Erjohnson14,Dairy Sanders,8129,Dameon Pierce,RB,,bench
 2022,2,Erjohnson14,Dairy Sanders,8144,Chris Olave,WR,NO,starter
 2022,2,Erjohnson14,Dairy Sanders,8151,Kenneth Walker,RB,KC,starter
 2022,2,Erjohnson14,Dairy Sanders,96,Aaron Rodgers,QB,PIT,starter
@@ -69,7 +69,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,5,kaufmannc,Mar-a-lago Raiders ,3163,Jared Goff,QB,DET,starter
 2022,5,kaufmannc,Mar-a-lago Raiders ,3198,Derrick Henry,RB,BAL,starter
 2022,5,kaufmannc,Mar-a-lago Raiders ,3271,Tyler Higbee,TE,LAR,starter
-2022,5,kaufmannc,Mar-a-lago Raiders ,4080,Zay Jones,WR,HOU,bench
+2022,5,kaufmannc,Mar-a-lago Raiders ,4080,Zay Jones,WR,,bench
 2022,5,kaufmannc,Mar-a-lago Raiders ,4149,Jamaal Williams,RB,,bench
 2022,5,kaufmannc,Mar-a-lago Raiders ,4983,DJ Moore,WR,BUF,starter
 2022,5,kaufmannc,Mar-a-lago Raiders ,5185,Allen Lazard,WR,,bench
@@ -93,7 +93,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,6,JSanDusky69,2 Girls 0 Kupps,6783,Jerry Jeudy,WR,CLE,starter
 2022,6,JSanDusky69,2 Girls 0 Kupps,6824,Donovan Peoples-Jones,WR,,bench
 2022,6,JSanDusky69,2 Girls 0 Kupps,6886,Chase Claypool,WR,,bench
-2022,6,JSanDusky69,2 Girls 0 Kupps,7066,K.J. Osborn,WR,TEN,bench
+2022,6,JSanDusky69,2 Girls 0 Kupps,7066,K.J. Osborn,WR,,bench
 2022,6,JSanDusky69,2 Girls 0 Kupps,DET,Detroit Lions,DEF,DET,bench
 2022,6,JSanDusky69,2 Girls 0 Kupps,LV,Las Vegas Raiders,DEF,LV,starter
 2022,7,KingTowsk,Leeroy Jenkins,1373,Geno Smith,QB,NYJ,bench
@@ -138,7 +138,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,9,brockhusk,Super Flex Offenders ,6786,CeeDee Lamb,WR,DAL,starter
 2022,9,brockhusk,Super Flex Offenders ,6943,Gabe Davis,WR,,bench
 2022,9,brockhusk,Super Flex Offenders ,7547,Amon-Ra St. Brown,WR,DET,starter
-2022,9,brockhusk,Super Flex Offenders ,7607,Michael Carter,RB,TEN,bench
+2022,9,brockhusk,Super Flex Offenders ,7607,Michael Carter,RB,,bench
 2022,9,brockhusk,Super Flex Offenders ,8112,Drake London,WR,ATL,bench
 2022,9,brockhusk,Super Flex Offenders ,8146,Garrett Wilson,WR,NYJ,starter
 2022,9,brockhusk,Super Flex Offenders ,8259,Cameron Dicker,K,LAC,starter
@@ -158,6 +158,6 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,10,cc5597,The Bengalphin Boys,6828,AJ Dillon,RB,CAR,bench
 2022,10,cc5597,The Bengalphin Boys,7526,Jaylen Waddle,WR,DEN,starter
 2022,10,cc5597,The Bengalphin Boys,7600,Pat Freiermuth,TE,PIT,starter
-2022,10,cc5597,The Bengalphin Boys,8123,Hassan Haskins,RB,NE,bench
+2022,10,cc5597,The Bengalphin Boys,8123,Hassan Haskins,RB,,bench
 2022,10,cc5597,The Bengalphin Boys,8155,Breece Hall,RB,NYJ,ir
 2022,10,cc5597,The Bengalphin Boys,LAC,Los Angeles Chargers,DEF,LAC,starter

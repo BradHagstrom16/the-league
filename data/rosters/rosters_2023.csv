@@ -38,7 +38,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,3,MaxSirianni,I hate Joe Burrow,4137,James Conner,RB,ARI,starter
 2023,3,MaxSirianni,I hate Joe Burrow,4866,Saquon Barkley,RB,PHI,starter
 2023,3,MaxSirianni,I hate Joe Burrow,5872,Deebo Samuel,WR,SF,starter
-2023,3,MaxSirianni,I hate Joe Burrow,6111,Jake Browning,QB,TB,bench
+2023,3,MaxSirianni,I hate Joe Burrow,6111,Jake Browning,QB,,bench
 2023,3,MaxSirianni,I hate Joe Burrow,7523,Trevor Lawrence,QB,JAX,starter
 2023,3,MaxSirianni,I hate Joe Burrow,7528,Najee Harris,RB,NYG,bench
 2023,3,MaxSirianni,I hate Joe Burrow,7564,Ja'Marr Chase,WR,CIN,bench
@@ -66,7 +66,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,5,kaufmannc,London Has Fallen,10859,Sam LaPorta,TE,DET,starter
 2023,5,kaufmannc,London Has Fallen,1426,DeAndre Hopkins,WR,,starter
 2023,5,kaufmannc,London Has Fallen,4018,Joe Mixon,RB,,starter
-2023,5,kaufmannc,London Has Fallen,4080,Zay Jones,WR,HOU,bench
+2023,5,kaufmannc,London Has Fallen,4080,Zay Jones,WR,,bench
 2023,5,kaufmannc,London Has Fallen,4950,Christian Kirk,WR,SF,ir
 2023,5,kaufmannc,London Has Fallen,5119,Jason Sanders,K,NYJ,starter
 2023,5,kaufmannc,London Has Fallen,5854,Drew Lock,QB,SEA,bench
@@ -105,7 +105,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,7,KingTowsk,Leeroy Jenkins,6819,Michael Pittman,WR,PIT,starter
 2023,7,KingTowsk,Leeroy Jenkins,7526,Jaylen Waddle,WR,DEN,ir
 2023,7,KingTowsk,Leeroy Jenkins,7588,Javonte Williams,RB,DAL,starter
-2023,7,KingTowsk,Leeroy Jenkins,8139,Zamir White,RB,NO,bench
+2023,7,KingTowsk,Leeroy Jenkins,8139,Zamir White,RB,,bench
 2023,7,KingTowsk,Leeroy Jenkins,8143,Jerome Ford,RB,WAS,bench
 2023,7,KingTowsk,Leeroy Jenkins,9226,De'Von Achane,RB,MIA,starter
 2023,7,KingTowsk,Leeroy Jenkins,9486,Dontayvion Wicks,WR,PHI,bench
@@ -121,7 +121,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,8,TylerWicks,Christian Mingle,4981,Calvin Ridley,WR,TEN,starter
 2023,8,TylerWicks,Christian Mingle,5967,Tony Pollard,RB,TEN,bench
 2023,8,TylerWicks,Christian Mingle,6790,D'Andre Swift,RB,CHI,starter
-2023,8,TylerWicks,Christian Mingle,7066,K.J. Osborn,WR,TEN,bench
+2023,8,TylerWicks,Christian Mingle,7066,K.J. Osborn,WR,,bench
 2023,8,TylerWicks,Christian Mingle,7525,DeVonta Smith,WR,PHI,starter
 2023,8,TylerWicks,Christian Mingle,8121,Romeo Doubs,WR,NE,bench
 2023,8,TylerWicks,Christian Mingle,8167,Christian Watson,WR,GB,bench
@@ -147,7 +147,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,10,cc5597,Bill Ninerkingz,2449,Stefon Diggs,WR,WAS,starter
 2023,10,cc5597,Bill Ninerkingz,4037,Chris Godwin,WR,TB,bench
 2023,10,cc5597,Bill Ninerkingz,4217,George Kittle,TE,SF,starter
-2023,10,cc5597,Bill Ninerkingz,4234,Noah Brown,WR,LV,bench
+2023,10,cc5597,Bill Ninerkingz,4234,Noah Brown,WR,,bench
 2023,10,cc5597,Bill Ninerkingz,5045,Courtland Sutton,WR,DEN,bench
 2023,10,cc5597,Bill Ninerkingz,5987,Alexander Mattison,RB,,bench
 2023,10,cc5597,Bill Ninerkingz,7042,Tyler Bass,K,BUF,starter

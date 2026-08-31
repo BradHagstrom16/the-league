@@ -40,7 +40,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,3,MaxSirianni,Joeybagofdonuts2.0,4199,Aaron Jones,RB,MIN,starter
 2024,3,MaxSirianni,Joeybagofdonuts2.0,4988,Nick Chubb,RB,,bench
 2024,3,MaxSirianni,Joeybagofdonuts2.0,5010,Will Dissly,TE,,bench
-2024,3,MaxSirianni,Joeybagofdonuts2.0,5086,Marquez Valdes-Scantling,WR,DAL,bench
+2024,3,MaxSirianni,Joeybagofdonuts2.0,5086,Marquez Valdes-Scantling,WR,,bench
 2024,3,MaxSirianni,Joeybagofdonuts2.0,5846,DK Metcalf,WR,PIT,starter
 2024,3,MaxSirianni,Joeybagofdonuts2.0,6650,Chase McLaughlin,K,TB,starter
 2024,3,MaxSirianni,Joeybagofdonuts2.0,6770,Joe Burrow,QB,CIN,starter
@@ -69,7 +69,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,5,kaufmannc,Clownin’ Around,11637,Keon Coleman,WR,BUF,bench
 2024,5,kaufmannc,Clownin’ Around,1433,Brandon McManus,K,,starter
 2024,5,kaufmannc,Clownin’ Around,3163,Jared Goff,QB,DET,starter
-2024,5,kaufmannc,Clownin’ Around,4144,Jonnu Smith,TE,,starter
+2024,5,kaufmannc,Clownin’ Around,4144,Jonnu Smith,TE,GB,starter
 2024,5,kaufmannc,Clownin’ Around,4981,Calvin Ridley,WR,TEN,starter
 2024,5,kaufmannc,Clownin’ Around,6801,Tee Higgins,WR,CIN,starter
 2024,5,kaufmannc,Clownin’ Around,6813,Jonathan Taylor,RB,IND,starter
@@ -106,7 +106,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,7,KingTowsk,Leeroy Jenkins,5987,Alexander Mattison,RB,,bench
 2024,7,KingTowsk,Leeroy Jenkins,6794,Justin Jefferson,WR,MIN,starter
 2024,7,KingTowsk,Leeroy Jenkins,7611,Rhamondre Stevenson,RB,NE,bench
-2024,7,KingTowsk,Leeroy Jenkins,8255,Raheem Blackshear,RB,DET,bench
+2024,7,KingTowsk,Leeroy Jenkins,8255,Raheem Blackshear,RB,,bench
 2024,7,KingTowsk,Leeroy Jenkins,9493,Puka Nacua,WR,LAR,starter
 2024,7,KingTowsk,Leeroy Jenkins,9508,Tyjae Spears,RB,TEN,starter
 2024,7,KingTowsk,Leeroy Jenkins,IND,Indianapolis Colts,DEF,IND,bench
@@ -127,7 +127,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,8,TylerWicks,Dont stop Bo-lievin’,9486,Dontayvion Wicks,WR,PHI,bench
 2024,8,TylerWicks,Dont stop Bo-lievin’,BUF,Buffalo Bills,DEF,BUF,starter
 2024,8,TylerWicks,Dont stop Bo-lievin’,DEN,Denver Broncos,DEF,DEN,bench
-2024,9,brockhusk,Brauk Tua Spit On That,10444,Cedric Tillman,WR,CLE,bench
+2024,9,brockhusk,Brauk Tua Spit On That,10444,Cedric Tillman,WR,,bench
 2024,9,brockhusk,Brauk Tua Spit On That,1166,Kirk Cousins,QB,LV,bench
 2024,9,brockhusk,Brauk Tua Spit On That,1426,DeAndre Hopkins,WR,,starter
 2024,9,brockhusk,Brauk Tua Spit On That,3451,Ka'imi Fairbairn,K,HOU,starter
@@ -140,7 +140,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,9,brockhusk,Brauk Tua Spit On That,8146,Garrett Wilson,WR,NYJ,starter
 2024,9,brockhusk,Brauk Tua Spit On That,8150,Kyren Williams,RB,LAR,starter
 2024,9,brockhusk,Brauk Tua Spit On That,8205,Isiah Pacheco,RB,DET,starter
-2024,9,brockhusk,Brauk Tua Spit On That,8258,Cade York,K,NYJ,bench
+2024,9,brockhusk,Brauk Tua Spit On That,8258,Cade York,K,,bench
 2024,9,brockhusk,Brauk Tua Spit On That,CIN,Cincinnati Bengals,DEF,CIN,starter
 2024,9,brockhusk,Brauk Tua Spit On That,DET,Detroit Lions,DEF,DET,bench
 2024,10,cc5597,The Problems,11565,J.J. McCarthy,QB,MIN,ir
