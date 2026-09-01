@@ -1763,6 +1763,12 @@
  ],
  "declared_next": [
   {
+   "user_id": "736740647758938112",
+   "name": "BJ",
+   "player_name": "D'Andre Swift",
+   "round": 6
+  },
+  {
    "user_id": "1136842855890366464",
    "name": "Kep",
    "player_name": "Chris Olave",
@@ -1808,6 +1814,12 @@
    "user_id": "736077599457026048",
    "name": "Johnson",
    "player_name": "Javonte Williams",
+   "round": 9
+  },
+  {
+   "user_id": "865793938542456832",
+   "name": "Beaut",
+   "player_name": "Michael Pittman",
    "round": 9
   },
   {

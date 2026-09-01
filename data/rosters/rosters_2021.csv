@@ -125,7 +125,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,7,KingTowsk,The Toilet Bowl Champ,6828,AJ Dillon,RB,CAR,bench
 2021,7,KingTowsk,The Toilet Bowl Champ,6943,Gabe Davis,WR,,ir
 2021,7,KingTowsk,The Toilet Bowl Champ,7526,Jaylen Waddle,WR,DEN,starter
-2021,7,KingTowsk,The Toilet Bowl Champ,7607,Michael Carter,RB,,starter
+2021,7,KingTowsk,The Toilet Bowl Champ,7607,Michael Carter,RB,TEN,starter
 2021,7,KingTowsk,The Toilet Bowl Champ,954,Cam Newton,QB,,bench
 2021,7,KingTowsk,The Toilet Bowl Champ,GB,Green Bay Packers,DEF,GB,bench
 2021,7,KingTowsk,The Toilet Bowl Champ,PHI,Philadelphia Eagles,DEF,PHI,starter
@@ -143,7 +143,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,8,TylerWicks,Opted Out,5549,Darrel Williams,RB,,bench
 2021,8,TylerWicks,Opted Out,5890,Damien Harris,RB,,bench
 2021,8,TylerWicks,Opted Out,5980,Myles Gaskin,RB,,starter
-2021,8,TylerWicks,Opted Out,7066,K.J. Osborn,WR,,bench
+2021,8,TylerWicks,Opted Out,7066,K.J. Osborn,WR,TEN,bench
 2021,8,TylerWicks,Opted Out,947,Julio Jones,WR,,starter
 2021,8,TylerWicks,Opted Out,ARI,Arizona Cardinals,DEF,ARI,bench
 2021,8,TylerWicks,Opted Out,TEN,Tennessee Titans,DEF,TEN,starter

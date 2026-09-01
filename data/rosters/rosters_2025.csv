@@ -37,7 +37,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,3,MaxSirianni,We Built This Griddy,12518,Tyler Warren,TE,IND,starter
 2025,3,MaxSirianni,We Built This Griddy,4195,Jake Elliott,K,PHI,starter
 2025,3,MaxSirianni,We Built This Griddy,4943,Sam Darnold,QB,SEA,starter
-2025,3,MaxSirianni,We Built This Griddy,5970,Greg Dortch,WR,,ir
+2025,3,MaxSirianni,We Built This Griddy,5970,Greg Dortch,WR,BUF,ir
 2025,3,MaxSirianni,We Built This Griddy,6794,Justin Jefferson,WR,MIN,starter
 2025,3,MaxSirianni,We Built This Griddy,6804,Jordan Love,QB,GB,starter
 2025,3,MaxSirianni,We Built This Griddy,7547,Amon-Ra St. Brown,WR,DET,starter
@@ -59,7 +59,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,4,jdrobny,Stick em up,6797,Justin Herbert,QB,LAC,starter
 2025,4,jdrobny,Stick em up,7611,Rhamondre Stevenson,RB,NE,bench
 2025,4,jdrobny,Stick em up,7839,Evan McPherson,K,CIN,starter
-2025,4,jdrobny,Stick em up,9220,Evan Hull,RB,,starter
+2025,4,jdrobny,Stick em up,9220,Evan Hull,RB,ARI,starter
 2025,4,jdrobny,Stick em up,9500,Josh Downs,WR,IND,bench
 2025,4,jdrobny,Stick em up,9508,Tyjae Spears,RB,TEN,bench
 2025,4,jdrobny,Stick em up,9754,Quentin Johnston,WR,LAC,starter
@@ -74,7 +74,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,5,charliekaufmann,Clownin’ Around,5967,Tony Pollard,RB,TEN,bench
 2025,5,charliekaufmann,Clownin’ Around,6801,Tee Higgins,WR,CIN,starter
 2025,5,charliekaufmann,Clownin’ Around,7526,Jaylen Waddle,WR,DEN,starter
-2025,5,charliekaufmann,Clownin’ Around,7607,Michael Carter,RB,,starter
+2025,5,charliekaufmann,Clownin’ Around,7607,Michael Carter,RB,TEN,starter
 2025,5,charliekaufmann,Clownin’ Around,8110,Jake Ferguson,TE,DAL,bench
 2025,5,charliekaufmann,Clownin’ Around,8183,Brock Purdy,QB,SF,starter
 2025,5,charliekaufmann,Clownin’ Around,96,Aaron Rodgers,QB,PIT,bench
@@ -134,7 +134,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,9,brockhusk,Just End The Season,11620,Rome Odunze,WR,CHI,bench
 2025,9,brockhusk,Just End The Season,11635,Ladd McConkey,WR,LAC,starter
 2025,9,brockhusk,Just End The Season,12527,Ashton Jeanty,RB,LV,starter
-2025,9,brockhusk,Just End The Season,12538,Brady Cook,QB,NYJ,bench
+2025,9,brockhusk,Just End The Season,12538,Brady Cook,QB,,bench
 2025,9,brockhusk,Just End The Season,4144,Jonnu Smith,TE,GB,bench
 2025,9,brockhusk,Just End The Season,4199,Aaron Jones,RB,MIN,starter
 2025,9,brockhusk,Just End The Season,4881,Lamar Jackson,QB,BAL,bench
