@@ -1,6 +1,6 @@
 season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,1,bgreenblatt,Young and Beautiful ,11533,Brandon Aubrey,K,DAL,starter
-2025,1,bgreenblatt,Young and Beautiful ,11588,Jawhar Jordan,RB,,bench
+2025,1,bgreenblatt,Young and Beautiful ,11588,Jawhar Jordan,RB,HOU,bench
 2025,1,bgreenblatt,Young and Beautiful ,11647,Kimani Vidal,RB,LAC,bench
 2025,1,bgreenblatt,Young and Beautiful ,12508,Jaxson Dart,QB,NYG,starter
 2025,1,bgreenblatt,Young and Beautiful ,12514,Emeka Egbuka,WR,TB,starter
@@ -134,7 +134,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,9,brockhusk,Just End The Season,11620,Rome Odunze,WR,CHI,bench
 2025,9,brockhusk,Just End The Season,11635,Ladd McConkey,WR,LAC,starter
 2025,9,brockhusk,Just End The Season,12527,Ashton Jeanty,RB,LV,starter
-2025,9,brockhusk,Just End The Season,12538,Brady Cook,QB,,bench
+2025,9,brockhusk,Just End The Season,12538,Brady Cook,QB,MIA,bench
 2025,9,brockhusk,Just End The Season,4144,Jonnu Smith,TE,GB,bench
 2025,9,brockhusk,Just End The Season,4199,Aaron Jones,RB,MIN,starter
 2025,9,brockhusk,Just End The Season,4881,Lamar Jackson,QB,BAL,bench

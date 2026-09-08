@@ -1040,11 +1040,266 @@
    "eligible_round": true,
    "repeat_keep": false,
    "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "1136842855890366464",
+   "name": "Kep",
+   "player_id": "8144",
+   "player_name": "Chris Olave",
+   "prev_round": 6,
+   "keep_round": 6,
+   "left": false,
+   "need": 6,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "608781531883859968",
+   "name": "Benny G",
+   "player_id": "12508",
+   "player_name": "Jaxson Dart",
+   "prev_round": 10,
+   "keep_round": 10,
+   "left": false,
+   "need": 10,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "608781531883859968",
+   "name": "Benny G",
+   "player_id": "12514",
+   "player_name": "Emeka Egbuka",
+   "prev_round": 7,
+   "keep_round": 7,
+   "left": false,
+   "need": 7,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "710284244835979264",
+   "name": "B-Husk",
+   "player_id": "11620",
+   "player_name": "Rome Odunze",
+   "prev_round": 6,
+   "keep_round": 6,
+   "left": false,
+   "need": 6,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "735974647736213504",
+   "name": "Towsk",
+   "player_id": "10236",
+   "player_name": "Dalton Kincaid",
+   "prev_round": 12,
+   "keep_round": 12,
+   "left": true,
+   "need": 12,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "735974647736213504",
+   "name": "Towsk",
+   "player_id": "12512",
+   "player_name": "Quinshon Judkins",
+   "prev_round": 8,
+   "keep_round": 8,
+   "left": false,
+   "need": 8,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "736077599457026048",
+   "name": "Johnson",
+   "player_id": "7523",
+   "player_name": "Trevor Lawrence",
+   "prev_round": 8,
+   "keep_round": 8,
+   "left": true,
+   "need": 8,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "736077599457026048",
+   "name": "Johnson",
+   "player_id": "7588",
+   "player_name": "Javonte Williams",
+   "prev_round": 9,
+   "keep_round": 9,
+   "left": true,
+   "need": 9,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "736740647758938112",
+   "name": "BJ",
+   "player_id": "6790",
+   "player_name": "D'Andre Swift",
+   "prev_round": 6,
+   "keep_round": 6,
+   "left": true,
+   "need": 6,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "736740647758938112",
+   "name": "BJ",
+   "player_id": "7553",
+   "player_name": "Kyle Pitts",
+   "prev_round": 11,
+   "keep_round": 11,
+   "left": false,
+   "need": 11,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "736744257179770880",
+   "name": "Drobny",
+   "player_id": "12481",
+   "player_name": "Cam Skattebo",
+   "prev_round": 9,
+   "keep_round": 9,
+   "left": false,
+   "need": 9,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "736744257179770880",
+   "name": "Drobny",
+   "player_id": "421",
+   "player_name": "Matthew Stafford",
+   "prev_round": 10,
+   "keep_round": 10,
+   "left": false,
+   "need": 10,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "736803054736822272",
+   "name": "Wicko",
+   "player_id": "9484",
+   "player_name": "Tucker Kraft",
+   "prev_round": 9,
+   "keep_round": 9,
+   "left": false,
+   "need": 9,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "737091087440674816",
+   "name": "Siri",
+   "player_id": "12518",
+   "player_name": "Tyler Warren",
+   "prev_round": 7,
+   "keep_round": 7,
+   "left": false,
+   "need": 7,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "737091087440674816",
+   "name": "Siri",
+   "player_id": "4943",
+   "player_name": "Sam Darnold",
+   "prev_round": 11,
+   "keep_round": 11,
+   "left": false,
+   "need": 11,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "865793938542456832",
+   "name": "Beaut",
+   "player_id": "6819",
+   "player_name": "Michael Pittman",
+   "prev_round": 9,
+   "keep_round": 9,
+   "left": false,
+   "need": 9,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
+  },
+  {
+   "season": 2026,
+   "user_id": "865793938542456832",
+   "name": "Beaut",
+   "player_id": "7543",
+   "player_name": "Travis Etienne",
+   "prev_round": 6,
+   "keep_round": 6,
+   "left": false,
+   "need": 6,
+   "charged_ok": true,
+   "eligible_round": true,
+   "repeat_keep": false,
+   "bumped": false
   }
  ],
  "summary": {
-  "n": 69,
-  "charged_ok": 69,
+  "n": 86,
+  "charged_ok": 86,
   "rule_flags": {
    "max_keepers_exceeded": 0,
    "ineligible_round": 0,
@@ -1513,6 +1768,159 @@
    "surplus": 1.3
   },
   {
+   "season": 2026,
+   "user_id": "736740647758938112",
+   "name": "BJ",
+   "player_name": "D'Andre Swift",
+   "keep_round": 6,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "1136842855890366464",
+   "name": "Kep",
+   "player_name": "Chris Olave",
+   "keep_round": 6,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "865793938542456832",
+   "name": "Beaut",
+   "player_name": "Travis Etienne",
+   "keep_round": 6,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "710284244835979264",
+   "name": "B-Husk",
+   "player_name": "Rome Odunze",
+   "keep_round": 6,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "608781531883859968",
+   "name": "Benny G",
+   "player_name": "Emeka Egbuka",
+   "keep_round": 7,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "737091087440674816",
+   "name": "Siri",
+   "player_name": "Tyler Warren",
+   "keep_round": 7,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "736077599457026048",
+   "name": "Johnson",
+   "player_name": "Trevor Lawrence",
+   "keep_round": 8,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "735974647736213504",
+   "name": "Towsk",
+   "player_name": "Quinshon Judkins",
+   "keep_round": 8,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "736077599457026048",
+   "name": "Johnson",
+   "player_name": "Javonte Williams",
+   "keep_round": 9,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "865793938542456832",
+   "name": "Beaut",
+   "player_name": "Michael Pittman",
+   "keep_round": 9,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "736803054736822272",
+   "name": "Wicko",
+   "player_name": "Tucker Kraft",
+   "keep_round": 9,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "736744257179770880",
+   "name": "Drobny",
+   "player_name": "Cam Skattebo",
+   "keep_round": 9,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "736744257179770880",
+   "name": "Drobny",
+   "player_name": "Matthew Stafford",
+   "keep_round": 10,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "608781531883859968",
+   "name": "Benny G",
+   "player_name": "Jaxson Dart",
+   "keep_round": 10,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "737091087440674816",
+   "name": "Siri",
+   "player_name": "Sam Darnold",
+   "keep_round": 11,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "736740647758938112",
+   "name": "BJ",
+   "player_name": "Kyle Pitts",
+   "keep_round": 11,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
+   "season": 2026,
+   "user_id": "735974647736213504",
+   "name": "Towsk",
+   "player_name": "Dalton Kincaid",
+   "keep_round": 12,
+   "points": 0.0,
+   "surplus": 0.0
+  },
+  {
    "season": 2024,
    "user_id": "736077599457026048",
    "name": "Johnson",
@@ -1677,13 +2085,6 @@
  ],
  "by_manager": [
   {
-   "user_id": "1136842855890366464",
-   "name": "Kep",
-   "keeps": 1,
-   "avg_surplus": 103.6,
-   "hit_rate": 1.0
-  },
-  {
    "user_id": "475399371639222272",
    "name": "Clem",
    "keeps": 5,
@@ -1691,25 +2092,32 @@
    "hit_rate": 1.0
   },
   {
+   "user_id": "1136842855890366464",
+   "name": "Kep",
+   "keeps": 2,
+   "avg_surplus": 51.8,
+   "hit_rate": 0.5
+  },
+  {
    "user_id": "608781531883859968",
    "name": "Benny G",
-   "keeps": 8,
-   "avg_surplus": 58.66,
-   "hit_rate": 0.75
+   "keeps": 10,
+   "avg_surplus": 46.93,
+   "hit_rate": 0.6
   },
   {
    "user_id": "710284244835979264",
    "name": "B-Husk",
-   "keeps": 5,
-   "avg_surplus": 50.3,
-   "hit_rate": 0.8
+   "keeps": 6,
+   "avg_surplus": 41.92,
+   "hit_rate": 0.6667
   },
   {
    "user_id": "736803054736822272",
    "name": "Wicko",
-   "keeps": 7,
-   "avg_surplus": 43.0,
-   "hit_rate": 0.8571
+   "keeps": 8,
+   "avg_surplus": 37.62,
+   "hit_rate": 0.75
   },
   {
    "user_id": "716698629934481408",
@@ -1721,148 +2129,45 @@
   {
    "user_id": "736740647758938112",
    "name": "BJ",
-   "keeps": 7,
-   "avg_surplus": 30.36,
-   "hit_rate": 0.7143
+   "keeps": 9,
+   "avg_surplus": 23.61,
+   "hit_rate": 0.5556
   },
   {
    "user_id": "736077599457026048",
    "name": "Johnson",
-   "keeps": 8,
-   "avg_surplus": 28.8,
-   "hit_rate": 0.625
-  },
-  {
-   "user_id": "735974647736213504",
-   "name": "Towsk",
-   "keeps": 7,
-   "avg_surplus": 24.44,
-   "hit_rate": 0.8571
-  },
-  {
-   "user_id": "736744257179770880",
-   "name": "Drobny",
-   "keeps": 8,
-   "avg_surplus": 20.52,
+   "keeps": 10,
+   "avg_surplus": 23.04,
    "hit_rate": 0.5
   },
   {
+   "user_id": "735974647736213504",
+   "name": "Towsk",
+   "keeps": 9,
+   "avg_surplus": 19.01,
+   "hit_rate": 0.6667
+  },
+  {
+   "user_id": "736744257179770880",
+   "name": "Drobny",
+   "keeps": 10,
+   "avg_surplus": 16.42,
+   "hit_rate": 0.4
+  },
+  {
    "user_id": "737091087440674816",
    "name": "Siri",
-   "keeps": 5,
-   "avg_surplus": -3.94,
-   "hit_rate": 0.6
+   "keeps": 7,
+   "avg_surplus": -2.81,
+   "hit_rate": 0.4286
   },
   {
    "user_id": "865793938542456832",
    "name": "Beaut",
-   "keeps": 1,
-   "avg_surplus": -42.5,
+   "keeps": 3,
+   "avg_surplus": -14.17,
    "hit_rate": 0.0
   }
  ],
- "declared_next": [
-  {
-   "user_id": "736740647758938112",
-   "name": "BJ",
-   "player_name": "D'Andre Swift",
-   "round": 6
-  },
-  {
-   "user_id": "1136842855890366464",
-   "name": "Kep",
-   "player_name": "Chris Olave",
-   "round": 6
-  },
-  {
-   "user_id": "865793938542456832",
-   "name": "Beaut",
-   "player_name": "Travis Etienne",
-   "round": 6
-  },
-  {
-   "user_id": "710284244835979264",
-   "name": "B-Husk",
-   "player_name": "Rome Odunze",
-   "round": 6
-  },
-  {
-   "user_id": "608781531883859968",
-   "name": "Benny G",
-   "player_name": "Emeka Egbuka",
-   "round": 7
-  },
-  {
-   "user_id": "737091087440674816",
-   "name": "Siri",
-   "player_name": "Tyler Warren",
-   "round": 7
-  },
-  {
-   "user_id": "736077599457026048",
-   "name": "Johnson",
-   "player_name": "Trevor Lawrence",
-   "round": 8
-  },
-  {
-   "user_id": "735974647736213504",
-   "name": "Towsk",
-   "player_name": "Quinshon Judkins",
-   "round": 8
-  },
-  {
-   "user_id": "736077599457026048",
-   "name": "Johnson",
-   "player_name": "Javonte Williams",
-   "round": 9
-  },
-  {
-   "user_id": "865793938542456832",
-   "name": "Beaut",
-   "player_name": "Michael Pittman",
-   "round": 9
-  },
-  {
-   "user_id": "736803054736822272",
-   "name": "Wicko",
-   "player_name": "Tucker Kraft",
-   "round": 9
-  },
-  {
-   "user_id": "736744257179770880",
-   "name": "Drobny",
-   "player_name": "Cam Skattebo",
-   "round": 9
-  },
-  {
-   "user_id": "736744257179770880",
-   "name": "Drobny",
-   "player_name": "Matthew Stafford",
-   "round": 10
-  },
-  {
-   "user_id": "608781531883859968",
-   "name": "Benny G",
-   "player_name": "Jaxson Dart",
-   "round": 10
-  },
-  {
-   "user_id": "737091087440674816",
-   "name": "Siri",
-   "player_name": "Sam Darnold",
-   "round": 11
-  },
-  {
-   "user_id": "736740647758938112",
-   "name": "BJ",
-   "player_name": "Kyle Pitts",
-   "round": 11
-  },
-  {
-   "user_id": "735974647736213504",
-   "name": "Towsk",
-   "player_name": "Dalton Kincaid",
-   "round": 12
-  }
- ]
+ "declared_next": []
 }

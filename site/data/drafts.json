@@ -1131,48 +1131,48 @@
     "surplus": -52.12
    },
    {
-    "season": 2025,
+    "season": 2026,
     "manager_user": "1136842855890366464",
     "name": "Kep",
-    "player_name": "DK Metcalf",
-    "position": "WR",
-    "round": 5,
-    "overall_pick": 54,
-    "points": 167.0,
-    "surplus": 7.57
-   },
-   {
-    "season": 2025,
-    "manager_user": "1136842855890366464",
-    "name": "Kep",
-    "player_name": "Jakobi Meyers",
-    "position": "WR",
+    "player_name": "Kyle Monangai",
+    "position": "RB",
     "round": 8,
     "overall_pick": 91,
-    "points": 137.8,
-    "surplus": 10.5
+    "points": 0.0,
+    "surplus": 0.0
    },
    {
-    "season": 2025,
+    "season": 2026,
     "manager_user": "1136842855890366464",
     "name": "Kep",
-    "player_name": "Breece Hall",
+    "player_name": "Jaylen Warren",
     "position": "RB",
-    "round": 3,
-    "overall_pick": 30,
-    "points": 174.76,
-    "surplus": 41.8
+    "round": 7,
+    "overall_pick": 78,
+    "points": 0.0,
+    "surplus": 0.0
    },
    {
-    "season": 2025,
+    "season": 2026,
     "manager_user": "1136842855890366464",
     "name": "Kep",
-    "player_name": "Patrick Mahomes",
-    "position": "QB",
-    "round": 1,
-    "overall_pick": 6,
-    "points": 271.62,
-    "surplus": 50.15
+    "player_name": "Bucky Irving",
+    "position": "RB",
+    "round": 5,
+    "overall_pick": 54,
+    "points": 0.0,
+    "surplus": 0.0
+   },
+   {
+    "season": 2026,
+    "manager_user": "1136842855890366464",
+    "name": "Kep",
+    "player_name": "Drake London",
+    "position": "WR",
+    "round": 4,
+    "overall_pick": 43,
+    "points": 0.0,
+    "surplus": 0.0
    }
   ],
   "475399371639222272": [
@@ -1791,98 +1791,98 @@
     "surplus": -0.58
    },
    {
-    "season": 2025,
+    "season": 2026,
     "manager_user": "865793938542456832",
     "name": "Beaut",
-    "player_name": "Jalen Hurts",
-    "position": "QB",
-    "round": 1,
-    "overall_pick": 3,
-    "points": 246.36,
-    "surplus": 24.89
+    "player_name": "Rashee Rice",
+    "position": "WR",
+    "round": 4,
+    "overall_pick": 44,
+    "points": 0.0,
+    "surplus": 0.0
    }
   ]
  },
  "by_round": [
   {
    "round": 1,
-   "avg_points": 225.84,
-   "hit_rate": 0.5769
+   "avg_points": 183.49,
+   "hit_rate": 0.5938
   },
   {
    "round": 2,
-   "avg_points": 201.33,
-   "hit_rate": 0.4038
+   "avg_points": 163.58,
+   "hit_rate": 0.5781
   },
   {
    "round": 3,
-   "avg_points": 164.81,
-   "hit_rate": 0.4808
+   "avg_points": 133.91,
+   "hit_rate": 0.5469
   },
   {
    "round": 4,
-   "avg_points": 167.23,
-   "hit_rate": 0.5192
+   "avg_points": 135.87,
+   "hit_rate": 0.5938
   },
   {
    "round": 5,
-   "avg_points": 151.61,
-   "hit_rate": 0.5192
+   "avg_points": 123.18,
+   "hit_rate": 0.6094
   },
   {
    "round": 6,
-   "avg_points": 142.09,
-   "hit_rate": 0.5577
+   "avg_points": 115.45,
+   "hit_rate": 0.5469
   },
   {
    "round": 7,
-   "avg_points": 134.41,
-   "hit_rate": 0.5192
+   "avg_points": 109.21,
+   "hit_rate": 0.5312
   },
   {
    "round": 8,
-   "avg_points": 124.47,
-   "hit_rate": 0.5192
+   "avg_points": 101.14,
+   "hit_rate": 0.5312
   },
   {
    "round": 9,
-   "avg_points": 115.07,
-   "hit_rate": 0.5769
+   "avg_points": 93.5,
+   "hit_rate": 0.5469
   },
   {
    "round": 10,
-   "avg_points": 133.85,
-   "hit_rate": 0.4615
+   "avg_points": 108.75,
+   "hit_rate": 0.5312
   },
   {
    "round": 11,
-   "avg_points": 99.34,
-   "hit_rate": 0.4808
+   "avg_points": 80.71,
+   "hit_rate": 0.5156
   },
   {
    "round": 12,
-   "avg_points": 87.0,
-   "hit_rate": 0.4231
+   "avg_points": 70.69,
+   "hit_rate": 0.3906
   },
   {
    "round": 13,
-   "avg_points": 87.15,
-   "hit_rate": 0.5192
+   "avg_points": 70.81,
+   "hit_rate": 0.4375
   },
   {
    "round": 14,
-   "avg_points": 91.65,
-   "hit_rate": 0.5577
+   "avg_points": 74.47,
+   "hit_rate": 0.5312
   },
   {
    "round": 15,
-   "avg_points": 78.12,
-   "hit_rate": 0.4615
+   "avg_points": 63.47,
+   "hit_rate": 0.4688
   },
   {
    "round": 16,
-   "avg_points": 75.33,
-   "hit_rate": 0.4231
+   "avg_points": 61.2,
+   "hit_rate": 0.4531
   },
   {
    "round": 17,
@@ -2311,80 +2311,176 @@
    "first_qb_round": 1,
    "qbs_in_first_5": 2,
    "finish": 2
+  },
+  {
+   "season": 2026,
+   "user_id": "1136842855890366464",
+   "name": "Kep",
+   "first_qb_round": 1,
+   "qbs_in_first_5": 2,
+   "finish": null
+  },
+  {
+   "season": 2026,
+   "user_id": "475399371639222272",
+   "name": "Clem",
+   "first_qb_round": 1,
+   "qbs_in_first_5": 1,
+   "finish": null
+  },
+  {
+   "season": 2026,
+   "user_id": "608781531883859968",
+   "name": "Benny G",
+   "first_qb_round": 2,
+   "qbs_in_first_5": 1,
+   "finish": null
+  },
+  {
+   "season": 2026,
+   "user_id": "710284244835979264",
+   "name": "B-Husk",
+   "first_qb_round": 3,
+   "qbs_in_first_5": 1,
+   "finish": null
+  },
+  {
+   "season": 2026,
+   "user_id": "716698629934481408",
+   "name": "Chuck",
+   "first_qb_round": 1,
+   "qbs_in_first_5": 2,
+   "finish": null
+  },
+  {
+   "season": 2026,
+   "user_id": "735974647736213504",
+   "name": "Towsk",
+   "first_qb_round": 1,
+   "qbs_in_first_5": 2,
+   "finish": null
+  },
+  {
+   "season": 2026,
+   "user_id": "736077599457026048",
+   "name": "Johnson",
+   "first_qb_round": 4,
+   "qbs_in_first_5": 1,
+   "finish": null
+  },
+  {
+   "season": 2026,
+   "user_id": "736740647758938112",
+   "name": "BJ",
+   "first_qb_round": 4,
+   "qbs_in_first_5": 2,
+   "finish": null
+  },
+  {
+   "season": 2026,
+   "user_id": "736744257179770880",
+   "name": "Drobny",
+   "first_qb_round": 6,
+   "qbs_in_first_5": 0,
+   "finish": null
+  },
+  {
+   "season": 2026,
+   "user_id": "736803054736822272",
+   "name": "Wicko",
+   "first_qb_round": 4,
+   "qbs_in_first_5": 1,
+   "finish": null
+  },
+  {
+   "season": 2026,
+   "user_id": "737091087440674816",
+   "name": "Siri",
+   "first_qb_round": 1,
+   "qbs_in_first_5": 1,
+   "finish": null
+  },
+  {
+   "season": 2026,
+   "user_id": "865793938542456832",
+   "name": "Beaut",
+   "first_qb_round": 8,
+   "qbs_in_first_5": 0,
+   "finish": null
   }
  ],
  "tendencies": {
   "1136842855890366464": {
-   "WR": 0.5,
-   "QB": 0.2,
-   "RB": 0.2,
-   "TE": 0.1
+   "WR": 0.3684,
+   "RB": 0.3158,
+   "QB": 0.2105,
+   "TE": 0.1053
   },
   "475399371639222272": {
-   "WR": 0.3913,
-   "RB": 0.3696,
-   "QB": 0.1957,
-   "TE": 0.0435
+   "WR": 0.3929,
+   "RB": 0.3571,
+   "QB": 0.1964,
+   "TE": 0.0536
   },
   "608781531883859968": {
-   "WR": 0.383,
-   "RB": 0.2979,
-   "QB": 0.2128,
-   "TE": 0.1064
+   "WR": 0.3818,
+   "RB": 0.3091,
+   "QB": 0.2,
+   "TE": 0.1091
   },
   "710284244835979264": {
-   "WR": 0.375,
-   "RB": 0.2917,
-   "QB": 0.25,
-   "TE": 0.0833
+   "WR": 0.3684,
+   "RB": 0.2807,
+   "QB": 0.2632,
+   "TE": 0.0877
   },
   "716698629934481408": {
-   "WR": 0.3696,
-   "RB": 0.3261,
-   "QB": 0.2174,
-   "TE": 0.087
+   "WR": 0.375,
+   "RB": 0.3214,
+   "QB": 0.2143,
+   "TE": 0.0893
   },
   "735974647736213504": {
-   "WR": 0.3778,
-   "RB": 0.3111,
+   "WR": 0.3889,
+   "RB": 0.3148,
    "QB": 0.2222,
-   "TE": 0.0889
+   "TE": 0.0741
   },
   "736077599457026048": {
-   "WR": 0.3636,
-   "RB": 0.3182,
-   "QB": 0.2273,
-   "TE": 0.0909
+   "WR": 0.4038,
+   "RB": 0.3077,
+   "QB": 0.2115,
+   "TE": 0.0769
   },
   "736740647758938112": {
-   "WR": 0.4,
-   "RB": 0.2667,
-   "QB": 0.2,
-   "TE": 0.1333
+   "WR": 0.4074,
+   "RB": 0.2593,
+   "QB": 0.2222,
+   "TE": 0.1111
   },
   "736744257179770880": {
-   "WR": 0.3404,
-   "RB": 0.3191,
-   "QB": 0.234,
-   "TE": 0.1064
+   "WR": 0.3455,
+   "RB": 0.3091,
+   "QB": 0.2364,
+   "TE": 0.1091
   },
   "736803054736822272": {
-   "WR": 0.4375,
-   "RB": 0.2917,
-   "QB": 0.1875,
-   "TE": 0.0833
+   "WR": 0.4561,
+   "RB": 0.2807,
+   "QB": 0.193,
+   "TE": 0.0702
   },
   "737091087440674816": {
-   "WR": 0.3673,
-   "RB": 0.3265,
-   "QB": 0.2245,
-   "TE": 0.0816
+   "WR": 0.3793,
+   "RB": 0.3448,
+   "QB": 0.2069,
+   "TE": 0.069
   },
   "865793938542456832": {
-   "WR": 0.4444,
-   "QB": 0.2222,
-   "RB": 0.2222,
-   "TE": 0.1111
+   "WR": 0.4118,
+   "QB": 0.2353,
+   "RB": 0.2353,
+   "TE": 0.1176
   }
  }
 }

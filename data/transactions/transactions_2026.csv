@@ -1,0 +1,5 @@
+season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager,action,player_id,player_name,position,faab_bid
+2026,1402488145538248704,1,free_agent,complete,1788741740167,2026-09-06,10,cc5597,add,12711,Tyler Loop,K,
+2026,1402488145538248704,1,free_agent,complete,1788741740167,2026-09-06,10,cc5597,drop,11237,Jacob Saylors,RB,
+2026,1402487564102868992,1,free_agent,complete,1788741601543,2026-09-06,1,bgreenblatt,add,TEN,Tennessee Titans,DEF,
+2026,1402487414496227328,1,free_agent,complete,1788741565874,2026-09-06,7,KingTowsk,add,6083,Matt Gay,K,

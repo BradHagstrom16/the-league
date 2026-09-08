@@ -701,7 +701,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1294353152111288320,11,waiver,complete,1762960348684,2025-11-12,10,cc5597,drop,7527,Mac Jones,QB,
 2025,1294351588785156096,11,waiver,complete,1762959975958,2025-11-12,10,cc5597,add,5927,Terry McLaurin,WR,11
 2025,1294351588785156096,11,waiver,complete,1762959975958,2025-11-12,10,cc5597,drop,7594,Chuba Hubbard,RB,
-2025,1294348197782646784,11,free_agent,complete,1762959167479,2025-11-12,8,TylerWicks,drop,12530,Travis Hunter,WR,
+2025,1294348197782646784,11,free_agent,complete,1762959167479,2025-11-12,8,TylerWicks,drop,12530,Travis Hunter,DB,
 2025,1299228791335313408,12,waiver,complete,1764122791659,2025-11-25,2,Erjohnson14,add,3451,Ka'imi Fairbairn,K,0
 2025,1299228791335313408,12,waiver,complete,1764122791659,2025-11-25,2,Erjohnson14,drop,12711,Tyler Loop,K,
 2025,1299075769770704896,12,waiver,complete,1764086308476,2025-11-25,7,KingTowsk,add,827,Tyrod Taylor,QB,0

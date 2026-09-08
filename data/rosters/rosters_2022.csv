@@ -124,7 +124,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,8,TylerWicks,Sick of Gesicki,5927,Terry McLaurin,WR,WAS,starter
 2022,8,TylerWicks,Sick of Gesicki,5947,Jakobi Meyers,WR,JAX,bench
 2022,8,TylerWicks,Sick of Gesicki,5967,Tony Pollard,RB,TEN,starter
-2022,8,TylerWicks,Sick of Gesicki,6149,Darius Slayton,WR,NYG,bench
+2022,8,TylerWicks,Sick of Gesicki,6149,Darius Slayton,WR,,bench
 2022,8,TylerWicks,Sick of Gesicki,6904,Jalen Hurts,QB,PHI,ir
 2022,8,TylerWicks,Sick of Gesicki,8121,Romeo Doubs,WR,NE,bench
 2022,8,TylerWicks,Sick of Gesicki,BUF,Buffalo Bills,DEF,BUF,starter
@@ -158,6 +158,6 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,10,cc5597,The Bengalphin Boys,6828,AJ Dillon,RB,CAR,bench
 2022,10,cc5597,The Bengalphin Boys,7526,Jaylen Waddle,WR,DEN,starter
 2022,10,cc5597,The Bengalphin Boys,7600,Pat Freiermuth,TE,PIT,starter
-2022,10,cc5597,The Bengalphin Boys,8123,Hassan Haskins,RB,,bench
+2022,10,cc5597,The Bengalphin Boys,8123,Hassan Haskins,RB,NE,bench
 2022,10,cc5597,The Bengalphin Boys,8155,Breece Hall,RB,NYJ,ir
 2022,10,cc5597,The Bengalphin Boys,LAC,Los Angeles Chargers,DEF,LAC,starter

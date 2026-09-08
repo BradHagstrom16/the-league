@@ -70,7 +70,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,4,jdrobny,Kareem in her Hunt,5131,Justin Jackson,RB,,bench
 2021,4,jdrobny,Kareem in her Hunt,5347,Nyheim Miller-Hines,RB,,starter
 2021,4,jdrobny,Kareem in her Hunt,6797,Justin Herbert,QB,LAC,starter
-2021,4,jdrobny,Kareem in her Hunt,6853,Van Jefferson,WR,,starter
+2021,4,jdrobny,Kareem in her Hunt,6853,Van Jefferson,WR,WAS,starter
 2021,4,jdrobny,Kareem in her Hunt,6886,Chase Claypool,WR,,bench
 2021,4,jdrobny,Kareem in her Hunt,6904,Jalen Hurts,QB,PHI,starter
 2021,4,jdrobny,Kareem in her Hunt,7591,Justin Fields,QB,KC,bench
@@ -112,7 +112,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,6,JSanDusky69,2 Girls 1 Kupp,SEA,Seattle Seahawks,DEF,SEA,bench
 2021,7,KingTowsk,The Toilet Bowl Champ,1466,Travis Kelce,TE,KC,bench
 2021,7,KingTowsk,The Toilet Bowl Champ,2460,C.J. Uzomah,TE,,starter
-2021,7,KingTowsk,The Toilet Bowl Champ,260,Josh Johnson,QB,,starter
+2021,7,KingTowsk,The Toilet Bowl Champ,260,Josh Johnson,QB,CIN,starter
 2021,7,KingTowsk,The Toilet Bowl Champ,4149,Jamaal Williams,RB,,bench
 2021,7,KingTowsk,The Toilet Bowl Champ,4881,Lamar Jackson,QB,BAL,ir
 2021,7,KingTowsk,The Toilet Bowl Champ,5095,Daniel Carlson,K,NO,starter
@@ -176,7 +176,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,10,cc5597,No Punt Intended,4137,James Conner,RB,ARI,bench
 2021,10,cc5597,No Punt Intended,4981,Calvin Ridley,WR,TEN,ir
 2021,10,cc5597,No Punt Intended,5045,Courtland Sutton,WR,DEN,bench
-2021,10,cc5597,No Punt Intended,5133,Tyler Conklin,TE,,starter
+2021,10,cc5597,No Punt Intended,5133,Tyler Conklin,TE,DET,starter
 2021,10,cc5597,No Punt Intended,6770,Joe Burrow,QB,CIN,starter
 2021,10,cc5597,No Punt Intended,6801,Tee Higgins,WR,CIN,starter
 2021,10,cc5597,No Punt Intended,7090,Darnell Mooney,WR,NYG,starter
