@@ -148,10 +148,11 @@ def check_champion(base):
 
 
 def check_no_finish_for_unplayed(base):
-    """Seasons with status pre_draft/drafting must have empty finish for every roster."""
+    """Seasons that aren't complete (pre_draft, drafting, in_season, post_season)
+    must have empty finish for every roster: a finish marks a concluded season."""
     fails = []
     for r in _read(base / "league_settings.csv"):
-        if r["status"] in ("pre_draft", "drafting"):
+        if r["status"] != "complete":
             season = r["season"]
             st_path = base / "standings" / f"standings_{season}.csv"
             if not st_path.exists():
