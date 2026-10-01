@@ -8,7 +8,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,1,bgreenblatt,Love Thy Nabers,6768,Tua Tagovailoa,QB,ATL,bench
 2024,1,bgreenblatt,Love Thy Nabers,7564,Ja'Marr Chase,WR,CIN,starter
 2024,1,bgreenblatt,Love Thy Nabers,8130,Trey McBride,TE,ARI,starter
-2024,1,bgreenblatt,Love Thy Nabers,8143,Jerome Ford,RB,WAS,starter
+2024,1,bgreenblatt,Love Thy Nabers,8143,Jerome Ford,RB,,starter
 2024,1,bgreenblatt,Love Thy Nabers,8148,Jameson Williams,WR,DET,bench
 2024,1,bgreenblatt,Love Thy Nabers,9226,De'Von Achane,RB,MIA,starter
 2024,1,bgreenblatt,Love Thy Nabers,9500,Josh Downs,WR,IND,bench
@@ -18,7 +18,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,2,Erjohnson14,Johnson’s Lil Johnson,11584,Bucky Irving,RB,TB,starter
 2024,2,Erjohnson14,Johnson’s Lil Johnson,11631,Brian Thomas,WR,JAX,starter
 2024,2,Erjohnson14,Johnson’s Lil Johnson,1234,Russell Wilson,QB,,bench
-2024,2,Erjohnson14,Johnson’s Lil Johnson,1339,Zach Ertz,TE,,starter
+2024,2,Erjohnson14,Johnson’s Lil Johnson,1339,Zach Ertz,TE,PHI,starter
 2024,2,Erjohnson14,Johnson’s Lil Johnson,4866,Saquon Barkley,RB,PHI,starter
 2024,2,Erjohnson14,Johnson’s Lil Johnson,4983,DJ Moore,WR,BUF,bench
 2024,2,Erjohnson14,Johnson’s Lil Johnson,4984,Josh Allen,QB,BUF,starter
@@ -40,7 +40,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,3,MaxSirianni,Joeybagofdonuts2.0,4199,Aaron Jones,RB,MIN,starter
 2024,3,MaxSirianni,Joeybagofdonuts2.0,4988,Nick Chubb,RB,,bench
 2024,3,MaxSirianni,Joeybagofdonuts2.0,5010,Will Dissly,TE,,bench
-2024,3,MaxSirianni,Joeybagofdonuts2.0,5086,Marquez Valdes-Scantling,WR,,bench
+2024,3,MaxSirianni,Joeybagofdonuts2.0,5086,Marquez Valdes-Scantling,WR,LAC,bench
 2024,3,MaxSirianni,Joeybagofdonuts2.0,5846,DK Metcalf,WR,PIT,starter
 2024,3,MaxSirianni,Joeybagofdonuts2.0,6650,Chase McLaughlin,K,TB,starter
 2024,3,MaxSirianni,Joeybagofdonuts2.0,6770,Joe Burrow,QB,CIN,starter
@@ -143,7 +143,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,9,brockhusk,Brauk Tua Spit On That,8258,Cade York,K,,bench
 2024,9,brockhusk,Brauk Tua Spit On That,CIN,Cincinnati Bengals,DEF,CIN,starter
 2024,9,brockhusk,Brauk Tua Spit On That,DET,Detroit Lions,DEF,DET,bench
-2024,10,cc5597,The Problems,11565,J.J. McCarthy,QB,MIN,ir
+2024,10,cc5597,The Problems,11565,J.J. McCarthy,QB,NYG,ir
 2024,10,cc5597,The Problems,11655,Tyrone Tracy,RB,NYG,starter
 2024,10,cc5597,The Problems,2309,Amari Cooper,WR,,bench
 2024,10,cc5597,The Problems,5872,Deebo Samuel,WR,SF,bench

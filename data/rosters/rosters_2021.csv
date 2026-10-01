@@ -57,15 +57,15 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,3,MaxSirianni,Brad can you Diggs it?,7596,Elijah Moore,WR,PHI,bench
 2021,3,MaxSirianni,Brad can you Diggs it?,LAC,Los Angeles Chargers,DEF,LAC,starter
 2021,4,jdrobny,Kareem in her Hunt,1264,Justin Tucker,K,,starter
-2021,4,jdrobny,Kareem in her Hunt,1339,Zach Ertz,TE,,starter
+2021,4,jdrobny,Kareem in her Hunt,1339,Zach Ertz,TE,PHI,starter
 2021,4,jdrobny,Kareem in her Hunt,2168,Devonta Freeman,RB,,bench
-2021,4,jdrobny,Kareem in her Hunt,2197,Brandin Cooks,WR,,starter
+2021,4,jdrobny,Kareem in her Hunt,2197,Brandin Cooks,WR,SF,starter
 2021,4,jdrobny,Kareem in her Hunt,2216,Mike Evans,WR,SF,bench
 2021,4,jdrobny,Kareem in her Hunt,3198,Derrick Henry,RB,BAL,ir
 2021,4,jdrobny,Kareem in her Hunt,3214,Hunter Henry,TE,NE,bench
 2021,4,jdrobny,Kareem in her Hunt,4098,Kareem Hunt,RB,,bench
 2021,4,jdrobny,Kareem in her Hunt,4111,D'Onta Foreman,RB,,starter
-2021,4,jdrobny,Kareem in her Hunt,4663,Austin Ekeler,RB,,starter
+2021,4,jdrobny,Kareem in her Hunt,4663,Austin Ekeler,RB,WAS,starter
 2021,4,jdrobny,Kareem in her Hunt,5110,Russell Gage,WR,,bench
 2021,4,jdrobny,Kareem in her Hunt,5131,Justin Jackson,RB,,bench
 2021,4,jdrobny,Kareem in her Hunt,5347,Nyheim Miller-Hines,RB,,starter
@@ -94,7 +94,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,5,kaufmannc,Cleveland Steamers,KC,Kansas City Chiefs,DEF,KC,bench
 2021,6,JSanDusky69,2 Girls 1 Kupp,138,Ben Roethlisberger,QB,PIT,starter
 2021,6,JSanDusky69,2 Girls 1 Kupp,1825,Jarvis Landry,WR,,bench
-2021,6,JSanDusky69,2 Girls 1 Kupp,2078,Odell Beckham,WR,NYG,bench
+2021,6,JSanDusky69,2 Girls 1 Kupp,2078,Odell Beckham,WR,,bench
 2021,6,JSanDusky69,2 Girls 1 Kupp,2320,Melvin Gordon,RB,,bench
 2021,6,JSanDusky69,2 Girls 1 Kupp,2391,David Johnson,RB,,ir
 2021,6,JSanDusky69,2 Girls 1 Kupp,3321,Tyreek Hill,WR,,starter

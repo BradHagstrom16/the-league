@@ -18,10 +18,10 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,2,Erjohnson14,Johnson’s Lil Johnson,10229,Rashee Rice,WR,KC,starter
 2023,2,Erjohnson14,Johnson’s Lil Johnson,1373,Geno Smith,QB,NYJ,starter
 2023,2,Erjohnson14,Johnson’s Lil Johnson,184,Adrian Peterson,RB,,bench
-2023,2,Erjohnson14,Johnson’s Lil Johnson,2197,Brandin Cooks,WR,,bench
+2023,2,Erjohnson14,Johnson’s Lil Johnson,2197,Brandin Cooks,WR,SF,bench
 2023,2,Erjohnson14,Johnson’s Lil Johnson,3198,Derrick Henry,RB,BAL,starter
 2023,2,Erjohnson14,Johnson’s Lil Johnson,4046,Patrick Mahomes,QB,KC,starter
-2023,2,Erjohnson14,Johnson’s Lil Johnson,4663,Austin Ekeler,RB,,bench
+2023,2,Erjohnson14,Johnson’s Lil Johnson,4663,Austin Ekeler,RB,WAS,bench
 2023,2,Erjohnson14,Johnson’s Lil Johnson,5846,DK Metcalf,WR,PIT,bench
 2023,2,Erjohnson14,Johnson’s Lil Johnson,5859,A.J. Brown,WR,NE,starter
 2023,2,Erjohnson14,Johnson’s Lil Johnson,6083,Matt Gay,K,LV,starter
@@ -96,7 +96,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,6,JSanDusky69,Tua Girls One Kupp,8155,Breece Hall,RB,NYJ,starter
 2023,6,JSanDusky69,Tua Girls One Kupp,DEN,Denver Broncos,DEF,DEN,starter
 2023,7,KingTowsk,Leeroy Jenkins,10222,Jayden Reed,WR,GB,starter
-2023,7,KingTowsk,Leeroy Jenkins,10937,Jake Moody,K,BAL,starter
+2023,7,KingTowsk,Leeroy Jenkins,10937,Jake Moody,K,,starter
 2023,7,KingTowsk,Leeroy Jenkins,1466,Travis Kelce,TE,KC,starter
 2023,7,KingTowsk,Leeroy Jenkins,3321,Tyreek Hill,WR,,starter
 2023,7,KingTowsk,Leeroy Jenkins,4199,Aaron Jones,RB,MIN,starter
@@ -106,7 +106,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,7,KingTowsk,Leeroy Jenkins,7526,Jaylen Waddle,WR,DEN,ir
 2023,7,KingTowsk,Leeroy Jenkins,7588,Javonte Williams,RB,DAL,starter
 2023,7,KingTowsk,Leeroy Jenkins,8139,Zamir White,RB,NO,bench
-2023,7,KingTowsk,Leeroy Jenkins,8143,Jerome Ford,RB,WAS,bench
+2023,7,KingTowsk,Leeroy Jenkins,8143,Jerome Ford,RB,,bench
 2023,7,KingTowsk,Leeroy Jenkins,9226,De'Von Achane,RB,MIA,starter
 2023,7,KingTowsk,Leeroy Jenkins,9486,Dontayvion Wicks,WR,PHI,bench
 2023,7,KingTowsk,Leeroy Jenkins,9488,Jaxon Smith-Njigba,WR,SEA,bench

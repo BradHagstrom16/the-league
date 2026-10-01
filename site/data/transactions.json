@@ -373,6 +373,78 @@
     "points_after": 28.15,
     "ppd": 0.65
    }
+  ],
+  "2026": [
+   {
+    "user_id": "865793938542456832",
+    "name": "Beaut",
+    "spent": 12.0,
+    "points_after": 31.15,
+    "ppd": 2.6
+   },
+   {
+    "user_id": "716698629934481408",
+    "name": "Chuck",
+    "spent": 14.0,
+    "points_after": 13.85,
+    "ppd": 0.99
+   },
+   {
+    "user_id": "1136842855890366464",
+    "name": "Kep",
+    "spent": 14.0,
+    "points_after": 10.0,
+    "ppd": 0.71
+   },
+   {
+    "user_id": "735974647736213504",
+    "name": "Towsk",
+    "spent": 53.0,
+    "points_after": 8.4,
+    "ppd": 0.16
+   },
+   {
+    "user_id": "737091087440674816",
+    "name": "Siri",
+    "spent": 50.0,
+    "points_after": 1.4,
+    "ppd": 0.03
+   },
+   {
+    "user_id": "475399371639222272",
+    "name": "Clem",
+    "spent": 23.0,
+    "points_after": 0.0,
+    "ppd": 0.0
+   },
+   {
+    "user_id": "710284244835979264",
+    "name": "B-Husk",
+    "spent": 50.0,
+    "points_after": 0.0,
+    "ppd": 0.0
+   },
+   {
+    "user_id": "736740647758938112",
+    "name": "BJ",
+    "spent": 4.0,
+    "points_after": 0.0,
+    "ppd": 0.0
+   },
+   {
+    "user_id": "608781531883859968",
+    "name": "Benny G",
+    "spent": 65.0,
+    "points_after": 0.0,
+    "ppd": 0.0
+   },
+   {
+    "user_id": "736077599457026048",
+    "name": "Johnson",
+    "spent": 21.0,
+    "points_after": 0.0,
+    "ppd": 0.0
+   }
   ]
  },
  "best_buys": [
@@ -2493,17 +2565,71 @@
    ],
    "winner_user_id": "735974647736213504",
    "margin": 13.86
+  },
+  {
+   "transaction_id": "1408599141650636800",
+   "season": 2026,
+   "week": 3,
+   "date": "2026-09-23",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "Benny G",
+     "players_gained": [
+      "Bhayshul Tuten",
+      "Jaylen Waddle"
+     ],
+     "points_after": 0.0
+    },
+    {
+     "user_id": "710284244835979264",
+     "name": "B-Husk",
+     "players_gained": [
+      "Emeka Egbuka",
+      "David Montgomery"
+     ],
+     "points_after": 0.0
+    }
+   ],
+   "winner_user_id": "608781531883859968",
+   "margin": 0.0
+  },
+  {
+   "transaction_id": "1408599770846576640",
+   "season": 2026,
+   "week": 3,
+   "date": "2026-09-23",
+   "sides": [
+    {
+     "user_id": "608781531883859968",
+     "name": "Benny G",
+     "players_gained": [
+      "Jacoby Brissett"
+     ],
+     "points_after": 0.0
+    },
+    {
+     "user_id": "1136842855890366464",
+     "name": "Kep",
+     "players_gained": [
+      "Michael Penix"
+     ],
+     "points_after": 0.0
+    }
+   ],
+   "winner_user_id": "608781531883859968",
+   "margin": 0.0
   }
  ],
  "activity": {
   "736077599457026048": {
-   "adds": 200,
-   "drops": 197,
+   "adds": 210,
+   "drops": 206,
    "trades": 23
   },
   "475399371639222272": {
-   "adds": 152,
-   "drops": 153,
+   "adds": 160,
+   "drops": 160,
    "trades": 15
   },
   "736803054736822272": {
@@ -2512,49 +2638,49 @@
    "trades": 7
   },
   "608781531883859968": {
-   "adds": 283,
-   "drops": 291,
-   "trades": 20
+   "adds": 294,
+   "drops": 302,
+   "trades": 22
   },
   "710284244835979264": {
-   "adds": 121,
-   "drops": 120,
-   "trades": 7
+   "adds": 130,
+   "drops": 128,
+   "trades": 8
   },
   "735974647736213504": {
-   "adds": 339,
-   "drops": 333,
+   "adds": 352,
+   "drops": 346,
    "trades": 29
   },
   "737091087440674816": {
-   "adds": 74,
-   "drops": 74,
+   "adds": 79,
+   "drops": 78,
    "trades": 4
   },
   "736740647758938112": {
-   "adds": 177,
-   "drops": 177,
+   "adds": 180,
+   "drops": 180,
    "trades": 14
   },
   "736744257179770880": {
-   "adds": 119,
-   "drops": 117,
+   "adds": 121,
+   "drops": 119,
    "trades": 6
   },
   "716698629934481408": {
-   "adds": 125,
-   "drops": 126,
+   "adds": 128,
+   "drops": 130,
    "trades": 11
   },
   "865793938542456832": {
-   "adds": 28,
-   "drops": 28,
+   "adds": 31,
+   "drops": 30,
    "trades": 0
   },
   "1136842855890366464": {
-   "adds": 16,
-   "drops": 17,
-   "trades": 0
+   "adds": 19,
+   "drops": 20,
+   "trades": 1
   }
  }
 }

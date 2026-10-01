@@ -841,219 +841,219 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2025,17,9,brockhusk,Just End The Season,113.04,4,jdrobny,79.85,W,True
 2025,17,10,cc5597,Baby Dak Gibbs,160.91,2,Erjohnson14,171.04,L,True
 2025,17,11,Jacktaco98,So white it hurts,94.34,1,bgreenblatt,105.56,L,True
-2026,1,1,bgreenblatt,Downs Syndrome ,0,8,TylerWicks,0,T,False
-2026,1,2,Erjohnson14,McJohnsons Johnson,0,12,akepple9,0,T,False
-2026,1,3,MaxSirianni,Maye you CeeDeez Nuts,0,4,jdrobny,0,T,False
-2026,1,4,jdrobny,Stick em up,0,3,MaxSirianni,0,T,False
-2026,1,5,charliekaufmann,Clownin’ Around,0,10,cc5597,0,T,False
-2026,1,6,JSanDusky69,Tomato Tomato Tomato,0,11,Jacktaco98,0,T,False
-2026,1,7,KingTowsk,Leeroy Clown Jenkins,0,9,brockhusk,0,T,False
-2026,1,8,TylerWicks,Don’t Stop Bo-lievin’,0,1,bgreenblatt,0,T,False
-2026,1,9,brockhusk,Just End The Season,0,7,KingTowsk,0,T,False
-2026,1,10,cc5597,Baby Dak Gibbs,0,5,charliekaufmann,0,T,False
-2026,1,11,Jacktaco98,So white it hurts,0,6,JSanDusky69,0,T,False
-2026,1,12,akepple9,Something About Flacco ,0,2,Erjohnson14,0,T,False
-2026,2,1,bgreenblatt,Downs Syndrome ,0,12,akepple9,0,T,False
-2026,2,2,Erjohnson14,McJohnsons Johnson,0,9,brockhusk,0,T,False
-2026,2,3,MaxSirianni,Maye you CeeDeez Nuts,0,8,TylerWicks,0,T,False
-2026,2,4,jdrobny,Stick em up,0,10,cc5597,0,T,False
-2026,2,5,charliekaufmann,Clownin’ Around,0,6,JSanDusky69,0,T,False
-2026,2,6,JSanDusky69,Tomato Tomato Tomato,0,5,charliekaufmann,0,T,False
-2026,2,7,KingTowsk,Leeroy Clown Jenkins,0,11,Jacktaco98,0,T,False
-2026,2,8,TylerWicks,Don’t Stop Bo-lievin’,0,3,MaxSirianni,0,T,False
-2026,2,9,brockhusk,Just End The Season,0,2,Erjohnson14,0,T,False
-2026,2,10,cc5597,Baby Dak Gibbs,0,4,jdrobny,0,T,False
-2026,2,11,Jacktaco98,So white it hurts,0,7,KingTowsk,0,T,False
-2026,2,12,akepple9,Something About Flacco ,0,1,bgreenblatt,0,T,False
-2026,3,1,bgreenblatt,Downs Syndrome ,0,9,brockhusk,0,T,False
-2026,3,2,Erjohnson14,McJohnsons Johnson,0,11,Jacktaco98,0,T,False
-2026,3,3,MaxSirianni,Maye you CeeDeez Nuts,0,10,cc5597,0,T,False
-2026,3,4,jdrobny,Stick em up,0,6,JSanDusky69,0,T,False
-2026,3,5,charliekaufmann,Clownin’ Around,0,7,KingTowsk,0,T,False
-2026,3,6,JSanDusky69,Tomato Tomato Tomato,0,4,jdrobny,0,T,False
-2026,3,7,KingTowsk,Leeroy Clown Jenkins,0,5,charliekaufmann,0,T,False
-2026,3,8,TylerWicks,Don’t Stop Bo-lievin’,0,12,akepple9,0,T,False
-2026,3,9,brockhusk,Just End The Season,0,1,bgreenblatt,0,T,False
-2026,3,10,cc5597,Baby Dak Gibbs,0,3,MaxSirianni,0,T,False
-2026,3,11,Jacktaco98,So white it hurts,0,2,Erjohnson14,0,T,False
-2026,3,12,akepple9,Something About Flacco ,0,8,TylerWicks,0,T,False
+2026,1,1,bgreenblatt,Downs Syndrome ,189.06,8,TylerWicks,101.07,W,False
+2026,1,2,Erjohnson14,McJohnsons Johnson,184.74,12,akepple9,165.22,W,False
+2026,1,3,MaxSirianni,Maye you CeeDeez Nuts,100.34,4,jdrobny,109.6,L,False
+2026,1,4,jdrobny,Stick em up,109.6,3,MaxSirianni,100.34,W,False
+2026,1,5,charliekaufmann,Clownin’ Around,135.86,10,cc5597,137.26,L,False
+2026,1,6,JSanDusky69,The Blue Tent Bandits,93.11,11,Jacktaco98,186.75,L,False
+2026,1,7,KingTowsk,Leeroy Clown Jenkins,147.48,9,brockhusk,71.54,W,False
+2026,1,8,TylerWicks,Don’t Stop Bo-lievin’,101.07,1,bgreenblatt,189.06,L,False
+2026,1,9,brockhusk,Just End The Season,71.54,7,KingTowsk,147.48,L,False
+2026,1,10,cc5597,D. Adams Ramily,137.26,5,charliekaufmann,135.86,W,False
+2026,1,11,Jacktaco98,Young Stroud boys,186.75,6,JSanDusky69,93.11,W,False
+2026,1,12,akepple9,Project Skrilla ,165.22,2,Erjohnson14,184.74,L,False
+2026,2,1,bgreenblatt,Downs Syndrome ,109.48,12,akepple9,119.74,L,False
+2026,2,2,Erjohnson14,McJohnsons Johnson,111.79,9,brockhusk,129.59,L,False
+2026,2,3,MaxSirianni,Maye you CeeDeez Nuts,129.24,8,TylerWicks,122.12,W,False
+2026,2,4,jdrobny,Stick em up,147.46,10,cc5597,137.25,W,False
+2026,2,5,charliekaufmann,Clownin’ Around,136.26,6,JSanDusky69,134.23,W,False
+2026,2,6,JSanDusky69,The Blue Tent Bandits,134.23,5,charliekaufmann,136.26,L,False
+2026,2,7,KingTowsk,Leeroy Clown Jenkins,123.98,11,Jacktaco98,170.4,L,False
+2026,2,8,TylerWicks,Don’t Stop Bo-lievin’,122.12,3,MaxSirianni,129.24,L,False
+2026,2,9,brockhusk,Just End The Season,129.59,2,Erjohnson14,111.79,W,False
+2026,2,10,cc5597,D. Adams Ramily,137.25,4,jdrobny,147.46,L,False
+2026,2,11,Jacktaco98,Young Stroud boys,170.4,7,KingTowsk,123.98,W,False
+2026,2,12,akepple9,Project Skrilla ,119.74,1,bgreenblatt,109.48,W,False
+2026,3,1,bgreenblatt,Downs Syndrome ,162.64,9,brockhusk,132.28,W,False
+2026,3,2,Erjohnson14,McJohnsons Johnson,157.14,11,Jacktaco98,151.27,W,False
+2026,3,3,MaxSirianni,Maye you CeeDeez Nuts,123.17,10,cc5597,109.52,W,False
+2026,3,4,jdrobny,Stick em up,131.7,6,JSanDusky69,104.81,W,False
+2026,3,5,charliekaufmann,Clownin’ Around,139.81,7,KingTowsk,91.08,W,False
+2026,3,6,JSanDusky69,The Blue Tent Bandits,104.81,4,jdrobny,131.7,L,False
+2026,3,7,KingTowsk,Leeroy Clown Jenkins,91.08,5,charliekaufmann,139.81,L,False
+2026,3,8,TylerWicks,Don’t Stop Bo-lievin’,150.48,12,akepple9,120.43,W,False
+2026,3,9,brockhusk,Just End The Season,132.28,1,bgreenblatt,162.64,L,False
+2026,3,10,cc5597,D. Adams Ramily,109.52,3,MaxSirianni,123.17,L,False
+2026,3,11,Jacktaco98,Young Stroud boys,151.27,2,Erjohnson14,157.14,L,False
+2026,3,12,akepple9,Project Skrilla ,120.43,8,TylerWicks,150.48,L,False
 2026,4,1,bgreenblatt,Downs Syndrome ,0,11,Jacktaco98,0,T,False
 2026,4,2,Erjohnson14,McJohnsons Johnson,0,5,charliekaufmann,0,T,False
 2026,4,3,MaxSirianni,Maye you CeeDeez Nuts,0,12,akepple9,0,T,False
 2026,4,4,jdrobny,Stick em up,0,7,KingTowsk,0,T,False
 2026,4,5,charliekaufmann,Clownin’ Around,0,2,Erjohnson14,0,T,False
-2026,4,6,JSanDusky69,Tomato Tomato Tomato,0,10,cc5597,0,T,False
+2026,4,6,JSanDusky69,The Blue Tent Bandits,0,10,cc5597,0,T,False
 2026,4,7,KingTowsk,Leeroy Clown Jenkins,0,4,jdrobny,0,T,False
 2026,4,8,TylerWicks,Don’t Stop Bo-lievin’,0,9,brockhusk,0,T,False
 2026,4,9,brockhusk,Just End The Season,0,8,TylerWicks,0,T,False
-2026,4,10,cc5597,Baby Dak Gibbs,0,6,JSanDusky69,0,T,False
-2026,4,11,Jacktaco98,So white it hurts,0,1,bgreenblatt,0,T,False
-2026,4,12,akepple9,Something About Flacco ,0,3,MaxSirianni,0,T,False
+2026,4,10,cc5597,D. Adams Ramily,0,6,JSanDusky69,0,T,False
+2026,4,11,Jacktaco98,Young Stroud boys,0,1,bgreenblatt,0,T,False
+2026,4,12,akepple9,Project Skrilla ,0,3,MaxSirianni,0,T,False
 2026,5,1,bgreenblatt,Downs Syndrome ,0,5,charliekaufmann,0,T,False
 2026,5,2,Erjohnson14,McJohnsons Johnson,0,4,jdrobny,0,T,False
 2026,5,3,MaxSirianni,Maye you CeeDeez Nuts,0,6,JSanDusky69,0,T,False
 2026,5,4,jdrobny,Stick em up,0,2,Erjohnson14,0,T,False
 2026,5,5,charliekaufmann,Clownin’ Around,0,1,bgreenblatt,0,T,False
-2026,5,6,JSanDusky69,Tomato Tomato Tomato,0,3,MaxSirianni,0,T,False
+2026,5,6,JSanDusky69,The Blue Tent Bandits,0,3,MaxSirianni,0,T,False
 2026,5,7,KingTowsk,Leeroy Clown Jenkins,0,10,cc5597,0,T,False
 2026,5,8,TylerWicks,Don’t Stop Bo-lievin’,0,11,Jacktaco98,0,T,False
 2026,5,9,brockhusk,Just End The Season,0,12,akepple9,0,T,False
-2026,5,10,cc5597,Baby Dak Gibbs,0,7,KingTowsk,0,T,False
-2026,5,11,Jacktaco98,So white it hurts,0,8,TylerWicks,0,T,False
-2026,5,12,akepple9,Something About Flacco ,0,9,brockhusk,0,T,False
+2026,5,10,cc5597,D. Adams Ramily,0,7,KingTowsk,0,T,False
+2026,5,11,Jacktaco98,Young Stroud boys,0,8,TylerWicks,0,T,False
+2026,5,12,akepple9,Project Skrilla ,0,9,brockhusk,0,T,False
 2026,6,1,bgreenblatt,Downs Syndrome ,0,4,jdrobny,0,T,False
 2026,6,2,Erjohnson14,McJohnsons Johnson,0,10,cc5597,0,T,False
 2026,6,3,MaxSirianni,Maye you CeeDeez Nuts,0,9,brockhusk,0,T,False
 2026,6,4,jdrobny,Stick em up,0,1,bgreenblatt,0,T,False
 2026,6,5,charliekaufmann,Clownin’ Around,0,8,TylerWicks,0,T,False
-2026,6,6,JSanDusky69,Tomato Tomato Tomato,0,7,KingTowsk,0,T,False
+2026,6,6,JSanDusky69,The Blue Tent Bandits,0,7,KingTowsk,0,T,False
 2026,6,7,KingTowsk,Leeroy Clown Jenkins,0,6,JSanDusky69,0,T,False
 2026,6,8,TylerWicks,Don’t Stop Bo-lievin’,0,5,charliekaufmann,0,T,False
 2026,6,9,brockhusk,Just End The Season,0,3,MaxSirianni,0,T,False
-2026,6,10,cc5597,Baby Dak Gibbs,0,2,Erjohnson14,0,T,False
-2026,6,11,Jacktaco98,So white it hurts,0,12,akepple9,0,T,False
-2026,6,12,akepple9,Something About Flacco ,0,11,Jacktaco98,0,T,False
+2026,6,10,cc5597,D. Adams Ramily,0,2,Erjohnson14,0,T,False
+2026,6,11,Jacktaco98,Young Stroud boys,0,12,akepple9,0,T,False
+2026,6,12,akepple9,Project Skrilla ,0,11,Jacktaco98,0,T,False
 2026,7,1,bgreenblatt,Downs Syndrome ,0,10,cc5597,0,T,False
 2026,7,2,Erjohnson14,McJohnsons Johnson,0,6,JSanDusky69,0,T,False
 2026,7,3,MaxSirianni,Maye you CeeDeez Nuts,0,7,KingTowsk,0,T,False
 2026,7,4,jdrobny,Stick em up,0,8,TylerWicks,0,T,False
 2026,7,5,charliekaufmann,Clownin’ Around,0,12,akepple9,0,T,False
-2026,7,6,JSanDusky69,Tomato Tomato Tomato,0,2,Erjohnson14,0,T,False
+2026,7,6,JSanDusky69,The Blue Tent Bandits,0,2,Erjohnson14,0,T,False
 2026,7,7,KingTowsk,Leeroy Clown Jenkins,0,3,MaxSirianni,0,T,False
 2026,7,8,TylerWicks,Don’t Stop Bo-lievin’,0,4,jdrobny,0,T,False
 2026,7,9,brockhusk,Just End The Season,0,11,Jacktaco98,0,T,False
-2026,7,10,cc5597,Baby Dak Gibbs,0,1,bgreenblatt,0,T,False
-2026,7,11,Jacktaco98,So white it hurts,0,9,brockhusk,0,T,False
-2026,7,12,akepple9,Something About Flacco ,0,5,charliekaufmann,0,T,False
+2026,7,10,cc5597,D. Adams Ramily,0,1,bgreenblatt,0,T,False
+2026,7,11,Jacktaco98,Young Stroud boys,0,9,brockhusk,0,T,False
+2026,7,12,akepple9,Project Skrilla ,0,5,charliekaufmann,0,T,False
 2026,8,1,bgreenblatt,Downs Syndrome ,0,6,JSanDusky69,0,T,False
 2026,8,2,Erjohnson14,McJohnsons Johnson,0,7,KingTowsk,0,T,False
 2026,8,3,MaxSirianni,Maye you CeeDeez Nuts,0,11,Jacktaco98,0,T,False
 2026,8,4,jdrobny,Stick em up,0,12,akepple9,0,T,False
 2026,8,5,charliekaufmann,Clownin’ Around,0,9,brockhusk,0,T,False
-2026,8,6,JSanDusky69,Tomato Tomato Tomato,0,1,bgreenblatt,0,T,False
+2026,8,6,JSanDusky69,The Blue Tent Bandits,0,1,bgreenblatt,0,T,False
 2026,8,7,KingTowsk,Leeroy Clown Jenkins,0,2,Erjohnson14,0,T,False
 2026,8,8,TylerWicks,Don’t Stop Bo-lievin’,0,10,cc5597,0,T,False
 2026,8,9,brockhusk,Just End The Season,0,5,charliekaufmann,0,T,False
-2026,8,10,cc5597,Baby Dak Gibbs,0,8,TylerWicks,0,T,False
-2026,8,11,Jacktaco98,So white it hurts,0,3,MaxSirianni,0,T,False
-2026,8,12,akepple9,Something About Flacco ,0,4,jdrobny,0,T,False
+2026,8,10,cc5597,D. Adams Ramily,0,8,TylerWicks,0,T,False
+2026,8,11,Jacktaco98,Young Stroud boys,0,3,MaxSirianni,0,T,False
+2026,8,12,akepple9,Project Skrilla ,0,4,jdrobny,0,T,False
 2026,9,1,bgreenblatt,Downs Syndrome ,0,7,KingTowsk,0,T,False
 2026,9,2,Erjohnson14,McJohnsons Johnson,0,3,MaxSirianni,0,T,False
 2026,9,3,MaxSirianni,Maye you CeeDeez Nuts,0,2,Erjohnson14,0,T,False
 2026,9,4,jdrobny,Stick em up,0,9,brockhusk,0,T,False
 2026,9,5,charliekaufmann,Clownin’ Around,0,11,Jacktaco98,0,T,False
-2026,9,6,JSanDusky69,Tomato Tomato Tomato,0,8,TylerWicks,0,T,False
+2026,9,6,JSanDusky69,The Blue Tent Bandits,0,8,TylerWicks,0,T,False
 2026,9,7,KingTowsk,Leeroy Clown Jenkins,0,1,bgreenblatt,0,T,False
 2026,9,8,TylerWicks,Don’t Stop Bo-lievin’,0,6,JSanDusky69,0,T,False
 2026,9,9,brockhusk,Just End The Season,0,4,jdrobny,0,T,False
-2026,9,10,cc5597,Baby Dak Gibbs,0,12,akepple9,0,T,False
-2026,9,11,Jacktaco98,So white it hurts,0,5,charliekaufmann,0,T,False
-2026,9,12,akepple9,Something About Flacco ,0,10,cc5597,0,T,False
+2026,9,10,cc5597,D. Adams Ramily,0,12,akepple9,0,T,False
+2026,9,11,Jacktaco98,Young Stroud boys,0,5,charliekaufmann,0,T,False
+2026,9,12,akepple9,Project Skrilla ,0,10,cc5597,0,T,False
 2026,10,1,bgreenblatt,Downs Syndrome ,0,2,Erjohnson14,0,T,False
 2026,10,2,Erjohnson14,McJohnsons Johnson,0,1,bgreenblatt,0,T,False
 2026,10,3,MaxSirianni,Maye you CeeDeez Nuts,0,5,charliekaufmann,0,T,False
 2026,10,4,jdrobny,Stick em up,0,11,Jacktaco98,0,T,False
 2026,10,5,charliekaufmann,Clownin’ Around,0,3,MaxSirianni,0,T,False
-2026,10,6,JSanDusky69,Tomato Tomato Tomato,0,12,akepple9,0,T,False
+2026,10,6,JSanDusky69,The Blue Tent Bandits,0,12,akepple9,0,T,False
 2026,10,7,KingTowsk,Leeroy Clown Jenkins,0,8,TylerWicks,0,T,False
 2026,10,8,TylerWicks,Don’t Stop Bo-lievin’,0,7,KingTowsk,0,T,False
 2026,10,9,brockhusk,Just End The Season,0,10,cc5597,0,T,False
-2026,10,10,cc5597,Baby Dak Gibbs,0,9,brockhusk,0,T,False
-2026,10,11,Jacktaco98,So white it hurts,0,4,jdrobny,0,T,False
-2026,10,12,akepple9,Something About Flacco ,0,6,JSanDusky69,0,T,False
+2026,10,10,cc5597,D. Adams Ramily,0,9,brockhusk,0,T,False
+2026,10,11,Jacktaco98,Young Stroud boys,0,4,jdrobny,0,T,False
+2026,10,12,akepple9,Project Skrilla ,0,6,JSanDusky69,0,T,False
 2026,11,1,bgreenblatt,Downs Syndrome ,0,3,MaxSirianni,0,T,False
 2026,11,2,Erjohnson14,McJohnsons Johnson,0,8,TylerWicks,0,T,False
 2026,11,3,MaxSirianni,Maye you CeeDeez Nuts,0,1,bgreenblatt,0,T,False
 2026,11,4,jdrobny,Stick em up,0,5,charliekaufmann,0,T,False
 2026,11,5,charliekaufmann,Clownin’ Around,0,4,jdrobny,0,T,False
-2026,11,6,JSanDusky69,Tomato Tomato Tomato,0,9,brockhusk,0,T,False
+2026,11,6,JSanDusky69,The Blue Tent Bandits,0,9,brockhusk,0,T,False
 2026,11,7,KingTowsk,Leeroy Clown Jenkins,0,12,akepple9,0,T,False
 2026,11,8,TylerWicks,Don’t Stop Bo-lievin’,0,2,Erjohnson14,0,T,False
 2026,11,9,brockhusk,Just End The Season,0,6,JSanDusky69,0,T,False
-2026,11,10,cc5597,Baby Dak Gibbs,0,11,Jacktaco98,0,T,False
-2026,11,11,Jacktaco98,So white it hurts,0,10,cc5597,0,T,False
-2026,11,12,akepple9,Something About Flacco ,0,7,KingTowsk,0,T,False
+2026,11,10,cc5597,D. Adams Ramily,0,11,Jacktaco98,0,T,False
+2026,11,11,Jacktaco98,Young Stroud boys,0,10,cc5597,0,T,False
+2026,11,12,akepple9,Project Skrilla ,0,7,KingTowsk,0,T,False
 2026,12,1,bgreenblatt,Downs Syndrome ,0,8,TylerWicks,0,T,False
 2026,12,2,Erjohnson14,McJohnsons Johnson,0,12,akepple9,0,T,False
 2026,12,3,MaxSirianni,Maye you CeeDeez Nuts,0,4,jdrobny,0,T,False
 2026,12,4,jdrobny,Stick em up,0,3,MaxSirianni,0,T,False
 2026,12,5,charliekaufmann,Clownin’ Around,0,10,cc5597,0,T,False
-2026,12,6,JSanDusky69,Tomato Tomato Tomato,0,11,Jacktaco98,0,T,False
+2026,12,6,JSanDusky69,The Blue Tent Bandits,0,11,Jacktaco98,0,T,False
 2026,12,7,KingTowsk,Leeroy Clown Jenkins,0,9,brockhusk,0,T,False
 2026,12,8,TylerWicks,Don’t Stop Bo-lievin’,0,1,bgreenblatt,0,T,False
 2026,12,9,brockhusk,Just End The Season,0,7,KingTowsk,0,T,False
-2026,12,10,cc5597,Baby Dak Gibbs,0,5,charliekaufmann,0,T,False
-2026,12,11,Jacktaco98,So white it hurts,0,6,JSanDusky69,0,T,False
-2026,12,12,akepple9,Something About Flacco ,0,2,Erjohnson14,0,T,False
+2026,12,10,cc5597,D. Adams Ramily,0,5,charliekaufmann,0,T,False
+2026,12,11,Jacktaco98,Young Stroud boys,0,6,JSanDusky69,0,T,False
+2026,12,12,akepple9,Project Skrilla ,0,2,Erjohnson14,0,T,False
 2026,13,1,bgreenblatt,Downs Syndrome ,0,12,akepple9,0,T,False
 2026,13,2,Erjohnson14,McJohnsons Johnson,0,9,brockhusk,0,T,False
 2026,13,3,MaxSirianni,Maye you CeeDeez Nuts,0,8,TylerWicks,0,T,False
 2026,13,4,jdrobny,Stick em up,0,10,cc5597,0,T,False
 2026,13,5,charliekaufmann,Clownin’ Around,0,6,JSanDusky69,0,T,False
-2026,13,6,JSanDusky69,Tomato Tomato Tomato,0,5,charliekaufmann,0,T,False
+2026,13,6,JSanDusky69,The Blue Tent Bandits,0,5,charliekaufmann,0,T,False
 2026,13,7,KingTowsk,Leeroy Clown Jenkins,0,11,Jacktaco98,0,T,False
 2026,13,8,TylerWicks,Don’t Stop Bo-lievin’,0,3,MaxSirianni,0,T,False
 2026,13,9,brockhusk,Just End The Season,0,2,Erjohnson14,0,T,False
-2026,13,10,cc5597,Baby Dak Gibbs,0,4,jdrobny,0,T,False
-2026,13,11,Jacktaco98,So white it hurts,0,7,KingTowsk,0,T,False
-2026,13,12,akepple9,Something About Flacco ,0,1,bgreenblatt,0,T,False
+2026,13,10,cc5597,D. Adams Ramily,0,4,jdrobny,0,T,False
+2026,13,11,Jacktaco98,Young Stroud boys,0,7,KingTowsk,0,T,False
+2026,13,12,akepple9,Project Skrilla ,0,1,bgreenblatt,0,T,False
 2026,14,1,bgreenblatt,Downs Syndrome ,0,9,brockhusk,0,T,False
 2026,14,2,Erjohnson14,McJohnsons Johnson,0,11,Jacktaco98,0,T,False
 2026,14,3,MaxSirianni,Maye you CeeDeez Nuts,0,10,cc5597,0,T,False
 2026,14,4,jdrobny,Stick em up,0,6,JSanDusky69,0,T,False
 2026,14,5,charliekaufmann,Clownin’ Around,0,7,KingTowsk,0,T,False
-2026,14,6,JSanDusky69,Tomato Tomato Tomato,0,4,jdrobny,0,T,False
+2026,14,6,JSanDusky69,The Blue Tent Bandits,0,4,jdrobny,0,T,False
 2026,14,7,KingTowsk,Leeroy Clown Jenkins,0,5,charliekaufmann,0,T,False
 2026,14,8,TylerWicks,Don’t Stop Bo-lievin’,0,12,akepple9,0,T,False
 2026,14,9,brockhusk,Just End The Season,0,1,bgreenblatt,0,T,False
-2026,14,10,cc5597,Baby Dak Gibbs,0,3,MaxSirianni,0,T,False
-2026,14,11,Jacktaco98,So white it hurts,0,2,Erjohnson14,0,T,False
-2026,14,12,akepple9,Something About Flacco ,0,8,TylerWicks,0,T,False
+2026,14,10,cc5597,D. Adams Ramily,0,3,MaxSirianni,0,T,False
+2026,14,11,Jacktaco98,Young Stroud boys,0,2,Erjohnson14,0,T,False
+2026,14,12,akepple9,Project Skrilla ,0,8,TylerWicks,0,T,False
 2026,15,1,bgreenblatt,Downs Syndrome ,0,11,Jacktaco98,0,T,True
 2026,15,2,Erjohnson14,McJohnsons Johnson,0,5,charliekaufmann,0,T,True
 2026,15,3,MaxSirianni,Maye you CeeDeez Nuts,0,12,akepple9,0,T,True
 2026,15,4,jdrobny,Stick em up,0,7,KingTowsk,0,T,True
 2026,15,5,charliekaufmann,Clownin’ Around,0,2,Erjohnson14,0,T,True
-2026,15,6,JSanDusky69,Tomato Tomato Tomato,0,10,cc5597,0,T,True
+2026,15,6,JSanDusky69,The Blue Tent Bandits,0,10,cc5597,0,T,True
 2026,15,7,KingTowsk,Leeroy Clown Jenkins,0,4,jdrobny,0,T,True
 2026,15,8,TylerWicks,Don’t Stop Bo-lievin’,0,9,brockhusk,0,T,True
 2026,15,9,brockhusk,Just End The Season,0,8,TylerWicks,0,T,True
-2026,15,10,cc5597,Baby Dak Gibbs,0,6,JSanDusky69,0,T,True
-2026,15,11,Jacktaco98,So white it hurts,0,1,bgreenblatt,0,T,True
-2026,15,12,akepple9,Something About Flacco ,0,3,MaxSirianni,0,T,True
+2026,15,10,cc5597,D. Adams Ramily,0,6,JSanDusky69,0,T,True
+2026,15,11,Jacktaco98,Young Stroud boys,0,1,bgreenblatt,0,T,True
+2026,15,12,akepple9,Project Skrilla ,0,3,MaxSirianni,0,T,True
 2026,16,1,bgreenblatt,Downs Syndrome ,0,5,charliekaufmann,0,T,True
 2026,16,2,Erjohnson14,McJohnsons Johnson,0,4,jdrobny,0,T,True
 2026,16,3,MaxSirianni,Maye you CeeDeez Nuts,0,6,JSanDusky69,0,T,True
 2026,16,4,jdrobny,Stick em up,0,2,Erjohnson14,0,T,True
 2026,16,5,charliekaufmann,Clownin’ Around,0,1,bgreenblatt,0,T,True
-2026,16,6,JSanDusky69,Tomato Tomato Tomato,0,3,MaxSirianni,0,T,True
+2026,16,6,JSanDusky69,The Blue Tent Bandits,0,3,MaxSirianni,0,T,True
 2026,16,7,KingTowsk,Leeroy Clown Jenkins,0,10,cc5597,0,T,True
 2026,16,8,TylerWicks,Don’t Stop Bo-lievin’,0,11,Jacktaco98,0,T,True
 2026,16,9,brockhusk,Just End The Season,0,12,akepple9,0,T,True
-2026,16,10,cc5597,Baby Dak Gibbs,0,7,KingTowsk,0,T,True
-2026,16,11,Jacktaco98,So white it hurts,0,8,TylerWicks,0,T,True
-2026,16,12,akepple9,Something About Flacco ,0,9,brockhusk,0,T,True
+2026,16,10,cc5597,D. Adams Ramily,0,7,KingTowsk,0,T,True
+2026,16,11,Jacktaco98,Young Stroud boys,0,8,TylerWicks,0,T,True
+2026,16,12,akepple9,Project Skrilla ,0,9,brockhusk,0,T,True
 2026,17,1,bgreenblatt,Downs Syndrome ,0,4,jdrobny,0,T,True
 2026,17,2,Erjohnson14,McJohnsons Johnson,0,10,cc5597,0,T,True
 2026,17,3,MaxSirianni,Maye you CeeDeez Nuts,0,9,brockhusk,0,T,True
 2026,17,4,jdrobny,Stick em up,0,1,bgreenblatt,0,T,True
 2026,17,5,charliekaufmann,Clownin’ Around,0,8,TylerWicks,0,T,True
-2026,17,6,JSanDusky69,Tomato Tomato Tomato,0,7,KingTowsk,0,T,True
+2026,17,6,JSanDusky69,The Blue Tent Bandits,0,7,KingTowsk,0,T,True
 2026,17,7,KingTowsk,Leeroy Clown Jenkins,0,6,JSanDusky69,0,T,True
 2026,17,8,TylerWicks,Don’t Stop Bo-lievin’,0,5,charliekaufmann,0,T,True
 2026,17,9,brockhusk,Just End The Season,0,3,MaxSirianni,0,T,True
-2026,17,10,cc5597,Baby Dak Gibbs,0,2,Erjohnson14,0,T,True
-2026,17,11,Jacktaco98,So white it hurts,0,12,akepple9,0,T,True
-2026,17,12,akepple9,Something About Flacco ,0,11,Jacktaco98,0,T,True
+2026,17,10,cc5597,D. Adams Ramily,0,2,Erjohnson14,0,T,True
+2026,17,11,Jacktaco98,Young Stroud boys,0,12,akepple9,0,T,True
+2026,17,12,akepple9,Project Skrilla ,0,11,Jacktaco98,0,T,True
 2026,18,1,bgreenblatt,Downs Syndrome ,0,10,cc5597,0,T,True
 2026,18,2,Erjohnson14,McJohnsons Johnson,0,6,JSanDusky69,0,T,True
 2026,18,3,MaxSirianni,Maye you CeeDeez Nuts,0,7,KingTowsk,0,T,True
 2026,18,4,jdrobny,Stick em up,0,8,TylerWicks,0,T,True
 2026,18,5,charliekaufmann,Clownin’ Around,0,12,akepple9,0,T,True
-2026,18,6,JSanDusky69,Tomato Tomato Tomato,0,2,Erjohnson14,0,T,True
+2026,18,6,JSanDusky69,The Blue Tent Bandits,0,2,Erjohnson14,0,T,True
 2026,18,7,KingTowsk,Leeroy Clown Jenkins,0,3,MaxSirianni,0,T,True
 2026,18,8,TylerWicks,Don’t Stop Bo-lievin’,0,4,jdrobny,0,T,True
 2026,18,9,brockhusk,Just End The Season,0,11,Jacktaco98,0,T,True
-2026,18,10,cc5597,Baby Dak Gibbs,0,1,bgreenblatt,0,T,True
-2026,18,11,Jacktaco98,So white it hurts,0,9,brockhusk,0,T,True
-2026,18,12,akepple9,Something About Flacco ,0,5,charliekaufmann,0,T,True
+2026,18,10,cc5597,D. Adams Ramily,0,1,bgreenblatt,0,T,True
+2026,18,11,Jacktaco98,Young Stroud boys,0,9,brockhusk,0,T,True
+2026,18,12,akepple9,Project Skrilla ,0,5,charliekaufmann,0,T,True

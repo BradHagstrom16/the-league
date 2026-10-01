@@ -56,7 +56,7 @@
    "titles": 0,
    "playoff_apps": 3,
    "last_places": 0,
-   "longest_win_streak": 6,
+   "longest_win_streak": 7,
    "longest_loss_streak": 6,
    "active": true
   },
@@ -224,7 +224,7 @@
    "user_id": "737091087440674816",
    "name": "Siri",
    "handle": "MaxSirianni",
-   "avatar": "8e1247598f587f8f4257ed435ba089be",
+   "avatar": "3ab3a3d07c504c53ce5a342fa4c4baa4",
    "seasons": 5,
    "wins": 28,
    "losses": 41,
