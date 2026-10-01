@@ -6,7 +6,9 @@ BASE = Path(__file__).resolve().parent.parent
 
 def test_load_real_data():
     d = load_data(BASE)
-    assert set(d.played_seasons()) == {2021, 2022, 2023, 2024, 2025}
+    # History only grows: 2026 joined once week 1 was played, and an exact set
+    # failed every scheduled deploy from 2026-09-15 on.
+    assert {2021, 2022, 2023, 2024, 2025} <= set(d.played_seasons())
     assert d.era(2024) == "10-team" and d.era(2025) == "12-team"
     reg = d.reg_matchups()
     assert reg.is_playoff.eq(False).all()
