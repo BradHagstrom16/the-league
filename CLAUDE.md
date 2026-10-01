@@ -19,6 +19,8 @@ python3 -m http.server 8123 --directory site      # view locally
 - Branch, PR (CodeRabbit and GitGuardian run on it), squash-merge. A PR never exercises the deploy.
 - `main` moves without you: the Action commits `data: scheduled refresh` every Tuesday in season (and on the 1st of each month). `git pull` before branching.
 - Push to `main` builds and deploys from the committed data without pulling. Scheduled and manual runs pull from Sleeper, commit the data, then deploy.
+- A blank `finish` means "season not concluded". `pull_league_data.rank_standings` only ranks once Sleeper's status is `complete`, and `career._played_standings` and `validate_data.check_champion` rely on that. A season in progress (2026 from week 1) has matchups but no finish; anything new that lists concluded seasons must key on `finish` the same way.
+- Before trusting a fix that touches the pull, simulate the scheduled run in a scratch clone: pytest, `pull_league_data.py`, `validate_data.py`, `build_site.py`, pytest again. A push never runs the pull.
 - A shared research repo vendors this one (minus `site/`, `templates/`, `images/`, `build_site.py`) through git subtree, so `leaguestats/` has a second consumer.
 
 ## League law (Brad's word is final; don't re-derive from the GGG league, which differs)
