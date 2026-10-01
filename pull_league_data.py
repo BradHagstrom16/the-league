@@ -276,6 +276,20 @@ STANDING_FIELDS = [
 ]
 
 
+def rank_standings(rows, playoff_teams, status):
+    """Sort a season's rows (wins first, points for as the tiebreak, the way the
+    league ranks) and set finish/made_playoffs only once Sleeper marks the
+    season complete. A blank finish is how the stats code tells a season still
+    in progress from a concluded one (career._played_standings, validate's
+    check_champion), so pre-draft, in-season and playoff seasons keep it blank."""
+    rows.sort(key=lambda r: (-r["wins"], -r["points_for"]))
+    if status == "complete":
+        for i, r in enumerate(rows, 1):
+            r["finish"] = i
+            r["made_playoffs"] = int(i <= playoff_teams)
+    return rows
+
+
 def pull_standings(seasons, draft_rows, recomp=None):
     """
     recomp maps (season, roster_id) -> (pf, pa) recomputed from regular-season
@@ -337,15 +351,10 @@ def pull_standings(seasons, draft_rows, recomp=None):
                 })
 
             # Sleeper exposes no regular-season rank field, so derive it the way
-            # the league does: wins first, points for as the tiebreak. Skip
-            # seasons that have not been played — 0-0 records would rank teams
-            # by nothing and read as a real standing.
-            played = any(r["wins"] or r["losses"] or r["ties"] for r in rows)
-            rows.sort(key=lambda r: (-r["wins"], -r["points_for"]))
-            if played:
-                for i, r in enumerate(rows, 1):
-                    r["finish"] = i
-                    r["made_playoffs"] = int(i <= playoff_teams)
+            # the league does. Only a complete season gets a finish: a 0-0 season
+            # would rank teams by nothing, and an in-progress one would read as
+            # concluded with no champion.
+            rank_standings(rows, playoff_teams, league.get("status"))
 
             write_csv(out_dir / f"standings_{season}.csv", STANDING_FIELDS, rows)
             all_rows.extend(rows)
