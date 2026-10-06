@@ -1570,6 +1570,15 @@
    "surplus": 49.2
   },
   {
+   "season": 2026,
+   "user_id": "736077599457026048",
+   "name": "Johnson",
+   "player_name": "Javonte Williams",
+   "keep_round": 9,
+   "points": 80.8,
+   "surplus": 45.5
+  },
+  {
    "season": 2022,
    "user_id": "735974647736213504",
    "name": "Towsk",
@@ -1577,6 +1586,15 @@
    "keep_round": 11,
    "points": 161.5,
    "surplus": 45.0
+  },
+  {
+   "season": 2026,
+   "user_id": "1136842855890366464",
+   "name": "Kep",
+   "player_name": "Chris Olave",
+   "keep_round": 6,
+   "points": 91.6,
+   "surplus": 44.8
   },
   {
    "season": 2025,
@@ -1606,15 +1624,6 @@
    "surplus": 41.4
   },
   {
-   "season": 2026,
-   "user_id": "1136842855890366464",
-   "name": "Kep",
-   "player_name": "Chris Olave",
-   "keep_round": 6,
-   "points": 71.5,
-   "surplus": 34.8
-  },
-  {
    "season": 2023,
    "user_id": "736744257179770880",
    "name": "Drobny",
@@ -1642,6 +1651,15 @@
    "surplus": 29.1
   },
   {
+   "season": 2026,
+   "user_id": "736077599457026048",
+   "name": "Johnson",
+   "player_name": "Trevor Lawrence",
+   "keep_round": 8,
+   "points": 65.1,
+   "surplus": 28.7
+  },
+  {
    "season": 2024,
    "user_id": "736744257179770880",
    "name": "Drobny",
@@ -1651,15 +1669,6 @@
    "surplus": 28.6
   },
   {
-   "season": 2026,
-   "user_id": "736077599457026048",
-   "name": "Johnson",
-   "player_name": "Trevor Lawrence",
-   "keep_round": 8,
-   "points": 52.0,
-   "surplus": 27.8
-  },
-  {
    "season": 2024,
    "user_id": "736077599457026048",
    "name": "Johnson",
@@ -1667,15 +1676,6 @@
    "keep_round": 10,
    "points": 186.6,
    "surplus": 27.0
-  },
-  {
-   "season": 2026,
-   "user_id": "736077599457026048",
-   "name": "Johnson",
-   "player_name": "Javonte Williams",
-   "keep_round": 9,
-   "points": 49.5,
-   "surplus": 24.3
   },
   {
    "season": 2022,
@@ -1696,6 +1696,15 @@
    "surplus": 23.7
   },
   {
+   "season": 2026,
+   "user_id": "736744257179770880",
+   "name": "Drobny",
+   "player_name": "Matthew Stafford",
+   "keep_round": 10,
+   "points": 61.7,
+   "surplus": 23.1
+  },
+  {
    "season": 2025,
    "user_id": "736740647758938112",
    "name": "BJ",
@@ -1714,33 +1723,6 @@
    "surplus": 21.2
   },
   {
-   "season": 2026,
-   "user_id": "736744257179770880",
-   "name": "Drobny",
-   "player_name": "Matthew Stafford",
-   "keep_round": 10,
-   "points": 51.5,
-   "surplus": 21.2
-  },
-  {
-   "season": 2026,
-   "user_id": "735974647736213504",
-   "name": "Towsk",
-   "player_name": "Dalton Kincaid",
-   "keep_round": 12,
-   "points": 44.8,
-   "surplus": 20.4
-  },
-  {
-   "season": 2026,
-   "user_id": "736740647758938112",
-   "name": "BJ",
-   "player_name": "D'Andre Swift",
-   "keep_round": 6,
-   "points": 56.6,
-   "surplus": 19.9
-  },
-  {
    "season": 2024,
    "user_id": "735974647736213504",
    "name": "Towsk",
@@ -1748,6 +1730,15 @@
    "keep_round": 10,
    "points": 178.2,
    "surplus": 18.7
+  },
+  {
+   "season": 2026,
+   "user_id": "736740647758938112",
+   "name": "BJ",
+   "player_name": "D'Andre Swift",
+   "keep_round": 6,
+   "points": 64.0,
+   "surplus": 17.2
   },
   {
    "season": 2023,
@@ -1768,6 +1759,15 @@
    "surplus": 14.9
   },
   {
+   "season": 2026,
+   "user_id": "735974647736213504",
+   "name": "Towsk",
+   "player_name": "Dalton Kincaid",
+   "keep_round": 12,
+   "points": 46.5,
+   "surplus": 14.8
+  },
+  {
    "season": 2022,
    "user_id": "737091087440674816",
    "name": "Siri",
@@ -1778,12 +1778,21 @@
   },
   {
    "season": 2026,
-   "user_id": "736744257179770880",
-   "name": "Drobny",
-   "player_name": "Cam Skattebo",
-   "keep_round": 9,
-   "points": 33.6,
-   "surplus": 8.4
+   "user_id": "735974647736213504",
+   "name": "Towsk",
+   "player_name": "Quinshon Judkins",
+   "keep_round": 8,
+   "points": 48.3,
+   "surplus": 11.8
+  },
+  {
+   "season": 2026,
+   "user_id": "737091087440674816",
+   "name": "Siri",
+   "player_name": "Sam Darnold",
+   "keep_round": 11,
+   "points": 41.0,
+   "surplus": 10.3
   },
   {
    "season": 2025,
@@ -1793,6 +1802,15 @@
    "keep_round": 10,
    "points": 138.4,
    "surplus": 6.3
+  },
+  {
+   "season": 2026,
+   "user_id": "736744257179770880",
+   "name": "Drobny",
+   "player_name": "Cam Skattebo",
+   "keep_round": 9,
+   "points": 41.2,
+   "surplus": 5.9
   },
   {
    "season": 2025,
@@ -1809,17 +1827,8 @@
    "name": "Siri",
    "player_name": "Tyler Warren",
    "keep_round": 7,
-   "points": 39.4,
-   "surplus": 5.6
-  },
-  {
-   "season": 2026,
-   "user_id": "737091087440674816",
-   "name": "Siri",
-   "player_name": "Sam Darnold",
-   "keep_round": 11,
-   "points": 27.7,
-   "surplus": 3.4
+   "points": 48.5,
+   "surplus": 5.3
   },
   {
    "season": 2023,
@@ -1840,15 +1849,6 @@
    "surplus": 3.0
   },
   {
-   "season": 2026,
-   "user_id": "735974647736213504",
-   "name": "Towsk",
-   "player_name": "Quinshon Judkins",
-   "keep_round": 8,
-   "points": 26.7,
-   "surplus": 2.4
-  },
-  {
    "season": 2022,
    "user_id": "716698629934481408",
    "name": "Chuck",
@@ -1856,6 +1856,15 @@
    "keep_round": 7,
    "points": 137.5,
    "surplus": 1.3
+  },
+  {
+   "season": 2026,
+   "user_id": "736803054736822272",
+   "name": "Wicko",
+   "player_name": "Tucker Kraft",
+   "keep_round": 9,
+   "points": 35.1,
+   "surplus": -0.2
   },
   {
    "season": 2024,
@@ -1872,35 +1881,8 @@
    "name": "Benny G",
    "player_name": "Emeka Egbuka",
    "keep_round": 7,
-   "points": 32.8,
-   "surplus": -1.0
-  },
-  {
-   "season": 2026,
-   "user_id": "608781531883859968",
-   "name": "Benny G",
-   "player_name": "Jaxson Dart",
-   "keep_round": 10,
-   "points": 26.4,
-   "surplus": -3.8
-  },
-  {
-   "season": 2026,
-   "user_id": "865793938542456832",
-   "name": "Beaut",
-   "player_name": "Travis Etienne",
-   "keep_round": 6,
-   "points": 30.9,
-   "surplus": -5.8
-  },
-  {
-   "season": 2026,
-   "user_id": "736803054736822272",
-   "name": "Wicko",
-   "player_name": "Tucker Kraft",
-   "keep_round": 9,
-   "points": 18.6,
-   "surplus": -6.6
+   "points": 36.1,
+   "surplus": -7.1
   },
   {
    "season": 2023,
@@ -1921,6 +1903,24 @@
    "surplus": -9.4
   },
   {
+   "season": 2026,
+   "user_id": "710284244835979264",
+   "name": "B-Husk",
+   "player_name": "Rome Odunze",
+   "keep_round": 6,
+   "points": 37.3,
+   "surplus": -9.5
+  },
+  {
+   "season": 2026,
+   "user_id": "608781531883859968",
+   "name": "Benny G",
+   "player_name": "Jaxson Dart",
+   "keep_round": 10,
+   "points": 26.4,
+   "surplus": -12.1
+  },
+  {
    "season": 2022,
    "user_id": "716698629934481408",
    "name": "Chuck",
@@ -1931,21 +1931,12 @@
   },
   {
    "season": 2026,
-   "user_id": "710284244835979264",
-   "name": "B-Husk",
-   "player_name": "Rome Odunze",
-   "keep_round": 6,
-   "points": 21.9,
-   "surplus": -14.8
-  },
-  {
-   "season": 2026,
    "user_id": "865793938542456832",
    "name": "Beaut",
-   "player_name": "Michael Pittman",
-   "keep_round": 9,
-   "points": 8.8,
-   "surplus": -16.4
+   "player_name": "Travis Etienne",
+   "keep_round": 6,
+   "points": 30.9,
+   "surplus": -15.9
   },
   {
    "season": 2025,
@@ -1966,15 +1957,6 @@
    "surplus": -18.7
   },
   {
-   "season": 2026,
-   "user_id": "736740647758938112",
-   "name": "BJ",
-   "player_name": "Kyle Pitts",
-   "keep_round": 11,
-   "points": 4.0,
-   "surplus": -20.3
-  },
-  {
    "season": 2022,
    "user_id": "736744257179770880",
    "name": "Drobny",
@@ -1991,6 +1973,24 @@
    "keep_round": 12,
    "points": 80.6,
    "surplus": -22.9
+  },
+  {
+   "season": 2026,
+   "user_id": "865793938542456832",
+   "name": "Beaut",
+   "player_name": "Michael Pittman",
+   "keep_round": 9,
+   "points": 8.8,
+   "surplus": -26.5
+  },
+  {
+   "season": 2026,
+   "user_id": "736740647758938112",
+   "name": "BJ",
+   "player_name": "Kyle Pitts",
+   "keep_round": 11,
+   "points": 4.0,
+   "surplus": -26.7
   },
   {
    "season": 2022,
@@ -2085,6 +2085,13 @@
  ],
  "by_manager": [
   {
+   "user_id": "1136842855890366464",
+   "name": "Kep",
+   "keeps": 2,
+   "avg_surplus": 74.2,
+   "hit_rate": 1.0
+  },
+  {
    "user_id": "475399371639222272",
    "name": "Clem",
    "keeps": 5,
@@ -2092,31 +2099,24 @@
    "hit_rate": 1.0
   },
   {
-   "user_id": "1136842855890366464",
-   "name": "Kep",
-   "keeps": 2,
-   "avg_surplus": 69.2,
-   "hit_rate": 1.0
-  },
-  {
    "user_id": "608781531883859968",
    "name": "Benny G",
    "keeps": 10,
-   "avg_surplus": 46.45,
+   "avg_surplus": 45.01,
    "hit_rate": 0.6
   },
   {
    "user_id": "710284244835979264",
    "name": "B-Husk",
    "keeps": 6,
-   "avg_surplus": 39.45,
+   "avg_surplus": 40.33,
    "hit_rate": 0.6667
   },
   {
    "user_id": "736803054736822272",
    "name": "Wicko",
    "keeps": 8,
-   "avg_surplus": 36.8,
+   "avg_surplus": 37.6,
    "hit_rate": 0.75
   },
   {
@@ -2130,42 +2130,42 @@
    "user_id": "736077599457026048",
    "name": "Johnson",
    "keeps": 10,
-   "avg_surplus": 28.25,
+   "avg_surplus": 30.46,
    "hit_rate": 0.7
   },
   {
    "user_id": "736740647758938112",
    "name": "BJ",
    "keeps": 9,
-   "avg_surplus": 23.57,
+   "avg_surplus": 22.56,
    "hit_rate": 0.6667
   },
   {
    "user_id": "735974647736213504",
    "name": "Towsk",
    "keeps": 9,
-   "avg_surplus": 21.54,
+   "avg_surplus": 21.97,
    "hit_rate": 0.8889
   },
   {
    "user_id": "736744257179770880",
    "name": "Drobny",
    "keeps": 10,
-   "avg_surplus": 19.38,
+   "avg_surplus": 19.32,
    "hit_rate": 0.6
   },
   {
    "user_id": "737091087440674816",
    "name": "Siri",
    "keeps": 7,
-   "avg_surplus": -1.53,
+   "avg_surplus": -0.59,
    "hit_rate": 0.7143
   },
   {
    "user_id": "865793938542456832",
    "name": "Beaut",
    "keeps": 3,
-   "avg_surplus": -21.57,
+   "avg_surplus": -28.3,
    "hit_rate": 0.0
   }
  ],

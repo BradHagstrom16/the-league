@@ -157,8 +157,12 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2026,1408476301374902272,3,waiver,complete,1790169427774,2026-09-23,2,Erjohnson14,add,4017,Deshaun Watson,QB,0
 2026,1408476301374902272,3,waiver,complete,1790169427774,2026-09-23,2,Erjohnson14,drop,96,Aaron Rodgers,QB,
 2026,1408476197897142272,3,free_agent,complete,1790169403102,2026-09-23,2,Erjohnson14,drop,7567,Kenny Gainwell,RB,
+2026,1411548483445411840,4,free_agent,complete,1790901893058,2026-10-01,4,jdrobny,add,1479,Keenan Allen,WR,
+2026,1411548483445411840,4,free_agent,complete,1790901893058,2026-10-01,4,jdrobny,drop,13305,Mike Washington,RB,
+2026,1411548421533323264,4,free_agent,complete,1790901878297,2026-10-01,4,jdrobny,add,7049,Jauan Jennings,WR,
 2026,1411490297703084032,4,free_agent,complete,1790888020495,2026-10-01,2,Erjohnson14,add,11643,Jaylen Wright,RB,
 2026,1411490297703084032,4,free_agent,complete,1790888020495,2026-10-01,2,Erjohnson14,drop,13296,Caleb Douglas,WR,
+2026,1411419719000416256,4,waiver,complete,1790871193222,2026-10-01,5,charliekaufmann,add,12522,Cam Ward,QB,0
 2026,1411418871088340992,4,free_agent,complete,1790870991063,2026-10-01,9,brockhusk,add,ARI,Arizona Cardinals,DEF,
 2026,1411418871088340992,4,free_agent,complete,1790870991063,2026-10-01,9,brockhusk,drop,6130,Devin Singletary,RB,
 2026,1411223090200940544,4,waiver,complete,1790824313263,2026-09-30,11,Jacktaco98,add,4177,Mack Hollins,WR,3

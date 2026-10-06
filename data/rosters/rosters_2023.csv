@@ -65,7 +65,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,4,jdrobny,B2B,DAL,Dallas Cowboys,DEF,DAL,bench
 2023,5,kaufmannc,London Has Fallen,10859,Sam LaPorta,TE,DET,starter
 2023,5,kaufmannc,London Has Fallen,1426,DeAndre Hopkins,WR,,starter
-2023,5,kaufmannc,London Has Fallen,4018,Joe Mixon,RB,,starter
+2023,5,kaufmannc,London Has Fallen,4018,Joe Mixon,RB,SEA,starter
 2023,5,kaufmannc,London Has Fallen,4080,Zay Jones,WR,,bench
 2023,5,kaufmannc,London Has Fallen,4950,Christian Kirk,WR,SF,ir
 2023,5,kaufmannc,London Has Fallen,5119,Jason Sanders,K,NYJ,starter

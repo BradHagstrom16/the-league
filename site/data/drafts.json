@@ -1094,17 +1094,6 @@
     "surplus": 74.58
    },
    {
-    "season": 2025,
-    "manager_user": "865793938542456832",
-    "name": "Beaut",
-    "player_name": "Michael Pittman",
-    "position": "WR",
-    "round": 9,
-    "overall_pick": 99,
-    "points": 183.4,
-    "surplus": 52.88
-   },
-   {
     "season": 2026,
     "manager_user": "865793938542456832",
     "name": "Beaut",
@@ -1112,8 +1101,19 @@
     "position": "RB",
     "round": 2,
     "overall_pick": 20,
-    "points": 81.7,
-    "surplus": 40.64
+    "points": 113.1,
+    "surplus": 57.4
+   },
+   {
+    "season": 2026,
+    "manager_user": "865793938542456832",
+    "name": "Beaut",
+    "player_name": "Bryce Young",
+    "position": "QB",
+    "round": 10,
+    "overall_pick": 116,
+    "points": 92.62,
+    "surplus": 54.11
    }
   ]
  },
@@ -1139,7 +1139,7 @@
     "round": 3,
     "overall_pick": 30,
     "points": 31.4,
-    "surplus": -10.88
+    "surplus": -24.09
    },
    {
     "season": 2026,
@@ -1149,8 +1149,8 @@
     "position": "RB",
     "round": 2,
     "overall_pick": 19,
-    "points": 31.4,
-    "surplus": -9.66
+    "points": 44.7,
+    "surplus": -11.0
    },
    {
     "season": 2026,
@@ -1160,19 +1160,19 @@
     "position": "WR",
     "round": 4,
     "overall_pick": 43,
-    "points": 43.3,
-    "surplus": -4.86
+    "points": 57.9,
+    "surplus": -7.8
    },
    {
     "season": 2026,
     "manager_user": "1136842855890366464",
     "name": "Kep",
-    "player_name": "Lamar Jackson",
-    "position": "QB",
-    "round": 1,
-    "overall_pick": 6,
-    "points": 61.2,
-    "surplus": -1.67
+    "player_name": "Bucky Irving",
+    "position": "RB",
+    "round": 5,
+    "overall_pick": 54,
+    "points": 47.2,
+    "surplus": -1.13
    }
   ],
   "475399371639222272": [
@@ -1620,15 +1620,15 @@
     "surplus": -75.88
    },
    {
-    "season": 2026,
+    "season": 2022,
     "manager_user": "736744257179770880",
     "name": "Drobny",
-    "player_name": "Puka Nacua",
+    "player_name": "Michael Thomas",
     "position": "WR",
-    "round": 1,
-    "overall_pick": 10,
-    "points": 12.4,
-    "surplus": -50.47
+    "round": 8,
+    "overall_pick": 77,
+    "points": 51.1,
+    "surplus": -47.64
    }
   ],
   "736803054736822272": [
@@ -1777,7 +1777,7 @@
     "round": 4,
     "overall_pick": 44,
     "points": 38.0,
-    "surplus": -10.16
+    "surplus": -27.7
    },
    {
     "season": 2025,
@@ -1806,83 +1806,83 @@
  "by_round": [
   {
    "round": 1,
-   "avg_points": 195.28,
+   "avg_points": 198.57,
    "hit_rate": 0.5469
   },
   {
    "round": 2,
-   "avg_points": 171.28,
+   "avg_points": 174.02,
    "hit_rate": 0.5469
   },
   {
    "round": 3,
-   "avg_points": 141.84,
+   "avg_points": 144.32,
    "hit_rate": 0.5156
   },
   {
    "round": 4,
-   "avg_points": 144.9,
-   "hit_rate": 0.5312
-  },
-  {
-   "round": 5,
-   "avg_points": 130.49,
-   "hit_rate": 0.5625
-  },
-  {
-   "round": 6,
-   "avg_points": 122.34,
+   "avg_points": 148.19,
    "hit_rate": 0.5156
   },
   {
+   "round": 5,
+   "avg_points": 132.25,
+   "hit_rate": 0.5469
+  },
+  {
+   "round": 6,
+   "avg_points": 124.22,
+   "hit_rate": 0.5
+  },
+  {
    "round": 7,
-   "avg_points": 115.54,
+   "avg_points": 117.3,
    "hit_rate": 0.4844
   },
   {
    "round": 8,
-   "avg_points": 105.69,
-   "hit_rate": 0.4688
+   "avg_points": 107.97,
+   "hit_rate": 0.4531
   },
   {
    "round": 9,
-   "avg_points": 98.22,
+   "avg_points": 100.11,
    "hit_rate": 0.5156
   },
   {
    "round": 10,
-   "avg_points": 114.42,
+   "avg_points": 115.97,
    "hit_rate": 0.4844
   },
   {
    "round": 11,
-   "avg_points": 85.27,
-   "hit_rate": 0.4844
+   "avg_points": 86.47,
+   "hit_rate": 0.4688
   },
   {
    "round": 12,
-   "avg_points": 75.26,
+   "avg_points": 76.64,
    "hit_rate": 0.375
   },
   {
    "round": 13,
-   "avg_points": 74.15,
+   "avg_points": 75.39,
    "hit_rate": 0.4219
   },
   {
    "round": 14,
-   "avg_points": 78.73,
-   "hit_rate": 0.5312
+   "avg_points": 79.8,
+   "hit_rate": 0.5156
   },
   {
    "round": 15,
-   "avg_points": 66.42,
+   "avg_points": 67.12,
    "hit_rate": 0.4688
   },
   {
    "round": 16,
-   "avg_points": 64.42,
-   "hit_rate": 0.4375
+   "avg_points": 65.55,
+   "hit_rate": 0.4062
   },
   {
    "round": 17,

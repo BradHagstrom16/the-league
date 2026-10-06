@@ -877,18 +877,18 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,3,10,cc5597,D. Adams Ramily,109.52,3,MaxSirianni,123.17,L,False
 2026,3,11,Jacktaco98,Young Stroud boys,151.27,2,Erjohnson14,157.14,L,False
 2026,3,12,akepple9,Project Skrilla ,120.43,8,TylerWicks,150.48,L,False
-2026,4,1,bgreenblatt,Downs Syndrome ,0,11,Jacktaco98,0,T,False
-2026,4,2,Erjohnson14,McJohnsons Johnson,0,5,charliekaufmann,0,T,False
-2026,4,3,MaxSirianni,Maye you CeeDeez Nuts,0,12,akepple9,0,T,False
-2026,4,4,jdrobny,Stick em up,0,7,KingTowsk,0,T,False
-2026,4,5,charliekaufmann,Clownin’ Around,0,2,Erjohnson14,0,T,False
-2026,4,6,JSanDusky69,The Blue Tent Bandits,0,10,cc5597,0,T,False
-2026,4,7,KingTowsk,Leeroy Clown Jenkins,0,4,jdrobny,0,T,False
-2026,4,8,TylerWicks,Don’t Stop Bo-lievin’,0,9,brockhusk,0,T,False
-2026,4,9,brockhusk,Just End The Season,0,8,TylerWicks,0,T,False
-2026,4,10,cc5597,D. Adams Ramily,0,6,JSanDusky69,0,T,False
-2026,4,11,Jacktaco98,Young Stroud boys,0,1,bgreenblatt,0,T,False
-2026,4,12,akepple9,Project Skrilla ,0,3,MaxSirianni,0,T,False
+2026,4,1,bgreenblatt,Downs Syndrome ,143.34,11,Jacktaco98,160.94,L,False
+2026,4,2,Erjohnson14,McJohnsons Johnson,154.36,5,charliekaufmann,130.94,W,False
+2026,4,3,MaxSirianni,Maye you CeeDeez Nuts,208.53,12,akepple9,121.95,W,False
+2026,4,4,jdrobny,Stick em up,144.97,7,KingTowsk,101.96,W,False
+2026,4,5,charliekaufmann,Clownin’ Around,130.94,2,Erjohnson14,154.36,L,False
+2026,4,6,JSanDusky69,The Blue Tent Bandits,138.48,10,cc5597,137.95,W,False
+2026,4,7,KingTowsk,Leeroy Clown Jenkins,101.96,4,jdrobny,144.97,L,False
+2026,4,8,TylerWicks,Don’t Stop Bo-lievin’,112.39,9,brockhusk,99.76,W,False
+2026,4,9,brockhusk,Just End The Season,99.76,8,TylerWicks,112.39,L,False
+2026,4,10,cc5597,D. Adams Ramily,137.95,6,JSanDusky69,138.48,L,False
+2026,4,11,Jacktaco98,Young Stroud boys,160.94,1,bgreenblatt,143.34,W,False
+2026,4,12,akepple9,Project Skrilla ,121.95,3,MaxSirianni,208.53,L,False
 2026,5,1,bgreenblatt,Downs Syndrome ,0,5,charliekaufmann,0,T,False
 2026,5,2,Erjohnson14,McJohnsons Johnson,0,4,jdrobny,0,T,False
 2026,5,3,MaxSirianni,Maye you CeeDeez Nuts,0,6,JSanDusky69,0,T,False

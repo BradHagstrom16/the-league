@@ -376,65 +376,65 @@
   ],
   "2026": [
    {
+    "user_id": "475399371639222272",
+    "name": "Clem",
+    "spent": 23.0,
+    "points_after": 46.9,
+    "ppd": 2.04
+   },
+   {
     "user_id": "865793938542456832",
     "name": "Beaut",
     "spent": 12.0,
-    "points_after": 31.15,
-    "ppd": 2.6
+    "points_after": 38.65,
+    "ppd": 3.22
    },
    {
     "user_id": "716698629934481408",
     "name": "Chuck",
     "spent": 14.0,
-    "points_after": 13.85,
-    "ppd": 0.99
-   },
-   {
-    "user_id": "1136842855890366464",
-    "name": "Kep",
-    "spent": 14.0,
-    "points_after": 10.0,
-    "ppd": 0.71
-   },
-   {
-    "user_id": "735974647736213504",
-    "name": "Towsk",
-    "spent": 53.0,
-    "points_after": 8.4,
-    "ppd": 0.16
+    "points_after": 31.25,
+    "ppd": 2.23
    },
    {
     "user_id": "737091087440674816",
     "name": "Siri",
     "spent": 50.0,
-    "points_after": 1.4,
-    "ppd": 0.03
-   },
-   {
-    "user_id": "475399371639222272",
-    "name": "Clem",
-    "spent": 23.0,
-    "points_after": 0.0,
-    "ppd": 0.0
+    "points_after": 27.4,
+    "ppd": 0.55
    },
    {
     "user_id": "710284244835979264",
     "name": "B-Husk",
     "spent": 50.0,
-    "points_after": 0.0,
-    "ppd": 0.0
+    "points_after": 24.56,
+    "ppd": 0.49
    },
    {
-    "user_id": "736740647758938112",
-    "name": "BJ",
-    "spent": 4.0,
-    "points_after": 0.0,
-    "ppd": 0.0
+    "user_id": "735974647736213504",
+    "name": "Towsk",
+    "spent": 53.0,
+    "points_after": 22.44,
+    "ppd": 0.42
    },
    {
     "user_id": "608781531883859968",
     "name": "Benny G",
     "spent": 65.0,
+    "points_after": 18.0,
+    "ppd": 0.28
+   },
+   {
+    "user_id": "1136842855890366464",
+    "name": "Kep",
+    "spent": 14.0,
+    "points_after": 12.0,
+    "ppd": 0.86
+   },
+   {
+    "user_id": "736740647758938112",
+    "name": "BJ",
+    "spent": 4.0,
     "points_after": 0.0,
     "ppd": 0.0
    },
@@ -2579,7 +2579,7 @@
       "Bhayshul Tuten",
       "Jaylen Waddle"
      ],
-     "points_after": 0.0
+     "points_after": 14.5
     },
     {
      "user_id": "710284244835979264",
@@ -2588,11 +2588,11 @@
       "Emeka Egbuka",
       "David Montgomery"
      ],
-     "points_after": 0.0
+     "points_after": 7.6
     }
    ],
    "winner_user_id": "608781531883859968",
-   "margin": 0.0
+   "margin": 6.9
   },
   {
    "transaction_id": "1408599770846576640",
@@ -2606,7 +2606,7 @@
      "players_gained": [
       "Jacoby Brissett"
      ],
-     "points_after": 0.0
+     "points_after": 9.44
     },
     {
      "user_id": "1136842855890366464",
@@ -2614,11 +2614,11 @@
      "players_gained": [
       "Michael Penix"
      ],
-     "points_after": 0.0
+     "points_after": 12.72
     }
    ],
-   "winner_user_id": "608781531883859968",
-   "margin": 0.0
+   "winner_user_id": "1136842855890366464",
+   "margin": 3.28
   }
  ],
  "activity": {
@@ -2663,12 +2663,12 @@
    "trades": 14
   },
   "736744257179770880": {
-   "adds": 121,
-   "drops": 119,
+   "adds": 123,
+   "drops": 120,
    "trades": 6
   },
   "716698629934481408": {
-   "adds": 128,
+   "adds": 129,
    "drops": 130,
    "trades": 11
   },

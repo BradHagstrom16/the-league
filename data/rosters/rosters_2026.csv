@@ -2,13 +2,13 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2026,1,bgreenblatt,Downs Syndrome ,11533,Brandon Aubrey,K,DAL,starter
 2026,1,bgreenblatt,Downs Syndrome ,11586,Blake Corum,RB,LAR,bench
 2026,1,bgreenblatt,Downs Syndrome ,11631,Brian Thomas,WR,JAX,bench
-2026,1,bgreenblatt,Downs Syndrome ,12490,Bhayshul Tuten,RB,JAX,starter
+2026,1,bgreenblatt,Downs Syndrome ,12490,Bhayshul Tuten,RB,JAX,bench
 2026,1,bgreenblatt,Downs Syndrome ,13337,Emmett Johnson,RB,KC,bench
 2026,1,bgreenblatt,Downs Syndrome ,2306,Jameis Winston,QB,NYG,starter
 2026,1,bgreenblatt,Downs Syndrome ,3257,Jacoby Brissett,QB,ARI,starter
 2026,1,bgreenblatt,Downs Syndrome ,3321,Tyreek Hill,WR,,bench
 2026,1,bgreenblatt,Downs Syndrome ,6797,Justin Herbert,QB,LAC,bench
-2026,1,bgreenblatt,Downs Syndrome ,7526,Jaylen Waddle,WR,DEN,bench
+2026,1,bgreenblatt,Downs Syndrome ,7526,Jaylen Waddle,WR,DEN,starter
 2026,1,bgreenblatt,Downs Syndrome ,7594,Chuba Hubbard,RB,CAR,starter
 2026,1,bgreenblatt,Downs Syndrome ,8130,Trey McBride,TE,ARI,starter
 2026,1,bgreenblatt,Downs Syndrome ,9221,Jahmyr Gibbs,RB,DET,starter
@@ -26,16 +26,16 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2026,2,Erjohnson14,McJohnsons Johnson,5927,Terry McLaurin,WR,WAS,bench
 2026,2,Erjohnson14,McJohnsons Johnson,7523,Trevor Lawrence,QB,JAX,starter
 2026,2,Erjohnson14,McJohnsons Johnson,7569,Nico Collins,WR,HOU,starter
-2026,2,Erjohnson14,McJohnsons Johnson,7588,Javonte Williams,RB,DAL,bench
+2026,2,Erjohnson14,McJohnsons Johnson,7588,Javonte Williams,RB,DAL,starter
 2026,2,Erjohnson14,McJohnsons Johnson,8167,Christian Watson,WR,GB,starter
 2026,2,Erjohnson14,McJohnsons Johnson,9224,Chase Brown,RB,CIN,starter
-2026,2,Erjohnson14,McJohnsons Johnson,9487,Parker Washington,WR,JAX,starter
+2026,2,Erjohnson14,McJohnsons Johnson,9487,Parker Washington,WR,JAX,bench
 2026,2,Erjohnson14,McJohnsons Johnson,9509,Bijan Robinson,RB,ATL,starter
 2026,2,Erjohnson14,McJohnsons Johnson,9754,Quentin Johnston,WR,LAC,bench
 2026,2,Erjohnson14,McJohnsons Johnson,KC,Kansas City Chiefs,DEF,KC,starter
-2026,3,MaxSirianni,Maye you CeeDeez Nuts,11435,Emanuel Wilson,RB,SEA,bench
+2026,3,MaxSirianni,Maye you CeeDeez Nuts,11435,Emanuel Wilson,RB,SEA,starter
 2026,3,MaxSirianni,Maye you CeeDeez Nuts,11564,Drake Maye,QB,NE,starter
-2026,3,MaxSirianni,Maye you CeeDeez Nuts,11581,MarShawn Lloyd,RB,GB,starter
+2026,3,MaxSirianni,Maye you CeeDeez Nuts,11581,MarShawn Lloyd,RB,GB,bench
 2026,3,MaxSirianni,Maye you CeeDeez Nuts,12015,Harrison Mevis,K,LAR,starter
 2026,3,MaxSirianni,Maye you CeeDeez Nuts,12518,Tyler Warren,TE,IND,starter
 2026,3,MaxSirianni,Maye you CeeDeez Nuts,12526,Tetairoa McMillan,WR,CAR,starter
@@ -55,12 +55,13 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2026,4,jdrobny,Stick em up,12545,Tyler Shough,QB,NO,starter
 2026,4,jdrobny,Stick em up,13269,Fernando Mendoza,QB,LV,bench
 2026,4,jdrobny,Stick em up,13276,Omar Cooper,WR,NYJ,ir
-2026,4,jdrobny,Stick em up,13279,Carnell Tate,WR,TEN,bench
+2026,4,jdrobny,Stick em up,13279,Carnell Tate,WR,TEN,starter
 2026,4,jdrobny,Stick em up,13287,Jeremiyah Love,RB,ARI,starter
-2026,4,jdrobny,Stick em up,13305,Mike Washington,RB,LV,bench
+2026,4,jdrobny,Stick em up,1479,Keenan Allen,WR,IND,bench
 2026,4,jdrobny,Stick em up,2747,Jason Myers,K,SEA,starter
 2026,4,jdrobny,Stick em up,421,Matthew Stafford,QB,LAR,starter
-2026,4,jdrobny,Stick em up,7525,DeVonta Smith,WR,PHI,starter
+2026,4,jdrobny,Stick em up,7049,Jauan Jennings,WR,MIN,bench
+2026,4,jdrobny,Stick em up,7525,DeVonta Smith,WR,PHI,bench
 2026,4,jdrobny,Stick em up,8110,Jake Ferguson,TE,DAL,bench
 2026,4,jdrobny,Stick em up,8138,James Cook,RB,BUF,starter
 2026,4,jdrobny,Stick em up,8180,Jalen Nailor,WR,LV,bench
@@ -68,8 +69,9 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2026,4,jdrobny,Stick em up,GB,Green Bay Packers,DEF,GB,starter
 2026,5,charliekaufmann,Clownin’ Around,11628,Marvin Harrison,WR,ARI,bench
 2026,5,charliekaufmann,Clownin’ Around,11834,Devaughn Vele,WR,NO,starter
-2026,5,charliekaufmann,Clownin’ Around,12495,Ollie Gordon,RB,MIA,bench
-2026,5,charliekaufmann,Clownin’ Around,12533,Jacory Croskey-Merritt,RB,WAS,starter
+2026,5,charliekaufmann,Clownin’ Around,12495,Ollie Gordon,RB,MIA,starter
+2026,5,charliekaufmann,Clownin’ Around,12522,Cam Ward,QB,TEN,bench
+2026,5,charliekaufmann,Clownin’ Around,12533,Jacory Croskey-Merritt,RB,WAS,bench
 2026,5,charliekaufmann,Clownin’ Around,13294,Makai Lemon,WR,PHI,bench
 2026,5,charliekaufmann,Clownin’ Around,2449,Stefon Diggs,WR,WAS,starter
 2026,5,charliekaufmann,Clownin’ Around,3198,Derrick Henry,RB,BAL,starter
@@ -91,7 +93,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2026,6,JSanDusky69,The Blue Tent Bandits,4046,Patrick Mahomes,QB,KC,starter
 2026,6,JSanDusky69,The Blue Tent Bandits,5849,Kyler Murray,QB,MIN,starter
 2026,6,JSanDusky69,The Blue Tent Bandits,5870,Daniel Jones,QB,IND,bench
-2026,6,JSanDusky69,The Blue Tent Bandits,6083,Matt Gay,K,LV,bench
+2026,6,JSanDusky69,The Blue Tent Bandits,6083,Matt Gay,K,LV,starter
 2026,6,JSanDusky69,The Blue Tent Bandits,6790,D'Andre Swift,RB,CHI,starter
 2026,6,JSanDusky69,The Blue Tent Bandits,6813,Jonathan Taylor,RB,IND,starter
 2026,6,JSanDusky69,The Blue Tent Bandits,8148,Jameson Williams,WR,DET,bench
@@ -105,13 +107,13 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2026,7,KingTowsk,Leeroy Clown Jenkins,12512,Quinshon Judkins,RB,CLE,starter
 2026,7,KingTowsk,Leeroy Clown Jenkins,13281,Jordyn Tyson,WR,NO,ir
 2026,7,KingTowsk,Leeroy Clown Jenkins,13286,Jadarian Price,RB,SEA,bench
-2026,7,KingTowsk,Leeroy Clown Jenkins,2216,Mike Evans,WR,SF,bench
-2026,7,KingTowsk,Leeroy Clown Jenkins,2307,Marcus Mariota,QB,WAS,bench
+2026,7,KingTowsk,Leeroy Clown Jenkins,2216,Mike Evans,WR,SF,starter
+2026,7,KingTowsk,Leeroy Clown Jenkins,2307,Marcus Mariota,QB,WAS,starter
 2026,7,KingTowsk,Leeroy Clown Jenkins,4984,Josh Allen,QB,BUF,starter
 2026,7,KingTowsk,Leeroy Clown Jenkins,5859,A.J. Brown,WR,NE,bench
 2026,7,KingTowsk,Leeroy Clown Jenkins,5967,Tony Pollard,RB,TEN,bench
-2026,7,KingTowsk,Leeroy Clown Jenkins,6904,Jalen Hurts,QB,PHI,starter
-2026,7,KingTowsk,Leeroy Clown Jenkins,7571,Rashod Bateman,WR,BAL,starter
+2026,7,KingTowsk,Leeroy Clown Jenkins,6904,Jalen Hurts,QB,PHI,bench
+2026,7,KingTowsk,Leeroy Clown Jenkins,7571,Rashod Bateman,WR,BAL,bench
 2026,7,KingTowsk,Leeroy Clown Jenkins,7611,Rhamondre Stevenson,RB,NE,starter
 2026,7,KingTowsk,Leeroy Clown Jenkins,BUF,Buffalo Bills,DEF,BUF,starter
 2026,8,TylerWicks,Don’t Stop Bo-lievin’,11563,Bo Nix,QB,DEN,starter
@@ -149,18 +151,18 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2026,9,brockhusk,Just End The Season,PHI,Philadelphia Eagles,DEF,PHI,bench
 2026,10,cc5597,D. Adams Ramily,11560,Caleb Williams,QB,CHI,bench
 2026,10,cc5597,D. Adams Ramily,11583,Jonathon Brooks,RB,CAR,ir
-2026,10,cc5597,D. Adams Ramily,11646,Jalen Coker,WR,CAR,starter
+2026,10,cc5597,D. Adams Ramily,11646,Jalen Coker,WR,CAR,bench
 2026,10,cc5597,D. Adams Ramily,1166,Kirk Cousins,QB,LV,starter
 2026,10,cc5597,D. Adams Ramily,12517,Colston Loveland,TE,CHI,starter
-2026,10,cc5597,D. Adams Ramily,12529,TreVeyon Henderson,RB,NE,bench
+2026,10,cc5597,D. Adams Ramily,12529,TreVeyon Henderson,RB,NE,starter
 2026,10,cc5597,D. Adams Ramily,13414,Kaelon Black,RB,SF,bench
 2026,10,cc5597,D. Adams Ramily,2133,Davante Adams,WR,LAR,starter
 2026,10,cc5597,D. Adams Ramily,4037,Chris Godwin,WR,TB,bench
 2026,10,cc5597,D. Adams Ramily,4199,Aaron Jones,RB,MIN,starter
 2026,10,cc5597,D. Adams Ramily,5189,Eddy Pineiro,K,SF,starter
 2026,10,cc5597,D. Adams Ramily,5846,DK Metcalf,WR,PIT,bench
-2026,10,cc5597,D. Adams Ramily,6794,Justin Jefferson,WR,MIN,starter
-2026,10,cc5597,D. Adams Ramily,8121,Romeo Doubs,WR,NE,bench
+2026,10,cc5597,D. Adams Ramily,6794,Justin Jefferson,WR,MIN,bench
+2026,10,cc5597,D. Adams Ramily,8121,Romeo Doubs,WR,NE,starter
 2026,10,cc5597,D. Adams Ramily,8150,Kyren Williams,RB,LAR,starter
 2026,10,cc5597,D. Adams Ramily,8161,Malik Willis,QB,MIA,starter
 2026,10,cc5597,D. Adams Ramily,BAL,Baltimore Ravens,DEF,BAL,starter
