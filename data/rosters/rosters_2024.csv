@@ -35,7 +35,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,3,MaxSirianni,Joeybagofdonuts2.0,1373,Geno Smith,QB,NYJ,starter
 2024,3,MaxSirianni,Joeybagofdonuts2.0,1479,Keenan Allen,WR,IND,bench
 2024,3,MaxSirianni,Joeybagofdonuts2.0,2133,Davante Adams,WR,LAR,starter
-2024,3,MaxSirianni,Joeybagofdonuts2.0,4018,Joe Mixon,RB,SEA,starter
+2024,3,MaxSirianni,Joeybagofdonuts2.0,4018,Joe Mixon,RB,,starter
 2024,3,MaxSirianni,Joeybagofdonuts2.0,4037,Chris Godwin,WR,TB,ir
 2024,3,MaxSirianni,Joeybagofdonuts2.0,4199,Aaron Jones,RB,MIN,starter
 2024,3,MaxSirianni,Joeybagofdonuts2.0,4988,Nick Chubb,RB,,bench
@@ -112,7 +112,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,7,KingTowsk,Leeroy Jenkins,IND,Indianapolis Colts,DEF,IND,bench
 2024,7,KingTowsk,Leeroy Jenkins,MIA,Miami Dolphins,DEF,MIA,starter
 2024,8,TylerWicks,Dont stop Bo-lievin’,11563,Bo Nix,QB,DEN,starter
-2024,8,TylerWicks,Dont stop Bo-lievin’,11628,Marvin Harrison,WR,ARI,starter
+2024,8,TylerWicks,Dont stop Bo-lievin’,11628,Marvin Harrison,WR,HOU,starter
 2024,8,TylerWicks,Dont stop Bo-lievin’,2216,Mike Evans,WR,SF,starter
 2024,8,TylerWicks,Dont stop Bo-lievin’,3678,Wil Lutz,K,DEN,starter
 2024,8,TylerWicks,Dont stop Bo-lievin’,4066,Evan Engram,TE,DEN,ir

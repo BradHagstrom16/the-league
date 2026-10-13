@@ -1094,6 +1094,17 @@
     "surplus": 74.58
    },
    {
+    "season": 2025,
+    "manager_user": "865793938542456832",
+    "name": "Beaut",
+    "player_name": "Michael Pittman",
+    "position": "WR",
+    "round": 9,
+    "overall_pick": 99,
+    "points": 183.4,
+    "surplus": 52.88
+   },
+   {
     "season": 2026,
     "manager_user": "865793938542456832",
     "name": "Beaut",
@@ -1102,18 +1113,7 @@
     "round": 2,
     "overall_pick": 20,
     "points": 113.1,
-    "surplus": 57.4
-   },
-   {
-    "season": 2026,
-    "manager_user": "865793938542456832",
-    "name": "Beaut",
-    "player_name": "Bryce Young",
-    "position": "QB",
-    "round": 10,
-    "overall_pick": 116,
-    "points": 92.62,
-    "surplus": 54.11
+    "surplus": 49.16
    }
   ]
  },
@@ -1134,12 +1134,12 @@
     "season": 2026,
     "manager_user": "1136842855890366464",
     "name": "Kep",
-    "player_name": "Jayden Daniels",
+    "player_name": "Lamar Jackson",
     "position": "QB",
-    "round": 3,
-    "overall_pick": 30,
-    "points": 31.4,
-    "surplus": -24.09
+    "round": 1,
+    "overall_pick": 6,
+    "points": 80.08,
+    "surplus": -21.92
    },
    {
     "season": 2026,
@@ -1149,8 +1149,19 @@
     "position": "RB",
     "round": 2,
     "overall_pick": 19,
-    "points": 44.7,
-    "surplus": -11.0
+    "points": 49.6,
+    "surplus": -14.34
+   },
+   {
+    "season": 2026,
+    "manager_user": "1136842855890366464",
+    "name": "Kep",
+    "player_name": "Jayden Daniels",
+    "position": "QB",
+    "round": 3,
+    "overall_pick": 30,
+    "points": 64.16,
+    "surplus": -6.83
    },
    {
     "season": 2026,
@@ -1160,19 +1171,8 @@
     "position": "WR",
     "round": 4,
     "overall_pick": 43,
-    "points": 57.9,
-    "surplus": -7.8
-   },
-   {
-    "season": 2026,
-    "manager_user": "1136842855890366464",
-    "name": "Kep",
-    "player_name": "Bucky Irving",
-    "position": "RB",
-    "round": 5,
-    "overall_pick": 54,
-    "points": 47.2,
-    "surplus": -1.13
+    "points": 77.2,
+    "surplus": 2.39
    }
   ],
   "475399371639222272": [
@@ -1221,15 +1221,15 @@
     "surplus": -59.68
    },
    {
-    "season": 2022,
+    "season": 2026,
     "manager_user": "475399371639222272",
     "name": "Clem",
-    "player_name": "Dak Prescott",
+    "player_name": "Caleb Williams",
     "position": "QB",
-    "round": 3,
-    "overall_pick": 27,
-    "points": 126.78,
-    "surplus": -54.66
+    "round": 1,
+    "overall_pick": 12,
+    "points": 43.98,
+    "surplus": -58.02
    }
   ],
   "608781531883859968": [
@@ -1777,7 +1777,7 @@
     "round": 4,
     "overall_pick": 44,
     "points": 38.0,
-    "surplus": -27.7
+    "surplus": -36.81
    },
    {
     "season": 2025,
@@ -1791,97 +1791,97 @@
     "surplus": -7.56
    },
    {
-    "season": 2025,
+    "season": 2026,
     "manager_user": "865793938542456832",
     "name": "Beaut",
-    "player_name": "Josh Jacobs",
-    "position": "RB",
-    "round": 2,
-    "overall_pick": 22,
-    "points": 206.8,
-    "surplus": -0.58
+    "player_name": "Harold Fannin",
+    "position": "TE",
+    "round": 7,
+    "overall_pick": 77,
+    "points": 51.7,
+    "surplus": -5.2
    }
   ]
  },
  "by_round": [
   {
    "round": 1,
-   "avg_points": 198.57,
+   "avg_points": 202.62,
    "hit_rate": 0.5469
   },
   {
    "round": 2,
-   "avg_points": 174.02,
+   "avg_points": 175.57,
    "hit_rate": 0.5469
   },
   {
    "round": 3,
-   "avg_points": 144.32,
+   "avg_points": 147.22,
    "hit_rate": 0.5156
   },
   {
    "round": 4,
-   "avg_points": 148.19,
-   "hit_rate": 0.5156
+   "avg_points": 149.9,
+   "hit_rate": 0.5
   },
   {
    "round": 5,
-   "avg_points": 132.25,
-   "hit_rate": 0.5469
+   "avg_points": 134.97,
+   "hit_rate": 0.5312
   },
   {
    "round": 6,
-   "avg_points": 124.22,
+   "avg_points": 126.0,
    "hit_rate": 0.5
   },
   {
    "round": 7,
-   "avg_points": 117.3,
-   "hit_rate": 0.4844
+   "avg_points": 119.88,
+   "hit_rate": 0.4688
   },
   {
    "round": 8,
-   "avg_points": 107.97,
+   "avg_points": 109.39,
    "hit_rate": 0.4531
   },
   {
    "round": 9,
-   "avg_points": 100.11,
-   "hit_rate": 0.5156
+   "avg_points": 101.19,
+   "hit_rate": 0.5
   },
   {
    "round": 10,
-   "avg_points": 115.97,
-   "hit_rate": 0.4844
+   "avg_points": 117.43,
+   "hit_rate": 0.4688
   },
   {
    "round": 11,
-   "avg_points": 86.47,
+   "avg_points": 87.44,
    "hit_rate": 0.4688
   },
   {
    "round": 12,
-   "avg_points": 76.64,
-   "hit_rate": 0.375
+   "avg_points": 77.51,
+   "hit_rate": 0.3906
   },
   {
    "round": 13,
-   "avg_points": 75.39,
+   "avg_points": 76.65,
    "hit_rate": 0.4219
   },
   {
    "round": 14,
-   "avg_points": 79.8,
-   "hit_rate": 0.5156
+   "avg_points": 80.83,
+   "hit_rate": 0.5
   },
   {
    "round": 15,
-   "avg_points": 67.12,
-   "hit_rate": 0.4688
+   "avg_points": 68.05,
+   "hit_rate": 0.4375
   },
   {
    "round": 16,
-   "avg_points": 65.55,
+   "avg_points": 66.9,
    "hit_rate": 0.4062
   },
   {

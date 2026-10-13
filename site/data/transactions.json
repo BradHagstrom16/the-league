@@ -378,70 +378,77 @@
    {
     "user_id": "475399371639222272",
     "name": "Clem",
-    "spent": 23.0,
-    "points_after": 46.9,
-    "ppd": 2.04
+    "spent": 29.0,
+    "points_after": 67.92,
+    "ppd": 2.34
    },
    {
     "user_id": "865793938542456832",
     "name": "Beaut",
-    "spent": 12.0,
-    "points_after": 38.65,
-    "ppd": 3.22
+    "spent": 21.0,
+    "points_after": 51.95,
+    "ppd": 2.47
    },
    {
     "user_id": "716698629934481408",
     "name": "Chuck",
     "spent": 14.0,
-    "points_after": 31.25,
-    "ppd": 2.23
+    "points_after": 50.9,
+    "ppd": 3.64
    },
    {
     "user_id": "737091087440674816",
     "name": "Siri",
-    "spent": 50.0,
-    "points_after": 27.4,
-    "ppd": 0.55
+    "spent": 56.0,
+    "points_after": 48.3,
+    "ppd": 0.86
    },
    {
     "user_id": "710284244835979264",
     "name": "B-Husk",
-    "spent": 50.0,
-    "points_after": 24.56,
-    "ppd": 0.49
-   },
-   {
-    "user_id": "735974647736213504",
-    "name": "Towsk",
-    "spent": 53.0,
-    "points_after": 22.44,
-    "ppd": 0.42
+    "spent": 74.0,
+    "points_after": 47.56,
+    "ppd": 0.64
    },
    {
     "user_id": "608781531883859968",
     "name": "Benny G",
     "spent": 65.0,
-    "points_after": 18.0,
-    "ppd": 0.28
+    "points_after": 44.24,
+    "ppd": 0.68
+   },
+   {
+    "user_id": "735974647736213504",
+    "name": "Towsk",
+    "spent": 66.0,
+    "points_after": 40.54,
+    "ppd": 0.61
    },
    {
     "user_id": "1136842855890366464",
     "name": "Kep",
     "spent": 14.0,
-    "points_after": 12.0,
-    "ppd": 0.86
-   },
-   {
-    "user_id": "736740647758938112",
-    "name": "BJ",
-    "spent": 4.0,
-    "points_after": 0.0,
-    "ppd": 0.0
+    "points_after": 18.0,
+    "ppd": 1.29
    },
    {
     "user_id": "736077599457026048",
     "name": "Johnson",
-    "spent": 21.0,
+    "spent": 25.0,
+    "points_after": 9.85,
+    "ppd": 0.39
+   },
+   {
+    "user_id": "736740647758938112",
+    "name": "BJ",
+    "spent": 6.0,
+    "points_after": 0.0,
+    "ppd": 0.0
+   },
+   {
+    "user_id": "736803054736822272",
+    "name": "Wicko",
+    "spent": 5.0,
     "points_after": 0.0,
     "ppd": 0.0
    }
@@ -2579,7 +2586,7 @@
       "Bhayshul Tuten",
       "Jaylen Waddle"
      ],
-     "points_after": 14.5
+     "points_after": 30.9
     },
     {
      "user_id": "710284244835979264",
@@ -2592,7 +2599,7 @@
     }
    ],
    "winner_user_id": "608781531883859968",
-   "margin": 6.9
+   "margin": 23.3
   },
   {
    "transaction_id": "1408599770846576640",
@@ -2606,7 +2613,7 @@
      "players_gained": [
       "Jacoby Brissett"
      ],
-     "points_after": 9.44
+     "points_after": 35.22
     },
     {
      "user_id": "1136842855890366464",
@@ -2614,57 +2621,57 @@
      "players_gained": [
       "Michael Penix"
      ],
-     "points_after": 12.72
+     "points_after": 26.12
     }
    ],
-   "winner_user_id": "1136842855890366464",
-   "margin": 3.28
+   "winner_user_id": "608781531883859968",
+   "margin": 9.1
   }
  ],
  "activity": {
   "736077599457026048": {
-   "adds": 210,
-   "drops": 206,
+   "adds": 211,
+   "drops": 207,
    "trades": 23
   },
   "475399371639222272": {
-   "adds": 160,
-   "drops": 160,
+   "adds": 162,
+   "drops": 162,
    "trades": 15
   },
   "736803054736822272": {
-   "adds": 90,
-   "drops": 89,
+   "adds": 91,
+   "drops": 90,
    "trades": 7
   },
   "608781531883859968": {
-   "adds": 294,
-   "drops": 302,
+   "adds": 297,
+   "drops": 305,
    "trades": 22
   },
   "710284244835979264": {
-   "adds": 130,
-   "drops": 128,
+   "adds": 132,
+   "drops": 130,
    "trades": 8
   },
   "735974647736213504": {
-   "adds": 352,
-   "drops": 346,
+   "adds": 357,
+   "drops": 351,
    "trades": 29
   },
   "737091087440674816": {
-   "adds": 79,
-   "drops": 78,
+   "adds": 81,
+   "drops": 80,
    "trades": 4
   },
   "736740647758938112": {
-   "adds": 180,
-   "drops": 180,
+   "adds": 182,
+   "drops": 182,
    "trades": 14
   },
   "736744257179770880": {
-   "adds": 123,
-   "drops": 120,
+   "adds": 124,
+   "drops": 121,
    "trades": 6
   },
   "716698629934481408": {
@@ -2673,8 +2680,8 @@
    "trades": 11
   },
   "865793938542456832": {
-   "adds": 31,
-   "drops": 30,
+   "adds": 32,
+   "drops": 31,
    "trades": 0
   },
   "1136842855890366464": {
