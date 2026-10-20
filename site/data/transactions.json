@@ -378,65 +378,65 @@
    {
     "user_id": "475399371639222272",
     "name": "Clem",
-    "spent": 29.0,
-    "points_after": 67.92,
-    "ppd": 2.34
-   },
-   {
-    "user_id": "865793938542456832",
-    "name": "Beaut",
-    "spent": 21.0,
-    "points_after": 51.95,
-    "ppd": 2.47
+    "spent": 40.0,
+    "points_after": 96.39,
+    "ppd": 2.41
    },
    {
     "user_id": "716698629934481408",
     "name": "Chuck",
-    "spent": 14.0,
-    "points_after": 50.9,
-    "ppd": 3.64
-   },
-   {
-    "user_id": "737091087440674816",
-    "name": "Siri",
-    "spent": 56.0,
-    "points_after": 48.3,
-    "ppd": 0.86
+    "spent": 19.0,
+    "points_after": 69.6,
+    "ppd": 3.66
    },
    {
     "user_id": "710284244835979264",
     "name": "B-Husk",
-    "spent": 74.0,
-    "points_after": 47.56,
-    "ppd": 0.64
+    "spent": 75.0,
+    "points_after": 60.18,
+    "ppd": 0.8
+   },
+   {
+    "user_id": "865793938542456832",
+    "name": "Beaut",
+    "spent": 26.0,
+    "points_after": 57.75,
+    "ppd": 2.22
+   },
+   {
+    "user_id": "737091087440674816",
+    "name": "Siri",
+    "spent": 66.0,
+    "points_after": 53.5,
+    "ppd": 0.81
+   },
+   {
+    "user_id": "735974647736213504",
+    "name": "Towsk",
+    "spent": 78.0,
+    "points_after": 52.94,
+    "ppd": 0.68
    },
    {
     "user_id": "608781531883859968",
     "name": "Benny G",
     "spent": 65.0,
-    "points_after": 44.24,
-    "ppd": 0.68
-   },
-   {
-    "user_id": "735974647736213504",
-    "name": "Towsk",
-    "spent": 66.0,
-    "points_after": 40.54,
-    "ppd": 0.61
+    "points_after": 50.72,
+    "ppd": 0.78
    },
    {
     "user_id": "1136842855890366464",
     "name": "Kep",
-    "spent": 14.0,
-    "points_after": 18.0,
-    "ppd": 1.29
+    "spent": 20.0,
+    "points_after": 29.0,
+    "ppd": 1.45
    },
    {
     "user_id": "736077599457026048",
     "name": "Johnson",
-    "spent": 25.0,
-    "points_after": 9.85,
-    "ppd": 0.39
+    "spent": 58.0,
+    "points_after": 16.4,
+    "ppd": 0.28
    },
    {
     "user_id": "736740647758938112",
@@ -2586,7 +2586,7 @@
       "Bhayshul Tuten",
       "Jaylen Waddle"
      ],
-     "points_after": 30.9
+     "points_after": 62.0
     },
     {
      "user_id": "710284244835979264",
@@ -2595,11 +2595,11 @@
       "Emeka Egbuka",
       "David Montgomery"
      ],
-     "points_after": 7.6
+     "points_after": 25.4
     }
    ],
    "winner_user_id": "608781531883859968",
-   "margin": 23.3
+   "margin": 36.6
   },
   {
    "transaction_id": "1408599770846576640",
@@ -2613,7 +2613,7 @@
      "players_gained": [
       "Jacoby Brissett"
      ],
-     "points_after": 35.22
+     "points_after": 42.14
     },
     {
      "user_id": "1136842855890366464",
@@ -2621,22 +2621,22 @@
      "players_gained": [
       "Michael Penix"
      ],
-     "points_after": 26.12
+     "points_after": 48.22
     }
    ],
-   "winner_user_id": "608781531883859968",
-   "margin": 9.1
+   "winner_user_id": "1136842855890366464",
+   "margin": 6.08
   }
  ],
  "activity": {
   "736077599457026048": {
-   "adds": 211,
-   "drops": 207,
+   "adds": 213,
+   "drops": 209,
    "trades": 23
   },
   "475399371639222272": {
-   "adds": 162,
-   "drops": 162,
+   "adds": 163,
+   "drops": 163,
    "trades": 15
   },
   "736803054736822272": {
@@ -2645,23 +2645,23 @@
    "trades": 7
   },
   "608781531883859968": {
-   "adds": 297,
-   "drops": 305,
+   "adds": 301,
+   "drops": 309,
    "trades": 22
   },
   "710284244835979264": {
-   "adds": 132,
-   "drops": 130,
+   "adds": 134,
+   "drops": 132,
    "trades": 8
   },
   "735974647736213504": {
-   "adds": 357,
-   "drops": 351,
+   "adds": 362,
+   "drops": 356,
    "trades": 29
   },
   "737091087440674816": {
-   "adds": 81,
-   "drops": 80,
+   "adds": 85,
+   "drops": 84,
    "trades": 4
   },
   "736740647758938112": {
@@ -2670,23 +2670,23 @@
    "trades": 14
   },
   "736744257179770880": {
-   "adds": 124,
-   "drops": 121,
+   "adds": 125,
+   "drops": 122,
    "trades": 6
   },
   "716698629934481408": {
-   "adds": 129,
-   "drops": 130,
+   "adds": 132,
+   "drops": 132,
    "trades": 11
   },
   "865793938542456832": {
-   "adds": 32,
-   "drops": 31,
+   "adds": 33,
+   "drops": 32,
    "trades": 0
   },
   "1136842855890366464": {
-   "adds": 19,
-   "drops": 20,
+   "adds": 20,
+   "drops": 21,
    "trades": 1
   }
  }

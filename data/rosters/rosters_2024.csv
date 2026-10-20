@@ -8,7 +8,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,1,bgreenblatt,Love Thy Nabers,6768,Tua Tagovailoa,QB,ATL,bench
 2024,1,bgreenblatt,Love Thy Nabers,7564,Ja'Marr Chase,WR,CIN,starter
 2024,1,bgreenblatt,Love Thy Nabers,8130,Trey McBride,TE,ARI,starter
-2024,1,bgreenblatt,Love Thy Nabers,8143,Jerome Ford,RB,,starter
+2024,1,bgreenblatt,Love Thy Nabers,8143,Jerome Ford,RB,ARI,starter
 2024,1,bgreenblatt,Love Thy Nabers,8148,Jameson Williams,WR,DET,bench
 2024,1,bgreenblatt,Love Thy Nabers,9226,De'Von Achane,RB,MIA,starter
 2024,1,bgreenblatt,Love Thy Nabers,9500,Josh Downs,WR,IND,bench
@@ -40,7 +40,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,3,MaxSirianni,Joeybagofdonuts2.0,4199,Aaron Jones,RB,MIN,starter
 2024,3,MaxSirianni,Joeybagofdonuts2.0,4988,Nick Chubb,RB,,bench
 2024,3,MaxSirianni,Joeybagofdonuts2.0,5010,Will Dissly,TE,,bench
-2024,3,MaxSirianni,Joeybagofdonuts2.0,5086,Marquez Valdes-Scantling,WR,LAC,bench
+2024,3,MaxSirianni,Joeybagofdonuts2.0,5086,Marquez Valdes-Scantling,WR,PIT,bench
 2024,3,MaxSirianni,Joeybagofdonuts2.0,5846,DK Metcalf,WR,PIT,starter
 2024,3,MaxSirianni,Joeybagofdonuts2.0,6650,Chase McLaughlin,K,TB,starter
 2024,3,MaxSirianni,Joeybagofdonuts2.0,6770,Joe Burrow,QB,CIN,starter
@@ -122,7 +122,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,8,TylerWicks,Dont stop Bo-lievin’,6797,Justin Herbert,QB,LAC,starter
 2024,8,TylerWicks,Dont stop Bo-lievin’,7525,DeVonta Smith,WR,PHI,starter
 2024,8,TylerWicks,Dont stop Bo-lievin’,7526,Jaylen Waddle,WR,DEN,bench
-2024,8,TylerWicks,Dont stop Bo-lievin’,7528,Najee Harris,RB,NYG,bench
+2024,8,TylerWicks,Dont stop Bo-lievin’,7528,Najee Harris,RB,,bench
 2024,8,TylerWicks,Dont stop Bo-lievin’,9484,Tucker Kraft,TE,GB,starter
 2024,8,TylerWicks,Dont stop Bo-lievin’,9486,Dontayvion Wicks,WR,PHI,bench
 2024,8,TylerWicks,Dont stop Bo-lievin’,BUF,Buffalo Bills,DEF,BUF,starter

@@ -43,7 +43,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,3,MaxSirianni,Tucker right in the pu$$y,5844,T.J. Hockenson,TE,MIN,starter
 2022,3,MaxSirianni,Tucker right in the pu$$y,5892,David Montgomery,RB,HOU,bench
 2022,3,MaxSirianni,Tucker right in the pu$$y,6794,Justin Jefferson,WR,MIN,starter
-2022,3,MaxSirianni,Tucker right in the pu$$y,7528,Najee Harris,RB,NYG,starter
+2022,3,MaxSirianni,Tucker right in the pu$$y,7528,Najee Harris,RB,,starter
 2022,3,MaxSirianni,Tucker right in the pu$$y,8154,Brian Robinson,RB,ATL,bench
 2022,3,MaxSirianni,Tucker right in the pu$$y,8160,Kenny Pickett,QB,CAR,bench
 2022,3,MaxSirianni,Tucker right in the pu$$y,CIN,Cincinnati Bengals,DEF,CIN,bench
@@ -107,7 +107,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,7,KingTowsk,Leeroy Jenkins,6011,Gardner Minshew,QB,ARI,starter
 2022,7,KingTowsk,Leeroy Jenkins,6790,D'Andre Swift,RB,CHI,starter
 2022,7,KingTowsk,Leeroy Jenkins,6819,Michael Pittman,WR,PIT,bench
-2022,7,KingTowsk,Leeroy Jenkins,7922,Riley Patterson,K,MIA,starter
+2022,7,KingTowsk,Leeroy Jenkins,7922,Riley Patterson,K,,starter
 2022,7,KingTowsk,Leeroy Jenkins,8122,Zonovan Knight,RB,ARI,bench
 2022,7,KingTowsk,Leeroy Jenkins,8167,Christian Watson,WR,GB,starter
 2022,7,KingTowsk,Leeroy Jenkins,8205,Isiah Pacheco,RB,DET,starter
@@ -124,7 +124,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,8,TylerWicks,Sick of Gesicki,5927,Terry McLaurin,WR,WAS,starter
 2022,8,TylerWicks,Sick of Gesicki,5947,Jakobi Meyers,WR,JAX,bench
 2022,8,TylerWicks,Sick of Gesicki,5967,Tony Pollard,RB,TEN,starter
-2022,8,TylerWicks,Sick of Gesicki,6149,Darius Slayton,WR,IND,bench
+2022,8,TylerWicks,Sick of Gesicki,6149,Darius Slayton,WR,,bench
 2022,8,TylerWicks,Sick of Gesicki,6904,Jalen Hurts,QB,PHI,ir
 2022,8,TylerWicks,Sick of Gesicki,8121,Romeo Doubs,WR,NE,bench
 2022,8,TylerWicks,Sick of Gesicki,BUF,Buffalo Bills,DEF,BUF,starter
