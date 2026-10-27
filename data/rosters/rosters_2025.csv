@@ -12,7 +12,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,1,bgreenblatt,Young and Beautiful ,8112,Drake London,WR,ATL,starter
 2025,1,bgreenblatt,Young and Beautiful ,8130,Trey McBride,TE,ARI,starter
 2025,1,bgreenblatt,Young and Beautiful ,8131,Isaiah Likely,TE,NYG,bench
-2025,1,bgreenblatt,Young and Beautiful ,8151,Kenneth Walker,RB,KC,starter
+2025,1,bgreenblatt,Young and Beautiful ,8151,Kenneth Walker III,RB,KC,starter
 2025,1,bgreenblatt,Young and Beautiful ,9228,Bryce Young,QB,CAR,bench
 2025,1,bgreenblatt,Young and Beautiful ,TEN,Tennessee Titans,DEF,TEN,starter
 2025,2,Erjohnson14,The TrashMen,12474,Woody Marks,RB,HOU,bench
@@ -43,7 +43,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,3,MaxSirianni,We Built This Griddy,7547,Amon-Ra St. Brown,WR,DET,starter
 2025,3,MaxSirianni,We Built This Griddy,7567,Kenny Gainwell,RB,TB,bench
 2025,3,MaxSirianni,We Built This Griddy,8126,Wan'Dale Robinson,WR,TEN,bench
-2025,3,MaxSirianni,We Built This Griddy,8138,James Cook,RB,BUF,starter
+2025,3,MaxSirianni,We Built This Griddy,8138,James Cook III,RB,BUF,starter
 2025,3,MaxSirianni,We Built This Griddy,8150,Kyren Williams,RB,LAR,starter
 2025,3,MaxSirianni,We Built This Griddy,9997,Zay Flowers,WR,BAL,starter
 2025,3,MaxSirianni,We Built This Griddy,CLE,Cleveland Browns,DEF,CLE,starter
@@ -65,11 +65,11 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,4,jdrobny,Stick em up,9754,Quentin Johnston,WR,LAC,starter
 2025,4,jdrobny,Stick em up,BUF,Buffalo Bills,DEF,BUF,starter
 2025,5,charliekaufmann,Clownin’ Around,12517,Colston Loveland,TE,CHI,starter
-2025,5,charliekaufmann,Clownin’ Around,12519,Luther Burden,WR,CHI,starter
+2025,5,charliekaufmann,Clownin’ Around,12519,Luther Burden III,WR,CHI,starter
 2025,5,charliekaufmann,Clownin’ Around,12522,Cam Ward,QB,TEN,starter
 2025,5,charliekaufmann,Clownin’ Around,12529,TreVeyon Henderson,RB,NE,starter
 2025,5,charliekaufmann,Clownin’ Around,12713,Andy Borregales,K,NE,starter
-2025,5,charliekaufmann,Clownin’ Around,4037,Chris Godwin,WR,TB,bench
+2025,5,charliekaufmann,Clownin’ Around,4037,Chris Godwin Jr.,WR,TB,bench
 2025,5,charliekaufmann,Clownin’ Around,4983,DJ Moore,WR,BUF,bench
 2025,5,charliekaufmann,Clownin’ Around,5967,Tony Pollard,RB,TEN,bench
 2025,5,charliekaufmann,Clownin’ Around,6801,Tee Higgins,WR,CIN,starter
@@ -87,10 +87,10 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,6,JSanDusky69,Manicures & Misery,12489,RJ Harvey,RB,DEN,starter
 2025,6,JSanDusky69,Manicures & Misery,12524,Shedeur Sanders,QB,CLE,starter
 2025,6,JSanDusky69,Manicures & Misery,2133,Davante Adams,WR,LAR,bench
-2025,6,JSanDusky69,Manicures & Misery,5872,Deebo Samuel,WR,SF,starter
+2025,6,JSanDusky69,Manicures & Misery,5872,Deebo Samuel Sr.,WR,SF,starter
 2025,6,JSanDusky69,Manicures & Misery,5892,David Montgomery,RB,HOU,bench
 2025,6,JSanDusky69,Manicures & Misery,6790,D'Andre Swift,RB,CHI,starter
-2025,6,JSanDusky69,Manicures & Misery,7553,Kyle Pitts,TE,ATL,starter
+2025,6,JSanDusky69,Manicures & Misery,7553,Kyle Pitts Sr.,TE,ATL,starter
 2025,6,JSanDusky69,Manicures & Misery,7569,Nico Collins,WR,HOU,starter
 2025,6,JSanDusky69,Manicures & Misery,8134,Khalil Shakir,WR,BUF,bench
 2025,6,JSanDusky69,Manicures & Misery,9504,Kayshon Boutte,WR,HOU,bench
@@ -99,7 +99,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,7,KingTowsk,Aaron Yeo’s future team,10222,Jayden Reed,WR,GB,bench
 2025,7,KingTowsk,Aaron Yeo’s future team,10236,Dalton Kincaid,TE,BUF,bench
 2025,7,KingTowsk,Aaron Yeo’s future team,11579,Audric Estime,RB,CLE,bench
-2025,7,KingTowsk,Aaron Yeo’s future team,11631,Brian Thomas,WR,JAX,starter
+2025,7,KingTowsk,Aaron Yeo’s future team,11631,Brian Thomas Jr.,WR,JAX,starter
 2025,7,KingTowsk,Aaron Yeo’s future team,12469,Dylan Sampson,RB,CLE,starter
 2025,7,KingTowsk,Aaron Yeo’s future team,12472,Raheim Sanders,RB,CLE,bench
 2025,7,KingTowsk,Aaron Yeo’s future team,12512,Quinshon Judkins,RB,CLE,bench
@@ -113,7 +113,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,7,KingTowsk,Aaron Yeo’s future team,8148,Jameson Williams,WR,DET,starter
 2025,7,KingTowsk,Aaron Yeo’s future team,9482,Michael Mayer,TE,LV,starter
 2025,7,KingTowsk,Aaron Yeo’s future team,DAL,Dallas Cowboys,DEF,DAL,starter
-2025,8,TylerWicks,Stopped Bo-lievin’,10219,Chris Rodriguez,RB,JAX,bench
+2025,8,TylerWicks,Stopped Bo-lievin’,10219,Chris Rodriguez Jr.,RB,JAX,bench
 2025,8,TylerWicks,Stopped Bo-lievin’,10232,Michael Wilson,WR,ARI,starter
 2025,8,TylerWicks,Stopped Bo-lievin’,11435,Emanuel Wilson,RB,SEA,bench
 2025,8,TylerWicks,Stopped Bo-lievin’,11563,Bo Nix,QB,DEN,starter
@@ -136,7 +136,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,9,brockhusk,Just End The Season,12527,Ashton Jeanty,RB,LV,starter
 2025,9,brockhusk,Just End The Season,12538,Brady Cook,QB,MIA,bench
 2025,9,brockhusk,Just End The Season,4144,Jonnu Smith,TE,GB,bench
-2025,9,brockhusk,Just End The Season,4199,Aaron Jones,RB,MIN,starter
+2025,9,brockhusk,Just End The Season,4199,Aaron Jones Sr.,RB,MIN,starter
 2025,9,brockhusk,Just End The Season,4881,Lamar Jackson,QB,BAL,bench
 2025,9,brockhusk,Just End The Season,4892,Baker Mayfield,QB,TB,starter
 2025,9,brockhusk,Just End The Season,5045,Courtland Sutton,WR,DEN,starter
@@ -149,7 +149,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,9,brockhusk,Just End The Season,TB,Tampa Bay Buccaneers,DEF,TB,starter
 2025,10,cc5597,Baby Dak Gibbs,11539,Jake Bates,K,DET,starter
 2025,10,cc5597,Baby Dak Gibbs,11627,Troy Franklin,WR,DEN,bench
-2025,10,cc5597,Baby Dak Gibbs,11655,Tyrone Tracy,RB,NYG,bench
+2025,10,cc5597,Baby Dak Gibbs,11655,Tyrone Tracy Jr.,RB,NYG,bench
 2025,10,cc5597,Baby Dak Gibbs,12545,Tyler Shough,QB,NO,bench
 2025,10,cc5597,Baby Dak Gibbs,1479,Keenan Allen,WR,IND,bench
 2025,10,cc5597,Baby Dak Gibbs,2216,Mike Evans,WR,SF,starter
@@ -166,25 +166,25 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,11,Jacktaco98,So white it hurts,11564,Drake Maye,QB,NE,starter
 2025,11,Jacktaco98,So white it hurts,11586,Blake Corum,RB,LAR,starter
 2025,11,Jacktaco98,So white it hurts,11625,Adonai Mitchell,WR,NYJ,bench
-2025,11,Jacktaco98,So white it hurts,11628,Marvin Harrison,WR,HOU,starter
+2025,11,Jacktaco98,So white it hurts,11628,Marvin Harrison Jr.,WR,HOU,starter
 2025,11,Jacktaco98,So white it hurts,11638,Ricky Pearsall,WR,SF,bench
 2025,11,Jacktaco98,So white it hurts,4227,Harrison Butker,K,KC,starter
 2025,11,Jacktaco98,So white it hurts,5001,Dalton Schultz,TE,HOU,starter
 2025,11,Jacktaco98,So white it hurts,5850,Josh Jacobs,RB,GB,starter
 2025,11,Jacktaco98,So white it hurts,6783,Jerry Jeudy,WR,CLE,bench
-2025,11,Jacktaco98,So white it hurts,6819,Michael Pittman,WR,PIT,bench
+2025,11,Jacktaco98,So white it hurts,6819,Michael Pittman Jr.,WR,PIT,bench
 2025,11,Jacktaco98,So white it hurts,6865,Colby Parkinson,TE,LAR,bench
 2025,11,Jacktaco98,So white it hurts,6904,Jalen Hurts,QB,PHI,starter
-2025,11,Jacktaco98,So white it hurts,7543,Travis Etienne,RB,NO,starter
+2025,11,Jacktaco98,So white it hurts,7543,Travis Etienne Jr.,RB,NO,starter
 2025,11,Jacktaco98,So white it hurts,8137,George Pickens,WR,DAL,starter
 2025,11,Jacktaco98,So white it hurts,NO,New Orleans Saints,DEF,NO,starter
-2025,12,akepple9,Something About Flacco ,12506,Harold Fannin,TE,CLE,starter
+2025,12,akepple9,Something About Flacco ,12506,Harold Fannin Jr.,TE,CLE,starter
 2025,12,akepple9,Something About Flacco ,3163,Jared Goff,QB,DET,starter
 2025,12,akepple9,Something About Flacco ,4046,Patrick Mahomes,QB,KC,ir
 2025,12,akepple9,Something About Flacco ,5022,Dallas Goedert,TE,PHI,bench
 2025,12,akepple9,Something About Flacco ,5846,DK Metcalf,WR,PIT,starter
 2025,12,akepple9,Something About Flacco ,5947,Jakobi Meyers,WR,JAX,bench
-2025,12,akepple9,Something About Flacco ,6011,Gardner Minshew,QB,ARI,starter
+2025,12,akepple9,Something About Flacco ,6011,Gardner Minshew II,QB,ARI,starter
 2025,12,akepple9,Something About Flacco ,8144,Chris Olave,WR,NO,starter
 2025,12,akepple9,Something About Flacco ,8155,Breece Hall,RB,NYJ,bench
 2025,12,akepple9,Something About Flacco ,8228,Jaylen Warren,RB,PIT,starter

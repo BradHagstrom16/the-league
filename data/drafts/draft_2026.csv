@@ -9,10 +9,10 @@ season,round,pick_in_round,overall_pick,draft_slot,slot_owner_roster_id,roster_i
 2026,1,8,8,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,6770,Joe Burrow,QB,CIN,6,False
 2026,1,9,9,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,11564,Drake Maye,QB,NE,2,False
 2026,1,10,10,10,4,4,0,736744257179770880,jdrobny,Stick em up,9493,Puka Nacua,WR,LAR,3,False
-2026,1,11,11,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,4034,Christian McCaffrey,RB,SF,9,False
+2026,1,11,11,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,4034,Christian McCaffrey,RB,SF,9,False
 2026,1,12,12,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,11560,Caleb Williams,QB,CHI,2,False
 2026,2,12,13,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,6794,Justin Jefferson,WR,MIN,6,False
-2026,2,11,14,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,6813,Jonathan Taylor,RB,IND,6,False
+2026,2,11,14,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,6813,Jonathan Taylor,RB,IND,6,False
 2026,2,10,15,10,4,4,0,736744257179770880,jdrobny,Stick em up,8138,James Cook,RB,BUF,4,False
 2026,2,9,16,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,6786,CeeDee Lamb,WR,DAL,6,False
 2026,2,8,17,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,9226,De'Von Achane,RB,MIA,3,False
@@ -33,10 +33,10 @@ season,round,pick_in_round,overall_pick,draft_slot,slot_owner_roster_id,roster_i
 2026,3,8,32,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,3198,Derrick Henry,RB,BAL,10,False
 2026,3,9,33,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,8155,Breece Hall,RB,NYJ,4,False
 2026,3,10,34,10,4,4,0,736744257179770880,jdrobny,Stick em up,13287,Jeremiyah Love,RB,ARI,0,False
-2026,3,11,35,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,11632,Malik Nabers,WR,NYG,2,False
+2026,3,11,35,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,11632,Malik Nabers,WR,NYG,2,False
 2026,3,12,36,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,12517,Colston Loveland,TE,CHI,1,False
 2026,4,12,37,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,8150,Kyren Williams,RB,LAR,4,False
-2026,4,11,38,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,4046,Patrick Mahomes,QB,KC,9,False
+2026,4,11,38,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,4046,Patrick Mahomes,QB,KC,9,False
 2026,4,10,39,10,4,4,0,736744257179770880,jdrobny,Stick em up,7525,DeVonta Smith,WR,PHI,5,False
 2026,4,9,40,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,12526,Tetairoa McMillan,WR,CAR,1,False
 2026,4,8,41,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,8183,Brock Purdy,QB,SF,4,False
@@ -57,10 +57,10 @@ season,round,pick_in_round,overall_pick,draft_slot,slot_owner_roster_id,roster_i
 2026,5,8,56,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,4983,DJ Moore,WR,BUF,8,False
 2026,5,9,57,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,8146,Garrett Wilson,WR,NYJ,4,False
 2026,5,10,58,10,4,4,0,736744257179770880,jdrobny,Stick em up,10859,Sam LaPorta,TE,DET,3,False
-2026,5,11,59,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,5849,Kyler Murray,QB,MIN,7,False
+2026,5,11,59,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,5849,Kyler Murray,QB,MIN,7,False
 2026,5,12,60,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,2133,Davante Adams,WR,LAR,12,False
 2026,6,12,61,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,12529,TreVeyon Henderson,RB,NE,1,False
-2026,6,11,62,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,6790,D'Andre Swift,RB,CHI,6,True
+2026,6,11,62,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,6790,D'Andre Swift,RB,CHI,6,True
 2026,6,10,63,10,4,4,0,736744257179770880,jdrobny,Stick em up,12545,Tyler Shough,QB,NO,1,False
 2026,6,9,64,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,5850,Josh Jacobs,RB,GB,7,False
 2026,6,8,65,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,11628,Marvin Harrison,WR,ARI,2,False
@@ -81,10 +81,10 @@ season,round,pick_in_round,overall_pick,draft_slot,slot_owner_roster_id,roster_i
 2026,7,8,80,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,4217,George Kittle,TE,SF,9,False
 2026,7,9,81,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,12518,Tyler Warren,TE,IND,1,True
 2026,7,10,82,10,4,4,0,736744257179770880,jdrobny,Stick em up,13279,Carnell Tate,WR,TEN,0,False
-2026,7,11,83,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,8148,Jameson Williams,WR,DET,4,False
+2026,7,11,83,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,8148,Jameson Williams,WR,DET,4,False
 2026,7,12,84,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,8161,Malik Willis,QB,MIA,4,False
 2026,8,12,85,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,4037,Chris Godwin,WR,TB,9,False
-2026,8,11,86,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,10232,Michael Wilson,WR,ARI,3,False
+2026,8,11,86,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,10232,Michael Wilson,WR,ARI,3,False
 2026,8,10,87,10,4,4,0,736744257179770880,jdrobny,Stick em up,13269,Fernando Mendoza,QB,LV,0,False
 2026,8,9,88,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,7021,Rico Dowdle,RB,PIT,6,False
 2026,8,8,89,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,13294,Makai Lemon,WR,PHI,0,False
@@ -105,10 +105,10 @@ season,round,pick_in_round,overall_pick,draft_slot,slot_owner_roster_id,roster_i
 2026,9,8,104,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,12533,Jacory Croskey-Merritt,RB,WAS,1,False
 2026,9,9,105,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,8142,Alec Pierce,WR,IND,4,False
 2026,9,10,106,10,4,4,0,736744257179770880,jdrobny,Stick em up,12481,Cam Skattebo,RB,NYG,1,True
-2026,9,11,107,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,9756,Jordan Addison,WR,MIN,3,False
+2026,9,11,107,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,9756,Jordan Addison,WR,MIN,3,False
 2026,9,12,108,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,5846,DK Metcalf,WR,PIT,7,False
 2026,10,12,109,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,11583,Jonathon Brooks,RB,CAR,2,False
-2026,10,11,110,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,5870,Daniel Jones,QB,IND,7,False
+2026,10,11,110,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,5870,Daniel Jones,QB,IND,7,False
 2026,10,10,111,10,4,4,0,736744257179770880,jdrobny,Stick em up,421,Matthew Stafford,QB,LAR,17,True
 2026,10,9,112,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,11581,MarShawn Lloyd,RB,GB,2,False
 2026,10,8,113,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,2449,Stefon Diggs,WR,WAS,11,False
@@ -129,10 +129,10 @@ season,round,pick_in_round,overall_pick,draft_slot,slot_owner_roster_id,roster_i
 2026,11,8,128,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,8126,Wan'Dale Robinson,WR,TEN,4,False
 2026,11,9,129,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,4943,Sam Darnold,QB,SEA,8,True
 2026,11,10,130,10,4,4,0,736744257179770880,jdrobny,Stick em up,8110,Jake Ferguson,TE,DAL,4,False
-2026,11,11,131,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,7553,Kyle Pitts,TE,ATL,5,True
+2026,11,11,131,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,7553,Kyle Pitts,TE,ATL,5,True
 2026,11,12,132,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,4199,Aaron Jones,RB,MIN,9,False
 2026,12,12,133,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,11646,Jalen Coker,WR,CAR,2,False
-2026,12,11,134,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,HOU,Houston Texans,DEF,HOU,,False
+2026,12,11,134,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,HOU,Houston Texans,DEF,HOU,,False
 2026,12,10,135,10,4,4,0,736744257179770880,jdrobny,Stick em up,13305,Mike Washington,RB,LV,0,False
 2026,12,9,136,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,10219,Chris Rodriguez,RB,JAX,3,False
 2026,12,8,137,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,8676,Rashid Shaheed,WR,SEA,4,False
@@ -153,10 +153,10 @@ season,round,pick_in_round,overall_pick,draft_slot,slot_owner_roster_id,roster_i
 2026,13,8,152,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,9504,Kayshon Boutte,WR,HOU,3,False
 2026,13,9,153,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,SEA,Seattle Seahawks,DEF,SEA,,False
 2026,13,10,154,10,4,4,0,736744257179770880,jdrobny,Stick em up,2747,Jason Myers,K,SEA,11,False
-2026,13,11,155,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,9508,Tyjae Spears,RB,TEN,3,False
+2026,13,11,155,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,9508,Tyjae Spears,RB,TEN,3,False
 2026,13,12,156,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,8132,Tyler Allgeier,RB,ARI,4,False
 2026,14,12,157,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,12524,Shedeur Sanders,QB,CLE,1,False
-2026,14,11,158,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,10213,Tre Tucker,WR,LV,3,False
+2026,14,11,158,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,10213,Tre Tucker,WR,LV,3,False
 2026,14,10,159,10,4,4,0,736744257179770880,jdrobny,Stick em up,13276,Omar Cooper,WR,NYJ,0,False
 2026,14,9,160,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,8154,Brian Robinson,RB,ATL,4,False
 2026,14,8,161,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,DEN,Denver Broncos,DEF,DEN,,False
@@ -177,10 +177,10 @@ season,round,pick_in_round,overall_pick,draft_slot,slot_owner_roster_id,roster_i
 2026,15,8,176,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,7839,Evan McPherson,K,CIN,5,False
 2026,15,9,177,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,12015,Harrison Mevis,K,LAR,2,False
 2026,15,10,178,10,4,4,0,736744257179770880,jdrobny,Stick em up,8180,Jalen Nailor,WR,LV,4,False
-2026,15,11,179,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,11539,Jake Bates,K,DET,3,False
+2026,15,11,179,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,11539,Jake Bates,K,DET,3,False
 2026,15,12,180,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,NE,New England Patriots,DEF,NE,,False
 2026,16,12,181,12,10,10,0,475399371639222272,cc5597,D. Adams Ramily,11237,Jacob Saylors,RB,DET,3,False
-2026,16,11,182,11,6,6,0,736740647758938112,JSanDusky69,The Blue Tent Bandits,3214,Hunter Henry,TE,NE,10,False
+2026,16,11,182,11,6,6,0,736740647758938112,JSanDusky69,The Stanky Knee,3214,Hunter Henry,TE,NE,10,False
 2026,16,10,183,10,4,4,0,736744257179770880,jdrobny,Stick em up,MIN,Minnesota Vikings,DEF,MIN,,False
 2026,16,9,184,9,3,3,0,737091087440674816,MaxSirianni,Maye you CeeDeez Nuts,7528,Najee Harris,RB,NYG,5,False
 2026,16,8,185,8,5,5,0,716698629934481408,charliekaufmann,Clownin’ Around,12495,Ollie Gordon,RB,MIA,1,False

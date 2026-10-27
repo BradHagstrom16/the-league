@@ -7,7 +7,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2021,4046,Patrick Mahomes,QB,18,232.86,349.16,349.16,17
 2021,2133,Davante Adams,WR,18,220.3,346.3,346.3,16
 2021,4663,Austin Ekeler,RB,18,259.1,342.8,324.6,15
-2021,5872,Deebo Samuel,WR,18,234.9,338.96,306.06,15
+2021,5872,Deebo Samuel Sr.,WR,18,234.9,338.96,306.06,15
 2021,6794,Justin Jefferson,WR,18,242.7,331.4,331.4,17
 2021,96,Aaron Rodgers,QB,18,214.32,317.8,317.8,16
 2021,421,Matthew Stafford,QB,18,246.34,315.74,315.74,17
@@ -33,16 +33,16 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2021,7526,Jaylen Waddle,WR,18,198.2,244.8,162.5,10
 2021,2374,Tyler Lockett,WR,18,171.1,244.4,215.0,14
 2021,5846,DK Metcalf,WR,18,171.0,244.3,244.3,17
-2021,4037,Chris Godwin,WR,18,211.0,242.4,242.4,14
+2021,4037,Chris Godwin Jr.,WR,18,211.0,242.4,242.4,14
 2021,1049,Ryan Tannehill,QB,18,167.56,240.36,197.2,13
-2021,6819,Michael Pittman,WR,18,188.3,237.6,94.7,8
+2021,6819,Michael Pittman Jr.,WR,18,188.3,237.6,94.7,8
 2021,4983,DJ Moore,WR,18,176.9,237.5,154.0,11
 2021,4035,Alvin Kamara,RB,18,158.0,234.7,234.7,13
 2021,2028,Derek Carr,QB,18,187.22,234.46,134.98,10
 2021,6786,CeeDee Lamb,WR,18,182.2,232.8,232.8,16
 2021,2197,Brandin Cooks,WR,18,159.3,231.8,108.5,9
 2021,6945,Antonio Gibson,RB,18,169.6,228.1,169.2,13
-2021,4199,Aaron Jones,RB,18,162.2,228.0,225.7,15
+2021,4199,Aaron Jones Sr.,RB,18,162.2,228.0,225.7,15
 2021,5850,Josh Jacobs,RB,18,151.8,226.0,195.7,13
 2021,BUF,Buffalo Bills,DEF,18,163.5,225.5,202.5,13
 2021,1234,Russell Wilson,QB,18,132.48,221.82,221.82,14
@@ -76,7 +76,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2021,6828,AJ Dillon,RB,18,128.4,184.6,53.3,4
 2021,5859,A.J. Brown,WR,18,127.5,181.9,111.4,9
 2021,2711,Taylor Heinicke,QB,13,171.48,177.16,76.78,7
-2021,7553,Kyle Pitts,TE,18,125.9,176.6,165.5,16
+2021,7553,Kyle Pitts Sr.,TE,18,125.9,176.6,165.5,16
 2021,5947,Jakobi Meyers,WR,17,122.4,175.9,52.4,4
 2021,6955,James Robinson,RB,16,152.7,171.9,138.1,12
 2021,515,Rob Gronkowski,TE,18,112.6,171.2,99.7,7
@@ -122,7 +122,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2021,367,Jared Cook,TE,18,96.0,132.4,39.5,6
 2021,3214,Hunter Henry,TE,16,83.7,131.6,32.6,5
 2021,1825,Jarvis Landry,WR,18,78.5,131.5,23.9,3
-2021,2078,Odell Beckham,WR,18,76.3,130.1,30.9,2
+2021,2078,Odell Beckham Jr.,WR,18,76.3,130.1,30.9,2
 2021,7607,Michael Carter,RB,15,102.6,129.2,68.6,6
 2021,3664,J.D. McKissic,RB,18,127.9,127.9,30.8,3
 2021,BAL,Baltimore Ravens,DEF,18,94.0,127.0,49.5,6
@@ -161,7 +161,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2021,TEN,Tennessee Titans,DEF,8,23.0,92.0,82.5,7
 2021,PHI,Philadelphia Eagles,DEF,9,55.0,92.0,62.5,6
 2021,5038,Michael Gallup,WR,18,54.4,91.5,39.6,3
-2021,5917,Mecole Hardman,WR,13,91.2,91.2,0.0,0
+2021,5917,Mecole Hardman Jr.,WR,13,91.2,91.2,0.0,0
 2021,6814,Laviska Shenault,WR,12,90.1,90.1,0.0,0
 2021,650,Nick Folk,K,9,70.0,90.0,90.0,9
 2021,4131,Kenny Golladay,WR,18,66.9,89.1,0.0,0
@@ -303,7 +303,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2021,642,Golden Tate,WR,1,0.0,0.0,0.0,0
 2021,4157,Tarik Cohen,RB,1,0.0,0.0,0.0,0
 2021,7599,Jermar Jefferson,RB,1,0.0,0.0,0.0,0
-2021,6011,Gardner Minshew,QB,1,0.0,0.0,0.0,0
+2021,6011,Gardner Minshew II,QB,1,0.0,0.0,0.0,0
 2021,5127,Kyle Allen,QB,1,0.0,0.0,0.0,0
 2021,333,Ryan Fitzpatrick,QB,7,-0.78,-0.78,-0.78,1
 2022,4046,Patrick Mahomes,QB,18,323.4,420.4,420.4,17
@@ -335,7 +335,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2022,7525,DeVonta Smith,WR,18,173.0,257.6,160.6,11
 2022,5870,Daniel Jones,QB,16,189.64,255.98,212.08,12
 2022,5967,Tony Pollard,RB,18,224.8,255.3,189.5,11
-2022,4199,Aaron Jones,RB,18,201.5,249.1,249.1,17
+2022,4199,Aaron Jones Sr.,RB,18,201.5,249.1,249.1,17
 2022,2309,Amari Cooper,WR,18,192.4,249.0,127.7,10
 2022,7564,Ja'Marr Chase,WR,18,190.9,246.4,246.4,13
 2022,4950,Christian Kirk,WR,18,196.6,243.4,199.2,14
@@ -353,16 +353,16 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2022,6801,Tee Higgins,WR,18,179.6,227.2,208.1,16
 2022,7611,Rhamondre Stevenson,RB,17,180.1,227.0,203.3,13
 2022,3969,Leonard Fournette,RB,18,179.9,226.6,165.8,11
-2022,4037,Chris Godwin,WR,18,156.2,223.8,204.4,13
+2022,4037,Chris Godwin Jr.,WR,18,156.2,223.8,204.4,13
 2022,7528,Najee Harris,RB,18,158.06,223.36,210.46,16
 2022,6151,Miles Sanders,RB,18,201.3,218.7,121.6,12
 2022,8146,Garrett Wilson,WR,18,176.2,217.7,95.2,8
 2022,2028,Derek Carr,QB,18,192.98,217.58,139.4,13
-2022,6819,Michael Pittman,WR,18,161.5,216.5,176.9,12
+2022,6819,Michael Pittman Jr.,WR,18,161.5,216.5,176.9,12
 2022,5844,T.J. Hockenson,TE,18,156.2,216.4,216.4,17
 2022,4035,Alvin Kamara,RB,18,159.8,212.7,212.7,15
 2022,6783,Jerry Jeudy,WR,18,138.8,207.2,138.1,8
-2022,7543,Travis Etienne,RB,18,149.3,207.1,179.0,14
+2022,7543,Travis Etienne Jr.,RB,18,149.3,207.1,179.0,14
 2022,4039,Cooper Kupp,WR,14,205.9,205.9,205.9,9
 2022,4217,George Kittle,TE,18,114.0,202.5,202.5,15
 2022,4983,DJ Moore,WR,18,137.5,202.1,111.5,10
@@ -373,7 +373,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2022,5012,Mark Andrews,TE,18,157.9,191.0,191.0,16
 2022,6790,D'Andre Swift,RB,18,131.3,190.6,167.8,12
 2022,SF,San Francisco 49ers,DEF,18,150.0,190.5,162.75,14
-2022,8151,Kenneth Walker,RB,16,133.8,188.3,178.5,11
+2022,8151,Kenneth Walker III,RB,16,133.8,188.3,178.5,11
 2022,4040,JuJu Smith-Schuster,WR,18,154.2,186.3,156.7,14
 2022,3164,Ezekiel Elliott,RB,18,146.9,185.8,136.1,11
 2022,1689,Adam Thielen,WR,18,153.5,180.0,20.1,2
@@ -386,7 +386,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2022,5185,Allen Lazard,WR,18,137.5,175.3,58.7,5
 2022,6943,Gabe Davis,WR,18,147.1,175.1,129.2,9
 2022,BUF,Buffalo Bills,DEF,18,130.25,172.5,172.5,17
-2022,5872,Deebo Samuel,WR,18,165.0,169.4,157.9,11
+2022,5872,Deebo Samuel Sr.,WR,18,165.0,169.4,157.9,11
 2022,1234,Russell Wilson,QB,15,160.64,168.9,84.28,7
 2022,8137,George Pickens,WR,18,121.9,167.0,25.1,3
 2022,8129,Dameon Pierce,RB,18,166.9,166.9,96.8,8
@@ -426,7 +426,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2022,1339,Zach Ertz,TE,10,115.6,115.6,61.5,6
 2022,7527,Mac Jones,QB,13,54.04,112.0,15.98,2
 2022,421,Matthew Stafford,QB,12,111.88,111.88,111.88,9
-2022,8154,Brian Robinson,RB,15,86.0,111.2,5.8,1
+2022,8154,Brian Robinson Jr.,RB,15,86.0,111.2,5.8,1
 2022,7839,Evan McPherson,K,17,92.0,111.0,111.0,17
 2022,TB,Tampa Bay Buccaneers,DEF,15,83.75,110.75,101.5,13
 2022,4066,Evan Engram,TE,10,66.5,110.1,103.0,7
@@ -462,7 +462,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2022,5916,Darrell Henderson,RB,13,73.5,73.5,10.7,1
 2022,2320,Melvin Gordon,RB,10,73.1,73.1,20.4,3
 2022,2747,Jason Myers,K,9,41.0,72.0,72.0,9
-2022,7553,Kyle Pitts,TE,10,70.8,70.8,19.4,4
+2022,7553,Kyle Pitts Sr.,TE,10,70.8,70.8,19.4,4
 2022,8183,Brock Purdy,QB,4,0.0,70.32,70.32,4
 2022,4958,Brett Maher,K,6,40.0,70.0,70.0,6
 2022,6955,James Robinson,RB,10,68.7,68.7,52.7,5
@@ -499,7 +499,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2022,MIA,Miami Dolphins,DEF,5,43.0,43.0,43.0,5
 2022,7588,Javonte Williams,RB,5,42.0,42.0,42.0,4
 2022,2306,Jameis Winston,QB,6,41.92,41.92,41.92,3
-2022,8138,James Cook,RB,7,14.0,40.7,0.0,0
+2022,8138,James Cook III,RB,7,14.0,40.7,0.0,0
 2022,8119,Jahan Dotson,WR,4,3.0,39.5,16.9,2
 2022,8126,Wan'Dale Robinson,WR,5,37.9,37.9,0.0,0
 2022,WAS,Washington Commanders,DEF,3,37.5,37.5,29.5,2
@@ -508,7 +508,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2022,7601,Rondale Moore,WR,4,36.8,36.8,14.9,1
 2022,4973,Hayden Hurst,TE,5,36.7,36.7,28.5,4
 2022,7596,Elijah Moore,WR,5,35.9,35.9,0.0,0
-2022,6011,Gardner Minshew,QB,3,0.0,33.66,33.66,3
+2022,6011,Gardner Minshew II,QB,3,0.0,33.66,33.66,3
 2022,5272,Greg Joseph,K,6,33.0,33.0,33.0,6
 2022,DEN,Denver Broncos,DEF,6,23.5,32.75,32.75,6
 2022,MIN,Minnesota Vikings,DEF,6,32.5,32.5,36.0,5
@@ -580,8 +580,8 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2022,8161,Malik Willis,QB,1,1.4,1.4,0.0,0
 2022,533,Colt McCoy,QB,1,0.0,1.32,0.0,0
 2022,5133,Tyler Conklin,TE,1,0.0,0.0,0.0,1
-2022,2078,Odell Beckham,WR,4,0.0,0.0,0.0,0
-2022,5917,Mecole Hardman,WR,2,0.0,0.0,0.0,0
+2022,2078,Odell Beckham Jr.,WR,4,0.0,0.0,0.0,0
+2022,5917,Mecole Hardman Jr.,WR,2,0.0,0.0,0.0,0
 2022,515,Rob Gronkowski,TE,3,0.0,0.0,0.0,0
 2022,536,Antonio Brown,WR,2,0.0,0.0,0.0,0
 2023,6786,CeeDee Lamb,WR,18,285.7,408.7,390.1,16
@@ -598,7 +598,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2023,8155,Breece Hall,RB,18,190.0,294.5,252.7,15
 2023,3163,Jared Goff,QB,18,212.56,291.1,291.1,17
 2023,4983,DJ Moore,WR,18,235.2,291.0,291.0,17
-2023,7543,Travis Etienne,RB,18,228.9,286.4,286.4,17
+2023,7543,Travis Etienne Jr.,RB,18,228.9,286.4,286.4,17
 2023,2216,Mike Evans,WR,18,227.5,286.0,230.8,14
 2023,4046,Patrick Mahomes,QB,18,238.82,283.22,283.22,17
 2023,1479,Keenan Allen,WR,18,280.86,280.86,280.86,13
@@ -615,12 +615,12 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2023,1234,Russell Wilson,QB,18,215.86,255.4,207.62,14
 2023,6803,Brandon Aiyuk,WR,18,199.3,254.2,220.8,15
 2023,2749,Raheem Mostert,RB,17,222.9,253.2,225.7,14
-2023,6819,Michael Pittman,WR,18,223.4,252.2,227.3,14
+2023,6819,Michael Pittman Jr.,WR,18,223.4,252.2,227.3,14
 2023,7569,Nico Collins,WR,17,185.9,250.9,222.8,13
 2023,3198,Derrick Henry,RB,18,196.28,248.66,230.56,16
 2023,9509,Bijan Robinson,RB,18,190.0,248.3,248.3,17
 2023,421,Matthew Stafford,QB,18,193.78,247.1,209.72,14
-2023,5872,Deebo Samuel,WR,18,192.0,246.7,246.1,14
+2023,5872,Deebo Samuel Sr.,WR,18,192.0,246.7,246.1,14
 2023,9221,Jahmyr Gibbs,RB,18,178.5,242.1,242.1,15
 2023,10859,Sam LaPorta,TE,18,177.6,240.3,197.2,14
 2023,2028,Derek Carr,QB,18,152.6,240.12,179.68,12
@@ -631,7 +631,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2023,4035,Alvin Kamara,RB,18,201.6,233.0,233.0,14
 2023,2309,Amari Cooper,WR,18,155.6,232.5,189.1,13
 2023,4981,Calvin Ridley,WR,18,165.2,232.4,162.7,13
-2023,8138,James Cook,RB,18,178.0,232.2,182.3,14
+2023,8138,James Cook III,RB,18,178.0,232.2,182.3,14
 2023,1689,Adam Thielen,WR,18,193.8,230.5,80.4,7
 2023,7525,DeVonta Smith,WR,18,196.2,230.1,220.7,16
 2023,4066,Evan Engram,TE,18,169.1,229.3,196.8,16
@@ -647,7 +647,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2023,8205,Isiah Pacheco,RB,18,175.3,215.9,198.5,13
 2023,8146,Garrett Wilson,WR,18,178.7,215.7,201.8,15
 2023,8137,George Pickens,WR,18,147.7,213.3,58.7,6
-2023,4037,Chris Godwin,WR,18,141.7,210.7,111.5,11
+2023,4037,Chris Godwin Jr.,WR,18,141.7,210.7,111.5,11
 2023,5927,Terry McLaurin,WR,18,147.4,209.7,137.5,11
 2023,5892,David Montgomery,RB,18,162.1,209.7,152.6,11
 2023,9997,Zay Flowers,WR,18,162.9,208.4,101.7,9
@@ -657,9 +657,9 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2023,2374,Tyler Lockett,WR,18,162.1,202.4,87.0,8
 2023,7526,Jaylen Waddle,WR,18,165.2,201.6,151.5,12
 2023,DAL,Dallas Cowboys,DEF,18,175.75,201.0,164.5,12
-2023,8151,Kenneth Walker,RB,18,149.0,200.4,121.7,9
+2023,8151,Kenneth Walker III,RB,18,149.0,200.4,121.7,9
 2023,6790,D'Andre Swift,RB,18,166.0,198.3,117.1,11
-2023,8154,Brian Robinson,RB,18,176.0,198.1,68.2,7
+2023,8154,Brian Robinson Jr.,RB,18,176.0,198.1,68.2,7
 2023,7528,Najee Harris,RB,18,130.9,195.5,63.7,6
 2023,BAL,Baltimore Ravens,DEF,17,156.25,191.75,138.0,12
 2023,5045,Courtland Sutton,WR,18,177.9,191.2,58.0,6
@@ -699,11 +699,11 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2023,2197,Brandin Cooks,WR,16,91.7,138.2,4.2,1
 2023,5022,Dallas Goedert,TE,18,98.5,136.8,136.8,14
 2023,4227,Harrison Butker,K,17,97.0,136.0,117.0,14
-2023,4199,Aaron Jones,RB,18,75.4,135.4,99.0,8
+2023,4199,Aaron Jones Sr.,RB,18,75.4,135.4,99.0,8
 2023,6111,Jake Browning,QB,7,63.84,135.32,44.16,2
 2023,MIA,Miami Dolphins,DEF,10,110.5,134.5,114.5,7
 2023,5012,Mark Andrews,TE,14,134.4,134.4,134.4,10
-2023,6011,Gardner Minshew,QB,10,80.88,133.42,86.88,6
+2023,6011,Gardner Minshew II,QB,10,80.88,133.42,86.88,6
 2023,5987,Alexander Mattison,RB,18,123.4,132.2,101.3,9
 2023,KC,Kansas City Chiefs,DEF,13,84.25,130.5,85.5,9
 2023,7839,Evan McPherson,K,18,105.0,130.0,130.0,17
@@ -722,7 +722,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2023,7594,Chuba Hubbard,RB,10,56.2,102.9,50.5,5
 2023,8167,Christian Watson,WR,18,101.3,101.3,10.4,2
 2023,2505,Darren Waller,TE,11,80.4,100.0,80.6,8
-2023,7553,Kyle Pitts,TE,15,86.7,99.6,26.3,6
+2023,7553,Kyle Pitts Sr.,TE,15,86.7,99.6,26.3,6
 2023,6826,Cole Kmet,TE,13,61.8,97.4,68.9,8
 2023,9228,Bryce Young,QB,11,96.12,96.12,25.88,3
 2023,9754,Quentin Johnston,WR,18,68.5,94.0,0.0,0
@@ -739,7 +739,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2023,4666,Younghoe Koo,K,11,55.0,75.0,74.0,9
 2023,9999,Will Levis,QB,8,60.3,73.76,48.52,4
 2023,9500,Josh Downs,WR,11,42.1,72.0,4.4,1
-2023,9229,Anthony Richardson,QB,6,70.68,70.68,70.68,4
+2023,9229,Anthony Richardson Sr.,QB,6,70.68,70.68,70.68,4
 2023,8230,Ty Chandler,RB,6,17.1,70.3,53.2,4
 2023,PIT,Pittsburgh Steelers,DEF,9,67.75,67.75,18.75,4
 2023,1348,Dustin Hopkins,K,9,57.0,67.0,67.0,9
@@ -802,7 +802,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2023,4988,Nick Chubb,RB,6,23.6,23.6,23.6,2
 2023,MIN,Minnesota Vikings,DEF,2,23.5,23.5,23.5,2
 2023,9224,Chase Brown,RB,4,0.0,22.6,0.0,0
-2023,2078,Odell Beckham,WR,5,18.0,20.4,0.0,0
+2023,2078,Odell Beckham Jr.,WR,5,18.0,20.4,0.0,0
 2023,4040,JuJu Smith-Schuster,WR,4,19.0,19.0,0.0,0
 2023,DEN,Denver Broncos,DEF,5,0.0,19.0,23.5,4
 2023,6820,Clyde Edwards-Helaire,RB,4,8.8,18.6,0.0,0
@@ -879,7 +879,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2024,9226,De'Von Achane,RB,18,230.4,301.4,287.8,16
 2024,5849,Kyler Murray,QB,18,223.38,298.74,298.74,17
 2024,5850,Josh Jacobs,RB,18,228.8,293.6,293.6,17
-2024,11631,Brian Thomas,WR,18,184.1,289.0,172.9,8
+2024,11631,Brian Thomas Jr.,WR,18,184.1,289.0,172.9,8
 2024,4046,Patrick Mahomes,QB,18,220.06,286.52,225.76,14
 2024,6797,Justin Herbert,QB,18,195.46,284.9,272.22,16
 2024,8112,Drake London,WR,18,197.8,282.3,194.8,13
@@ -887,7 +887,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2024,4943,Sam Darnold,QB,16,207.32,273.42,198.06,11
 2024,8150,Kyren Williams,RB,18,221.8,272.1,272.1,17
 2024,5927,Terry McLaurin,WR,18,206.8,271.8,199.5,11
-2024,8138,James Cook,RB,18,195.7,270.7,234.2,15
+2024,8138,James Cook III,RB,18,195.7,270.7,234.2,15
 2024,6786,CeeDee Lamb,WR,18,222.8,267.9,267.9,17
 2024,4035,Alvin Kamara,RB,18,250.3,267.3,250.3,13
 2024,8183,Brock Purdy,QB,18,209.48,265.86,265.86,16
@@ -907,7 +907,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2024,2216,Mike Evans,WR,18,144.5,242.9,242.9,14
 2024,11635,Ladd McConkey,WR,18,164.5,242.4,112.0,5
 2024,5045,Courtland Sutton,WR,18,182.3,241.8,163.48,9
-2024,4199,Aaron Jones,RB,18,185.5,240.6,220.0,16
+2024,4199,Aaron Jones Sr.,RB,18,185.5,240.6,220.0,16
 2024,4983,DJ Moore,WR,18,175.8,239.1,111.8,8
 2024,4217,George Kittle,TE,18,185.0,238.6,214.2,13
 2024,8155,Breece Hall,RB,18,186.3,237.9,237.9,16
@@ -929,7 +929,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2024,7525,DeVonta Smith,WR,18,131.3,201.4,172.9,13
 2024,7594,Chuba Hubbard,RB,15,159.3,201.2,148.8,11
 2024,8136,Rachaad White,RB,18,170.1,199.6,106.8,7
-2024,11628,Marvin Harrison,WR,18,153.0,199.0,191.1,16
+2024,11628,Marvin Harrison Jr.,WR,18,153.0,199.0,191.1,16
 2024,10222,Jayden Reed,WR,18,170.1,198.0,139.5,10
 2024,5846,DK Metcalf,WR,18,153.7,195.7,164.8,14
 2024,1466,Travis Kelce,TE,18,157.8,194.9,140.5,13
@@ -939,7 +939,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2024,1479,Keenan Allen,WR,18,123.1,184.4,22.9,3
 2024,6768,Tua Tagovailoa,QB,18,166.24,182.08,151.88,9
 2024,5947,Jakobi Meyers,WR,15,120.1,182.0,19.8,2
-2024,8151,Kenneth Walker,RB,18,166.8,180.7,147.1,10
+2024,8151,Kenneth Walker III,RB,18,166.8,180.7,147.1,10
 2024,4039,Cooper Kupp,WR,18,167.7,177.0,173.1,11
 2024,10859,Sam LaPorta,TE,18,112.0,176.6,64.3,8
 2024,11533,Brandon Aubrey,K,18,126.0,174.0,174.0,18
@@ -947,12 +947,12 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2024,1166,Kirk Cousins,QB,18,161.34,166.82,104.94,6
 2024,8137,George Pickens,WR,18,156.4,165.4,156.4,12
 2024,7021,Rico Dowdle,RB,14,112.8,163.0,87.6,6
-2024,8154,Brian Robinson,RB,18,136.5,161.8,109.6,9
-2024,9229,Anthony Richardson,QB,16,125.74,160.36,100.14,8
+2024,8154,Brian Robinson Jr.,RB,18,136.5,161.8,109.6,9
+2024,9229,Anthony Richardson Sr.,QB,16,125.74,160.36,100.14,8
 2024,8134,Khalil Shakir,WR,16,135.6,160.2,53.0,3
 2024,4981,Calvin Ridley,WR,15,107.9,158.1,119.6,9
 2024,9500,Josh Downs,WR,14,112.2,158.1,67.2,5
-2024,5872,Deebo Samuel,WR,18,117.0,155.1,77.6,8
+2024,5872,Deebo Samuel Sr.,WR,18,117.0,155.1,77.6,8
 2024,11564,Drake Maye,QB,13,111.24,154.04,110.84,8
 2024,3451,Ka'imi Fairbairn,K,18,134.0,153.0,153.0,17
 2024,7526,Jaylen Waddle,WR,18,141.6,150.6,62.7,4
@@ -965,14 +965,14 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2024,PHI,Philadelphia Eagles,DEF,12,92.5,143.5,130.0,10
 2024,9502,Tank Dell,WR,18,112.6,140.5,69.4,6
 2024,PIT,Pittsburgh Steelers,DEF,16,126.0,140.0,119.75,11
-2024,4037,Chris Godwin,WR,18,139.8,139.8,117.5,6
+2024,4037,Chris Godwin Jr.,WR,18,139.8,139.8,117.5,6
 2024,9753,Zach Charbonnet,RB,10,102.2,138.8,117.2,6
 2024,4033,David Njoku,TE,12,123.4,138.0,120.8,8
 2024,9484,Tucker Kraft,TE,14,104.0,133.8,120.7,12
-2024,7553,Kyle Pitts,TE,18,105.3,131.7,131.7,17
+2024,7553,Kyle Pitts Sr.,TE,18,105.3,131.7,131.7,17
 2024,1945,Chris Boswell,K,13,103.0,129.0,129.0,12
 2024,1689,Adam Thielen,WR,9,64.2,128.0,19.7,1
-2024,11655,Tyrone Tracy,RB,11,89.6,127.9,103.9,9
+2024,11655,Tyrone Tracy Jr.,RB,11,89.6,127.9,103.9,9
 2024,7090,Darnell Mooney,WR,14,108.4,127.3,29.4,2
 2024,DEN,Denver Broncos,DEF,11,79.0,127.0,102.0,7
 2024,4663,Austin Ekeler,RB,13,124.1,124.1,0.0,0
@@ -991,11 +991,11 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2024,7591,Justin Fields,QB,8,109.84,109.84,64.06,3
 2024,NYJ,New York Jets,DEF,17,86.75,107.25,67.75,10
 2024,8408,Jordan Mason,RB,10,104.1,104.1,103.6,8
-2024,7543,Travis Etienne,RB,15,94.5,100.2,69.1,7
+2024,7543,Travis Etienne Jr.,RB,15,94.5,100.2,69.1,7
 2024,10236,Dalton Kincaid,TE,18,80.6,99.8,99.8,14
 2024,2374,Tyler Lockett,WR,12,99.5,99.5,11.5,2
 2024,8259,Cameron Dicker,K,9,53.0,99.0,99.0,9
-2024,6819,Michael Pittman,WR,11,97.9,97.9,48.7,5
+2024,6819,Michael Pittman Jr.,WR,11,97.9,97.9,48.7,5
 2024,8121,Romeo Doubs,WR,14,94.3,94.3,0.0,0
 2024,8228,Jaylen Warren,RB,11,59.0,93.0,0.0,0
 2024,1264,Justin Tucker,K,13,91.0,91.0,91.0,13
@@ -1055,7 +1055,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2024,8676,Rashid Shaheed,WR,5,43.1,43.1,8.3,2
 2024,9225,Tank Bigsby,RB,8,38.9,42.1,35.3,3
 2024,4195,Jake Elliott,K,9,42.0,42.0,42.0,9
-2024,11559,Michael Penix,QB,3,0.0,40.58,6.38,1
+2024,11559,Michael Penix Jr.,QB,3,0.0,40.58,6.38,1
 2024,NO,New Orleans Saints,DEF,6,42.75,39.25,39.75,4
 2024,GB,Green Bay Packers,DEF,3,4.25,37.75,37.75,3
 2024,CLE,Cleveland Browns,DEF,4,37.25,37.25,37.25,4
@@ -1090,7 +1090,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2024,9228,Bryce Young,QB,2,11.6,11.6,0.0,0
 2024,LV,Las Vegas Raiders,DEF,3,11.5,11.5,11.5,3
 2024,11562,Spencer Rattler,QB,1,11.42,11.42,0.0,0
-2024,6011,Gardner Minshew,QB,1,11.2,11.2,11.2,1
+2024,6011,Gardner Minshew II,QB,1,11.2,11.2,11.2,1
 2024,8670,Parker Romo,K,1,11.0,11.0,11.0,1
 2024,11292,Tommy DeVito,QB,2,10.76,10.76,10.76,1
 2024,4082,Curtis Samuel,WR,3,10.0,10.0,0.0,0
@@ -1150,7 +1150,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,3294,Dak Prescott,QB,18,259.78,315.28,315.28,17
 2025,11560,Caleb Williams,QB,18,237.12,315.18,290.98,16
 2025,11563,Bo Nix,QB,18,232.06,307.34,307.34,17
-2025,8138,James Cook,RB,18,238.0,307.2,307.2,17
+2025,8138,James Cook III,RB,18,238.0,307.2,307.2,17
 2025,3163,Jared Goff,QB,18,229.26,300.06,287.96,16
 2025,6904,Jalen Hurts,QB,18,246.36,296.56,296.56,17
 2025,8137,George Pickens,WR,18,244.4,290.9,290.9,17
@@ -1161,7 +1161,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,8144,Chris Olave,WR,18,186.8,271.0,207.6,13
 2025,4892,Baker Mayfield,QB,18,206.38,267.42,267.42,17
 2025,8150,Kyren Williams,RB,18,203.4,263.8,263.8,17
-2025,7543,Travis Etienne,RB,18,190.3,254.9,204.1,13
+2025,7543,Travis Etienne Jr.,RB,18,190.3,254.9,204.1,13
 2025,12527,Ashton Jeanty,RB,18,184.4,249.6,214.3,16
 2025,9997,Zay Flowers,WR,18,164.5,247.8,204.3,15
 2025,7588,Javonte Williams,RB,18,211.0,243.8,243.8,17
@@ -1187,7 +1187,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,2449,Stefon Diggs,WR,18,154.0,212.8,118.0,10
 2025,4881,Lamar Jackson,QB,18,171.1,211.86,189.44,12
 2025,8155,Breece Hall,RB,18,174.76,211.66,127.5,11
-2025,7553,Kyle Pitts,TE,18,131.1,211.3,146.8,11
+2025,7553,Kyle Pitts Sr.,TE,18,131.1,211.3,146.8,11
 2025,9758,C.J. Stroud,QB,18,144.64,210.54,210.54,14
 2025,12489,RJ Harvey,RB,18,151.6,207.1,145.2,10
 2025,HOU,Houston Texans,DEF,17,159.5,205.75,184.0,15
@@ -1195,11 +1195,11 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,8112,Drake London,WR,18,179.5,204.4,204.4,12
 2025,7525,DeVonta Smith,WR,18,168.4,204.3,184.3,16
 2025,6794,Justin Jefferson,WR,18,158.4,203.0,203.0,17
-2025,6819,Michael Pittman,WR,18,183.4,202.9,133.8,11
+2025,6819,Michael Pittman Jr.,WR,18,183.4,202.9,133.8,11
 2025,7021,Rico Dowdle,RB,15,166.6,199.6,196.0,13
 2025,12514,Emeka Egbuka,WR,18,176.5,198.7,184.2,16
 2025,7526,Jaylen Waddle,WR,18,178.12,194.62,161.92,15
-2025,8151,Kenneth Walker,RB,18,139.1,193.4,166.7,15
+2025,8151,Kenneth Walker III,RB,18,139.1,193.4,166.7,15
 2025,1466,Travis Kelce,TE,18,164.8,192.2,170.6,14
 2025,5846,DK Metcalf,WR,18,167.0,189.7,161.2,15
 2025,3257,Jacoby Brissett,QB,10,125.5,189.28,168.22,9
@@ -1207,7 +1207,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,12518,Tyler Warren,TE,18,159.7,187.5,187.5,17
 2025,8110,Jake Ferguson,TE,18,169.5,187.1,173.1,14
 2025,5022,Dallas Goedert,TE,18,138.6,185.6,122.8,11
-2025,5872,Deebo Samuel,WR,18,157.0,185.2,138.3,12
+2025,5872,Deebo Samuel Sr.,WR,18,157.0,185.2,138.3,12
 2025,12522,Cam Ward,QB,18,124.92,183.16,128.16,12
 2025,11635,Ladd McConkey,WR,18,159.5,181.9,181.9,17
 2025,9753,Zach Charbonnet,RB,18,116.0,181.9,0.0,0
@@ -1218,7 +1218,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,5947,Jakobi Meyers,WR,18,137.8,175.8,76.1,6
 2025,11533,Brandon Aubrey,K,18,139.0,174.6,174.6,17
 2025,7049,Jauan Jennings,WR,18,117.3,173.8,30.9,3
-2025,12506,Harold Fannin,TE,17,130.8,173.3,78.2,6
+2025,12506,Harold Fannin Jr.,TE,17,130.8,173.3,78.2,6
 2025,10232,Michael Wilson,WR,8,100.6,171.5,171.5,8
 2025,12512,Quinshon Judkins,RB,18,156.0,170.8,144.2,12
 2025,4983,DJ Moore,WR,18,121.58,170.68,121.08,11
@@ -1236,13 +1236,13 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,19,Joe Flacco,QB,14,146.64,146.64,33.18,2
 2025,NE,New England Patriots,DEF,16,113.0,144.5,108.75,9
 2025,7611,Rhamondre Stevenson,RB,16,51.9,143.4,2.0,1
-2025,11655,Tyrone Tracy,RB,15,73.2,142.8,87.5,7
+2025,11655,Tyrone Tracy Jr.,RB,15,73.2,142.8,87.5,7
 2025,7591,Justin Fields,QB,11,142.66,142.66,93.8,7
 2025,BUF,Buffalo Bills,DEF,18,107.0,142.5,108.75,14
 2025,11584,Bucky Irving,RB,18,106.2,140.5,140.5,10
 2025,2747,Jason Myers,K,13,103.0,140.0,138.0,12
 2025,12474,Woody Marks,RB,15,113.0,139.1,58.4,6
-2025,11631,Brian Thomas,WR,18,102.1,138.8,138.8,14
+2025,11631,Brian Thomas Jr.,WR,18,102.1,138.8,138.8,14
 2025,6650,Chase McLaughlin,K,17,106.0,138.0,138.0,17
 2025,6768,Tua Tagovailoa,QB,14,137.98,137.98,77.32,7
 2025,9756,Jordan Addison,WR,18,108.6,137.6,59.0,6
@@ -1255,7 +1255,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,PHI,Philadelphia Eagles,DEF,15,86.0,131.75,131.75,15
 2025,8121,Romeo Doubs,WR,13,105.1,130.1,24.1,3
 2025,5012,Mark Andrews,TE,18,111.6,130.0,69.5,12
-2025,11628,Marvin Harrison,WR,18,125.4,127.8,125.4,12
+2025,11628,Marvin Harrison Jr.,WR,18,125.4,127.8,125.4,12
 2025,12481,Cam Skattebo,RB,18,127.7,127.7,86.8,5
 2025,8408,Jordan Mason,RB,18,113.0,127.4,59.2,5
 2025,1373,Geno Smith,QB,12,118.98,126.12,84.2,8
@@ -1265,9 +1265,9 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,8142,Alec Pierce,WR,10,61.7,120.1,27.3,2
 2025,11786,Cam Little,K,14,68.0,120.0,91.0,11
 2025,12517,Colston Loveland,TE,13,57.4,120.0,62.0,4
-2025,11559,Michael Penix,QB,11,118.78,118.78,8.08,3
+2025,11559,Michael Penix Jr.,QB,11,118.78,118.78,8.08,3
 2025,9484,Tucker Kraft,TE,18,118.2,118.2,108.3,7
-2025,4199,Aaron Jones,RB,18,81.6,117.7,101.4,11
+2025,4199,Aaron Jones Sr.,RB,18,81.6,117.7,101.4,11
 2025,12545,Tyler Shough,QB,7,38.92,117.3,8.42,1
 2025,11647,Kimani Vidal,RB,13,108.1,117.0,67.0,6
 2025,6806,J.K. Dobbins,RB,10,116.9,116.9,116.9,10
@@ -1308,8 +1308,8 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,12524,Shedeur Sanders,QB,7,56.28,85.42,63.68,5
 2025,2216,Mike Evans,WR,16,34.0,85.3,65.6,7
 2025,17,Matt Prater,K,13,80.0,85.0,85.0,13
-2025,4037,Chris Godwin,WR,18,35.4,83.5,11.2,2
-2025,12519,Luther Burden,WR,8,31.5,81.7,46.8,3
+2025,4037,Chris Godwin Jr.,WR,18,35.4,83.5,11.2,2
+2025,12519,Luther Burden III,WR,8,31.5,81.7,46.8,3
 2025,IND,Indianapolis Colts,DEF,11,77.5,81.25,77.0,10
 2025,BAL,Baltimore Ravens,DEF,9,58.0,80.25,67.25,8
 2025,PIT,Pittsburgh Steelers,DEF,10,53.0,78.75,67.75,8
@@ -1332,7 +1332,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,12499,Elic Ayomanor,WR,8,62.7,62.7,0.0,0
 2025,7585,Davis Mills,QB,9,58.56,61.2,58.56,3
 2025,2505,Darren Waller,TE,5,28.0,60.6,28.0,3
-2025,9494,Marvin Mims,WR,9,59.8,59.8,0.0,0
+2025,9494,Marvin Mims Jr.,WR,9,59.8,59.8,0.0,0
 2025,11632,Malik Nabers,WR,4,58.1,58.1,58.1,4
 2025,4066,Evan Engram,TE,10,57.4,57.4,17.2,3
 2025,12490,Bhayshul Tuten,RB,10,56.9,56.9,0.0,0
@@ -1348,7 +1348,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,11435,Emanuel Wilson,RB,9,33.5,51.2,0.0,0
 2025,JAX,Jacksonville Jaguars,DEF,5,31.25,49.25,40.25,4
 2025,10222,Jayden Reed,WR,18,22.8,48.5,0.0,0
-2025,10219,Chris Rodriguez,RB,9,19.0,48.2,5.2,1
+2025,10219,Chris Rodriguez Jr.,RB,9,19.0,48.2,5.2,1
 2025,4981,Calvin Ridley,WR,11,47.8,47.8,8.7,1
 2025,4144,Jonnu Smith,TE,12,24.7,47.2,3.7,2
 2025,7090,Darnell Mooney,WR,10,41.4,46.9,18.5,2
@@ -1377,10 +1377,10 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,11783,Ryan Flournoy,WR,4,0.0,29.6,0.0,0
 2025,8111,Cade Otton,TE,4,29.2,29.2,24.4,3
 2025,3678,Wil Lutz,K,6,28.0,28.0,28.0,6
-2025,8154,Brian Robinson,RB,10,25.9,28.0,0.0,0
+2025,8154,Brian Robinson Jr.,RB,10,25.9,28.0,0.0,0
 2025,11646,Jalen Coker,WR,4,0.0,28.0,28.0,3
 2025,9482,Michael Mayer,TE,3,2.0,27.6,25.6,2
-2025,8125,Calvin Austin,WR,7,27.2,27.2,0.0,0
+2025,8125,Calvin Austin III,WR,7,27.2,27.2,0.0,0
 2025,5230,Michael Badgley,K,4,27.0,27.0,27.0,4
 2025,11589,Trey Benson,RB,13,26.9,26.9,18.8,2
 2025,ARI,Arizona Cardinals,DEF,3,26.5,26.5,26.5,3
@@ -1400,11 +1400,11 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,12455,Brashard Smith,RB,6,16.5,16.5,0.0,0
 2025,11625,Adonai Mitchell,WR,4,3.4,15.9,10.7,2
 2025,11588,Jawhar Jordan,RB,3,0.0,15.9,0.0,0
-2025,12495,Ollie Gordon,RB,5,14.2,14.2,0.0,0
+2025,12495,Ollie Gordon II,RB,5,14.2,14.2,0.0,0
 2025,TEN,Tennessee Titans,DEF,3,0.0,13.5,13.5,3
 2025,12538,Brady Cook,QB,2,0.0,13.28,0.0,0
 2025,4663,Austin Ekeler,RB,2,13.1,13.1,8.7,1
-2025,8147,John Metchie,WR,2,13.1,13.1,0.0,0
+2025,8147,John Metchie III,WR,2,13.1,13.1,0.0,0
 2025,8210,Chig Okonkwo,TE,2,13.0,13.0,11.6,1
 2025,8698,Jake Tonges,TE,1,11.8,11.8,11.8,1
 2025,7528,Najee Harris,RB,3,11.6,11.6,0.0,0
@@ -1425,7 +1425,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,12540,Chimere Dike,WR,2,7.5,7.5,0.0,0
 2025,11834,Devaughn Vele,WR,1,7.0,7.0,7.0,1
 2025,1689,Adam Thielen,WR,2,6.6,6.6,4.6,1
-2025,12541,Dont'e Thornton,WR,2,6.5,6.5,0.0,0
+2025,12541,Dont'e Thornton Jr.,WR,2,6.5,6.5,0.0,0
 2025,11608,Isaiah Williams,WR,1,0.0,6.5,0.0,0
 2025,4666,Younghoe Koo,K,1,6.0,6.0,6.0,1
 2025,8123,Hassan Haskins,RB,2,5.8,5.8,0.0,0
@@ -1445,7 +1445,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,8143,Jerome Ford,RB,1,1.5,1.5,0.0,0
 2025,6271,Olamide Zaccheaus,WR,1,1.5,1.5,1.5,1
 2025,6920,Isaiah Hodgins,WR,1,1.4,1.4,0.0,0
-2025,6011,Gardner Minshew,QB,3,0.0,1.4,1.4,3
+2025,6011,Gardner Minshew II,QB,3,0.0,1.4,1.4,3
 2025,8160,Kenny Pickett,QB,1,0.0,1.26,0.0,0
 2025,9225,Tank Bigsby,RB,2,1.2,1.2,0.0,0
 2025,11575,Ray Davis,RB,1,0.8,0.8,0.0,0
@@ -1459,257 +1459,264 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,11789,Joshua Karty,K,1,0.0,0.0,0.0,1
 2025,CIN,Cincinnati Bengals,DEF,2,-8.0,-0.5,-0.5,2
 2025,12504,Kaleb Johnson,RB,1,-1.2,-1.2,0.0,0
-2026,9488,Jaxon Smith-Njigba,WR,18,169.36,169.36,169.36,18
-2026,4984,Josh Allen,QB,18,158.76,158.76,158.76,18
-2026,9221,Jahmyr Gibbs,RB,18,154.7,154.7,154.7,17
-2026,8151,Kenneth Walker,RB,18,141.5,141.5,141.5,17
-2026,8183,Brock Purdy,QB,18,136.5,136.5,136.5,18
-2026,6786,CeeDee Lamb,WR,18,132.6,132.6,132.6,18
-2026,9509,Bijan Robinson,RB,18,129.0,129.0,129.0,18
-2026,8167,Christian Watson,WR,18,123.3,123.3,53.8,16
-2026,4034,Christian McCaffrey,RB,18,122.0,122.0,122.0,17
-2026,8150,Kyren Williams,RB,18,119.0,119.0,119.0,18
-2026,6813,Jonathan Taylor,RB,18,118.5,118.5,118.5,18
-2026,3198,Derrick Henry,RB,18,117.8,117.8,117.8,18
-2026,8144,Chris Olave,WR,18,114.5,114.5,114.5,18
-2026,3163,Jared Goff,QB,18,114.0,114.0,114.0,17
-2026,7523,Trevor Lawrence,QB,18,113.2,113.2,113.2,6
-2026,12545,Tyler Shough,QB,18,113.12,113.12,113.12,18
-2026,8138,James Cook,RB,18,113.1,113.1,113.1,18
-2026,9758,C.J. Stroud,QB,18,112.66,112.66,112.66,18
-2026,9228,Bryce Young,QB,18,112.46,112.46,112.46,17
-2026,6804,Jordan Love,QB,18,109.36,109.36,109.36,18
-2026,11564,Drake Maye,QB,18,108.52,108.52,108.52,18
-2026,8131,Isaiah Likely,TE,18,108.3,108.3,108.3,18
-2026,7588,Javonte Williams,RB,18,108.0,108.0,76.7,17
-2026,3294,Dak Prescott,QB,18,106.86,106.86,106.86,18
-2026,8228,Jaylen Warren,RB,18,106.8,106.8,76.0,16
-2026,421,Matthew Stafford,QB,18,105.86,105.86,105.86,18
-2026,6790,D'Andre Swift,RB,18,104.3,104.3,104.3,18
-2026,11632,Malik Nabers,WR,18,103.9,103.9,91.0,16
-2026,8130,Trey McBride,TE,18,103.1,103.1,103.1,18
+2026,9488,Jaxon Smith-Njigba,WR,18,201.16,201.16,201.16,18
+2026,9221,Jahmyr Gibbs,RB,18,172.5,172.5,172.5,17
+2026,4984,Josh Allen,QB,18,158.76,158.76,158.76,6
+2026,6786,CeeDee Lamb,WR,18,157.0,157.0,157.0,18
+2026,8151,Kenneth Walker III,RB,18,151.2,151.2,151.2,17
+2026,8183,Brock Purdy,QB,18,149.02,149.02,149.02,7
+2026,9509,Bijan Robinson,RB,18,146.2,146.2,146.2,18
+2026,4034,Christian McCaffrey,RB,18,144.0,144.0,144.0,17
+2026,6813,Jonathan Taylor,RB,18,137.5,137.5,137.5,18
+2026,8150,Kyren Williams,RB,18,137.1,137.1,137.1,18
+2026,11564,Drake Maye,QB,18,135.96,135.96,135.96,18
+2026,8167,Christian Watson,WR,18,134.0,134.0,64.5,16
+2026,3163,Jared Goff,QB,18,131.02,131.02,131.02,17
+2026,8130,Trey McBride,TE,18,130.7,130.7,130.7,18
+2026,6770,Joe Burrow,QB,18,130.62,130.62,130.62,17
+2026,3294,Dak Prescott,QB,18,130.14,130.14,130.14,18
+2026,7588,Javonte Williams,RB,18,130.0,130.0,98.7,17
+2026,9758,C.J. Stroud,QB,18,129.18,129.18,129.18,7
+2026,7547,Amon-Ra St. Brown,WR,18,127.4,127.4,127.4,17
+2026,6804,Jordan Love,QB,18,126.82,126.82,126.82,18
+2026,12545,Tyler Shough,QB,18,126.44,126.44,126.44,18
+2026,8144,Chris Olave,WR,18,126.1,126.1,126.1,17
+2026,9997,Zay Flowers,WR,18,125.7,125.7,125.7,16
+2026,8228,Jaylen Warren,RB,18,124.0,124.0,93.2,16
+2026,3198,Derrick Henry,RB,18,123.7,123.7,123.7,18
+2026,421,Matthew Stafford,QB,18,123.36,123.36,123.36,18
+2026,6790,D'Andre Swift,RB,18,123.3,123.3,123.3,18
+2026,11632,Malik Nabers,WR,18,122.5,122.5,109.6,16
+2026,12527,Ashton Jeanty,RB,18,122.5,122.5,122.5,18
+2026,9228,Bryce Young,QB,18,118.88,118.88,118.88,17
+2026,9493,Puka Nacua,WR,18,114.6,114.6,114.6,16
+2026,7523,Trevor Lawrence,QB,18,113.2,113.2,113.2,7
+2026,8138,James Cook III,RB,18,113.1,113.1,113.1,6
+2026,12501,Matthew Golden,WR,18,112.1,112.1,96.6,17
+2026,8131,Isaiah Likely,TE,18,111.5,111.5,111.5,17
+2026,11584,Bucky Irving,RB,18,109.6,109.6,109.6,18
+2026,7594,Chuba Hubbard,RB,18,109.1,109.1,109.1,17
+2026,8112,Drake London,WR,18,109.0,109.0,109.0,18
+2026,3257,Jacoby Brissett,QB,18,108.7,108.7,85.22,13
+2026,4217,George Kittle,TE,18,106.0,106.0,106.0,7
+2026,1373,Geno Smith,QB,18,105.12,105.12,9.98,12
+2026,6801,Tee Higgins,WR,18,103.1,103.1,103.1,17
 2026,2133,Davante Adams,WR,18,103.0,103.0,103.0,6
-2026,7547,Amon-Ra St. Brown,WR,18,102.7,102.7,102.7,5
-2026,12501,Matthew Golden,WR,18,102.2,102.2,86.7,17
-2026,6770,Joe Burrow,QB,18,101.74,101.74,101.74,17
-2026,12527,Ashton Jeanty,RB,18,100.9,100.9,100.9,18
-2026,7594,Chuba Hubbard,RB,18,99.1,99.1,99.1,17
-2026,9997,Zay Flowers,WR,18,97.0,97.0,97.0,17
-2026,8146,Garrett Wilson,WR,18,95.8,95.8,95.8,18
-2026,4046,Patrick Mahomes,QB,18,94.56,94.56,72.9,16
-2026,9487,Parker Washington,WR,18,92.9,92.9,92.9,6
-2026,9493,Puka Nacua,WR,18,92.8,92.8,92.8,16
-2026,3257,Jacoby Brissett,QB,18,91.72,91.72,68.24,16
-2026,4217,George Kittle,TE,18,91.2,91.2,91.2,18
-2026,2216,Mike Evans,WR,18,89.5,89.5,89.5,18
-2026,8112,Drake London,WR,18,89.4,89.4,89.4,18
-2026,12526,Tetairoa McMillan,WR,18,89.1,89.1,89.1,17
-2026,12490,Bhayshul Tuten,RB,18,88.4,88.4,60.3,4
-2026,11584,Bucky Irving,RB,18,86.1,86.1,86.1,18
-2026,11566,Jayden Daniels,QB,18,85.66,85.66,85.66,16
-2026,11604,Brock Bowers,TE,18,83.2,83.2,83.2,16
-2026,8137,George Pickens,WR,18,82.3,82.3,82.3,18
-2026,1373,Geno Smith,QB,18,81.64,81.64,9.98,1
-2026,7564,Ja'Marr Chase,WR,18,80.4,80.4,80.4,5
+2026,8146,Garrett Wilson,WR,18,100.4,100.4,100.4,18
+2026,4046,Patrick Mahomes,QB,18,99.56,99.56,77.9,16
+2026,8137,George Pickens,WR,18,98.0,98.0,98.0,18
+2026,7564,Ja'Marr Chase,WR,18,97.6,97.6,97.6,17
+2026,12519,Luther Burden III,WR,18,97.5,97.5,9.5,1
+2026,12526,Tetairoa McMillan,WR,18,97.1,97.1,97.1,17
+2026,11604,Brock Bowers,TE,18,96.5,96.5,96.5,16
+2026,1166,Kirk Cousins,QB,16,96.46,96.46,96.46,16
+2026,11563,Bo Nix,QB,18,94.94,94.94,94.94,18
+2026,10213,Tre Tucker,WR,17,94.3,94.3,21.8,10
+2026,9487,Parker Washington,WR,18,92.9,92.9,92.9,7
+2026,96,Aaron Rodgers,QB,17,90.08,90.08,74.56,15
+2026,2216,Mike Evans,WR,18,89.5,89.5,89.5,6
+2026,12490,Bhayshul Tuten,RB,18,88.4,88.4,60.3,9
+2026,5967,Tony Pollard,RB,18,88.3,88.3,21.2,2
+2026,7611,Rhamondre Stevenson,RB,18,87.4,87.4,80.6,17
+2026,8161,Malik Willis,QB,18,86.58,86.58,41.68,4
+2026,11566,Jayden Daniels,QB,18,85.66,85.66,85.66,5
+2026,8148,Jameson Williams,WR,18,84.2,84.2,67.5,15
+2026,11559,Michael Penix Jr.,QB,18,83.18,83.18,83.18,16
+2026,11560,Caleb Williams,QB,18,82.1,82.1,82.1,15
+2026,10232,Michael Wilson,WR,18,81.88,81.88,30.98,5
 2026,4881,Lamar Jackson,QB,18,80.08,80.08,80.08,4
+2026,12512,Quinshon Judkins,RB,18,79.7,79.7,79.7,17
+2026,10859,Sam LaPorta,TE,18,79.4,79.4,79.4,17
+2026,13346,Denzel Boston,WR,18,79.2,79.2,16.3,14
 2026,6904,Jalen Hurts,QB,6,78.52,78.52,66.0,4
-2026,96,Aaron Rodgers,QB,17,77.0,77.0,61.48,15
-2026,10859,Sam LaPorta,TE,18,76.6,76.6,76.6,5
-2026,6801,Tee Higgins,WR,18,75.8,75.8,75.8,5
-2026,1166,Kirk Cousins,QB,16,75.56,75.56,75.56,16
-2026,7569,Nico Collins,WR,18,74.0,74.0,74.0,16
-2026,13346,Denzel Boston,WR,18,73.5,73.5,10.6,14
-2026,12519,Luther Burden,WR,18,73.3,73.3,9.5,1
-2026,10213,Tre Tucker,WR,17,72.5,72.5,0.0,12
-2026,10232,Michael Wilson,WR,18,71.28,71.28,30.98,14
-2026,12514,Emeka Egbuka,WR,18,71.1,71.1,53.9,17
-2026,4199,Aaron Jones,RB,18,70.2,70.2,70.2,17
+2026,13279,Carnell Tate,WR,18,76.8,76.8,63.3,16
+2026,7569,Nico Collins,WR,18,76.6,76.6,76.6,15
+2026,5846,DK Metcalf,WR,18,76.0,76.0,32.2,14
+2026,9224,Chase Brown,RB,18,74.8,74.8,74.8,17
+2026,4943,Sam Darnold,QB,18,74.8,74.8,74.8,17
+2026,4199,Aaron Jones Sr.,RB,18,72.8,72.8,72.8,17
+2026,12514,Emeka Egbuka,WR,18,71.1,71.1,53.9,5
+2026,6794,Justin Jefferson,WR,18,71.1,71.1,71.1,16
+2026,11646,Jalen Coker,WR,18,70.8,70.8,35.0,15
+2026,1466,Travis Kelce,TE,18,70.8,70.8,43.3,14
+2026,4017,Deshaun Watson,QB,16,70.56,70.56,28.18,12
+2026,9484,Tucker Kraft,TE,18,70.2,70.2,42.1,16
 2026,12518,Tyler Warren,TE,18,69.9,69.9,69.9,5
-2026,7525,DeVonta Smith,WR,18,69.5,69.5,69.5,16
-2026,2449,Stefon Diggs,WR,18,69.4,69.4,53.9,16
-2026,11646,Jalen Coker,WR,18,68.9,68.9,33.1,15
-2026,5846,DK Metcalf,WR,18,68.4,68.4,24.6,14
-2026,11563,Bo Nix,QB,18,67.16,67.16,67.16,18
-2026,13279,Carnell Tate,WR,18,66.9,66.9,53.4,16
-2026,7002,Juwan Johnson,TE,18,65.8,65.8,17.5,2
-2026,9224,Chase Brown,RB,18,65.0,65.0,65.0,17
-2026,7611,Rhamondre Stevenson,RB,18,64.4,64.4,57.6,17
-2026,6794,Justin Jefferson,WR,18,62.7,62.7,62.7,16
-2026,1466,Travis Kelce,TE,18,62.4,62.4,34.9,14
-2026,11559,Michael Penix,QB,18,62.26,62.26,62.26,16
+2026,7525,DeVonta Smith,WR,18,69.5,69.5,69.5,4
+2026,2449,Stefon Diggs,WR,18,69.4,69.4,53.9,15
+2026,12481,Cam Skattebo,RB,18,67.9,67.9,67.9,18
+2026,12489,RJ Harvey,RB,18,67.9,67.9,57.2,16
+2026,3214,Hunter Henry,TE,18,67.6,67.6,50.8,16
+2026,7002,Juwan Johnson,TE,18,67.5,67.5,17.5,2
+2026,12506,Harold Fannin Jr.,TE,18,66.7,66.7,17.2,3
+2026,12522,Cam Ward,QB,17,66.48,66.48,15.18,13
+2026,12495,Ollie Gordon II,RB,18,66.3,66.3,32.6,13
+2026,PIT,Pittsburgh Steelers,DEF,18,66.3,66.3,66.3,18
+2026,11834,Devaughn Vele,WR,17,65.9,65.9,54.5,5
+2026,MIN,Minnesota Vikings,DEF,17,65.75,65.75,65.75,16
+2026,11435,Emanuel Wilson,RB,16,64.8,64.8,45.8,4
+2026,7526,Jaylen Waddle,WR,18,64.4,64.4,64.4,15
+2026,5870,Daniel Jones,QB,18,63.72,63.72,34.2,3
+2026,13298,KC Concepcion Jr.,WR,18,63.4,63.4,33.1,14
+2026,12474,Woody Marks,RB,18,62.5,62.5,27.7,14
+2026,SEA,Seattle Seahawks,DEF,18,62.45,62.45,62.45,18
+2026,12517,Colston Loveland,TE,18,62.4,62.4,62.4,18
 2026,12534,Kyle Monangai,RB,18,61.8,61.8,7.8,1
-2026,10236,Dalton Kincaid,TE,18,61.0,61.0,61.0,18
-2026,5872,Deebo Samuel,WR,18,60.9,60.9,25.9,3
-2026,4943,Sam Darnold,QB,18,60.82,60.82,60.82,17
-2026,12522,Cam Ward,QB,5,60.74,60.74,9.44,1
-2026,5947,Jakobi Meyers,WR,18,60.7,60.7,19.0,14
-2026,5870,Daniel Jones,QB,18,60.1,60.1,34.2,13
-2026,11560,Caleb Williams,QB,18,59.98,59.98,59.98,15
-2026,8161,Malik Willis,QB,18,59.56,59.56,41.68,4
-2026,PIT,Pittsburgh Steelers,DEF,18,58.55,58.55,58.55,18
-2026,6797,Justin Herbert,QB,18,58.44,58.44,30.88,3
-2026,8148,Jameson Williams,WR,18,58.1,58.1,41.4,6
+2026,8126,Wan'Dale Robinson,WR,18,61.6,61.6,30.0,15
+2026,10236,Dalton Kincaid,TE,18,61.0,61.0,61.0,6
+2026,1945,Chris Boswell,K,18,61.0,61.0,61.0,18
+2026,5872,Deebo Samuel Sr.,WR,18,60.9,60.9,25.9,3
+2026,5947,Jakobi Meyers,WR,18,60.7,60.7,19.0,2
+2026,11620,Rome Odunze,WR,18,60.1,60.1,25.0,14
+2026,11576,Braelon Allen,RB,15,59.1,59.1,59.1,15
+2026,4035,Alvin Kamara,RB,16,58.6,58.6,53.5,4
+2026,6797,Justin Herbert,QB,18,58.44,58.44,30.88,8
+2026,2747,Jason Myers,K,18,58.0,58.0,58.0,18
 2026,8121,Romeo Doubs,WR,18,57.6,57.6,23.8,1
-2026,12507,Omarion Hampton,RB,18,57.5,57.5,49.6,5
-2026,8126,Wan'Dale Robinson,WR,18,56.9,56.9,25.3,15
-2026,2306,Jameis Winston,QB,16,56.84,56.84,50.72,15
-2026,12512,Quinshon Judkins,RB,18,56.3,56.3,56.3,5
-2026,SEA,Seattle Seahawks,DEF,18,55.75,55.75,55.75,18
-2026,7526,Jaylen Waddle,WR,18,55.6,55.6,55.6,18
-2026,9484,Tucker Kraft,TE,18,55.4,55.4,27.3,16
-2026,MIN,Minnesota Vikings,DEF,17,55.25,55.25,55.25,4
+2026,12507,Omarion Hampton,RB,18,57.5,57.5,49.6,6
+2026,9500,Josh Downs,WR,18,57.4,57.4,47.9,6
+2026,5022,Dallas Goedert,TE,18,57.3,57.3,9.8,12
+2026,6806,J.K. Dobbins,RB,18,57.0,57.0,57.0,18
+2026,2306,Jameis Winston,QB,4,56.84,56.84,50.72,3
 2026,8134,Khalil Shakir,WR,18,55.0,55.0,0.0,0
-2026,9500,Josh Downs,WR,18,53.6,53.6,47.9,5
-2026,12506,Harold Fannin,TE,18,53.6,53.6,17.2,3
-2026,3214,Hunter Henry,TE,18,53.5,53.5,36.7,15
-2026,12474,Woody Marks,RB,18,53.4,53.4,18.6,14
+2026,5849,Kyler Murray,QB,18,54.18,54.18,54.18,16
 2026,9486,Dontayvion Wicks,WR,18,53.4,53.4,0.0,0
-2026,12489,RJ Harvey,RB,18,52.4,52.4,41.7,16
-2026,4017,Deshaun Watson,QB,16,51.84,51.84,9.46,13
-2026,5967,Tony Pollard,RB,18,51.3,51.3,21.2,14
+2026,4037,Chris Godwin Jr.,WR,18,53.1,53.1,8.3,1
+2026,12711,Tyler Loop,K,18,53.0,53.0,53.0,18
+2026,11586,Blake Corum,RB,17,52.3,52.3,14.0,1
+2026,11624,Xavier Worthy,WR,18,51.7,51.7,18.4,13
 2026,13287,Jeremiyah Love,RB,18,51.1,51.1,51.1,5
-2026,1945,Chris Boswell,K,18,51.0,51.0,51.0,18
-2026,2747,Jason Myers,K,18,50.0,50.0,50.0,18
-2026,11834,Devaughn Vele,WR,17,49.5,49.5,38.1,16
-2026,11620,Rome Odunze,WR,18,49.2,49.2,14.1,14
+2026,13276,Omar Cooper Jr.,WR,18,50.3,50.3,23.0,12
+2026,13294,Makai Lemon,WR,18,49.9,49.9,19.7,1
+2026,3451,Ka'imi Fairbairn,K,17,49.0,49.0,49.0,17
 2026,8136,Rachaad White,RB,18,48.8,48.8,11.1,1
-2026,6806,J.K. Dobbins,RB,18,48.7,48.7,48.7,18
-2026,12495,Ollie Gordon,RB,18,48.5,48.5,14.8,13
-2026,12481,Cam Skattebo,RB,18,48.3,48.3,48.3,18
-2026,11624,Xavier Worthy,WR,18,47.6,47.6,14.3,13
-2026,5022,Dallas Goedert,TE,18,47.5,47.5,0.0,0
-2026,4037,Chris Godwin,WR,18,46.4,46.4,8.3,1
-2026,5927,Terry McLaurin,WR,18,46.0,46.0,0.0,0
-2026,11786,Cam Little,K,18,46.0,46.0,46.0,18
-2026,12711,Tyler Loop,K,18,46.0,46.0,46.0,18
-2026,11435,Emanuel Wilson,RB,16,45.8,45.8,45.8,16
+2026,11610,Malik Washington,WR,17,48.0,48.0,0.0,0
+2026,6083,Matt Gay,K,16,48.0,48.0,48.0,16
+2026,5927,Terry McLaurin,WR,6,46.0,46.0,0.0,0
+2026,11786,Cam Little,K,18,46.0,46.0,46.0,6
 2026,5892,David Montgomery,RB,18,45.5,45.5,44.4,4
-2026,4035,Alvin Kamara,RB,16,45.4,45.4,40.3,15
-2026,5012,Mark Andrews,TE,18,45.1,45.1,45.1,18
-2026,8110,Jake Ferguson,TE,18,44.5,44.5,3.3,13
+2026,5012,Mark Andrews,TE,6,45.1,45.1,45.1,6
+2026,8110,Jake Ferguson,TE,6,44.5,44.5,3.3,1
 2026,7839,Evan McPherson,K,5,44.0,44.0,44.0,5
 2026,12533,Jacory Croskey-Merritt,RB,18,43.9,43.9,27.0,3
+2026,13330,Kenyon Sadiq,TE,18,43.2,43.2,0.0,0
 2026,8155,Breece Hall,RB,18,43.0,43.0,43.0,3
-2026,12517,Colston Loveland,TE,18,42.5,42.5,42.5,18
-2026,9480,Brenton Strange,TE,16,42.4,42.4,0.0,0
-2026,3451,Ka'imi Fairbairn,K,17,42.0,42.0,42.0,17
-2026,13330,Kenyon Sadiq,TE,18,41.6,41.6,0.0,0
-2026,11610,Malik Washington,WR,17,41.5,41.5,0.0,0
-2026,11533,Brandon Aubrey,K,18,41.0,41.0,41.0,6
-2026,5849,Kyler Murray,QB,18,40.28,40.28,40.28,6
-2026,13298,KC Concepcion,WR,18,39.7,39.7,9.4,14
-2026,11576,Braelon Allen,RB,15,39.2,39.2,39.2,15
-2026,11635,Ladd McConkey,WR,18,39.0,39.0,39.0,17
-2026,6083,Matt Gay,K,16,39.0,39.0,39.0,16
+2026,11792,Will Reichard,K,16,43.0,43.0,43.0,15
+2026,9480,Brenton Strange,TE,16,42.4,42.4,0.0,1
+2026,CLE,Cleveland Browns,DEF,15,42.0,42.0,42.0,15
+2026,4892,Baker Mayfield,QB,18,41.76,41.76,23.82,2
+2026,11533,Brandon Aubrey,K,6,41.0,41.0,41.0,6
+2026,12185,Spencer Shrader,K,15,40.0,40.0,40.0,15
+2026,8676,Rashid Shaheed,WR,18,39.2,39.2,0.0,0
+2026,11635,Ladd McConkey,WR,18,39.0,39.0,39.0,5
+2026,9756,Jordan Addison,WR,18,38.0,38.0,0.0,2
 2026,10229,Rashee Rice,WR,18,38.0,38.0,38.0,4
-2026,4983,DJ Moore,WR,18,37.3,37.3,37.3,4
-2026,8676,Rashid Shaheed,WR,18,37.1,37.1,0.0,0
-2026,BAL,Baltimore Ravens,DEF,17,36.75,36.75,36.75,17
-2026,12185,Spencer Shrader,K,15,36.0,36.0,36.0,15
-2026,11586,Blake Corum,RB,17,35.2,35.2,14.0,1
-2026,4892,Baker Mayfield,QB,18,35.1,35.1,23.82,2
-2026,HOU,Houston Texans,DEF,18,34.95,34.95,37.05,6
-2026,CLE,Cleveland Browns,DEF,15,34.65,34.65,34.65,15
+2026,4983,DJ Moore,WR,18,37.3,37.3,37.3,15
+2026,4866,Saquon Barkley,RB,18,37.1,37.1,22.0,4
+2026,BAL,Baltimore Ravens,DEF,5,36.75,36.75,36.75,5
+2026,HOU,Houston Texans,DEF,18,35.75,35.75,37.85,16
+2026,8132,Tyler Allgeier,RB,17,35.1,35.1,9.4,2
 2026,7571,Rashod Bateman,WR,3,34.1,34.1,5.7,1
-2026,9756,Jordan Addison,WR,18,33.7,33.7,0.0,2
-2026,11792,Will Reichard,K,16,33.0,33.0,33.0,15
-2026,NE,New England Patriots,DEF,16,31.25,31.25,31.25,16
-2026,7543,Travis Etienne,RB,18,30.9,30.9,0.0,0
-2026,13294,Makai Lemon,WR,18,30.2,30.2,0.0,0
-2026,KC,Kansas City Chiefs,DEF,17,29.7,29.7,29.7,16
-2026,12529,TreVeyon Henderson,RB,18,29.5,29.5,4.2,1
-2026,3271,Tyler Higbee,TE,15,29.2,29.2,0.0,0
+2026,12529,TreVeyon Henderson,RB,18,33.8,33.8,4.2,1
+2026,11628,Marvin Harrison Jr.,WR,18,33.5,33.5,4.3,1
+2026,7021,Rico Dowdle,RB,18,33.0,33.0,10.5,13
+2026,LAR,Los Angeles Rams,DEF,18,32.7,32.7,32.7,18
+2026,3271,Tyler Higbee,TE,15,32.6,32.6,0.0,0
+2026,KC,Kansas City Chiefs,DEF,17,32.45,32.45,32.45,16
+2026,1479,Keenan Allen,WR,15,31.8,31.8,0.0,0
+2026,13274,Germie Bernard,WR,13,31.4,31.4,5.7,12
+2026,NE,New England Patriots,DEF,4,31.25,31.25,31.25,4
+2026,7543,Travis Etienne Jr.,RB,18,30.9,30.9,0.0,0
 2026,12015,Harrison Mevis,K,5,29.0,29.0,29.0,5
-2026,LAR,Los Angeles Rams,DEF,18,27.55,27.55,27.55,18
-2026,13276,Omar Cooper,WR,18,27.3,27.3,0.0,0
-2026,8132,Tyler Allgeier,RB,17,27.2,27.2,9.4,14
+2026,11539,Jake Bates,K,15,29.0,29.0,29.0,15
+2026,6650,Chase McLaughlin,K,15,29.0,29.0,29.0,15
+2026,DEN,Denver Broncos,DEF,14,28.85,28.85,28.85,14
+2026,7083,Tyler Huntley,QB,13,27.52,27.52,27.52,13
+2026,8129,Dameon Pierce,RB,13,26.8,26.8,0.0,0
 2026,9482,Michael Mayer,TE,3,26.7,26.7,14.5,2
 2026,12508,Jaxson Dart,QB,2,26.4,26.4,26.4,2
-2026,11581,MarShawn Lloyd,RB,17,26.0,26.0,0.0,0
-2026,11628,Marvin Harrison,WR,18,25.9,25.9,4.3,1
+2026,11581,MarShawn Lloyd,RB,5,26.0,26.0,0.0,0
 2026,2307,Marcus Mariota,QB,2,25.76,25.76,5.34,1
-2026,1479,Keenan Allen,WR,15,25.7,25.7,0.0,0
-2026,13274,Germie Bernard,WR,13,25.7,25.7,0.0,0
-2026,9754,Quentin Johnston,WR,18,24.8,24.8,0.0,0
+2026,5045,Courtland Sutton,WR,16,25.1,25.1,0.0,0
+2026,9754,Quentin Johnston,WR,6,24.8,24.8,0.0,0
 2026,9226,De'Von Achane,RB,3,24.6,24.6,24.6,3
-2026,11631,Brian Thomas,WR,18,24.5,24.5,0.0,0
-2026,4866,Saquon Barkley,RB,18,22.0,22.0,22.0,4
-2026,5189,Eddy Pineiro,K,16,22.0,22.0,22.0,16
-2026,NYJ,New York Jets,DEF,1,21.55,21.55,21.55,1
-2026,11539,Jake Bates,K,3,21.0,21.0,21.0,3
-2026,7042,Tyler Bass,K,14,21.0,21.0,21.0,14
-2026,DEN,Denver Broncos,DEF,2,20.2,20.2,20.2,2
-2026,7021,Rico Dowdle,RB,18,18.4,18.4,10.5,2
-2026,13305,Mike Washington,RB,4,18.2,18.2,0.0,0
+2026,11631,Brian Thomas Jr.,WR,6,24.5,24.5,0.0,0
+2026,5001,Dalton Schultz,TE,15,24.4,24.4,6.0,1
+2026,5189,Eddy Pineiro,K,16,24.0,24.0,24.0,16
+2026,9230,Tanner McKee,QB,13,23.64,23.64,0.0,11
+2026,NYJ,New York Jets,DEF,13,21.75,21.75,21.75,13
+2026,7042,Tyler Bass,K,2,21.0,21.0,21.0,2
+2026,5850,Josh Jacobs,RB,18,20.1,20.1,20.1,12
+2026,8408,Jordan Mason,RB,18,18.7,18.7,6.8,12
+2026,CIN,Cincinnati Bengals,DEF,14,18.3,18.3,8.85,3
+2026,13305,Mike Washington Jr.,RB,4,18.2,18.2,0.0,0
+2026,5859,A.J. Brown,WR,18,18.1,18.1,13.4,13
 2026,13337,Emmett Johnson,RB,5,18.0,18.0,0.0,0
-2026,6650,Chase McLaughlin,K,3,18.0,18.0,18.0,3
-2026,5045,Courtland Sutton,WR,4,17.6,17.6,0.0,0
-2026,JAX,Jacksonville Jaguars,DEF,15,16.65,16.65,16.65,15
-2026,13414,Kaelon Black,RB,16,16.5,16.5,0.0,0
-2026,8129,Dameon Pierce,RB,13,15.0,15.0,0.0,0
-2026,5001,Dalton Schultz,TE,3,14.9,14.9,6.0,1
-2026,CAR,Carolina Panthers,DEF,14,14.25,14.25,14.25,14
+2026,7553,Kyle Pitts Sr.,TE,15,17.2,17.2,0.0,1
+2026,JAX,Jacksonville Jaguars,DEF,15,16.65,16.65,16.65,8
+2026,13414,Kaelon Black,RB,4,16.5,16.5,0.0,0
+2026,7567,Kenny Gainwell,RB,14,16.1,16.1,8.8,12
+2026,13545,Trey Smack,K,13,16.0,16.0,16.0,13
+2026,5844,T.J. Hockenson,TE,14,15.2,15.2,13.5,12
+2026,9757,Kendre Miller,RB,13,14.8,14.8,9.0,1
 2026,9508,Tyjae Spears,RB,3,14.0,14.0,0.0,0
 2026,13286,Jadarian Price,RB,18,14.0,14.0,5.0,1
 2026,13425,Jalon Daniels,QB,1,13.86,13.86,0.0,0
 2026,GB,Green Bay Packers,DEF,3,13.65,13.65,13.65,3
-2026,SF,San Francisco 49ers,DEF,15,13.5,13.5,13.5,15
-2026,NO,New Orleans Saints,DEF,13,13.3,13.3,13.3,13
-2026,9230,Tanner McKee,QB,13,13.1,13.1,0.0,0
+2026,NO,New Orleans Saints,DEF,1,13.3,13.3,13.3,1
 2026,PHI,Philadelphia Eagles,DEF,4,12.45,12.45,8.35,3
-2026,7083,Tyler Huntley,QB,13,12.4,12.4,12.4,13
 2026,8142,Alec Pierce,WR,18,12.2,12.2,0.0,0
-2026,8180,Jalen Nailor,WR,18,12.1,12.1,0.0,0
-2026,9511,Keaton Mitchell,RB,16,12.1,12.1,5.9,1
-2026,8408,Jordan Mason,RB,18,11.9,11.9,0.0,0
-2026,7528,Najee Harris,RB,18,11.4,11.4,0.0,0
-2026,13545,Trey Smack,K,13,11.0,11.0,11.0,13
-2026,5859,A.J. Brown,WR,18,10.3,10.3,5.6,1
-2026,13293,Ja'Kobi Lane,WR,14,10.1,10.1,0.0,0
+2026,8180,Jalen Nailor,WR,6,12.1,12.1,0.0,0
+2026,9511,Keaton Mitchell,RB,4,12.1,12.1,5.9,1
+2026,650,Nick Folk,K,13,12.0,12.0,12.0,13
+2026,7528,Najee Harris,RB,6,11.4,11.4,0.0,0
+2026,CAR,Carolina Panthers,DEF,14,11.3,11.3,11.3,14
+2026,SF,San Francisco 49ers,DEF,15,10.6,10.6,10.6,15
+2026,11565,J.J. McCarthy,QB,12,10.18,10.18,10.18,9
+2026,13293,Ja'Kobi Lane,WR,2,10.1,10.1,0.0,0
 2026,ARI,Arizona Cardinals,DEF,1,9.5,9.5,9.5,1
-2026,11439,Jaleel McLaughlin,RB,13,9.5,9.5,9.5,1
+2026,11439,Jaleel McLaughlin,RB,1,9.5,9.5,9.5,1
 2026,11583,Jonathon Brooks,RB,18,9.3,9.3,0.0,0
-2026,9757,Kendre Miller,RB,13,9.0,9.0,9.0,13
+2026,13345,Jonah Coleman,RB,17,8.9,8.9,0.0,0
 2026,13285,Malachi Fields,WR,2,8.9,8.9,0.0,0
-2026,CIN,Cincinnati Bengals,DEF,2,8.85,8.85,8.85,2
-2026,6819,Michael Pittman,WR,2,8.8,8.8,0.0,0
+2026,6819,Michael Pittman Jr.,WR,2,8.8,8.8,0.0,0
+2026,11655,Tyrone Tracy Jr.,RB,12,8.7,8.7,0.0,0
 2026,4177,Mack Hollins,WR,1,8.3,8.3,0.0,0
 2026,11577,Will Shipley,RB,1,8.3,8.3,8.3,1
 2026,12713,Andy Borregales,K,1,8.0,8.0,8.0,1
 2026,11637,Keon Coleman,WR,1,7.7,7.7,7.7,1
-2026,7567,Kenny Gainwell,RB,2,7.3,7.3,0.0,0
-2026,2505,Darren Waller,TE,15,6.6,6.6,6.6,2
+2026,7600,Pat Freiermuth,TE,13,7.1,7.1,7.1,13
+2026,2505,Darren Waller,TE,3,6.6,6.6,6.6,1
 2026,10222,Jayden Reed,WR,3,6.4,6.4,0.0,0
 2026,CHI,Chicago Bears,DEF,1,6.3,6.3,6.3,1
+2026,5995,Justice Hill,RB,12,6.3,6.3,0.0,0
 2026,3634,Kalif Raymond,WR,2,6.0,6.0,2.6,1
-2026,13301,Antonio Williams,WR,1,5.4,5.4,0.0,0
+2026,13424,Seth McGowan,RB,1,5.8,5.8,0.0,0
+2026,13301,Antonio Williams,WR,13,5.4,5.4,0.0,0
 2026,3161,Carson Wentz,QB,1,5.32,5.32,5.32,1
+2026,9501,DeMario Douglas,WR,12,5.3,5.3,0.0,0
 2026,WAS,Washington Commanders,DEF,1,4.05,4.05,4.05,1
-2026,7553,Kyle Pitts,TE,3,4.0,4.0,0.0,1
 2026,8259,Cameron Dicker,K,2,4.0,4.0,4.0,2
+2026,4039,Cooper Kupp,WR,12,4.0,4.0,0.0,0
 2026,13296,Caleb Douglas,WR,2,3.9,3.9,0.0,0
 2026,TB,Tampa Bay Buccaneers,DEF,1,3.7,3.7,3.7,1
-2026,10219,Chris Rodriguez,RB,2,3.6,3.6,0.0,0
+2026,10219,Chris Rodriguez Jr.,RB,2,3.6,3.6,0.0,0
 2026,12509,Tre' Harris,WR,1,3.6,3.6,3.6,1
 2026,LAC,Los Angeles Chargers,DEF,2,3.5,3.5,3.5,2
 2026,13311,Chris Bell,WR,1,3.5,3.5,0.0,0
-2026,8154,Brian Robinson,RB,1,3.1,3.1,0.0,0
+2026,8154,Brian Robinson Jr.,RB,13,3.1,3.1,0.0,0
 2026,9504,Kayshon Boutte,WR,1,3.1,3.1,0.0,0
-2026,7600,Pat Freiermuth,TE,13,3.1,3.1,3.1,13
+2026,13150,Darius Cooper,WR,12,2.7,2.7,2.7,11
 2026,13269,Fernando Mendoza,QB,18,2.22,2.22,0.0,0
-2026,12487,Terrance Ferguson,TE,1,1.9,1.9,0.0,0
+2026,12487,Terrance Ferguson,TE,13,1.9,1.9,0.0,0
 2026,11643,Jaylen Wright,RB,2,1.8,1.8,0.0,0
-2026,7049,Jauan Jennings,WR,15,1.8,1.8,0.0,0
-2026,5844,T.J. Hockenson,TE,14,1.7,1.7,0.0,0
+2026,7049,Jauan Jennings,WR,3,1.8,1.8,0.0,0
 2026,11256,Tyson Bagent,QB,1,1.18,1.18,1.18,1
 2026,BUF,Buffalo Bills,DEF,1,1.1,1.1,1.1,1
-2026,650,Nick Folk,K,13,1.0,1.0,1.0,13
 2026,6130,Devin Singletary,RB,2,0.9,0.9,0.0,0
 2026,9753,Zach Charbonnet,RB,18,0.0,0.0,0.0,0
-2026,5850,Josh Jacobs,RB,18,0.0,0.0,0.0,0
 2026,13281,Jordyn Tyson,WR,18,0.0,0.0,0.0,0
 2026,13417,De'Zhaun Stribling,WR,1,0.0,0.0,0.0,0
-2026,13345,Jonah Coleman,RB,17,0.0,0.0,0.0,0
 2026,8205,Isiah Pacheco,RB,1,0.0,0.0,0.0,0
 2026,11168,Xavier Smith,WR,2,0.0,0.0,0.0,1
 2026,13288,Nicholas Singleton,RB,1,0.0,0.0,0.0,0
@@ -1718,5 +1725,6 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2026,11625,Adonai Mitchell,WR,2,0.0,0.0,0.0,0
 2026,11630,Roman Wilson,WR,1,0.0,0.0,0.0,0
 2026,11557,Joe Milton,QB,13,0.0,0.0,0.0,0
-2026,TEN,Tennessee Titans,DEF,1,-2.3,-2.3,-2.3,1
-2026,IND,Indianapolis Colts,DEF,14,-3.0,-3.0,-0.35,12
+2026,4950,Christian Kirk,WR,12,0.0,0.0,0.0,0
+2026,TEN,Tennessee Titans,DEF,13,-2.5,-2.5,-2.5,8
+2026,IND,Indianapolis Colts,DEF,2,-3.0,-3.0,-0.35,1

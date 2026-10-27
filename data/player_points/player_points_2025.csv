@@ -16,7 +16,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,3294,Dak Prescott,QB,18,259.78,315.28,315.28,17
 2025,11560,Caleb Williams,QB,18,237.12,315.18,290.98,16
 2025,11563,Bo Nix,QB,18,232.06,307.34,307.34,17
-2025,8138,James Cook,RB,18,238.0,307.2,307.2,17
+2025,8138,James Cook III,RB,18,238.0,307.2,307.2,17
 2025,3163,Jared Goff,QB,18,229.26,300.06,287.96,16
 2025,6904,Jalen Hurts,QB,18,246.36,296.56,296.56,17
 2025,8137,George Pickens,WR,18,244.4,290.9,290.9,17
@@ -27,7 +27,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,8144,Chris Olave,WR,18,186.8,271.0,207.6,13
 2025,4892,Baker Mayfield,QB,18,206.38,267.42,267.42,17
 2025,8150,Kyren Williams,RB,18,203.4,263.8,263.8,17
-2025,7543,Travis Etienne,RB,18,190.3,254.9,204.1,13
+2025,7543,Travis Etienne Jr.,RB,18,190.3,254.9,204.1,13
 2025,12527,Ashton Jeanty,RB,18,184.4,249.6,214.3,16
 2025,9997,Zay Flowers,WR,18,164.5,247.8,204.3,15
 2025,7588,Javonte Williams,RB,18,211.0,243.8,243.8,17
@@ -53,7 +53,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,2449,Stefon Diggs,WR,18,154.0,212.8,118.0,10
 2025,4881,Lamar Jackson,QB,18,171.1,211.86,189.44,12
 2025,8155,Breece Hall,RB,18,174.76,211.66,127.5,11
-2025,7553,Kyle Pitts,TE,18,131.1,211.3,146.8,11
+2025,7553,Kyle Pitts Sr.,TE,18,131.1,211.3,146.8,11
 2025,9758,C.J. Stroud,QB,18,144.64,210.54,210.54,14
 2025,12489,RJ Harvey,RB,18,151.6,207.1,145.2,10
 2025,HOU,Houston Texans,DEF,17,159.5,205.75,184.0,15
@@ -61,11 +61,11 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,8112,Drake London,WR,18,179.5,204.4,204.4,12
 2025,7525,DeVonta Smith,WR,18,168.4,204.3,184.3,16
 2025,6794,Justin Jefferson,WR,18,158.4,203.0,203.0,17
-2025,6819,Michael Pittman,WR,18,183.4,202.9,133.8,11
+2025,6819,Michael Pittman Jr.,WR,18,183.4,202.9,133.8,11
 2025,7021,Rico Dowdle,RB,15,166.6,199.6,196.0,13
 2025,12514,Emeka Egbuka,WR,18,176.5,198.7,184.2,16
 2025,7526,Jaylen Waddle,WR,18,178.12,194.62,161.92,15
-2025,8151,Kenneth Walker,RB,18,139.1,193.4,166.7,15
+2025,8151,Kenneth Walker III,RB,18,139.1,193.4,166.7,15
 2025,1466,Travis Kelce,TE,18,164.8,192.2,170.6,14
 2025,5846,DK Metcalf,WR,18,167.0,189.7,161.2,15
 2025,3257,Jacoby Brissett,QB,10,125.5,189.28,168.22,9
@@ -73,7 +73,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,12518,Tyler Warren,TE,18,159.7,187.5,187.5,17
 2025,8110,Jake Ferguson,TE,18,169.5,187.1,173.1,14
 2025,5022,Dallas Goedert,TE,18,138.6,185.6,122.8,11
-2025,5872,Deebo Samuel,WR,18,157.0,185.2,138.3,12
+2025,5872,Deebo Samuel Sr.,WR,18,157.0,185.2,138.3,12
 2025,12522,Cam Ward,QB,18,124.92,183.16,128.16,12
 2025,11635,Ladd McConkey,WR,18,159.5,181.9,181.9,17
 2025,9753,Zach Charbonnet,RB,18,116.0,181.9,0.0,0
@@ -84,7 +84,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,5947,Jakobi Meyers,WR,18,137.8,175.8,76.1,6
 2025,11533,Brandon Aubrey,K,18,139.0,174.6,174.6,17
 2025,7049,Jauan Jennings,WR,18,117.3,173.8,30.9,3
-2025,12506,Harold Fannin,TE,17,130.8,173.3,78.2,6
+2025,12506,Harold Fannin Jr.,TE,17,130.8,173.3,78.2,6
 2025,10232,Michael Wilson,WR,8,100.6,171.5,171.5,8
 2025,12512,Quinshon Judkins,RB,18,156.0,170.8,144.2,12
 2025,4983,DJ Moore,WR,18,121.58,170.68,121.08,11
@@ -102,13 +102,13 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,19,Joe Flacco,QB,14,146.64,146.64,33.18,2
 2025,NE,New England Patriots,DEF,16,113.0,144.5,108.75,9
 2025,7611,Rhamondre Stevenson,RB,16,51.9,143.4,2.0,1
-2025,11655,Tyrone Tracy,RB,15,73.2,142.8,87.5,7
+2025,11655,Tyrone Tracy Jr.,RB,15,73.2,142.8,87.5,7
 2025,7591,Justin Fields,QB,11,142.66,142.66,93.8,7
 2025,BUF,Buffalo Bills,DEF,18,107.0,142.5,108.75,14
 2025,11584,Bucky Irving,RB,18,106.2,140.5,140.5,10
 2025,2747,Jason Myers,K,13,103.0,140.0,138.0,12
 2025,12474,Woody Marks,RB,15,113.0,139.1,58.4,6
-2025,11631,Brian Thomas,WR,18,102.1,138.8,138.8,14
+2025,11631,Brian Thomas Jr.,WR,18,102.1,138.8,138.8,14
 2025,6650,Chase McLaughlin,K,17,106.0,138.0,138.0,17
 2025,6768,Tua Tagovailoa,QB,14,137.98,137.98,77.32,7
 2025,9756,Jordan Addison,WR,18,108.6,137.6,59.0,6
@@ -121,7 +121,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,PHI,Philadelphia Eagles,DEF,15,86.0,131.75,131.75,15
 2025,8121,Romeo Doubs,WR,13,105.1,130.1,24.1,3
 2025,5012,Mark Andrews,TE,18,111.6,130.0,69.5,12
-2025,11628,Marvin Harrison,WR,18,125.4,127.8,125.4,12
+2025,11628,Marvin Harrison Jr.,WR,18,125.4,127.8,125.4,12
 2025,12481,Cam Skattebo,RB,18,127.7,127.7,86.8,5
 2025,8408,Jordan Mason,RB,18,113.0,127.4,59.2,5
 2025,1373,Geno Smith,QB,12,118.98,126.12,84.2,8
@@ -131,9 +131,9 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,8142,Alec Pierce,WR,10,61.7,120.1,27.3,2
 2025,11786,Cam Little,K,14,68.0,120.0,91.0,11
 2025,12517,Colston Loveland,TE,13,57.4,120.0,62.0,4
-2025,11559,Michael Penix,QB,11,118.78,118.78,8.08,3
+2025,11559,Michael Penix Jr.,QB,11,118.78,118.78,8.08,3
 2025,9484,Tucker Kraft,TE,18,118.2,118.2,108.3,7
-2025,4199,Aaron Jones,RB,18,81.6,117.7,101.4,11
+2025,4199,Aaron Jones Sr.,RB,18,81.6,117.7,101.4,11
 2025,12545,Tyler Shough,QB,7,38.92,117.3,8.42,1
 2025,11647,Kimani Vidal,RB,13,108.1,117.0,67.0,6
 2025,6806,J.K. Dobbins,RB,10,116.9,116.9,116.9,10
@@ -174,8 +174,8 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,12524,Shedeur Sanders,QB,7,56.28,85.42,63.68,5
 2025,2216,Mike Evans,WR,16,34.0,85.3,65.6,7
 2025,17,Matt Prater,K,13,80.0,85.0,85.0,13
-2025,4037,Chris Godwin,WR,18,35.4,83.5,11.2,2
-2025,12519,Luther Burden,WR,8,31.5,81.7,46.8,3
+2025,4037,Chris Godwin Jr.,WR,18,35.4,83.5,11.2,2
+2025,12519,Luther Burden III,WR,8,31.5,81.7,46.8,3
 2025,IND,Indianapolis Colts,DEF,11,77.5,81.25,77.0,10
 2025,BAL,Baltimore Ravens,DEF,9,58.0,80.25,67.25,8
 2025,PIT,Pittsburgh Steelers,DEF,10,53.0,78.75,67.75,8
@@ -198,7 +198,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,12499,Elic Ayomanor,WR,8,62.7,62.7,0.0,0
 2025,7585,Davis Mills,QB,9,58.56,61.2,58.56,3
 2025,2505,Darren Waller,TE,5,28.0,60.6,28.0,3
-2025,9494,Marvin Mims,WR,9,59.8,59.8,0.0,0
+2025,9494,Marvin Mims Jr.,WR,9,59.8,59.8,0.0,0
 2025,11632,Malik Nabers,WR,4,58.1,58.1,58.1,4
 2025,4066,Evan Engram,TE,10,57.4,57.4,17.2,3
 2025,12490,Bhayshul Tuten,RB,10,56.9,56.9,0.0,0
@@ -214,7 +214,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,11435,Emanuel Wilson,RB,9,33.5,51.2,0.0,0
 2025,JAX,Jacksonville Jaguars,DEF,5,31.25,49.25,40.25,4
 2025,10222,Jayden Reed,WR,18,22.8,48.5,0.0,0
-2025,10219,Chris Rodriguez,RB,9,19.0,48.2,5.2,1
+2025,10219,Chris Rodriguez Jr.,RB,9,19.0,48.2,5.2,1
 2025,4981,Calvin Ridley,WR,11,47.8,47.8,8.7,1
 2025,4144,Jonnu Smith,TE,12,24.7,47.2,3.7,2
 2025,7090,Darnell Mooney,WR,10,41.4,46.9,18.5,2
@@ -243,10 +243,10 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,11783,Ryan Flournoy,WR,4,0.0,29.6,0.0,0
 2025,8111,Cade Otton,TE,4,29.2,29.2,24.4,3
 2025,3678,Wil Lutz,K,6,28.0,28.0,28.0,6
-2025,8154,Brian Robinson,RB,10,25.9,28.0,0.0,0
+2025,8154,Brian Robinson Jr.,RB,10,25.9,28.0,0.0,0
 2025,11646,Jalen Coker,WR,4,0.0,28.0,28.0,3
 2025,9482,Michael Mayer,TE,3,2.0,27.6,25.6,2
-2025,8125,Calvin Austin,WR,7,27.2,27.2,0.0,0
+2025,8125,Calvin Austin III,WR,7,27.2,27.2,0.0,0
 2025,5230,Michael Badgley,K,4,27.0,27.0,27.0,4
 2025,11589,Trey Benson,RB,13,26.9,26.9,18.8,2
 2025,ARI,Arizona Cardinals,DEF,3,26.5,26.5,26.5,3
@@ -266,11 +266,11 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,12455,Brashard Smith,RB,6,16.5,16.5,0.0,0
 2025,11625,Adonai Mitchell,WR,4,3.4,15.9,10.7,2
 2025,11588,Jawhar Jordan,RB,3,0.0,15.9,0.0,0
-2025,12495,Ollie Gordon,RB,5,14.2,14.2,0.0,0
+2025,12495,Ollie Gordon II,RB,5,14.2,14.2,0.0,0
 2025,TEN,Tennessee Titans,DEF,3,0.0,13.5,13.5,3
 2025,12538,Brady Cook,QB,2,0.0,13.28,0.0,0
 2025,4663,Austin Ekeler,RB,2,13.1,13.1,8.7,1
-2025,8147,John Metchie,WR,2,13.1,13.1,0.0,0
+2025,8147,John Metchie III,WR,2,13.1,13.1,0.0,0
 2025,8210,Chig Okonkwo,TE,2,13.0,13.0,11.6,1
 2025,8698,Jake Tonges,TE,1,11.8,11.8,11.8,1
 2025,7528,Najee Harris,RB,3,11.6,11.6,0.0,0
@@ -291,7 +291,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,12540,Chimere Dike,WR,2,7.5,7.5,0.0,0
 2025,11834,Devaughn Vele,WR,1,7.0,7.0,7.0,1
 2025,1689,Adam Thielen,WR,2,6.6,6.6,4.6,1
-2025,12541,Dont'e Thornton,WR,2,6.5,6.5,0.0,0
+2025,12541,Dont'e Thornton Jr.,WR,2,6.5,6.5,0.0,0
 2025,11608,Isaiah Williams,WR,1,0.0,6.5,0.0,0
 2025,4666,Younghoe Koo,K,1,6.0,6.0,6.0,1
 2025,8123,Hassan Haskins,RB,2,5.8,5.8,0.0,0
@@ -311,7 +311,7 @@ season,player_id,player_name,position,weeks_rostered,points_regular,points_total
 2025,8143,Jerome Ford,RB,1,1.5,1.5,0.0,0
 2025,6271,Olamide Zaccheaus,WR,1,1.5,1.5,1.5,1
 2025,6920,Isaiah Hodgins,WR,1,1.4,1.4,0.0,0
-2025,6011,Gardner Minshew,QB,3,0.0,1.4,1.4,3
+2025,6011,Gardner Minshew II,QB,3,0.0,1.4,1.4,3
 2025,8160,Kenny Pickett,QB,1,0.0,1.26,0.0,0
 2025,9225,Tank Bigsby,RB,2,1.2,1.2,0.0,0
 2025,11575,Ray Davis,RB,1,0.8,0.8,0.0,0

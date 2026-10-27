@@ -378,30 +378,44 @@
    {
     "user_id": "475399371639222272",
     "name": "Clem",
-    "spent": 40.0,
-    "points_after": 96.39,
-    "ppd": 2.41
+    "spent": 41.0,
+    "points_after": 117.29,
+    "ppd": 2.86
    },
    {
     "user_id": "716698629934481408",
     "name": "Chuck",
-    "spent": 19.0,
-    "points_after": 69.6,
-    "ppd": 3.66
+    "spent": 31.0,
+    "points_after": 104.35,
+    "ppd": 3.37
+   },
+   {
+    "user_id": "735974647736213504",
+    "name": "Towsk",
+    "spent": 82.0,
+    "points_after": 92.04,
+    "ppd": 1.12
    },
    {
     "user_id": "710284244835979264",
     "name": "B-Husk",
-    "spent": 75.0,
-    "points_after": 60.18,
-    "ppd": 0.8
+    "spent": 78.0,
+    "points_after": 73.46,
+    "ppd": 0.94
    },
    {
     "user_id": "865793938542456832",
     "name": "Beaut",
     "spent": 26.0,
-    "points_after": 57.75,
-    "ppd": 2.22
+    "points_after": 68.25,
+    "ppd": 2.62
+   },
+   {
+    "user_id": "608781531883859968",
+    "name": "Benny G",
+    "spent": 125.0,
+    "points_after": 60.9,
+    "ppd": 0.49
    },
    {
     "user_id": "737091087440674816",
@@ -411,44 +425,37 @@
     "ppd": 0.81
    },
    {
-    "user_id": "735974647736213504",
-    "name": "Towsk",
-    "spent": 78.0,
-    "points_after": 52.94,
-    "ppd": 0.68
-   },
-   {
-    "user_id": "608781531883859968",
-    "name": "Benny G",
-    "spent": 65.0,
-    "points_after": 50.72,
-    "ppd": 0.78
-   },
-   {
     "user_id": "1136842855890366464",
     "name": "Kep",
-    "spent": 20.0,
-    "points_after": 29.0,
-    "ppd": 1.45
+    "spent": 36.0,
+    "points_after": 34.0,
+    "ppd": 0.94
    },
    {
     "user_id": "736077599457026048",
     "name": "Johnson",
-    "spent": 58.0,
+    "spent": 82.0,
     "points_after": 16.4,
-    "ppd": 0.28
+    "ppd": 0.2
    },
    {
     "user_id": "736740647758938112",
     "name": "BJ",
-    "spent": 6.0,
+    "spent": 11.0,
     "points_after": 0.0,
     "ppd": 0.0
    },
    {
     "user_id": "736803054736822272",
     "name": "Wicko",
-    "spent": 5.0,
+    "spent": 10.0,
+    "points_after": 0.0,
+    "ppd": 0.0
+   },
+   {
+    "user_id": "736744257179770880",
+    "name": "Drobny",
+    "spent": 16.0,
     "points_after": 0.0,
     "ppd": 0.0
    }
@@ -754,7 +761,7 @@
    "week": 5,
    "user_id": "736077599457026048",
    "name": "Johnson",
-   "player_name": "Kenneth Walker",
+   "player_name": "Kenneth Walker III",
    "bid": 99.0,
    "points_after": 124.0,
    "ppd": 1.25
@@ -781,7 +788,7 @@
      "name": "Towsk",
      "players_gained": [
       "Antonio Gibson",
-      "Kyle Pitts"
+      "Kyle Pitts Sr."
      ],
      "points_after": 0.0
     }
@@ -902,7 +909,7 @@
      "name": "Benny G",
      "players_gained": [
       "Antonio Gibson",
-      "Kyle Pitts"
+      "Kyle Pitts Sr."
      ],
      "points_after": 76.1
     },
@@ -977,7 +984,7 @@
      "user_id": "608781531883859968",
      "name": "Benny G",
      "players_gained": [
-      "Michael Pittman"
+      "Michael Pittman Jr."
      ],
      "points_after": 26.3
     },
@@ -1064,7 +1071,7 @@
      "user_id": "735974647736213504",
      "name": "Towsk",
      "players_gained": [
-      "Michael Pittman"
+      "Michael Pittman Jr."
      ],
      "points_after": 130.3
     }
@@ -1092,7 +1099,7 @@
      "name": "Towsk",
      "players_gained": [
       "Carson Wentz",
-      "Chris Godwin"
+      "Chris Godwin Jr."
      ],
      "points_after": 157.16
     }
@@ -1146,7 +1153,7 @@
      "name": "Chuck",
      "players_gained": [
       "DeAndre Hopkins",
-      "Travis Etienne"
+      "Travis Etienne Jr."
      ],
      "points_after": 242.7
     }
@@ -1543,7 +1550,7 @@
      "user_id": "735974647736213504",
      "name": "Towsk",
      "players_gained": [
-      "Michael Pittman",
+      "Michael Pittman Jr.",
       "Jerome Ford",
       "Tank Dell"
      ],
@@ -1566,7 +1573,7 @@
       "Lamar Jackson",
       "Jason Sanders",
       "Jahmyr Gibbs",
-      "Anthony Richardson",
+      "Anthony Richardson Sr.",
       "Jaxon Smith-Njigba"
      ],
      "points_after": 187.36
@@ -1865,7 +1872,7 @@
      "user_id": "608781531883859968",
      "name": "Benny G",
      "players_gained": [
-      "Travis Etienne",
+      "Travis Etienne Jr.",
       "Will Levis"
      ],
      "points_after": 64.28
@@ -1894,7 +1901,7 @@
      "name": "BJ",
      "players_gained": [
       "Jakobi Meyers",
-      "James Cook"
+      "James Cook III"
      ],
      "points_after": 48.6
     },
@@ -2058,7 +2065,7 @@
      "user_id": "736803054736822272",
      "name": "Wicko",
      "players_gained": [
-      "Marvin Harrison",
+      "Marvin Harrison Jr.",
       "James Conner",
       "Tucker Kraft"
      ],
@@ -2132,7 +2139,7 @@
      "user_id": "608781531883859968",
      "name": "Benny G",
      "players_gained": [
-      "Anthony Richardson"
+      "Anthony Richardson Sr."
      ],
      "points_after": 0.0
     },
@@ -2259,7 +2266,7 @@
      "name": "Drobny",
      "players_gained": [
       "J.K. Dobbins",
-      "Anthony Richardson",
+      "Anthony Richardson Sr.",
       "Tank Dell"
      ],
      "points_after": 0.0
@@ -2346,7 +2353,7 @@
      "user_id": "735974647736213504",
      "name": "Towsk",
      "players_gained": [
-      "Brian Thomas",
+      "Brian Thomas Jr.",
       "Jaxon Smith-Njigba"
      ],
      "points_after": 279.9
@@ -2586,7 +2593,7 @@
       "Bhayshul Tuten",
       "Jaylen Waddle"
      ],
-     "points_after": 62.0
+     "points_after": 70.8
     },
     {
      "user_id": "710284244835979264",
@@ -2599,7 +2606,7 @@
     }
    ],
    "winner_user_id": "608781531883859968",
-   "margin": 36.6
+   "margin": 45.4
   },
   {
    "transaction_id": "1408599770846576640",
@@ -2613,51 +2620,75 @@
      "players_gained": [
       "Jacoby Brissett"
      ],
-     "points_after": 42.14
+     "points_after": 59.12
     },
     {
      "user_id": "1136842855890366464",
      "name": "Kep",
      "players_gained": [
-      "Michael Penix"
+      "Michael Penix Jr."
      ],
-     "points_after": 48.22
+     "points_after": 69.14
     }
    ],
    "winner_user_id": "1136842855890366464",
-   "margin": 6.08
+   "margin": 10.02
+  },
+  {
+   "transaction_id": "1419117610804445184",
+   "season": 2026,
+   "week": 7,
+   "date": "2026-10-22",
+   "sides": [
+    {
+     "user_id": "735974647736213504",
+     "name": "Towsk",
+     "players_gained": [
+      "Cam Ward"
+     ],
+     "points_after": 0.0
+    },
+    {
+     "user_id": "1136842855890366464",
+     "name": "Kep",
+     "players_gained": [],
+     "points_after": 0
+    }
+   ],
+   "winner_user_id": "735974647736213504",
+   "margin": 0.0
   }
  ],
  "activity": {
   "736077599457026048": {
-   "adds": 213,
-   "drops": 209,
+   "adds": 218,
+   "drops": 214,
    "trades": 23
   },
   "475399371639222272": {
-   "adds": 163,
-   "drops": 163,
+   "adds": 164,
+   "drops": 164,
    "trades": 15
   },
   "736803054736822272": {
-   "adds": 91,
-   "drops": 90,
+   "adds": 92,
+   "drops": 91,
    "trades": 7
   },
   "608781531883859968": {
-   "adds": 301,
-   "drops": 309,
+   "adds": 308,
+   "drops": 316,
    "trades": 22
   },
   "710284244835979264": {
-   "adds": 134,
-   "drops": 132,
+   "adds": 136,
+   "drops": 134,
    "trades": 8
   },
   "735974647736213504": {
-   "adds": 362,
-   "drops": 356,
-   "trades": 29
+   "adds": 367,
+   "drops": 361,
+   "trades": 30
   },
   "737091087440674816": {
    "adds": 85,
@@ -2665,29 +2696,29 @@
    "trades": 4
   },
   "736740647758938112": {
-   "adds": 182,
-   "drops": 182,
+   "adds": 184,
+   "drops": 184,
    "trades": 14
   },
   "736744257179770880": {
-   "adds": 125,
-   "drops": 122,
+   "adds": 128,
+   "drops": 126,
    "trades": 6
   },
   "716698629934481408": {
-   "adds": 132,
-   "drops": 132,
+   "adds": 133,
+   "drops": 133,
    "trades": 11
   },
   "865793938542456832": {
-   "adds": 33,
-   "drops": 32,
+   "adds": 34,
+   "drops": 33,
    "trades": 0
   },
   "1136842855890366464": {
-   "adds": 20,
-   "drops": 21,
-   "trades": 1
+   "adds": 23,
+   "drops": 23,
+   "trades": 2
   }
  }
 }

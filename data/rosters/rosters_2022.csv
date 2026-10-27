@@ -23,13 +23,13 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,2,Erjohnson14,Dairy Sanders,5022,Dallas Goedert,TE,PHI,bench
 2022,2,Erjohnson14,Dairy Sanders,5089,Mike White,QB,,bench
 2022,2,Erjohnson14,Dairy Sanders,5859,A.J. Brown,WR,NE,starter
-2022,2,Erjohnson14,Dairy Sanders,5872,Deebo Samuel,WR,SF,ir
+2022,2,Erjohnson14,Dairy Sanders,5872,Deebo Samuel Sr.,WR,SF,ir
 2022,2,Erjohnson14,Dairy Sanders,5937,Diontae Johnson,WR,,bench
 2022,2,Erjohnson14,Dairy Sanders,6945,Antonio Gibson,RB,,bench
 2022,2,Erjohnson14,Dairy Sanders,7594,Chuba Hubbard,RB,CAR,bench
 2022,2,Erjohnson14,Dairy Sanders,8129,Dameon Pierce,RB,PHI,bench
 2022,2,Erjohnson14,Dairy Sanders,8144,Chris Olave,WR,NO,starter
-2022,2,Erjohnson14,Dairy Sanders,8151,Kenneth Walker,RB,KC,starter
+2022,2,Erjohnson14,Dairy Sanders,8151,Kenneth Walker III,RB,KC,starter
 2022,2,Erjohnson14,Dairy Sanders,96,Aaron Rodgers,QB,PIT,starter
 2022,2,Erjohnson14,Dairy Sanders,KC,Kansas City Chiefs,DEF,KC,starter
 2022,3,MaxSirianni,Tucker right in the pu$$y,1166,Kirk Cousins,QB,LV,starter
@@ -44,7 +44,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,3,MaxSirianni,Tucker right in the pu$$y,5892,David Montgomery,RB,HOU,bench
 2022,3,MaxSirianni,Tucker right in the pu$$y,6794,Justin Jefferson,WR,MIN,starter
 2022,3,MaxSirianni,Tucker right in the pu$$y,7528,Najee Harris,RB,,starter
-2022,3,MaxSirianni,Tucker right in the pu$$y,8154,Brian Robinson,RB,ATL,bench
+2022,3,MaxSirianni,Tucker right in the pu$$y,8154,Brian Robinson Jr.,RB,ATL,bench
 2022,3,MaxSirianni,Tucker right in the pu$$y,8160,Kenny Pickett,QB,CAR,bench
 2022,3,MaxSirianni,Tucker right in the pu$$y,CIN,Cincinnati Bengals,DEF,CIN,bench
 2022,3,MaxSirianni,Tucker right in the pu$$y,TB,Tampa Bay Buccaneers,DEF,TB,starter
@@ -63,7 +63,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,4,jdrobny,Rather Be Lucky Than Good,7525,DeVonta Smith,WR,PHI,starter
 2022,4,jdrobny,Rather Be Lucky Than Good,7527,Mac Jones,QB,SF,bench
 2022,4,jdrobny,Rather Be Lucky Than Good,7591,Justin Fields,QB,KC,starter
-2022,4,jdrobny,Rather Be Lucky Than Good,8138,James Cook,RB,BUF,bench
+2022,4,jdrobny,Rather Be Lucky Than Good,8138,James Cook III,RB,BUF,bench
 2022,4,jdrobny,Rather Be Lucky Than Good,BAL,Baltimore Ravens,DEF,BAL,starter
 2022,5,kaufmannc,Mar-a-lago Raiders ,1426,DeAndre Hopkins,WR,,starter
 2022,5,kaufmannc,Mar-a-lago Raiders ,3163,Jared Goff,QB,DET,starter
@@ -75,7 +75,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,5,kaufmannc,Mar-a-lago Raiders ,5185,Allen Lazard,WR,,bench
 2022,5,kaufmannc,Mar-a-lago Raiders ,5870,Daniel Jones,QB,IND,starter
 2022,5,kaufmannc,Mar-a-lago Raiders ,6845,Zack Moss,RB,,bench
-2022,5,kaufmannc,Mar-a-lago Raiders ,7543,Travis Etienne,RB,NO,starter
+2022,5,kaufmannc,Mar-a-lago Raiders ,7543,Travis Etienne Jr.,RB,NO,starter
 2022,5,kaufmannc,Mar-a-lago Raiders ,7564,Ja'Marr Chase,WR,CIN,starter
 2022,5,kaufmannc,Mar-a-lago Raiders ,7839,Evan McPherson,K,CIN,starter
 2022,5,kaufmannc,Mar-a-lago Raiders ,8137,George Pickens,WR,DAL,bench
@@ -99,14 +99,14 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,7,KingTowsk,Leeroy Jenkins,1373,Geno Smith,QB,NYJ,bench
 2022,7,KingTowsk,Leeroy Jenkins,2133,Davante Adams,WR,LAR,starter
 2022,7,KingTowsk,Leeroy Jenkins,2749,Raheem Mostert,RB,,bench
-2022,7,KingTowsk,Leeroy Jenkins,4037,Chris Godwin,WR,TB,starter
+2022,7,KingTowsk,Leeroy Jenkins,4037,Chris Godwin Jr.,WR,TB,starter
 2022,7,KingTowsk,Leeroy Jenkins,4217,George Kittle,TE,SF,starter
 2022,7,KingTowsk,Leeroy Jenkins,4984,Josh Allen,QB,BUF,starter
 2022,7,KingTowsk,Leeroy Jenkins,5284,Jeff Wilson,RB,,bench
 2022,7,KingTowsk,Leeroy Jenkins,536,Antonio Brown,WR,,bench
-2022,7,KingTowsk,Leeroy Jenkins,6011,Gardner Minshew,QB,ARI,starter
+2022,7,KingTowsk,Leeroy Jenkins,6011,Gardner Minshew II,QB,ARI,starter
 2022,7,KingTowsk,Leeroy Jenkins,6790,D'Andre Swift,RB,CHI,starter
-2022,7,KingTowsk,Leeroy Jenkins,6819,Michael Pittman,WR,PIT,bench
+2022,7,KingTowsk,Leeroy Jenkins,6819,Michael Pittman Jr.,WR,PIT,bench
 2022,7,KingTowsk,Leeroy Jenkins,7922,Riley Patterson,K,,starter
 2022,7,KingTowsk,Leeroy Jenkins,8122,Zonovan Knight,RB,ARI,bench
 2022,7,KingTowsk,Leeroy Jenkins,8167,Christian Watson,WR,GB,starter
@@ -117,7 +117,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,8,TylerWicks,Sick of Gesicki,2711,Taylor Heinicke,QB,,starter
 2022,8,TylerWicks,Sick of Gesicki,3969,Leonard Fournette,RB,,bench
 2022,8,TylerWicks,Sick of Gesicki,4089,Gerald Everett,TE,,starter
-2022,8,TylerWicks,Sick of Gesicki,4199,Aaron Jones,RB,MIN,starter
+2022,8,TylerWicks,Sick of Gesicki,4199,Aaron Jones Sr.,RB,MIN,starter
 2022,8,TylerWicks,Sick of Gesicki,4951,DJ Chark,WR,,bench
 2022,8,TylerWicks,Sick of Gesicki,5230,Michael Badgley,K,,starter
 2022,8,TylerWicks,Sick of Gesicki,5846,DK Metcalf,WR,PIT,starter

@@ -9,10 +9,10 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,1,bgreenblatt,Ellis is a homo,6783,Jerry Jeudy,WR,CLE,bench
 2021,1,bgreenblatt,Ellis is a homo,6794,Justin Jefferson,WR,MIN,starter
 2021,1,bgreenblatt,Ellis is a homo,6813,Jonathan Taylor,RB,IND,starter
-2021,1,bgreenblatt,Ellis is a homo,6819,Michael Pittman,WR,PIT,bench
+2021,1,bgreenblatt,Ellis is a homo,6819,Michael Pittman Jr.,WR,PIT,bench
 2021,1,bgreenblatt,Ellis is a homo,7042,Tyler Bass,K,BUF,starter
 2021,1,bgreenblatt,Ellis is a homo,7547,Amon-Ra St. Brown,WR,DET,starter
-2021,1,bgreenblatt,Ellis is a homo,7553,Kyle Pitts,TE,ATL,starter
+2021,1,bgreenblatt,Ellis is a homo,7553,Kyle Pitts Sr.,TE,ATL,starter
 2021,1,bgreenblatt,Ellis is a homo,7564,Ja'Marr Chase,WR,CIN,starter
 2021,1,bgreenblatt,Ellis is a homo,7610,Trey Lance,QB,LAC,bench
 2021,1,bgreenblatt,Ellis is a homo,IND,Indianapolis Colts,DEF,IND,starter
@@ -25,7 +25,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,2,Erjohnson14,Ben choked ,5001,Dalton Schultz,TE,HOU,starter
 2021,2,Erjohnson14,Ben choked ,5844,T.J. Hockenson,TE,MIN,ir
 2021,2,Erjohnson14,Ben choked ,5859,A.J. Brown,WR,NE,bench
-2021,2,Erjohnson14,Ben choked ,5872,Deebo Samuel,WR,SF,starter
+2021,2,Erjohnson14,Ben choked ,5872,Deebo Samuel Sr.,WR,SF,starter
 2021,2,Erjohnson14,Ben choked ,5947,Jakobi Meyers,WR,JAX,bench
 2021,2,Erjohnson14,Ben choked ,5955,Hunter Renfrow,WR,,starter
 2021,2,Erjohnson14,Ben choked ,5987,Alexander Mattison,RB,,bench
@@ -94,7 +94,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,5,kaufmannc,Cleveland Steamers,KC,Kansas City Chiefs,DEF,KC,bench
 2021,6,JSanDusky69,2 Girls 1 Kupp,138,Ben Roethlisberger,QB,PIT,starter
 2021,6,JSanDusky69,2 Girls 1 Kupp,1825,Jarvis Landry,WR,,bench
-2021,6,JSanDusky69,2 Girls 1 Kupp,2078,Odell Beckham,WR,MIN,bench
+2021,6,JSanDusky69,2 Girls 1 Kupp,2078,Odell Beckham Jr.,WR,MIN,bench
 2021,6,JSanDusky69,2 Girls 1 Kupp,2320,Melvin Gordon,RB,,bench
 2021,6,JSanDusky69,2 Girls 1 Kupp,2391,David Johnson,RB,,ir
 2021,6,JSanDusky69,2 Girls 1 Kupp,3321,Tyreek Hill,WR,,starter
@@ -136,7 +136,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,8,TylerWicks,Opted Out,2505,Darren Waller,TE,CAR,bench
 2021,8,TylerWicks,Opted Out,3225,Tyler Boyd,WR,,bench
 2021,8,TylerWicks,Opted Out,3664,J.D. McKissic,RB,,ir
-2021,8,TylerWicks,Opted Out,4199,Aaron Jones,RB,MIN,starter
+2021,8,TylerWicks,Opted Out,4199,Aaron Jones Sr.,RB,MIN,starter
 2021,8,TylerWicks,Opted Out,421,Matthew Stafford,QB,LAR,starter
 2021,8,TylerWicks,Opted Out,4381,Taysom Hill,TE,,bench
 2021,8,TylerWicks,Opted Out,4993,Mike Gesicki,TE,CIN,starter
@@ -171,7 +171,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,10,cc5597,No Punt Intended,367,Jared Cook,TE,,bench
 2021,10,cc5597,No Punt Intended,391,Ryan Succop,K,,starter
 2021,10,cc5597,No Punt Intended,4035,Alvin Kamara,RB,NO,starter
-2021,10,cc5597,No Punt Intended,4037,Chris Godwin,WR,TB,ir
+2021,10,cc5597,No Punt Intended,4037,Chris Godwin Jr.,WR,TB,ir
 2021,10,cc5597,No Punt Intended,4131,Kenny Golladay,WR,,bench
 2021,10,cc5597,No Punt Intended,4137,James Conner,RB,ARI,bench
 2021,10,cc5597,No Punt Intended,4981,Calvin Ridley,WR,TEN,ir
@@ -180,7 +180,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,10,cc5597,No Punt Intended,6770,Joe Burrow,QB,CIN,starter
 2021,10,cc5597,No Punt Intended,6801,Tee Higgins,WR,CIN,starter
 2021,10,cc5597,No Punt Intended,7090,Darnell Mooney,WR,NYG,starter
-2021,10,cc5597,No Punt Intended,7561,Elijah Mitchell,RB,,starter
+2021,10,cc5597,No Punt Intended,7561,Elijah Mitchell,RB,PHI,starter
 2021,10,cc5597,No Punt Intended,7611,Rhamondre Stevenson,RB,NE,bench
 2021,10,cc5597,No Punt Intended,DAL,Dallas Cowboys,DEF,DAL,starter
 2021,10,cc5597,No Punt Intended,MIA,Miami Dolphins,DEF,MIA,bench

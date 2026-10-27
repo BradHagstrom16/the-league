@@ -69,7 +69,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1010047838822195200,2,waiver,complete,1695176679857,2023-09-19,8,TylerWicks,add,3214,Hunter Henry,TE,10
 2023,1010047838822195200,2,waiver,complete,1695176679857,2023-09-19,8,TylerWicks,drop,7600,Pat Freiermuth,TE,
 2023,1009953769435541504,2,waiver,complete,1695154251968,2023-09-19,4,jdrobny,add,8143,Jerome Ford,RB,76
-2023,1009953769435541504,2,waiver,complete,1695154251968,2023-09-19,4,jdrobny,drop,2078,Odell Beckham,WR,
+2023,1009953769435541504,2,waiver,complete,1695154251968,2023-09-19,4,jdrobny,drop,2078,Odell Beckham Jr.,WR,
 2023,1009936346967875584,2,waiver,failed,1695150098128,2023-09-19,7,KingTowsk,add,8143,Jerome Ford,RB,51
 2023,1009936203182981120,2,waiver,complete,1695150063847,2023-09-19,7,KingTowsk,add,8159,Desmond Ridder,QB,2
 2023,1009936203182981120,2,waiver,complete,1695150063847,2023-09-19,7,KingTowsk,drop,7527,Mac Jones,QB,
@@ -141,7 +141,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1012097142481158144,3,waiver,complete,1695665271924,2023-09-25,1,bgreenblatt,add,4179,Joshua Dobbs,QB,8
 2023,1012097142481158144,3,waiver,complete,1695665271924,2023-09-25,1,bgreenblatt,drop,7045,Joshua Kelley,RB,
 2023,1012093036127449088,3,waiver,failed,1695664292893,2023-09-25,1,bgreenblatt,add,9502,Tank Dell,WR,16
-2023,1012052460145324032,3,waiver,failed,1695654618825,2023-09-25,6,JSanDusky69,add,2078,Odell Beckham,WR,0
+2023,1012052460145324032,3,waiver,failed,1695654618825,2023-09-25,6,JSanDusky69,add,2078,Odell Beckham Jr.,WR,0
 2023,1012052229592850432,3,waiver,complete,1695654563857,2023-09-25,6,JSanDusky69,add,9226,De'Von Achane,RB,51
 2023,1012052229592850432,3,waiver,complete,1695654563857,2023-09-25,6,JSanDusky69,drop,7090,Darnell Mooney,WR,
 2023,1011752393027063808,3,free_agent,complete,1695583077249,2023-09-24,1,bgreenblatt,add,PIT,Pittsburgh Steelers,DEF,
@@ -205,7 +205,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1013268702281834496,4,free_agent,complete,1695944593547,2023-09-28,1,bgreenblatt,add,10235,Roschon Johnson,RB,
 2023,1013268702281834496,4,free_agent,complete,1695944593547,2023-09-28,1,bgreenblatt,drop,7600,Pat Freiermuth,TE,
 2023,1013193569667993600,4,free_agent,complete,1695926680536,2023-09-28,10,cc5597,drop,5248,Gus Edwards,RB,
-2023,1012796524398600192,4,waiver,complete,1695832017567,2023-09-27,6,JSanDusky69,add,2078,Odell Beckham,WR,0
+2023,1012796524398600192,4,waiver,complete,1695832017567,2023-09-27,6,JSanDusky69,add,2078,Odell Beckham Jr.,WR,0
 2023,1012796524398600192,4,waiver,complete,1695832017567,2023-09-27,6,JSanDusky69,drop,6826,Cole Kmet,TE,
 2023,1012775750627340288,4,waiver,failed,1695827064714,2023-09-27,7,KingTowsk,add,1945,Chris Boswell,K,0
 2023,1012773926285508608,4,waiver,failed,1695826629757,2023-09-27,7,KingTowsk,add,9502,Tank Dell,WR,14
@@ -219,7 +219,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1012732301614141440,4,waiver,complete,1695816705662,2023-09-27,4,jdrobny,drop,1837,Jimmy Garoppolo,QB,
 2023,1012732216515952640,4,waiver,failed,1695816685373,2023-09-27,4,jdrobny,add,9226,De'Von Achane,RB,49
 2023,1017724520108535808,5,waiver,failed,1697006943302,2023-10-11,6,JSanDusky69,add,11199,Emari Demercado,RB,0
-2023,1017724382560591872,5,waiver,failed,1697006910508,2023-10-11,6,JSanDusky69,add,2078,Odell Beckham,WR,0
+2023,1017724382560591872,5,waiver,failed,1697006910508,2023-10-11,6,JSanDusky69,add,2078,Odell Beckham Jr.,WR,0
 2023,1017724232643534848,5,waiver,complete,1697006874765,2023-10-11,6,JSanDusky69,add,7066,K.J. Osborn,WR,1
 2023,1017660047620456448,5,waiver,failed,1696991571863,2023-10-10,2,Erjohnson14,add,9508,Tyjae Spears,RB,5
 2023,1017653418032185344,5,free_agent,complete,1696989991246,2023-10-10,2,Erjohnson14,drop,3225,Tyler Boyd,WR,
@@ -255,7 +255,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1017586104184217600,5,trade,complete,1696973942374,2023-10-10,10,cc5597,add,7922,Riley Patterson,K,
 2023,1017586104184217600,5,trade,complete,1696973942374,2023-10-10,10,cc5597,add,8183,Brock Purdy,QB,
 2023,1017586104184217600,5,trade,complete,1696973942374,2023-10-10,7,KingTowsk,add,9221,Jahmyr Gibbs,RB,
-2023,1017586104184217600,5,trade,complete,1696973942374,2023-10-10,7,KingTowsk,add,9229,Anthony Richardson,QB,
+2023,1017586104184217600,5,trade,complete,1696973942374,2023-10-10,7,KingTowsk,add,9229,Anthony Richardson Sr.,QB,
 2023,1017586104184217600,5,trade,complete,1696973942374,2023-10-10,7,KingTowsk,add,9488,Jaxon Smith-Njigba,WR,
 2023,1017586104184217600,5,trade,complete,1696973942374,2023-10-10,7,KingTowsk,drop,1166,Kirk Cousins,QB,
 2023,1017586104184217600,5,trade,complete,1696973942374,2023-10-10,7,KingTowsk,drop,2449,Stefon Diggs,WR,
@@ -264,7 +264,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1017586104184217600,5,trade,complete,1696973942374,2023-10-10,7,KingTowsk,drop,7922,Riley Patterson,K,
 2023,1017586104184217600,5,trade,complete,1696973942374,2023-10-10,7,KingTowsk,drop,8183,Brock Purdy,QB,
 2023,1017586104184217600,5,trade,complete,1696973942374,2023-10-10,10,cc5597,drop,9221,Jahmyr Gibbs,RB,
-2023,1017586104184217600,5,trade,complete,1696973942374,2023-10-10,10,cc5597,drop,9229,Anthony Richardson,QB,
+2023,1017586104184217600,5,trade,complete,1696973942374,2023-10-10,10,cc5597,drop,9229,Anthony Richardson Sr.,QB,
 2023,1017586104184217600,5,trade,complete,1696973942374,2023-10-10,10,cc5597,drop,9488,Jaxon Smith-Njigba,WR,
 2023,1017548755396132864,5,waiver,complete,1696965037729,2023-10-10,2,Erjohnson14,add,5284,Jeff Wilson,RB,21
 2023,1017548755396132864,5,waiver,complete,1696965037729,2023-10-10,2,Erjohnson14,drop,7608,Khalil Herbert,RB,
@@ -276,17 +276,17 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1016595146521075712,5,waiver,complete,1696737679656,2023-10-07,7,KingTowsk,add,TEN,Tennessee Titans,DEF,0
 2023,1016595146521075712,5,waiver,complete,1696737679656,2023-10-07,7,KingTowsk,drop,NO,New Orleans Saints,DEF,
 2023,1016593341401735168,5,waiver,complete,1696737249282,2023-10-07,10,cc5597,add,7594,Chuba Hubbard,RB,0
-2023,1015862154840473600,5,free_agent,complete,1696562920821,2023-10-05,6,JSanDusky69,drop,2078,Odell Beckham,WR,
+2023,1015862154840473600,5,free_agent,complete,1696562920821,2023-10-05,6,JSanDusky69,drop,2078,Odell Beckham Jr.,WR,
 2023,1015823323764326400,5,free_agent,complete,1696553662771,2023-10-05,1,bgreenblatt,add,4455,Matt Breida,RB,
 2023,1015823323764326400,5,free_agent,complete,1696553662771,2023-10-05,1,bgreenblatt,drop,7594,Chuba Hubbard,RB,
 2023,1015767770937507840,5,free_agent,complete,1696540417945,2023-10-05,7,KingTowsk,drop,8126,Wan'Dale Robinson,WR,
 2023,1015759550487617536,5,trade,complete,1696538458037,2023-10-05,4,jdrobny,add,2749,Raheem Mostert,RB,
-2023,1015759550487617536,5,trade,complete,1696538458037,2023-10-05,7,KingTowsk,add,6819,Michael Pittman,WR,
+2023,1015759550487617536,5,trade,complete,1696538458037,2023-10-05,7,KingTowsk,add,6819,Michael Pittman Jr.,WR,
 2023,1015759550487617536,5,trade,complete,1696538458037,2023-10-05,7,KingTowsk,add,8143,Jerome Ford,RB,
 2023,1015759550487617536,5,trade,complete,1696538458037,2023-10-05,4,jdrobny,add,9493,Puka Nacua,WR,
 2023,1015759550487617536,5,trade,complete,1696538458037,2023-10-05,7,KingTowsk,add,9502,Tank Dell,WR,
 2023,1015759550487617536,5,trade,complete,1696538458037,2023-10-05,7,KingTowsk,drop,2749,Raheem Mostert,RB,
-2023,1015759550487617536,5,trade,complete,1696538458037,2023-10-05,4,jdrobny,drop,6819,Michael Pittman,WR,
+2023,1015759550487617536,5,trade,complete,1696538458037,2023-10-05,4,jdrobny,drop,6819,Michael Pittman Jr.,WR,
 2023,1015759550487617536,5,trade,complete,1696538458037,2023-10-05,4,jdrobny,drop,8143,Jerome Ford,RB,
 2023,1015759550487617536,5,trade,complete,1696538458037,2023-10-05,7,KingTowsk,drop,9493,Puka Nacua,WR,
 2023,1015759550487617536,5,trade,complete,1696538458037,2023-10-05,4,jdrobny,drop,9502,Tank Dell,WR,
@@ -312,10 +312,10 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1015302079348404224,5,waiver,failed,1696429388418,2023-10-04,7,KingTowsk,add,8148,Jameson Williams,WR,0
 2023,1015301950667091968,5,waiver,complete,1696429357738,2023-10-04,7,KingTowsk,add,8126,Wan'Dale Robinson,WR,0
 2023,1015301950667091968,5,waiver,complete,1696429357738,2023-10-04,7,KingTowsk,drop,KC,Kansas City Chiefs,DEF,
-2023,1015299811806957568,5,waiver,failed,1696428847794,2023-10-04,1,bgreenblatt,add,7553,Kyle Pitts,TE,0
-2023,1015299761626345472,5,waiver,complete,1696428835830,2023-10-04,6,JSanDusky69,add,7553,Kyle Pitts,TE,11
+2023,1015299811806957568,5,waiver,failed,1696428847794,2023-10-04,1,bgreenblatt,add,7553,Kyle Pitts Sr.,TE,0
+2023,1015299761626345472,5,waiver,complete,1696428835830,2023-10-04,6,JSanDusky69,add,7553,Kyle Pitts Sr.,TE,11
 2023,1015299761626345472,5,waiver,complete,1696428835830,2023-10-04,6,JSanDusky69,drop,4029,Dalvin Cook,RB,
-2023,1015298053839863808,5,free_agent,complete,1696428428662,2023-10-04,5,kaufmannc,drop,7553,Kyle Pitts,TE,
+2023,1015298053839863808,5,free_agent,complete,1696428428662,2023-10-04,5,kaufmannc,drop,7553,Kyle Pitts Sr.,TE,
 2023,1015297873598038016,5,free_agent,complete,1696428385689,2023-10-04,5,kaufmannc,drop,6938,Cam Akers,RB,
 2023,1015296486646689792,5,trade,complete,1696428055014,2023-10-04,1,bgreenblatt,add,6797,Justin Herbert,QB,
 2023,1015296486646689792,5,trade,complete,1696428055014,2023-10-04,5,kaufmannc,add,7591,Justin Fields,QB,
@@ -366,7 +366,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1017865056106688512,6,waiver,complete,1697040449695,2023-10-11,1,bgreenblatt,add,LV,Las Vegas Raiders,DEF,2
 2023,1017865056106688512,6,waiver,complete,1697040449695,2023-10-11,1,bgreenblatt,drop,NE,New England Patriots,DEF,
 2023,1017862845607862272,6,waiver,failed,1697039922671,2023-10-11,10,cc5597,add,11199,Emari Demercado,RB,16
-2023,1017856566348996608,6,waiver,complete,1697038425579,2023-10-11,3,MaxSirianni,add,6011,Gardner Minshew,QB,6
+2023,1017856566348996608,6,waiver,complete,1697038425579,2023-10-11,3,MaxSirianni,add,6011,Gardner Minshew II,QB,6
 2023,1017856566348996608,6,waiver,complete,1697038425579,2023-10-11,3,MaxSirianni,drop,7538,Zach Wilson,QB,
 2023,1017855666314203136,6,waiver,complete,1697038210994,2023-10-11,3,MaxSirianni,add,9508,Tyjae Spears,RB,3
 2023,1017847713464954880,6,waiver,complete,1697036314887,2023-10-11,10,cc5597,add,4171,Josh Reynolds,WR,1
@@ -417,7 +417,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1020937627052249088,7,free_agent,complete,1697773007694,2023-10-19,8,TylerWicks,drop,7567,Kenny Gainwell,RB,
 2023,1020839059662393344,7,free_agent,complete,1697749507397,2023-10-19,10,cc5597,drop,8119,Jahan Dotson,WR,
 2023,1020694915585593344,7,waiver,complete,1697715140771,2023-10-19,3,MaxSirianni,add,8160,Kenny Pickett,QB,0
-2023,1020694915585593344,7,waiver,complete,1697715140771,2023-10-19,3,MaxSirianni,drop,6011,Gardner Minshew,QB,
+2023,1020694915585593344,7,waiver,complete,1697715140771,2023-10-19,3,MaxSirianni,drop,6011,Gardner Minshew II,QB,
 2023,1020518684420354048,7,waiver,complete,1697673123987,2023-10-18,1,bgreenblatt,add,9482,Michael Mayer,TE,0
 2023,1020518684420354048,7,waiver,complete,1697673123987,2023-10-18,1,bgreenblatt,drop,3969,Leonard Fournette,RB,
 2023,1020429475370057728,7,free_agent,complete,1697651854892,2023-10-18,3,MaxSirianni,drop,11199,Emari Demercado,RB,
@@ -443,7 +443,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1020397844802437120,7,trade,complete,1697644313577,2023-10-18,7,KingTowsk,drop,4950,Christian Kirk,WR,
 2023,1020397844802437120,7,trade,complete,1697644313577,2023-10-18,5,kaufmannc,drop,7588,Javonte Williams,RB,
 2023,1020397844802437120,7,trade,complete,1697644313577,2023-10-18,7,KingTowsk,drop,8112,Drake London,WR,
-2023,1020393837857947648,7,free_agent,complete,1697643358247,2023-10-18,7,KingTowsk,drop,9229,Anthony Richardson,QB,
+2023,1020393837857947648,7,free_agent,complete,1697643358247,2023-10-18,7,KingTowsk,drop,9229,Anthony Richardson Sr.,QB,
 2023,1020392478584745984,7,waiver,complete,1697643034171,2023-10-18,10,cc5597,add,9222,Zach Evans,RB,11
 2023,1020392478584745984,7,waiver,complete,1697643034171,2023-10-18,10,cc5597,drop,4171,Josh Reynolds,WR,
 2023,1020371616204713984,7,waiver,failed,1697638060192,2023-10-18,2,Erjohnson14,add,CLE,Cleveland Browns,DEF,6
@@ -495,7 +495,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1022949036640256000,8,free_agent,complete,1698252565110,2023-10-25,9,brockhusk,drop,6659,Craig Reynolds,RB,
 2023,1022932217203486720,8,waiver,complete,1698248555043,2023-10-25,2,Erjohnson14,add,8259,Cameron Dicker,K,2
 2023,1022932217203486720,8,waiver,complete,1698248555043,2023-10-25,2,Erjohnson14,drop,4958,Brett Maher,K,
-2023,1022928445805887488,8,waiver,complete,1698247655872,2023-10-25,7,KingTowsk,add,6011,Gardner Minshew,QB,2
+2023,1022928445805887488,8,waiver,complete,1698247655872,2023-10-25,7,KingTowsk,add,6011,Gardner Minshew II,QB,2
 2023,1022928445805887488,8,waiver,complete,1698247655872,2023-10-25,7,KingTowsk,drop,10229,Rashee Rice,WR,
 2023,1022925543353696256,8,free_agent,complete,1698246963874,2023-10-25,7,KingTowsk,drop,5119,Jason Sanders,K,
 2023,1022892574895448064,8,waiver,complete,1698239103581,2023-10-25,5,kaufmannc,add,4666,Younghoe Koo,K,0
@@ -572,7 +572,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1028091236181250048,10,waiver,complete,1699478561018,2023-11-08,5,kaufmannc,add,SEA,Seattle Seahawks,DEF,0
 2023,1028060662544642048,10,waiver,complete,1699471271695,2023-11-08,10,cc5597,add,JAX,Jacksonville Jaguars,DEF,0
 2023,1028015996520513536,10,waiver,complete,1699460622485,2023-11-08,7,KingTowsk,add,3214,Hunter Henry,TE,0
-2023,1028015996520513536,10,waiver,complete,1699460622485,2023-11-08,7,KingTowsk,drop,6011,Gardner Minshew,QB,
+2023,1028015996520513536,10,waiver,complete,1699460622485,2023-11-08,7,KingTowsk,drop,6011,Gardner Minshew II,QB,
 2023,1028015894301147136,10,waiver,failed,1699460598114,2023-11-08,7,KingTowsk,add,6826,Cole Kmet,TE,0
 2023,1028014946413563904,10,waiver,failed,1699460372120,2023-11-08,7,KingTowsk,add,10955,Chad Ryland,K,0
 2023,1028014874758062080,10,waiver,complete,1699460355036,2023-11-08,7,KingTowsk,add,5095,Daniel Carlson,K,0
@@ -584,18 +584,18 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1028000570117931008,10,waiver,complete,1699456944544,2023-11-08,2,Erjohnson14,add,5001,Dalton Schultz,TE,18
 2023,1028000570117931008,10,waiver,complete,1699456944544,2023-11-08,2,Erjohnson14,drop,8129,Dameon Pierce,RB,
 2023,1032716584600629248,11,trade,complete,1700581330016,2023-11-21,6,JSanDusky69,add,5947,Jakobi Meyers,WR,
-2023,1032716584600629248,11,trade,complete,1700581330016,2023-11-21,6,JSanDusky69,add,8138,James Cook,RB,
+2023,1032716584600629248,11,trade,complete,1700581330016,2023-11-21,6,JSanDusky69,add,8138,James Cook III,RB,
 2023,1032716584600629248,11,trade,complete,1700581330016,2023-11-21,7,KingTowsk,add,9226,De'Von Achane,RB,
 2023,1032716584600629248,11,trade,complete,1700581330016,2023-11-21,7,KingTowsk,drop,5947,Jakobi Meyers,WR,
-2023,1032716584600629248,11,trade,complete,1700581330016,2023-11-21,7,KingTowsk,drop,8138,James Cook,RB,
+2023,1032716584600629248,11,trade,complete,1700581330016,2023-11-21,7,KingTowsk,drop,8138,James Cook III,RB,
 2023,1032716584600629248,11,trade,complete,1700581330016,2023-11-21,6,JSanDusky69,drop,9226,De'Von Achane,RB,
 2023,1032701902519201792,11,trade,complete,1700577829535,2023-11-21,3,MaxSirianni,add,4866,Saquon Barkley,RB,
 2023,1032701902519201792,11,trade,complete,1700577829535,2023-11-21,3,MaxSirianni,add,7523,Trevor Lawrence,QB,
-2023,1032701902519201792,11,trade,complete,1700577829535,2023-11-21,1,bgreenblatt,add,7543,Travis Etienne,RB,
+2023,1032701902519201792,11,trade,complete,1700577829535,2023-11-21,1,bgreenblatt,add,7543,Travis Etienne Jr.,RB,
 2023,1032701902519201792,11,trade,complete,1700577829535,2023-11-21,1,bgreenblatt,add,9999,Will Levis,QB,
 2023,1032701902519201792,11,trade,complete,1700577829535,2023-11-21,1,bgreenblatt,drop,4866,Saquon Barkley,RB,
 2023,1032701902519201792,11,trade,complete,1700577829535,2023-11-21,1,bgreenblatt,drop,7523,Trevor Lawrence,QB,
-2023,1032701902519201792,11,trade,complete,1700577829535,2023-11-21,3,MaxSirianni,drop,7543,Travis Etienne,RB,
+2023,1032701902519201792,11,trade,complete,1700577829535,2023-11-21,3,MaxSirianni,drop,7543,Travis Etienne Jr.,RB,
 2023,1032701902519201792,11,trade,complete,1700577829535,2023-11-21,3,MaxSirianni,drop,9999,Will Levis,QB,
 2023,1032699927207526400,11,waiver,complete,1700577358584,2023-11-21,2,Erjohnson14,add,KC,Kansas City Chiefs,DEF,18
 2023,1032699927207526400,11,waiver,complete,1700577358584,2023-11-21,2,Erjohnson14,drop,7594,Chuba Hubbard,RB,
@@ -606,13 +606,13 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1032418123858706432,11,waiver,complete,1700510171430,2023-11-20,1,bgreenblatt,drop,3969,Leonard Fournette,RB,
 2023,1032405771411079168,11,free_agent,complete,1700507226377,2023-11-20,10,cc5597,drop,6943,Gabe Davis,WR,
 2023,1032189353138941952,11,waiver,complete,1700455628240,2023-11-19,6,JSanDusky69,add,4098,Kareem Hunt,RB,0
-2023,1032189246494609408,11,waiver,complete,1700455602814,2023-11-19,6,JSanDusky69,add,2078,Odell Beckham,WR,0
+2023,1032189246494609408,11,waiver,complete,1700455602814,2023-11-19,6,JSanDusky69,add,2078,Odell Beckham Jr.,WR,0
 2023,1032188098836398080,11,free_agent,complete,1700455329191,2023-11-19,6,JSanDusky69,drop,9228,Bryce Young,QB,
 2023,1032063911836745728,11,free_agent,complete,1700425720703,2023-11-19,6,JSanDusky69,drop,8119,Jahan Dotson,WR,
 2023,1032017648579739648,11,free_agent,complete,1700414690683,2023-11-19,7,KingTowsk,drop,2711,Taylor Heinicke,QB,
 2023,1031980278052438016,11,waiver,complete,1700405780855,2023-11-19,7,KingTowsk,add,8159,Desmond Ridder,QB,0
 2023,1031980278052438016,11,waiver,complete,1700405780855,2023-11-19,7,KingTowsk,drop,10235,Roschon Johnson,RB,
-2023,1031108875271528448,11,waiver,complete,1700198022242,2023-11-16,4,jdrobny,add,7553,Kyle Pitts,TE,0
+2023,1031108875271528448,11,waiver,complete,1700198022242,2023-11-16,4,jdrobny,add,7553,Kyle Pitts Sr.,TE,0
 2023,1031108875271528448,11,waiver,complete,1700198022242,2023-11-16,4,jdrobny,drop,5012,Mark Andrews,TE,
 2023,1030928358441304064,11,free_agent,complete,1700154983676,2023-11-16,9,brockhusk,add,LAC,Los Angeles Chargers,DEF,
 2023,1030928358441304064,11,free_agent,complete,1700154983676,2023-11-16,9,brockhusk,drop,7042,Tyler Bass,K,
@@ -620,7 +620,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1030906723315318784,11,waiver,complete,1700149825460,2023-11-16,8,TylerWicks,drop,4335,P.J. Walker,QB,
 2023,1030573712199876608,11,waiver,complete,1700070429423,2023-11-15,2,Erjohnson14,add,2197,Brandin Cooks,WR,0
 2023,1030571737232015360,11,waiver,complete,1700069958554,2023-11-15,6,JSanDusky69,add,2251,Logan Thomas,TE,0
-2023,1030571737232015360,11,waiver,complete,1700069958554,2023-11-15,6,JSanDusky69,drop,7553,Kyle Pitts,TE,
+2023,1030571737232015360,11,waiver,complete,1700069958554,2023-11-15,6,JSanDusky69,drop,7553,Kyle Pitts Sr.,TE,
 2023,1030569326509637632,11,free_agent,complete,1700069383793,2023-11-15,8,TylerWicks,drop,8676,Rashid Shaheed,WR,
 2023,1030563769006571520,11,trade,complete,1700068058781,2023-11-15,8,TylerWicks,add,2216,Mike Evans,WR,
 2023,1030563769006571520,11,trade,complete,1700068058781,2023-11-15,2,Erjohnson14,add,5859,A.J. Brown,WR,
@@ -681,7 +681,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1033056102423953408,12,waiver,failed,1700662277373,2023-11-22,7,KingTowsk,add,8148,Jameson Williams,WR,0
 2023,1033056059923050496,12,waiver,complete,1700662267240,2023-11-22,7,KingTowsk,add,6421,Jalen Guyton,WR,0
 2023,1033056007506800640,12,waiver,failed,1700662254743,2023-11-22,7,KingTowsk,add,10222,Jayden Reed,WR,0
-2023,1033055452529049600,12,waiver,complete,1700662122426,2023-11-22,7,KingTowsk,add,6011,Gardner Minshew,QB,2
+2023,1033055452529049600,12,waiver,complete,1700662122426,2023-11-22,7,KingTowsk,add,6011,Gardner Minshew II,QB,2
 2023,1033055452529049600,12,waiver,complete,1700662122426,2023-11-22,7,KingTowsk,drop,8159,Desmond Ridder,QB,
 2023,1033054740919234560,12,waiver,failed,1700661952765,2023-11-22,7,KingTowsk,add,KC,Kansas City Chiefs,DEF,0
 2023,1033054692647055360,12,waiver,failed,1700661941256,2023-11-22,7,KingTowsk,add,CIN,Cincinnati Bengals,DEF,0
@@ -703,7 +703,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1037087990323052544,13,free_agent,complete,1701623554357,2023-12-03,9,brockhusk,add,8111,Cade Otton,TE,
 2023,1037087990323052544,13,free_agent,complete,1701623554357,2023-12-03,9,brockhusk,drop,4111,D'Onta Foreman,RB,
 2023,1037070925134548992,13,waiver,complete,1701619485699,2023-12-03,4,jdrobny,add,7568,Brevin Jordan,TE,0
-2023,1037070925134548992,13,waiver,complete,1701619485699,2023-12-03,4,jdrobny,drop,7553,Kyle Pitts,TE,
+2023,1037070925134548992,13,waiver,complete,1701619485699,2023-12-03,4,jdrobny,drop,7553,Kyle Pitts Sr.,TE,
 2023,1037066059544764416,13,waiver,complete,1701618325652,2023-12-03,7,KingTowsk,add,8148,Jameson Williams,WR,0
 2023,1037066059544764416,13,waiver,complete,1701618325652,2023-12-03,7,KingTowsk,drop,96,Aaron Rodgers,QB,
 2023,1036683894554333184,13,waiver,complete,1701527210418,2023-12-02,2,Erjohnson14,add,10222,Jayden Reed,WR,0
@@ -721,7 +721,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1035646292237901824,13,waiver,complete,1701279826748,2023-11-29,7,KingTowsk,drop,4089,Gerald Everett,TE,
 2023,1035585065373421568,13,waiver,complete,1701265229126,2023-11-29,6,JSanDusky69,add,NO,New Orleans Saints,DEF,0
 2023,1035584863090327552,13,free_agent,complete,1701265180898,2023-11-29,6,JSanDusky69,drop,4098,Kareem Hunt,RB,
-2023,1035584640829964288,13,free_agent,complete,1701265127907,2023-11-29,6,JSanDusky69,drop,2078,Odell Beckham,WR,
+2023,1035584640829964288,13,free_agent,complete,1701265127907,2023-11-29,6,JSanDusky69,drop,2078,Odell Beckham Jr.,WR,
 2023,1040510750147637248,14,waiver,failed,1702439603891,2023-12-12,4,jdrobny,add,ATL,Atlanta Falcons,DEF,0
 2023,1040372335594807296,14,waiver,failed,1702406603290,2023-12-12,7,KingTowsk,add,DEN,Denver Broncos,DEF,0
 2023,1040358771916206080,14,waiver,complete,1702403369457,2023-12-12,4,jdrobny,add,CIN,Cincinnati Bengals,DEF,0
@@ -733,7 +733,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1040324599860551680,14,waiver,complete,1702395222204,2023-12-12,6,JSanDusky69,drop,2251,Logan Thomas,TE,
 2023,1040324151711453184,14,free_agent,complete,1702395115357,2023-12-12,2,Erjohnson14,drop,6820,Clyde Edwards-Helaire,RB,
 2023,1040290975567925248,14,free_agent,complete,1702387205548,2023-12-12,4,jdrobny,drop,10866,Aidan O'Connell,QB,
-2023,1040235892738428928,14,waiver,complete,1702374072778,2023-12-12,1,bgreenblatt,add,2078,Odell Beckham,WR,5
+2023,1040235892738428928,14,waiver,complete,1702374072778,2023-12-12,1,bgreenblatt,add,2078,Odell Beckham Jr.,WR,5
 2023,1040235762156916736,14,free_agent,complete,1702374041645,2023-12-12,1,bgreenblatt,drop,5012,Mark Andrews,TE,
 2023,1039677431285780481,14,free_agent,complete,1702240925192,2023-12-10,2,Erjohnson14,add,6820,Clyde Edwards-Helaire,RB,
 2023,1039677351761776640,14,free_agent,complete,1702240906232,2023-12-10,2,Erjohnson14,drop,4381,Taysom Hill,TE,
@@ -761,7 +761,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1042900467686170624,15,waiver,complete,1703009356951,2023-12-19,7,KingTowsk,add,2711,Taylor Heinicke,QB,9
 2023,1042875504501538816,15,free_agent,complete,1703003405264,2023-12-19,7,KingTowsk,drop,8159,Desmond Ridder,QB,
 2023,1042830687683846144,15,waiver,failed,1702992720102,2023-12-19,1,bgreenblatt,add,2711,Taylor Heinicke,QB,5
-2023,1042691892749766656,15,free_agent,complete,1702959628811,2023-12-18,1,bgreenblatt,drop,2078,Odell Beckham,WR,
+2023,1042691892749766656,15,free_agent,complete,1702959628811,2023-12-18,1,bgreenblatt,drop,2078,Odell Beckham Jr.,WR,
 2023,1042345119808757760,15,waiver,complete,1702876951699,2023-12-17,9,brockhusk,add,6820,Clyde Edwards-Helaire,RB,6
 2023,1042345119808757760,15,waiver,complete,1702876951699,2023-12-17,9,brockhusk,drop,9511,Keaton Mitchell,RB,
 2023,1042175612905033728,15,free_agent,complete,1702836538104,2023-12-17,5,kaufmannc,add,5854,Drew Lock,QB,
@@ -770,7 +770,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1041917133720444928,15,waiver,complete,1702774911864,2023-12-16,7,KingTowsk,drop,6943,Gabe Davis,WR,
 2023,1041456088849211392,15,waiver,complete,1702664990201,2023-12-15,1,bgreenblatt,add,6945,Antonio Gibson,RB,0
 2023,1041456088849211392,15,waiver,complete,1702664990201,2023-12-15,1,bgreenblatt,drop,7670,Joshua Palmer,WR,
-2023,1041431730328084480,15,waiver,complete,1702659182677,2023-12-15,10,cc5597,add,7553,Kyle Pitts,TE,0
+2023,1041431730328084480,15,waiver,complete,1702659182677,2023-12-15,10,cc5597,add,7553,Kyle Pitts Sr.,TE,0
 2023,1041405642562424832,15,free_agent,complete,1702652962869,2023-12-15,6,JSanDusky69,drop,LAC,Los Angeles Chargers,DEF,
 2023,1041194770326065152,15,free_agent,complete,1702602687010,2023-12-14,10,cc5597,drop,JAX,Jacksonville Jaguars,DEF,
 2023,1041194208834588672,15,free_agent,complete,1702602553140,2023-12-14,10,cc5597,add,8230,Ty Chandler,RB,
@@ -806,7 +806,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1043225644345147392,16,free_agent,complete,1703086885108,2023-12-20,8,TylerWicks,drop,2307,Marcus Mariota,QB,
 2023,1043221607168163840,16,free_agent,complete,1703085922570,2023-12-20,6,JSanDusky69,drop,NO,New Orleans Saints,DEF,
 2023,1043221206075330560,16,waiver,complete,1703085826942,2023-12-20,6,JSanDusky69,add,515,Rob Gronkowski,TE,0
-2023,1043216004769202176,16,free_agent,complete,1703084586854,2023-12-20,10,cc5597,drop,7553,Kyle Pitts,TE,
+2023,1043216004769202176,16,free_agent,complete,1703084586854,2023-12-20,10,cc5597,drop,7553,Kyle Pitts Sr.,TE,
 2023,1043202853298462720,16,waiver,complete,1703081451299,2023-12-20,1,bgreenblatt,add,CHI,Chicago Bears,DEF,0
 2023,1043202853298462720,16,waiver,complete,1703081451299,2023-12-20,1,bgreenblatt,drop,2161,Jerick McKinnon,RB,
 2023,1047233063039762432,17,free_agent,complete,1704042328179,2023-12-31,1,bgreenblatt,add,9231,Jaren Hall,QB,
@@ -825,7 +825,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2023,1046213476013654016,17,free_agent,complete,1703799239689,2023-12-28,1,bgreenblatt,add,559,Tim Tebow,TE,
 2023,1046213476013654016,17,free_agent,complete,1703799239689,2023-12-28,1,bgreenblatt,drop,CHI,Chicago Bears,DEF,
 2023,1046202820929601536,17,free_agent,complete,1703796699319,2023-12-28,9,brockhusk,drop,3199,Michael Thomas,WR,
-2023,1046202591316623360,17,free_agent,complete,1703796644575,2023-12-28,9,brockhusk,add,7553,Kyle Pitts,TE,
+2023,1046202591316623360,17,free_agent,complete,1703796644575,2023-12-28,9,brockhusk,add,7553,Kyle Pitts Sr.,TE,
 2023,1046202591316623360,17,free_agent,complete,1703796644575,2023-12-28,9,brockhusk,drop,7538,Zach Wilson,QB,
 2023,1046170039348436992,17,free_agent,complete,1703788883581,2023-12-28,1,bgreenblatt,add,827,Tyrod Taylor,QB,
 2023,1046169571163455488,17,free_agent,complete,1703788771957,2023-12-28,1,bgreenblatt,drop,4464,Nick Mullens,QB,

@@ -9,7 +9,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,1,bgreenblatt,Taylor Park Boys,6794,Justin Jefferson,WR,MIN,starter
 2023,1,bgreenblatt,Taylor Park Boys,6813,Jonathan Taylor,RB,IND,starter
 2023,1,bgreenblatt,Taylor Park Boys,6826,Cole Kmet,TE,CHI,bench
-2023,1,bgreenblatt,Taylor Park Boys,7543,Travis Etienne,RB,NO,starter
+2023,1,bgreenblatt,Taylor Park Boys,7543,Travis Etienne Jr.,RB,NO,starter
 2023,1,bgreenblatt,Taylor Park Boys,7569,Nico Collins,WR,HOU,starter
 2023,1,bgreenblatt,Taylor Park Boys,827,Tyrod Taylor,QB,GB,starter
 2023,1,bgreenblatt,Taylor Park Boys,8676,Rashid Shaheed,WR,SEA,bench
@@ -37,7 +37,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,3,MaxSirianni,I hate Joe Burrow,4066,Evan Engram,TE,DEN,starter
 2023,3,MaxSirianni,I hate Joe Burrow,4137,James Conner,RB,ARI,starter
 2023,3,MaxSirianni,I hate Joe Burrow,4866,Saquon Barkley,RB,PHI,starter
-2023,3,MaxSirianni,I hate Joe Burrow,5872,Deebo Samuel,WR,SF,starter
+2023,3,MaxSirianni,I hate Joe Burrow,5872,Deebo Samuel Sr.,WR,SF,starter
 2023,3,MaxSirianni,I hate Joe Burrow,6111,Jake Browning,QB,LAC,bench
 2023,3,MaxSirianni,I hate Joe Burrow,7523,Trevor Lawrence,QB,JAX,starter
 2023,3,MaxSirianni,I hate Joe Burrow,7528,Najee Harris,RB,,bench
@@ -58,7 +58,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,4,jdrobny,B2B,6904,Jalen Hurts,QB,PHI,starter
 2023,4,jdrobny,B2B,8110,Jake Ferguson,TE,DAL,starter
 2023,4,jdrobny,B2B,8136,Rachaad White,RB,WAS,starter
-2023,4,jdrobny,B2B,8151,Kenneth Walker,RB,KC,bench
+2023,4,jdrobny,B2B,8151,Kenneth Walker III,RB,KC,bench
 2023,4,jdrobny,B2B,9493,Puka Nacua,WR,LAR,starter
 2023,4,jdrobny,B2B,9753,Zach Charbonnet,RB,SEA,bench
 2023,4,jdrobny,B2B,CIN,Cincinnati Bengals,DEF,CIN,starter
@@ -77,7 +77,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,5,kaufmannc,London Has Fallen,8112,Drake London,WR,ATL,starter
 2023,5,kaufmannc,London Has Fallen,8137,George Pickens,WR,DAL,bench
 2023,5,kaufmannc,London Has Fallen,8150,Kyren Williams,RB,LAR,starter
-2023,5,kaufmannc,London Has Fallen,8154,Brian Robinson,RB,ATL,bench
+2023,5,kaufmannc,London Has Fallen,8154,Brian Robinson Jr.,RB,ATL,bench
 2023,5,kaufmannc,London Has Fallen,9224,Chase Brown,RB,CIN,bench
 2023,5,kaufmannc,London Has Fallen,CLE,Cleveland Browns,DEF,CLE,starter
 2023,6,JSanDusky69,Tua Girls One Kupp,11292,Tommy DeVito,QB,NE,bench
@@ -92,17 +92,17 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,6,JSanDusky69,Tua Girls One Kupp,5947,Jakobi Meyers,WR,JAX,bench
 2023,6,JSanDusky69,Tua Girls One Kupp,6768,Tua Tagovailoa,QB,ATL,starter
 2023,6,JSanDusky69,Tua Girls One Kupp,6801,Tee Higgins,WR,CIN,starter
-2023,6,JSanDusky69,Tua Girls One Kupp,8138,James Cook,RB,BUF,starter
+2023,6,JSanDusky69,Tua Girls One Kupp,8138,James Cook III,RB,BUF,starter
 2023,6,JSanDusky69,Tua Girls One Kupp,8155,Breece Hall,RB,NYJ,starter
 2023,6,JSanDusky69,Tua Girls One Kupp,DEN,Denver Broncos,DEF,DEN,starter
 2023,7,KingTowsk,Leeroy Jenkins,10222,Jayden Reed,WR,GB,starter
 2023,7,KingTowsk,Leeroy Jenkins,10937,Jake Moody,K,BAL,starter
 2023,7,KingTowsk,Leeroy Jenkins,1466,Travis Kelce,TE,KC,starter
 2023,7,KingTowsk,Leeroy Jenkins,3321,Tyreek Hill,WR,,starter
-2023,7,KingTowsk,Leeroy Jenkins,4199,Aaron Jones,RB,MIN,starter
+2023,7,KingTowsk,Leeroy Jenkins,4199,Aaron Jones Sr.,RB,MIN,starter
 2023,7,KingTowsk,Leeroy Jenkins,4881,Lamar Jackson,QB,BAL,starter
-2023,7,KingTowsk,Leeroy Jenkins,6011,Gardner Minshew,QB,ARI,bench
-2023,7,KingTowsk,Leeroy Jenkins,6819,Michael Pittman,WR,PIT,starter
+2023,7,KingTowsk,Leeroy Jenkins,6011,Gardner Minshew II,QB,ARI,bench
+2023,7,KingTowsk,Leeroy Jenkins,6819,Michael Pittman Jr.,WR,PIT,starter
 2023,7,KingTowsk,Leeroy Jenkins,7526,Jaylen Waddle,WR,DEN,ir
 2023,7,KingTowsk,Leeroy Jenkins,7588,Javonte Williams,RB,DAL,starter
 2023,7,KingTowsk,Leeroy Jenkins,8139,Zamir White,RB,NO,bench
@@ -138,14 +138,14 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,9,brockhusk,Toss My Saleh’d,6820,Clyde Edwards-Helaire,RB,,bench
 2023,9,brockhusk,Toss My Saleh’d,6845,Zack Moss,RB,,bench
 2023,9,brockhusk,Toss My Saleh’d,7547,Amon-Ra St. Brown,WR,DET,starter
-2023,9,brockhusk,Toss My Saleh’d,7553,Kyle Pitts,TE,ATL,starter
+2023,9,brockhusk,Toss My Saleh’d,7553,Kyle Pitts Sr.,TE,ATL,starter
 2023,9,brockhusk,Toss My Saleh’d,7594,Chuba Hubbard,RB,CAR,starter
 2023,9,brockhusk,Toss My Saleh’d,8146,Garrett Wilson,WR,NYJ,starter
 2023,9,brockhusk,Toss My Saleh’d,8205,Isiah Pacheco,RB,DET,starter
 2023,9,brockhusk,Toss My Saleh’d,NYJ,New York Jets,DEF,NYJ,bench
 2023,9,brockhusk,Toss My Saleh’d,PHI,Philadelphia Eagles,DEF,PHI,starter
 2023,10,cc5597,Bill Ninerkingz,2449,Stefon Diggs,WR,WAS,starter
-2023,10,cc5597,Bill Ninerkingz,4037,Chris Godwin,WR,TB,bench
+2023,10,cc5597,Bill Ninerkingz,4037,Chris Godwin Jr.,WR,TB,bench
 2023,10,cc5597,Bill Ninerkingz,4217,George Kittle,TE,SF,starter
 2023,10,cc5597,Bill Ninerkingz,4234,Noah Brown,WR,,bench
 2023,10,cc5597,Bill Ninerkingz,5045,Courtland Sutton,WR,DEN,bench

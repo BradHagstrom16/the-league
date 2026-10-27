@@ -2,7 +2,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1271335508647096320,1,waiver,complete,1757472514834,2025-09-09,2,Erjohnson14,add,12711,Tyler Loop,K,1
 2025,1271335508647096320,1,waiver,complete,1757472514834,2025-09-09,2,Erjohnson14,drop,7839,Evan McPherson,K,
 2025,1271313659297030144,1,waiver,complete,1757467305543,2025-09-09,6,JSanDusky69,add,4144,Jonnu Smith,TE,20
-2025,1271313659297030144,1,waiver,complete,1757467305543,2025-09-09,6,JSanDusky69,drop,12519,Luther Burden,WR,
+2025,1271313659297030144,1,waiver,complete,1757467305543,2025-09-09,6,JSanDusky69,drop,12519,Luther Burden III,WR,
 2025,1271313153468145664,1,waiver,failed,1757467184944,2025-09-09,6,JSanDusky69,add,5848,Marquise Brown,WR,31
 2025,1271305063817555969,1,waiver,failed,1757465256222,2025-09-09,3,MaxSirianni,add,9754,Quentin Johnston,WR,2
 2025,1271303657408700417,1,waiver,complete,1757464920908,2025-09-09,2,Erjohnson14,add,7002,Juwan Johnson,TE,6
@@ -24,7 +24,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1270086503925559296,1,waiver,complete,1757174728904,2025-09-06,8,TylerWicks,drop,11626,Xavier Legette,WR,
 2025,1269827341731770369,1,waiver,complete,1757112939822,2025-09-05,7,KingTowsk,add,12185,Spencer Shrader,K,0
 2025,1269471044159156224,1,free_agent,complete,1757027991860,2025-09-04,2,Erjohnson14,add,12499,Elic Ayomanor,WR,
-2025,1269411903617126400,1,free_agent,complete,1757013891656,2025-09-04,1,bgreenblatt,add,12541,Dont'e Thornton,WR,
+2025,1269411903617126400,1,free_agent,complete,1757013891656,2025-09-04,1,bgreenblatt,add,12541,Dont'e Thornton Jr.,WR,
 2025,1269411903617126400,1,free_agent,complete,1757013891656,2025-09-04,1,bgreenblatt,drop,10444,Cedric Tillman,WR,
 2025,1268725331779407872,1,waiver,complete,1756850200175,2025-09-02,10,cc5597,add,3214,Hunter Henry,TE,0
 2025,1268725331779407872,1,waiver,complete,1756850200175,2025-09-02,10,cc5597,drop,11575,Ray Davis,RB,
@@ -38,9 +38,9 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1254958493673201664,1,free_agent,complete,1753567930194,2025-07-26,1,bgreenblatt,drop,6768,Tua Tagovailoa,QB,
 2025,1254902397159882752,1,trade,complete,1753554555743,2025-07-26,1,bgreenblatt,add,11565,J.J. McCarthy,QB,
 2025,1254902397159882752,1,trade,complete,1753554555743,2025-07-26,10,cc5597,drop,11565,J.J. McCarthy,QB,
-2025,1235319961870663680,1,free_agent,complete,1748885739346,2025-06-02,10,cc5597,drop,7553,Kyle Pitts,TE,
-2025,1207132631242641408,1,commissioner,complete,1742165356029,2025-03-16,11,Jacktaco98,add,8154,Brian Robinson,RB,
-2025,1207132631242641408,1,commissioner,complete,1742165356029,2025-03-16,4,jdrobny,drop,8154,Brian Robinson,RB,
+2025,1235319961870663680,1,free_agent,complete,1748885739346,2025-06-02,10,cc5597,drop,7553,Kyle Pitts Sr.,TE,
+2025,1207132631242641408,1,commissioner,complete,1742165356029,2025-03-16,11,Jacktaco98,add,8154,Brian Robinson Jr.,RB,
+2025,1207132631242641408,1,commissioner,complete,1742165356029,2025-03-16,4,jdrobny,drop,8154,Brian Robinson Jr.,RB,
 2025,1204126333655846912,1,commissioner,complete,1741448598831,2025-03-08,12,akepple9,add,9224,Chase Brown,RB,
 2025,1204126333655846912,1,commissioner,complete,1741448598831,2025-03-08,2,Erjohnson14,drop,9224,Chase Brown,RB,
 2025,1273874844391325696,2,waiver,complete,1758077939655,2025-09-16,1,bgreenblatt,add,6111,Jake Browning,QB,85
@@ -72,7 +72,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1273347122825007104,2,waiver,failed,1757952121028,2025-09-15,6,JSanDusky69,add,6111,Jake Browning,QB,25
 2025,1272987518576390144,2,free_agent,complete,1757866384694,2025-09-14,2,Erjohnson14,add,12499,Elic Ayomanor,WR,
 2025,1272984337087729664,2,waiver,failed,1757865626169,2025-09-14,12,akepple9,add,8210,Chig Okonkwo,TE,0
-2025,1272983713268903936,2,waiver,complete,1757865477439,2025-09-14,12,akepple9,add,12506,Harold Fannin,TE,2
+2025,1272983713268903936,2,waiver,complete,1757865477439,2025-09-14,12,akepple9,add,12506,Harold Fannin Jr.,TE,2
 2025,1272981557010776064,2,waiver,complete,1757864963347,2025-09-14,12,akepple9,add,17,Matt Prater,K,1
 2025,1272979508865011712,2,free_agent,complete,1757864475031,2025-09-14,12,akepple9,drop,4666,Younghoe Koo,K,
 2025,1272948404548308992,2,free_agent,complete,1757857059183,2025-09-14,2,Erjohnson14,drop,12547,Kyle Williams,WR,
@@ -82,12 +82,12 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1271531486918496256,2,waiver,failed,1757519239696,2025-09-10,6,JSanDusky69,add,8121,Romeo Doubs,WR,0
 2025,1271531191685636096,2,waiver,complete,1757519169306,2025-09-10,6,JSanDusky69,add,4098,Kareem Hunt,RB,21
 2025,1271531191685636096,2,waiver,complete,1757519169306,2025-09-10,6,JSanDusky69,drop,7021,Rico Dowdle,RB,
-2025,1271526504064356352,2,waiver,complete,1757518051691,2025-09-10,8,TylerWicks,add,8125,Calvin Austin,WR,15
+2025,1271526504064356352,2,waiver,complete,1757518051691,2025-09-10,8,TylerWicks,add,8125,Calvin Austin III,WR,15
 2025,1271526504064356352,2,waiver,complete,1757518051691,2025-09-10,8,TylerWicks,drop,8143,Jerome Ford,RB,
 2025,1271526067844169728,2,waiver,complete,1757517947688,2025-09-10,4,jdrobny,add,9754,Quentin Johnston,WR,31
 2025,1271526067844169728,2,waiver,complete,1757517947688,2025-09-10,4,jdrobny,drop,7611,Rhamondre Stevenson,RB,
 2025,1271515330857930752,2,waiver,complete,1757515387790,2025-09-10,1,bgreenblatt,add,9504,Kayshon Boutte,WR,10
-2025,1271515330857930752,2,waiver,complete,1757515387790,2025-09-10,1,bgreenblatt,drop,12541,Dont'e Thornton,WR,
+2025,1271515330857930752,2,waiver,complete,1757515387790,2025-09-10,1,bgreenblatt,drop,12541,Dont'e Thornton Jr.,WR,
 2025,1271512101512290304,2,waiver,complete,1757514617854,2025-09-10,7,KingTowsk,add,11589,Trey Benson,RB,0
 2025,1271512101512290304,2,waiver,complete,1757514617854,2025-09-10,7,KingTowsk,drop,12504,Kaleb Johnson,RB,
 2025,1271471419741437952,2,waiver,complete,1757504918565,2025-09-10,4,jdrobny,add,5848,Marquise Brown,WR,31
@@ -105,11 +105,11 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1276371043082047489,3,waiver,failed,1758673079799,2025-09-23,9,brockhusk,add,DET,Detroit Lions,DEF,7
 2025,1276273512541077504,3,waiver,failed,1758649826707,2025-09-23,9,brockhusk,add,12497,Tory Horton,WR,11
 2025,1276271517088378880,3,free_agent,complete,1758649350954,2025-09-23,2,Erjohnson14,drop,7527,Mac Jones,QB,
-2025,1276228805903523840,3,trade,complete,1758639167814,2025-09-23,7,KingTowsk,add,11631,Brian Thomas,WR,
+2025,1276228805903523840,3,trade,complete,1758639167814,2025-09-23,7,KingTowsk,add,11631,Brian Thomas Jr.,WR,
 2025,1276228805903523840,3,trade,complete,1758639167814,2025-09-23,2,Erjohnson14,add,7564,Ja'Marr Chase,WR,
 2025,1276228805903523840,3,trade,complete,1758639167814,2025-09-23,2,Erjohnson14,add,7588,Javonte Williams,RB,
 2025,1276228805903523840,3,trade,complete,1758639167814,2025-09-23,7,KingTowsk,add,9488,Jaxon Smith-Njigba,WR,
-2025,1276228805903523840,3,trade,complete,1758639167814,2025-09-23,2,Erjohnson14,drop,11631,Brian Thomas,WR,
+2025,1276228805903523840,3,trade,complete,1758639167814,2025-09-23,2,Erjohnson14,drop,11631,Brian Thomas Jr.,WR,
 2025,1276228805903523840,3,trade,complete,1758639167814,2025-09-23,7,KingTowsk,drop,7564,Ja'Marr Chase,WR,
 2025,1276228805903523840,3,trade,complete,1758639167814,2025-09-23,7,KingTowsk,drop,7588,Javonte Williams,RB,
 2025,1276228805903523840,3,trade,complete,1758639167814,2025-09-23,2,Erjohnson14,drop,9488,Jaxon Smith-Njigba,WR,
@@ -168,7 +168,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1278733015278702592,4,waiver,complete,1759236217854,2025-09-30,3,MaxSirianni,drop,7611,Rhamondre Stevenson,RB,
 2025,1278731202370486272,4,free_agent,complete,1759235785623,2025-09-30,2,Erjohnson14,drop,3200,Sterling Shepard,WR,
 2025,1278729640185171968,4,waiver,failed,1759235413169,2025-09-30,3,MaxSirianni,add,2505,Darren Waller,TE,5
-2025,1278071106518933505,4,free_agent,complete,1759078406509,2025-09-28,10,cc5597,add,11655,Tyrone Tracy,RB,
+2025,1278071106518933505,4,free_agent,complete,1759078406509,2025-09-28,10,cc5597,add,11655,Tyrone Tracy Jr.,RB,
 2025,1278060422926200832,4,free_agent,complete,1759075859342,2025-09-28,9,brockhusk,add,1433,Brandon McManus,K,
 2025,1278060422926200832,4,free_agent,complete,1759075859342,2025-09-28,9,brockhusk,drop,6528,Joey Slye,K,
 2025,1278033906758590464,4,waiver,failed,1759069537394,2025-09-28,10,cc5597,add,9500,Josh Downs,WR,0
@@ -183,15 +183,15 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1277086276960391168,4,free_agent,complete,1758843604844,2025-09-25,12,akepple9,drop,12536,Jaylin Noel,WR,
 2025,1277085721798115328,4,free_agent,complete,1758843472483,2025-09-25,1,bgreenblatt,add,PIT,Pittsburgh Steelers,DEF,
 2025,1277085721798115328,4,free_agent,complete,1758843472483,2025-09-25,1,bgreenblatt,drop,TB,Tampa Bay Buccaneers,DEF,
-2025,1276990543838060544,4,free_agent,complete,1758820780289,2025-09-25,11,Jacktaco98,add,10219,Chris Rodriguez,RB,
+2025,1276990543838060544,4,free_agent,complete,1758820780289,2025-09-25,11,Jacktaco98,add,10219,Chris Rodriguez Jr.,RB,
 2025,1276988771409084416,4,free_agent,complete,1758820357709,2025-09-25,11,Jacktaco98,drop,7528,Najee Harris,RB,
 2025,1276665860303392768,4,waiver,complete,1758743369702,2025-09-24,1,bgreenblatt,add,12493,Oronde Gadsden,TE,0
-2025,1276665860303392768,4,waiver,complete,1758743369702,2025-09-24,1,bgreenblatt,drop,11655,Tyrone Tracy,RB,
+2025,1276665860303392768,4,waiver,complete,1758743369702,2025-09-24,1,bgreenblatt,drop,11655,Tyrone Tracy Jr.,RB,
 2025,1276570648340107264,4,waiver,failed,1758720669402,2025-09-24,2,Erjohnson14,add,7021,Rico Dowdle,RB,1
 2025,1276570567197077504,4,waiver,complete,1758720650055,2025-09-24,10,cc5597,add,10213,Tre Tucker,WR,22
 2025,1276570567197077504,4,waiver,complete,1758720650055,2025-09-24,10,cc5597,drop,9500,Josh Downs,WR,
 2025,1276570562126168064,4,waiver,failed,1758720648846,2025-09-24,2,Erjohnson14,add,11586,Blake Corum,RB,4
-2025,1276570438159339520,4,waiver,failed,1758720619290,2025-09-24,10,cc5597,add,12519,Luther Burden,WR,11
+2025,1276570438159339520,4,waiver,failed,1758720619290,2025-09-24,10,cc5597,add,12519,Luther Burden III,WR,11
 2025,1276542495756419072,4,waiver,failed,1758713957303,2025-09-24,5,charliekaufmann,add,10213,Tre Tucker,WR,15
 2025,1276542162745425920,4,waiver,complete,1758713877906,2025-09-24,5,charliekaufmann,add,DET,Detroit Lions,DEF,8
 2025,1276542101441490944,4,waiver,failed,1758713863290,2025-09-24,5,charliekaufmann,add,NE,New England Patriots,DEF,7
@@ -311,9 +311,9 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1282029107839778816,6,waiver,complete,1760022067560,2025-10-09,9,brockhusk,drop,11199,Emari Demercado,RB,
 2025,1281982468630511616,6,waiver,complete,1760010947906,2025-10-09,4,jdrobny,add,8698,Jake Tonges,TE,6
 2025,1281982468630511616,6,waiver,complete,1760010947906,2025-10-09,4,jdrobny,drop,5001,Dalton Schultz,TE,
-2025,1281766689335148544,6,free_agent,complete,1759959502112,2025-10-08,10,cc5597,drop,11655,Tyrone Tracy,RB,
+2025,1281766689335148544,6,free_agent,complete,1759959502112,2025-10-08,10,cc5597,drop,11655,Tyrone Tracy Jr.,RB,
 2025,1281735729017294848,6,waiver,complete,1759952120598,2025-10-08,3,MaxSirianni,add,DET,Detroit Lions,DEF,1
-2025,1281735729017294848,6,waiver,complete,1759952120598,2025-10-08,3,MaxSirianni,drop,12495,Ollie Gordon,RB,
+2025,1281735729017294848,6,waiver,complete,1759952120598,2025-10-08,3,MaxSirianni,drop,12495,Ollie Gordon II,RB,
 2025,1281690236941762560,6,waiver,complete,1759941274442,2025-10-08,7,KingTowsk,add,6528,Joey Slye,K,0
 2025,1281690236941762560,6,waiver,complete,1759941274442,2025-10-08,7,KingTowsk,drop,6149,Darius Slayton,WR,
 2025,1281660373736378368,6,waiver,complete,1759934154499,2025-10-08,7,KingTowsk,add,8123,Hassan Haskins,RB,0
@@ -328,7 +328,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1286495505035071488,7,waiver,failed,1761086939632,2025-10-21,7,KingTowsk,add,ATL,Atlanta Falcons,DEF,0
 2025,1286495437926195200,7,waiver,complete,1761086923633,2025-10-21,7,KingTowsk,add,CIN,Cincinnati Bengals,DEF,0
 2025,1286495437926195200,7,waiver,complete,1761086923633,2025-10-21,7,KingTowsk,drop,GB,Green Bay Packers,DEF,
-2025,1286494762081226752,7,free_agent,complete,1761086762498,2025-10-21,7,KingTowsk,drop,12519,Luther Burden,WR,
+2025,1286494762081226752,7,free_agent,complete,1761086762498,2025-10-21,7,KingTowsk,drop,12519,Luther Burden III,WR,
 2025,1286494578970497024,7,waiver,complete,1761086718842,2025-10-21,7,KingTowsk,add,11627,Troy Franklin,WR,1
 2025,1286494509852545024,7,waiver,failed,1761086702362,2025-10-21,7,KingTowsk,add,8142,Alec Pierce,WR,0
 2025,1286494420031537152,7,free_agent,complete,1761086680947,2025-10-21,7,KingTowsk,drop,4033,David Njoku,TE,
@@ -372,7 +372,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1285365717025193984,7,waiver,failed,1760817577181,2025-10-18,12,akepple9,add,4144,Jonnu Smith,TE,0
 2025,1285335657450860544,7,waiver,complete,1760810410420,2025-10-18,6,JSanDusky69,add,3161,Carson Wentz,QB,2
 2025,1285335657450860544,7,waiver,complete,1760810410420,2025-10-18,6,JSanDusky69,drop,3257,Jacoby Brissett,QB,
-2025,1284967096207282176,7,waiver,complete,1760722538572,2025-10-17,12,akepple9,add,12541,Dont'e Thornton,WR,0
+2025,1284967096207282176,7,waiver,complete,1760722538572,2025-10-17,12,akepple9,add,12541,Dont'e Thornton Jr.,WR,0
 2025,1284967096207282176,7,waiver,complete,1760722538572,2025-10-17,12,akepple9,drop,17,Matt Prater,K,
 2025,1284945881463799808,7,waiver,failed,1760717480583,2025-10-17,6,JSanDusky69,add,7527,Mac Jones,QB,0
 2025,1284944966245715968,7,waiver,failed,1760717262377,2025-10-17,6,JSanDusky69,add,3161,Carson Wentz,QB,0
@@ -380,7 +380,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1284944820195856384,7,waiver,complete,1760717227556,2025-10-17,6,JSanDusky69,drop,12486,Dillon Gabriel,QB,
 2025,1284678593602949120,7,free_agent,complete,1760653754190,2025-10-16,1,bgreenblatt,add,12534,Kyle Monangai,RB,
 2025,1284678593602949120,7,free_agent,complete,1760653754190,2025-10-16,1,bgreenblatt,drop,12498,Mason Taylor,TE,
-2025,1284675325812305920,7,free_agent,complete,1760652975089,2025-10-16,7,KingTowsk,add,12519,Luther Burden,WR,
+2025,1284675325812305920,7,free_agent,complete,1760652975089,2025-10-16,7,KingTowsk,add,12519,Luther Burden III,WR,
 2025,1284675325812305920,7,free_agent,complete,1760652975089,2025-10-16,7,KingTowsk,drop,12457,Jaydon Blue,RB,
 2025,1284670500643024896,7,free_agent,complete,1760651824678,2025-10-16,2,Erjohnson14,add,12485,Tez Johnson,WR,
 2025,1284670500643024896,7,free_agent,complete,1760651824678,2025-10-16,2,Erjohnson14,drop,8122,Zonovan Knight,RB,
@@ -395,20 +395,20 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1284259470913859584,7,waiver,complete,1760553827554,2025-10-15,7,KingTowsk,add,8111,Cade Otton,TE,2
 2025,1284259470913859584,7,waiver,complete,1760553827554,2025-10-15,7,KingTowsk,drop,12497,Tory Horton,WR,
 2025,1284197737310453760,7,waiver,complete,1760539109116,2025-10-15,8,TylerWicks,add,9504,Kayshon Boutte,WR,12
-2025,1284197737310453760,7,waiver,complete,1760539109116,2025-10-15,8,TylerWicks,drop,8125,Calvin Austin,WR,
+2025,1284197737310453760,7,waiver,complete,1760539109116,2025-10-15,8,TylerWicks,drop,8125,Calvin Austin III,WR,
 2025,1284196749644144640,7,waiver,complete,1760538873639,2025-10-15,8,TylerWicks,add,HOU,Houston Texans,DEF,5
 2025,1284187882755489792,7,waiver,complete,1760536759608,2025-10-15,1,bgreenblatt,add,12498,Mason Taylor,TE,0
 2025,1284187882755489792,7,waiver,complete,1760536759608,2025-10-15,1,bgreenblatt,drop,12490,Bhayshul Tuten,RB,
 2025,1284160090126970880,7,waiver,complete,1760530133328,2025-10-15,9,brockhusk,add,9482,Michael Mayer,TE,7
 2025,1284160090126970880,7,waiver,complete,1760530133328,2025-10-15,9,brockhusk,drop,8188,Tyquan Thornton,WR,
 2025,1289097043305832448,8,waiver,complete,1761707194690,2025-10-28,11,Jacktaco98,add,4147,Samaje Perine,RB,9
-2025,1289097043305832448,8,waiver,complete,1761707194690,2025-10-28,11,Jacktaco98,drop,8154,Brian Robinson,RB,
+2025,1289097043305832448,8,waiver,complete,1761707194690,2025-10-28,11,Jacktaco98,drop,8154,Brian Robinson Jr.,RB,
 2025,1289096799633575936,8,waiver,complete,1761707136594,2025-10-28,11,Jacktaco98,add,12540,Chimere Dike,WR,9
 2025,1289096799633575936,8,waiver,complete,1761707136594,2025-10-28,11,Jacktaco98,drop,7571,Rashod Bateman,WR,
 2025,1289076509608251392,8,waiver,failed,1761702299075,2025-10-28,2,Erjohnson14,add,JAX,Jacksonville Jaguars,DEF,1
 2025,1289076487785312257,8,waiver,failed,1761702293873,2025-10-28,2,Erjohnson14,add,LAC,Los Angeles Chargers,DEF,5
 2025,1289018198032666624,8,waiver,failed,1761688396513,2025-10-28,4,jdrobny,add,4098,Kareem Hunt,RB,0
-2025,1289018069628235776,8,waiver,failed,1761688365899,2025-10-28,4,jdrobny,add,11655,Tyrone Tracy,RB,57
+2025,1289018069628235776,8,waiver,failed,1761688365899,2025-10-28,4,jdrobny,add,11655,Tyrone Tracy Jr.,RB,57
 2025,1289012179034464256,8,free_agent,complete,1761686961472,2025-10-28,4,jdrobny,drop,NYJ,New York Jets,DEF,
 2025,1289012028425396224,8,free_agent,complete,1761686925563,2025-10-28,4,jdrobny,drop,2216,Mike Evans,WR,
 2025,1289008506359267328,8,free_agent,complete,1761686085837,2025-10-28,12,akepple9,drop,4171,Josh Reynolds,WR,
@@ -426,7 +426,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1288963785641439244,8,waiver,complete,1761675423587,2025-10-28,6,JSanDusky69,add,1373,Geno Smith,QB,1
 2025,1288963785641439244,8,waiver,complete,1761675423587,2025-10-28,6,JSanDusky69,drop,8142,Alec Pierce,WR,
 2025,1288950827557359616,8,waiver,complete,1761672334140,2025-10-28,2,Erjohnson14,add,DET,Detroit Lions,DEF,5
-2025,1288939235646144512,8,waiver,complete,1761669570412,2025-10-28,10,cc5597,add,11655,Tyrone Tracy,RB,76
+2025,1288939235646144512,8,waiver,complete,1761669570412,2025-10-28,10,cc5597,add,11655,Tyrone Tracy Jr.,RB,76
 2025,1288939235646144512,8,waiver,complete,1761669570412,2025-10-28,10,cc5597,drop,4454,Kendrick Bourne,WR,
 2025,1288938695449145344,8,waiver,complete,1761669441619,2025-10-28,10,cc5597,add,12545,Tyler Shough,QB,11
 2025,1288938695449145344,8,waiver,complete,1761669441619,2025-10-28,10,cc5597,drop,6783,Jerry Jeudy,WR,
@@ -435,9 +435,9 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1288901259499155456,8,waiver,complete,1761660516194,2025-10-28,6,JSanDusky69,add,LAC,Los Angeles Chargers,DEF,1
 2025,1288901213051437056,8,waiver,failed,1761660505120,2025-10-28,6,JSanDusky69,add,LAR,Los Angeles Rams,DEF,2
 2025,1288900810733809664,8,free_agent,complete,1761660409199,2025-10-28,6,JSanDusky69,drop,3161,Carson Wentz,QB,
-2025,1288898416134332416,8,waiver,failed,1761659838282,2025-10-28,7,KingTowsk,add,11655,Tyrone Tracy,RB,16
+2025,1288898416134332416,8,waiver,failed,1761659838282,2025-10-28,7,KingTowsk,add,11655,Tyrone Tracy Jr.,RB,16
 2025,1288898258843738112,8,waiver,complete,1761659800782,2025-10-28,7,KingTowsk,add,11435,Emanuel Wilson,RB,0
-2025,1288898058397966336,8,waiver,failed,1761659752991,2025-10-28,1,bgreenblatt,add,11655,Tyrone Tracy,RB,30
+2025,1288898058397966336,8,waiver,failed,1761659752991,2025-10-28,1,bgreenblatt,add,11655,Tyrone Tracy Jr.,RB,30
 2025,1288898055348699136,8,free_agent,complete,1761659752265,2025-10-28,7,KingTowsk,drop,8111,Cade Otton,TE,
 2025,1288890556356771840,8,waiver,complete,1761657964366,2025-10-28,3,MaxSirianni,add,2747,Jason Myers,K,1
 2025,1288890556356771840,8,waiver,complete,1761657964366,2025-10-28,3,MaxSirianni,drop,827,Tyrod Taylor,QB,
@@ -445,8 +445,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1288874235841769472,8,waiver,failed,1761654073252,2025-10-28,5,charliekaufmann,add,DET,Detroit Lions,DEF,0
 2025,1288874193944842240,8,waiver,complete,1761654063263,2025-10-28,5,charliekaufmann,add,LAR,Los Angeles Rams,DEF,5
 2025,1288874193944842240,8,waiver,complete,1761654063263,2025-10-28,5,charliekaufmann,drop,TB,Tampa Bay Buccaneers,DEF,
-2025,1288660919907274752,8,waiver,failed,1761603214769,2025-10-27,6,JSanDusky69,add,11655,Tyrone Tracy,RB,3
-2025,1288611445545668608,8,waiver,failed,1761591419162,2025-10-27,5,charliekaufmann,add,11655,Tyrone Tracy,RB,18
+2025,1288660919907274752,8,waiver,failed,1761603214769,2025-10-27,6,JSanDusky69,add,11655,Tyrone Tracy Jr.,RB,3
+2025,1288611445545668608,8,waiver,failed,1761591419162,2025-10-27,5,charliekaufmann,add,11655,Tyrone Tracy Jr.,RB,18
 2025,1288577106850091008,8,free_agent,complete,1761583232179,2025-10-27,6,JSanDusky69,add,8122,Zonovan Knight,RB,
 2025,1288377842467373056,8,free_agent,complete,1761535723848,2025-10-26,7,KingTowsk,drop,11626,Xavier Legette,WR,
 2025,1288286180382609408,8,trade,complete,1761513869904,2025-10-26,6,JSanDusky69,add,11560,Caleb Williams,QB,
@@ -456,8 +456,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1288286180382609408,8,trade,complete,1761513869904,2025-10-26,6,JSanDusky69,drop,11604,Brock Bowers,TE,
 2025,1288286180382609408,8,trade,complete,1761513869904,2025-10-26,6,JSanDusky69,drop,8148,Jameson Williams,WR,
 2025,1288174811872243712,8,free_agent,complete,1761487317583,2025-10-26,8,TylerWicks,drop,3451,Ka'imi Fairbairn,K,
-2025,1288168032744525824,8,waiver,failed,1761485701313,2025-10-26,11,Jacktaco98,add,8125,Calvin Austin,WR,0
-2025,1288167950703931392,8,waiver,complete,1761485681753,2025-10-26,11,Jacktaco98,add,8125,Calvin Austin,WR,0
+2025,1288168032744525824,8,waiver,failed,1761485701313,2025-10-26,11,Jacktaco98,add,8125,Calvin Austin III,WR,0
+2025,1288167950703931392,8,waiver,complete,1761485681753,2025-10-26,11,Jacktaco98,add,8125,Calvin Austin III,WR,0
 2025,1287811871197372416,8,waiver,complete,1761400785782,2025-10-25,1,bgreenblatt,add,1166,Kirk Cousins,QB,0
 2025,1287811871197372416,8,waiver,complete,1761400785782,2025-10-25,1,bgreenblatt,drop,12498,Mason Taylor,TE,
 2025,1287485139483377664,8,waiver,complete,1761322886872,2025-10-24,6,JSanDusky69,add,7591,Justin Fields,QB,1
@@ -465,9 +465,9 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1287448632357814272,8,waiver,complete,1761314182894,2025-10-24,6,JSanDusky69,add,12489,RJ Harvey,RB,1
 2025,1287448632357814272,8,waiver,complete,1761314182894,2025-10-24,6,JSanDusky69,drop,8132,Tyler Allgeier,RB,
 2025,1287447083342647296,8,waiver,complete,1761313813580,2025-10-24,11,Jacktaco98,add,11610,Malik Washington,WR,1
-2025,1287446898982019072,8,free_agent,complete,1761313769625,2025-10-24,11,Jacktaco98,drop,10219,Chris Rodriguez,RB,
+2025,1287446898982019072,8,free_agent,complete,1761313769625,2025-10-24,11,Jacktaco98,drop,10219,Chris Rodriguez Jr.,RB,
 2025,1287248423476555776,8,free_agent,complete,1761266449378,2025-10-23,12,akepple9,add,4171,Josh Reynolds,WR,
-2025,1287248423476555776,8,free_agent,complete,1761266449378,2025-10-23,12,akepple9,drop,12541,Dont'e Thornton,WR,
+2025,1287248423476555776,8,free_agent,complete,1761266449378,2025-10-23,12,akepple9,drop,12541,Dont'e Thornton Jr.,WR,
 2025,1287233170059558912,8,free_agent,complete,1761262812679,2025-10-23,7,KingTowsk,add,11571,Isaiah Davis,RB,
 2025,1287233170059558912,8,free_agent,complete,1761262812679,2025-10-23,7,KingTowsk,drop,12489,RJ Harvey,RB,
 2025,1287230000138817536,8,free_agent,complete,1761262056912,2025-10-23,11,Jacktaco98,add,SF,San Francisco 49ers,DEF,
@@ -534,7 +534,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1290205408090165248,9,waiver,complete,1761971449447,2025-10-31,11,Jacktaco98,add,4177,Mack Hollins,WR,1
 2025,1290047810342764544,9,waiver,complete,1761933875216,2025-10-31,4,jdrobny,add,LV,Las Vegas Raiders,DEF,0
 2025,1290047720735645696,9,waiver,complete,1761933853852,2025-10-31,4,jdrobny,add,12412,Terrell Jennings,RB,0
-2025,1289819794727501824,9,free_agent,complete,1761879512057,2025-10-30,11,Jacktaco98,drop,8125,Calvin Austin,WR,
+2025,1289819794727501824,9,free_agent,complete,1761879512057,2025-10-30,11,Jacktaco98,drop,8125,Calvin Austin III,WR,
 2025,1289779867608416256,9,free_agent,complete,1761869992691,2025-10-30,12,akepple9,add,CHI,Chicago Bears,DEF,
 2025,1289779867608416256,9,free_agent,complete,1761869992691,2025-10-30,12,akepple9,drop,BAL,Baltimore Ravens,DEF,
 2025,1289655658739687424,9,trade,complete,1761840378988,2025-10-30,5,charliekaufmann,add,GB,Green Bay Packers,DEF,
@@ -620,7 +620,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1291820426602762240,10,free_agent,complete,1762356499866,2025-11-05,8,TylerWicks,drop,BUF,Buffalo Bills,DEF,
 2025,1291814726661083136,10,waiver,complete,1762355140895,2025-11-05,8,TylerWicks,add,8142,Alec Pierce,WR,18
 2025,1291814569362083840,10,waiver,failed,1762355103391,2025-11-05,8,TylerWicks,add,11565,J.J. McCarthy,QB,45
-2025,1291814480065335296,10,free_agent,complete,1762355082101,2025-11-05,8,TylerWicks,drop,9494,Marvin Mims,WR,
+2025,1291814480065335296,10,free_agent,complete,1762355082101,2025-11-05,8,TylerWicks,drop,9494,Marvin Mims Jr.,WR,
 2025,1291775255634788352,10,waiver,failed,1762345730269,2025-11-05,5,charliekaufmann,add,CAR,Carolina Panthers,DEF,0
 2025,1291774822069567488,10,waiver,failed,1762345626898,2025-11-05,5,charliekaufmann,add,9481,Luke Musgrave,TE,0
 2025,1291774569593475072,10,waiver,complete,1762345566704,2025-11-05,5,charliekaufmann,add,12517,Colston Loveland,TE,9
@@ -645,7 +645,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1296562903431798784,11,waiver,failed,1763487194454,2025-11-18,7,KingTowsk,add,11435,Emanuel Wilson,RB,0
 2025,1296485573262868480,11,waiver,failed,1763468757504,2025-11-18,3,MaxSirianni,add,11435,Emanuel Wilson,RB,7
 2025,1296485518682357760,11,waiver,failed,1763468744491,2025-11-18,3,MaxSirianni,add,1166,Kirk Cousins,QB,21
-2025,1296357264151576576,11,waiver,failed,1763438166229,2025-11-17,1,bgreenblatt,add,10219,Chris Rodriguez,RB,0
+2025,1296357264151576576,11,waiver,failed,1763438166229,2025-11-17,1,bgreenblatt,add,10219,Chris Rodriguez Jr.,RB,0
 2025,1296357205095780352,11,waiver,complete,1763438152148,2025-11-17,12,akepple9,add,11786,Cam Little,K,11
 2025,1296357205095780352,11,waiver,complete,1763438152148,2025-11-17,12,akepple9,drop,11597,Theo Johnson,TE,
 2025,1296356491107786752,11,waiver,complete,1763437981921,2025-11-17,12,akepple9,add,PHI,Philadelphia Eagles,DEF,0
@@ -654,7 +654,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1296264960397041664,11,waiver,complete,1763416159299,2025-11-17,1,bgreenblatt,drop,5844,T.J. Hockenson,TE,
 2025,1296264792608104448,11,waiver,failed,1763416119295,2025-11-17,1,bgreenblatt,add,12484,Jayden Higgins,WR,0
 2025,1296264693513469952,11,waiver,failed,1763416095669,2025-11-17,1,bgreenblatt,add,11435,Emanuel Wilson,RB,0
-2025,1295968608953856000,11,waiver,complete,1763345503609,2025-11-16,1,bgreenblatt,add,12519,Luther Burden,WR,0
+2025,1295968608953856000,11,waiver,complete,1763345503609,2025-11-16,1,bgreenblatt,add,12519,Luther Burden III,WR,0
 2025,1295968608953856000,11,waiver,complete,1763345503609,2025-11-16,1,bgreenblatt,drop,4981,Calvin Ridley,WR,
 2025,1295925088083771392,11,waiver,failed,1763335127424,2025-11-16,1,bgreenblatt,add,CLE,Cleveland Browns,DEF,0
 2025,1295901692834910208,11,waiver,failed,1763329549563,2025-11-16,1,bgreenblatt,add,7090,Darnell Mooney,WR,0
@@ -673,7 +673,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1295537008969535488,11,free_agent,complete,1763242602153,2025-11-15,4,jdrobny,drop,6806,J.K. Dobbins,RB,
 2025,1295112090767331328,11,waiver,complete,1763141293760,2025-11-14,5,charliekaufmann,add,4227,Harrison Butker,K,0
 2025,1295112090767331328,11,waiver,complete,1763141293760,2025-11-14,5,charliekaufmann,drop,3678,Wil Lutz,K,
-2025,1295094235745255424,11,waiver,complete,1763137036791,2025-11-14,6,JSanDusky69,add,8125,Calvin Austin,WR,0
+2025,1295094235745255424,11,waiver,complete,1763137036791,2025-11-14,6,JSanDusky69,add,8125,Calvin Austin III,WR,0
 2025,1295094235745255424,11,waiver,complete,1763137036791,2025-11-14,6,JSanDusky69,drop,5095,Daniel Carlson,K,
 2025,1294849739212218368,11,free_agent,complete,1763078744274,2025-11-13,11,Jacktaco98,add,8180,Jalen Nailor,WR,
 2025,1294796950918430720,11,waiver,complete,1763066158565,2025-11-13,7,KingTowsk,add,2747,Jason Myers,K,0
@@ -707,20 +707,20 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1299075769770704896,12,waiver,complete,1764086308476,2025-11-25,7,KingTowsk,add,827,Tyrod Taylor,QB,0
 2025,1299075769770704896,12,waiver,complete,1764086308476,2025-11-25,7,KingTowsk,drop,10226,Andrei Iosivas,WR,
 2025,1299075325480701952,12,waiver,failed,1764086202548,2025-11-25,7,KingTowsk,add,12476,Devin Neal,RB,0
-2025,1299075129736699904,12,waiver,complete,1764086155880,2025-11-25,7,KingTowsk,add,8147,John Metchie,WR,0
+2025,1299075129736699904,12,waiver,complete,1764086155880,2025-11-25,7,KingTowsk,add,8147,John Metchie III,WR,0
 2025,1299075092986212352,12,waiver,failed,1764086147118,2025-11-25,7,KingTowsk,add,9480,Brenton Strange,TE,0
 2025,1299074987981824000,12,free_agent,complete,1764086122082,2025-11-25,7,KingTowsk,drop,4972,Mason Rudolph,QB,
-2025,1299074941563449344,12,free_agent,complete,1764086111015,2025-11-25,7,KingTowsk,drop,8154,Brian Robinson,RB,
+2025,1299074941563449344,12,free_agent,complete,1764086111015,2025-11-25,7,KingTowsk,drop,8154,Brian Robinson Jr.,RB,
 2025,1299074746905817088,12,waiver,failed,1764086064605,2025-11-25,7,KingTowsk,add,NO,New Orleans Saints,DEF,0
 2025,1299074687816441856,12,waiver,failed,1764086050517,2025-11-25,7,KingTowsk,add,MIA,Miami Dolphins,DEF,0
 2025,1299074623450656768,12,waiver,complete,1764086035171,2025-11-25,7,KingTowsk,add,TB,Tampa Bay Buccaneers,DEF,0
 2025,1299074623450656768,12,waiver,complete,1764086035171,2025-11-25,7,KingTowsk,drop,BAL,Baltimore Ravens,DEF,
 2025,1299074599450857472,12,waiver,failed,1764086029449,2025-11-25,7,KingTowsk,add,LAC,Los Angeles Chargers,DEF,0
 2025,1299068929502638080,12,free_agent,complete,1764084677628,2025-11-25,8,TylerWicks,drop,12545,Tyler Shough,QB,
-2025,1298890727257800704,12,waiver,complete,1764042190902,2025-11-24,1,bgreenblatt,add,10219,Chris Rodriguez,RB,0
+2025,1298890727257800704,12,waiver,complete,1764042190902,2025-11-24,1,bgreenblatt,add,10219,Chris Rodriguez Jr.,RB,0
 2025,1298890727257800704,12,waiver,complete,1764042190902,2025-11-24,1,bgreenblatt,drop,GB,Green Bay Packers,DEF,
 2025,1298890660673249280,12,waiver,failed,1764042175027,2025-11-24,1,bgreenblatt,add,12476,Devin Neal,RB,0
-2025,1298537957883392000,12,free_agent,complete,1763958084129,2025-11-23,7,KingTowsk,add,8154,Brian Robinson,RB,
+2025,1298537957883392000,12,free_agent,complete,1763958084129,2025-11-23,7,KingTowsk,add,8154,Brian Robinson Jr.,RB,
 2025,1298537957883392000,12,free_agent,complete,1763958084129,2025-11-23,7,KingTowsk,drop,11586,Blake Corum,RB,
 2025,1298448347069173760,12,waiver,complete,1763936719246,2025-11-23,11,Jacktaco98,add,8146,Garrett Wilson,WR,7
 2025,1298448347069173760,12,waiver,complete,1763936719246,2025-11-23,11,Jacktaco98,drop,4177,Mack Hollins,WR,
@@ -731,14 +731,14 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1298362785670909952,12,waiver,complete,1763916319819,2025-11-23,7,KingTowsk,add,11571,Isaiah Davis,RB,0
 2025,1298362785670909952,12,waiver,complete,1763916319819,2025-11-23,7,KingTowsk,drop,11199,Emari Demercado,RB,
 2025,1298341833952202752,12,waiver,complete,1763911324540,2025-11-23,4,jdrobny,add,2306,Jameis Winston,QB,1
-2025,1298341314647064576,12,free_agent,complete,1763911200728,2025-11-23,4,jdrobny,drop,11559,Michael Penix,QB,
+2025,1298341314647064576,12,free_agent,complete,1763911200728,2025-11-23,4,jdrobny,drop,11559,Michael Penix Jr.,QB,
 2025,1298341262847414272,12,free_agent,complete,1763911188378,2025-11-23,4,jdrobny,drop,8146,Garrett Wilson,WR,
 2025,1298341176608292864,12,free_agent,complete,1763911167817,2025-11-23,4,jdrobny,drop,1433,Brandon McManus,K,
 2025,1298178219593179136,12,waiver,failed,1763872315837,2025-11-22,1,bgreenblatt,add,LAC,Los Angeles Chargers,DEF,0
 2025,1298178009634734080,12,waiver,complete,1763872265779,2025-11-22,1,bgreenblatt,add,LAR,Los Angeles Rams,DEF,0
 2025,1298178009634734080,12,waiver,complete,1763872265779,2025-11-22,1,bgreenblatt,drop,TB,Tampa Bay Buccaneers,DEF,
 2025,1297654151513128960,12,waiver,complete,1763747368271,2025-11-21,6,JSanDusky69,add,9504,Kayshon Boutte,WR,1
-2025,1297654151513128960,12,waiver,complete,1763747368271,2025-11-21,6,JSanDusky69,drop,10219,Chris Rodriguez,RB,
+2025,1297654151513128960,12,waiver,complete,1763747368271,2025-11-21,6,JSanDusky69,drop,10219,Chris Rodriguez Jr.,RB,
 2025,1297654089240309760,12,waiver,failed,1763747353424,2025-11-21,6,JSanDusky69,add,8111,Cade Otton,TE,0
 2025,1297416566794616832,12,waiver,complete,1763690723660,2025-11-20,11,Jacktaco98,add,8122,Zonovan Knight,RB,6
 2025,1297369509992095744,12,waiver,complete,1763679504444,2025-11-20,1,bgreenblatt,add,GB,Green Bay Packers,DEF,0
@@ -752,7 +752,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1297271444035637248,12,waiver,complete,1763656123698,2025-11-20,7,KingTowsk,add,10226,Andrei Iosivas,WR,0
 2025,1297271444035637248,12,waiver,complete,1763656123698,2025-11-20,7,KingTowsk,drop,12533,Jacory Croskey-Merritt,RB,
 2025,1296937608890318848,12,free_agent,complete,1763576531197,2025-11-19,3,MaxSirianni,drop,9481,Luke Musgrave,TE,
-2025,1296931731378569216,12,waiver,complete,1763575129889,2025-11-19,6,JSanDusky69,add,10219,Chris Rodriguez,RB,0
+2025,1296931731378569216,12,waiver,complete,1763575129889,2025-11-19,6,JSanDusky69,add,10219,Chris Rodriguez Jr.,RB,0
 2025,1296927540438376448,12,waiver,complete,1763574130691,2025-11-19,1,bgreenblatt,add,NO,New Orleans Saints,DEF,0
 2025,1296927540438376448,12,waiver,complete,1763574130691,2025-11-19,1,bgreenblatt,drop,KC,Kansas City Chiefs,DEF,
 2025,1296922167019057152,12,waiver,complete,1763572849568,2025-11-19,6,JSanDusky69,add,12524,Shedeur Sanders,QB,0
@@ -768,7 +768,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1296913855074541568,12,waiver,failed,1763570867845,2025-11-19,6,JSanDusky69,add,CLE,Cleveland Browns,DEF,0
 2025,1296913804617064448,12,waiver,failed,1763570855815,2025-11-19,6,JSanDusky69,add,11786,Cam Little,K,2
 2025,1296913627038613504,12,waiver,complete,1763570813478,2025-11-19,6,JSanDusky69,add,JAX,Jacksonville Jaguars,DEF,3
-2025,1296913457089626112,12,free_agent,complete,1763570772958,2025-11-19,6,JSanDusky69,drop,8125,Calvin Austin,WR,
+2025,1296913457089626112,12,free_agent,complete,1763570772958,2025-11-19,6,JSanDusky69,drop,8125,Calvin Austin III,WR,
 2025,1296910829827948544,12,waiver,failed,1763570146571,2025-11-19,11,Jacktaco98,add,11435,Emanuel Wilson,RB,16
 2025,1296910122022338560,12,waiver,complete,1763569977816,2025-11-19,9,brockhusk,add,LV,Las Vegas Raiders,DEF,5
 2025,1296910122022338560,12,waiver,complete,1763569977816,2025-11-19,9,brockhusk,drop,PIT,Pittsburgh Steelers,DEF,
@@ -789,26 +789,26 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1301715489877135360,13,waiver,complete,1764715666792,2025-12-02,7,KingTowsk,add,11603,AJ Barner,TE,1
 2025,1301715489877135360,13,waiver,complete,1764715666792,2025-12-02,7,KingTowsk,drop,8111,Cade Otton,TE,
 2025,1301714674496061440,13,waiver,failed,1764715472390,2025-12-02,7,KingTowsk,add,11586,Blake Corum,RB,1
-2025,1301714582238150656,13,waiver,failed,1764715450395,2025-12-02,7,KingTowsk,add,10219,Chris Rodriguez,RB,1
+2025,1301714582238150656,13,waiver,failed,1764715450395,2025-12-02,7,KingTowsk,add,10219,Chris Rodriguez Jr.,RB,1
 2025,1301714421105590272,13,waiver,complete,1764715411978,2025-12-02,7,KingTowsk,add,PIT,Pittsburgh Steelers,DEF,0
 2025,1301714421105590272,13,waiver,complete,1764715411978,2025-12-02,7,KingTowsk,drop,12485,Tez Johnson,WR,
 2025,1301667185751527424,13,waiver,failed,1764704150192,2025-12-02,6,JSanDusky69,add,12015,Harrison Mevis,K,0
 2025,1301666945065549824,13,waiver,failed,1764704092807,2025-12-02,6,JSanDusky69,add,12711,Tyler Loop,K,0
 2025,1301666776639107072,13,waiver,complete,1764704052651,2025-12-02,6,JSanDusky69,add,3678,Wil Lutz,K,0
 2025,1301666776639107072,13,waiver,complete,1764704052651,2025-12-02,6,JSanDusky69,drop,2020,Cairo Santos,K,
-2025,1301588052195418112,13,waiver,complete,1764685283282,2025-12-02,8,TylerWicks,add,10219,Chris Rodriguez,RB,27
+2025,1301588052195418112,13,waiver,complete,1764685283282,2025-12-02,8,TylerWicks,add,10219,Chris Rodriguez Jr.,RB,27
 2025,1301585737308712960,13,waiver,failed,1764684731370,2025-12-02,3,MaxSirianni,add,11586,Blake Corum,RB,5
 2025,1301335681473212416,13,waiver,failed,1764625113413,2025-12-01,1,bgreenblatt,add,11625,Adonai Mitchell,WR,0
 2025,1301059355071741952,13,waiver,complete,1764559232065,2025-11-30,1,bgreenblatt,add,7594,Chuba Hubbard,RB,0
 2025,1301059355071741952,13,waiver,complete,1764559232065,2025-11-30,1,bgreenblatt,drop,12490,Bhayshul Tuten,RB,
-2025,1301059235949326336,13,waiver,failed,1764559203664,2025-11-30,1,bgreenblatt,add,10219,Chris Rodriguez,RB,0
+2025,1301059235949326336,13,waiver,failed,1764559203664,2025-11-30,1,bgreenblatt,add,10219,Chris Rodriguez Jr.,RB,0
 2025,1301041115964653568,13,waiver,complete,1764554883522,2025-11-30,6,JSanDusky69,add,KC,Kansas City Chiefs,DEF,2
 2025,1301041115964653568,13,waiver,complete,1764554883522,2025-11-30,6,JSanDusky69,drop,JAX,Jacksonville Jaguars,DEF,
 2025,1300902149386948608,13,waiver,failed,1764521751308,2025-11-30,7,KingTowsk,add,11586,Blake Corum,RB,0
 2025,1300902073503596544,13,waiver,complete,1764521733216,2025-11-30,7,KingTowsk,add,8132,Tyler Allgeier,RB,0
 2025,1300902073503596544,13,waiver,complete,1764521733216,2025-11-30,7,KingTowsk,drop,6149,Darius Slayton,WR,
 2025,1300901910051557376,13,waiver,complete,1764521694247,2025-11-30,1,bgreenblatt,add,6920,Isaiah Hodgins,WR,0
-2025,1300901910051557376,13,waiver,complete,1764521694247,2025-11-30,1,bgreenblatt,drop,10219,Chris Rodriguez,RB,
+2025,1300901910051557376,13,waiver,complete,1764521694247,2025-11-30,1,bgreenblatt,drop,10219,Chris Rodriguez Jr.,RB,
 2025,1299817481463922688,13,free_agent,complete,1764263146324,2025-11-27,4,jdrobny,add,IND,Indianapolis Colts,DEF,
 2025,1299814747310428160,13,waiver,complete,1764262494451,2025-11-27,9,brockhusk,add,MIA,Miami Dolphins,DEF,0
 2025,1299814747310428160,13,waiver,complete,1764262494451,2025-11-27,9,brockhusk,drop,LV,Las Vegas Raiders,DEF,
@@ -879,7 +879,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1301993864139149312,14,waiver,complete,1764782036389,2025-12-03,1,bgreenblatt,drop,2505,Darren Waller,TE,
 2025,1301979134276149248,14,waiver,complete,1764778524516,2025-12-03,11,Jacktaco98,add,11586,Blake Corum,RB,20
 2025,1301977450032402432,14,free_agent,complete,1764778122960,2025-12-03,11,Jacktaco98,drop,8136,Rachaad White,RB,
-2025,1306809046862397440,15,waiver,complete,1765930065411,2025-12-16,7,KingTowsk,add,9229,Anthony Richardson,QB,0
+2025,1306809046862397440,15,waiver,complete,1765930065411,2025-12-16,7,KingTowsk,add,9229,Anthony Richardson Sr.,QB,0
 2025,1306809046862397440,15,waiver,complete,1765930065411,2025-12-16,7,KingTowsk,drop,PIT,Pittsburgh Steelers,DEF,
 2025,1306765305824964608,15,waiver,complete,1765919636735,2025-12-16,5,charliekaufmann,add,7607,Michael Carter,RB,7
 2025,1306765305824964608,15,waiver,complete,1765919636735,2025-12-16,5,charliekaufmann,drop,12534,Kyle Monangai,RB,
@@ -909,11 +909,11 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1305980546945421312,15,free_agent,complete,1765732535638,2025-12-14,1,bgreenblatt,add,8131,Isaiah Likely,TE,
 2025,1305980546945421312,15,free_agent,complete,1765732535638,2025-12-14,1,bgreenblatt,drop,11625,Adonai Mitchell,WR,
 2025,1305812594082213888,15,free_agent,complete,1765692492555,2025-12-14,1,bgreenblatt,drop,11596,Ben Sinnott,TE,
-2025,1305718203078447104,15,waiver,failed,1765669987987,2025-12-13,7,KingTowsk,add,8154,Brian Robinson,RB,0
-2025,1305675825433026560,15,waiver,complete,1765659884368,2025-12-13,2,Erjohnson14,add,8154,Brian Robinson,RB,0
+2025,1305718203078447104,15,waiver,failed,1765669987987,2025-12-13,7,KingTowsk,add,8154,Brian Robinson Jr.,RB,0
+2025,1305675825433026560,15,waiver,complete,1765659884368,2025-12-13,2,Erjohnson14,add,8154,Brian Robinson Jr.,RB,0
 2025,1305675825433026560,15,waiver,complete,1765659884368,2025-12-13,2,Erjohnson14,drop,331,Philip Rivers,QB,
 2025,1305352826901270528,15,waiver,complete,1765582875518,2025-12-12,7,KingTowsk,add,12533,Jacory Croskey-Merritt,RB,0
-2025,1305352826901270528,15,waiver,complete,1765582875518,2025-12-12,7,KingTowsk,drop,8147,John Metchie,WR,
+2025,1305352826901270528,15,waiver,complete,1765582875518,2025-12-12,7,KingTowsk,drop,8147,John Metchie III,WR,
 2025,1305250477499240448,15,waiver,complete,1765558473518,2025-12-12,7,KingTowsk,add,KC,Kansas City Chiefs,DEF,0
 2025,1305250477499240448,15,waiver,complete,1765558473518,2025-12-12,7,KingTowsk,drop,7591,Justin Fields,QB,
 2025,1305065994888159232,15,free_agent,complete,1765514489437,2025-12-11,7,KingTowsk,add,6149,Darius Slayton,WR,
@@ -968,16 +968,16 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1308265796576739329,16,waiver,complete,1766277381608,2025-12-20,5,charliekaufmann,add,11608,Isaiah Williams,WR,0
 2025,1308260602933694464,16,free_agent,complete,1766276143347,2025-12-20,5,charliekaufmann,drop,12476,Devin Neal,RB,
 2025,1308186779265806336,16,waiver,complete,1766258542414,2025-12-20,7,KingTowsk,add,11653,Charlie Smyth,K,0
-2025,1308186779265806336,16,waiver,complete,1766258542414,2025-12-20,7,KingTowsk,drop,9229,Anthony Richardson,QB,
+2025,1308186779265806336,16,waiver,complete,1766258542414,2025-12-20,7,KingTowsk,drop,9229,Anthony Richardson Sr.,QB,
 2025,1308167508200554496,16,free_agent,complete,1766253947833,2025-12-20,11,Jacktaco98,drop,8146,Garrett Wilson,WR,
 2025,1307775188808499200,16,waiver,complete,1766160411602,2025-12-19,2,Erjohnson14,add,12534,Kyle Monangai,RB,0
-2025,1307775188808499200,16,waiver,complete,1766160411602,2025-12-19,2,Erjohnson14,drop,8154,Brian Robinson,RB,
+2025,1307775188808499200,16,waiver,complete,1766160411602,2025-12-19,2,Erjohnson14,drop,8154,Brian Robinson Jr.,RB,
 2025,1307619304933445632,16,free_agent,complete,1766123245989,2025-12-18,4,jdrobny,add,9220,Evan Hull,RB,
 2025,1307619304933445632,16,free_agent,complete,1766123245989,2025-12-18,4,jdrobny,drop,9506,Sean Tucker,RB,
 2025,1307548936331862016,16,free_agent,complete,1766106468807,2025-12-18,9,brockhusk,add,CIN,Cincinnati Bengals,DEF,
 2025,1307548936331862016,16,free_agent,complete,1766106468807,2025-12-18,9,brockhusk,drop,MIA,Miami Dolphins,DEF,
 2025,1307482590248206336,16,free_agent,complete,1766090650669,2025-12-18,1,bgreenblatt,add,11588,Jawhar Jordan,RB,
-2025,1307482590248206336,16,free_agent,complete,1766090650669,2025-12-18,1,bgreenblatt,drop,12519,Luther Burden,WR,
+2025,1307482590248206336,16,free_agent,complete,1766090650669,2025-12-18,1,bgreenblatt,drop,12519,Luther Burden III,WR,
 2025,1307427659755589632,16,waiver,complete,1766077554218,2025-12-18,6,JSanDusky69,add,11786,Cam Little,K,0
 2025,1307427659755589632,16,waiver,complete,1766077554218,2025-12-18,6,JSanDusky69,drop,5189,Eddy Pineiro,K,
 2025,1307398884040900608,16,waiver,complete,1766070693553,2025-12-18,11,Jacktaco98,add,8800,Malik Davis,RB,2
@@ -987,7 +987,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1307149879054704640,16,waiver,failed,1766011326138,2025-12-17,2,Erjohnson14,add,8800,Malik Davis,RB,0
 2025,1307114826274725888,16,waiver,failed,1766002968904,2025-12-17,1,bgreenblatt,add,12534,Kyle Monangai,RB,0
 2025,1307108894685814784,16,waiver,failed,1766001554703,2025-12-17,5,charliekaufmann,add,SF,San Francisco 49ers,DEF,0
-2025,1307080756580843520,16,waiver,complete,1765994846056,2025-12-17,12,akepple9,add,6011,Gardner Minshew,QB,0
+2025,1307080756580843520,16,waiver,complete,1765994846056,2025-12-17,12,akepple9,add,6011,Gardner Minshew II,QB,0
 2025,1307080756580843520,16,waiver,complete,1765994846056,2025-12-17,12,akepple9,drop,11786,Cam Little,K,
 2025,1307076342143016960,16,waiver,complete,1765993793572,2025-12-17,6,JSanDusky69,add,SF,San Francisco 49ers,DEF,0
 2025,1307076342143016960,16,waiver,complete,1765993793572,2025-12-17,6,JSanDusky69,drop,GB,Green Bay Packers,DEF,
@@ -1010,7 +1010,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2025,1307038376095911936,16,waiver,complete,1765984741761,2025-12-17,11,Jacktaco98,drop,BAL,Baltimore Ravens,DEF,
 2025,1307037641702641664,16,waiver,complete,1765984566668,2025-12-17,11,Jacktaco98,add,6865,Colby Parkinson,TE,3
 2025,1307037480175828992,16,free_agent,complete,1765984528157,2025-12-17,11,Jacktaco98,drop,8122,Zonovan Knight,RB,
-2025,1311058604572299264,17,free_agent,complete,1766943238922,2025-12-28,5,charliekaufmann,add,12519,Luther Burden,WR,
+2025,1311058604572299264,17,free_agent,complete,1766943238922,2025-12-28,5,charliekaufmann,add,12519,Luther Burden III,WR,
 2025,1311058604572299264,17,free_agent,complete,1766943238922,2025-12-28,5,charliekaufmann,drop,11608,Isaiah Williams,WR,
 2025,1310739088575307776,17,waiver,complete,1766867060372,2025-12-27,7,KingTowsk,add,12472,Raheim Sanders,RB,0
 2025,1310739088575307776,17,waiver,complete,1766867060372,2025-12-27,7,KingTowsk,drop,4035,Alvin Kamara,RB,

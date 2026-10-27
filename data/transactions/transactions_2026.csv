@@ -44,7 +44,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2026,1408292125610713088,2,waiver,complete,1790125516850,2026-09-22,7,KingTowsk,drop,12713,Andy Borregales,K,
 2026,1408241162757623808,2,waiver,failed,1790113366359,2026-09-22,9,brockhusk,add,13345,Jonah Coleman,RB,7
 2026,1408228748083359744,2,waiver,complete,1790110406470,2026-09-22,3,MaxSirianni,add,11435,Emanuel Wilson,RB,9
-2026,1408228748083359744,2,waiver,complete,1790110406470,2026-09-22,3,MaxSirianni,drop,10219,Chris Rodriguez,RB,
+2026,1408228748083359744,2,waiver,complete,1790110406470,2026-09-22,3,MaxSirianni,drop,10219,Chris Rodriguez Jr.,RB,
 2026,1408214789343219712,2,waiver,failed,1790107078446,2026-09-22,7,KingTowsk,add,5001,Dalton Schultz,TE,3
 2026,1408156250016841728,2,waiver,complete,1790093121583,2026-09-22,12,akepple9,add,6650,Chase McLaughlin,K,7
 2026,1408156250016841728,2,waiver,complete,1790093121583,2026-09-22,12,akepple9,drop,8259,Cameron Dicker,K,
@@ -78,7 +78,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2026,1405921513315565568,2,waiver,complete,1789560318835,2026-09-16,5,charliekaufmann,drop,9504,Kayshon Boutte,WR,
 2026,1405911531278884864,2,waiver,failed,1789557938932,2026-09-16,3,MaxSirianni,add,5854,Drew Lock,QB,27
 2026,1405911332124971008,2,waiver,complete,1789557891449,2026-09-16,3,MaxSirianni,add,3161,Carson Wentz,QB,36
-2026,1405911332124971008,2,waiver,complete,1789557891449,2026-09-16,3,MaxSirianni,drop,8154,Brian Robinson,RB,
+2026,1405911332124971008,2,waiver,complete,1789557891449,2026-09-16,3,MaxSirianni,drop,8154,Brian Robinson Jr.,RB,
 2026,1410839199497650176,3,waiver,complete,1790732786586,2026-09-29,9,brockhusk,add,96,Aaron Rodgers,QB,3
 2026,1410839199497650176,3,waiver,complete,1790732786586,2026-09-29,9,brockhusk,drop,12522,Cam Ward,QB,
 2026,1410839069725868032,3,waiver,complete,1790732755646,2026-09-29,9,brockhusk,add,3634,Kalif Raymond,WR,26
@@ -127,12 +127,12 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2026,1409899294093287424,3,waiver,complete,1790508695676,2026-09-27,6,JSanDusky69,add,11610,Malik Washington,WR,1
 2026,1409899294093287424,3,waiver,complete,1790508695676,2026-09-27,6,JSanDusky69,drop,9508,Tyjae Spears,RB,
 2026,1409259694106677248,3,waiver,complete,1790356203156,2026-09-25,2,Erjohnson14,add,12493,Oronde Gadsden,TE,0
-2026,1408989421105131520,3,free_agent,complete,1790291765051,2026-09-24,11,Jacktaco98,drop,6819,Michael Pittman,WR,
+2026,1408989421105131520,3,free_agent,complete,1790291765051,2026-09-24,11,Jacktaco98,drop,6819,Michael Pittman Jr.,WR,
 2026,1408882396530593792,3,free_agent,complete,1790266248403,2026-09-24,1,bgreenblatt,add,13288,Nicholas Singleton,RB,
 2026,1408882396530593792,3,free_agent,complete,1790266248403,2026-09-24,1,bgreenblatt,drop,13301,Antonio Williams,WR,
-2026,1408599770846576640,3,trade,complete,1790198865190,2026-09-23,12,akepple9,add,11559,Michael Penix,QB,
+2026,1408599770846576640,3,trade,complete,1790198865190,2026-09-23,12,akepple9,add,11559,Michael Penix Jr.,QB,
 2026,1408599770846576640,3,trade,complete,1790198865190,2026-09-23,1,bgreenblatt,add,3257,Jacoby Brissett,QB,
-2026,1408599770846576640,3,trade,complete,1790198865190,2026-09-23,1,bgreenblatt,drop,11559,Michael Penix,QB,
+2026,1408599770846576640,3,trade,complete,1790198865190,2026-09-23,1,bgreenblatt,drop,11559,Michael Penix Jr.,QB,
 2026,1408599770846576640,3,trade,complete,1790198865190,2026-09-23,12,akepple9,drop,3257,Jacoby Brissett,QB,
 2026,1408599141650636800,3,trade,complete,1790198715177,2026-09-23,1,bgreenblatt,add,12490,Bhayshul Tuten,RB,
 2026,1408599141650636800,3,trade,complete,1790198715177,2026-09-23,9,brockhusk,add,12514,Emeka Egbuka,WR,
@@ -190,7 +190,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2026,1412659026348580864,4,waiver,complete,1791166667119,2026-10-04,1,bgreenblatt,add,DEN,Denver Broncos,DEF,0
 2026,1412659026348580864,4,waiver,complete,1791166667119,2026-10-04,1,bgreenblatt,drop,CHI,Chicago Bears,DEF,
 2026,1411548483445411840,4,free_agent,complete,1790901893058,2026-10-01,4,jdrobny,add,1479,Keenan Allen,WR,
-2026,1411548483445411840,4,free_agent,complete,1790901893058,2026-10-01,4,jdrobny,drop,13305,Mike Washington,RB,
+2026,1411548483445411840,4,free_agent,complete,1790901893058,2026-10-01,4,jdrobny,drop,13305,Mike Washington Jr.,RB,
 2026,1411548421533323264,4,free_agent,complete,1790901878297,2026-10-01,4,jdrobny,add,7049,Jauan Jennings,WR,
 2026,1411490297703084032,4,free_agent,complete,1790888020495,2026-10-01,2,Erjohnson14,add,11643,Jaylen Wright,RB,
 2026,1411490297703084032,4,free_agent,complete,1790888020495,2026-10-01,2,Erjohnson14,drop,13296,Caleb Douglas,WR,
@@ -212,7 +212,7 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2026,1411024610811539456,4,waiver,failed,1790776992088,2026-09-30,7,KingTowsk,add,12185,Spencer Shrader,K,0
 2026,1411024521183444992,4,waiver,failed,1790776970720,2026-09-30,7,KingTowsk,add,11643,Jaylen Wright,RB,10
 2026,1411010012918120448,4,waiver,complete,1790773511679,2026-09-30,6,JSanDusky69,add,2505,Darren Waller,TE,3
-2026,1411010012918120448,4,waiver,complete,1790773511679,2026-09-30,6,JSanDusky69,drop,7553,Kyle Pitts,TE,
+2026,1411010012918120448,4,waiver,complete,1790773511679,2026-09-30,6,JSanDusky69,drop,7553,Kyle Pitts Sr.,TE,
 2026,1410998846212874240,4,waiver,failed,1790770849330,2026-09-30,5,charliekaufmann,add,BAL,Baltimore Ravens,DEF,0
 2026,1410998809625985024,4,waiver,complete,1790770840606,2026-09-30,5,charliekaufmann,add,CLE,Cleveland Browns,DEF,2
 2026,1410998809625985024,4,waiver,complete,1790770840606,2026-09-30,5,charliekaufmann,drop,SF,San Francisco 49ers,DEF,
@@ -264,11 +264,11 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2026,1415578401107886080,5,waiver,complete,1791862700301,2026-10-12,12,akepple9,add,13545,Trey Smack,K,6
 2026,1415552576744640512,5,waiver,failed,1791856543293,2026-10-12,1,bgreenblatt,add,13274,Germie Bernard,WR,0
 2026,1415472965813796864,5,free_agent,complete,1791837562567,2026-10-12,1,bgreenblatt,add,KC,Kansas City Chiefs,DEF,
-2026,1415472965813796864,5,free_agent,complete,1791837562567,2026-10-12,1,bgreenblatt,drop,13305,Mike Washington,RB,
+2026,1415472965813796864,5,free_agent,complete,1791837562567,2026-10-12,1,bgreenblatt,drop,13305,Mike Washington Jr.,RB,
 2026,1415026581805514752,5,waiver,failed,1791731136327,2026-10-11,7,KingTowsk,add,13301,Antonio Williams,WR,0
 2026,1415026427065126912,5,waiver,complete,1791731099434,2026-10-11,7,KingTowsk,add,12509,Tre' Harris,WR,4
 2026,1415026427065126912,5,waiver,complete,1791731099434,2026-10-11,7,KingTowsk,drop,13264,Dohnte Meyers,WR,
-2026,1414325345695358976,5,waiver,complete,1791563948610,2026-10-09,1,bgreenblatt,add,13305,Mike Washington,RB,0
+2026,1414325345695358976,5,waiver,complete,1791563948610,2026-10-09,1,bgreenblatt,add,13305,Mike Washington Jr.,RB,0
 2026,1414325345695358976,5,waiver,complete,1791563948610,2026-10-09,1,bgreenblatt,drop,11586,Blake Corum,RB,
 2026,1414200571409289216,5,waiver,complete,1791534200102,2026-10-09,6,JSanDusky69,add,IND,Indianapolis Colts,DEF,0
 2026,1414200571409289216,5,waiver,complete,1791534200102,2026-10-09,6,JSanDusky69,drop,4018,Joe Mixon,RB,
@@ -297,10 +297,39 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2026,1413515879576080384,5,waiver,complete,1791370956848,2026-10-07,9,brockhusk,drop,PHI,Philadelphia Eagles,DEF,
 2026,1413515304381829120,5,waiver,complete,1791370819710,2026-10-07,9,brockhusk,add,11577,Will Shipley,RB,21
 2026,1413515304381829120,5,waiver,complete,1791370819710,2026-10-07,9,brockhusk,drop,ARI,Arizona Cardinals,DEF,
+2026,1418424154461392896,6,waiver,failed,1792541180772,2026-10-20,9,brockhusk,add,DEN,Denver Broncos,DEF,0
+2026,1418424137822507008,6,waiver,failed,1792541176805,2026-10-20,9,brockhusk,add,TEN,Tennessee Titans,DEF,0
+2026,1418424104125579264,6,waiver,complete,1792541168770,2026-10-20,9,brockhusk,add,NYJ,New York Jets,DEF,3
+2026,1418424104125579264,6,waiver,complete,1792541168770,2026-10-20,9,brockhusk,drop,JAX,Jacksonville Jaguars,DEF,
+2026,1418423828316540928,6,free_agent,complete,1792541103013,2026-10-20,9,brockhusk,drop,7528,Najee Harris,RB,
+2026,1418415911227977728,6,waiver,complete,1792539215432,2026-10-20,2,Erjohnson14,add,9501,DeMario Douglas,WR,16
+2026,1418415099273609216,6,waiver,failed,1792539021846,2026-10-20,2,Erjohnson14,add,DEN,Denver Broncos,DEF,1
+2026,1418415072417529856,6,waiver,failed,1792539015445,2026-10-20,2,Erjohnson14,add,NYJ,New York Jets,DEF,3
+2026,1418392151754076160,6,free_agent,complete,1792533550731,2026-10-20,2,Erjohnson14,drop,5927,Terry McLaurin,WR,
+2026,1418357882092576768,6,waiver,failed,1792525380207,2026-10-20,7,KingTowsk,add,11565,J.J. McCarthy,QB,43
+2026,1418356086234169344,6,waiver,failed,1792524952041,2026-10-20,7,KingTowsk,add,5045,Courtland Sutton,WR,0
+2026,1418356016294236160,6,waiver,failed,1792524935367,2026-10-20,7,KingTowsk,add,11616,Jacob Cowing,WR,0
+2026,1418355946366758912,6,waiver,complete,1792524918695,2026-10-20,7,KingTowsk,add,2197,Brandin Cooks,WR,0
+2026,1418355946366758912,6,waiver,complete,1792524918695,2026-10-20,7,KingTowsk,drop,13414,Kaelon Black,RB,
+2026,1418355876355411968,6,waiver,failed,1792524902002,2026-10-20,7,KingTowsk,add,12522,Cam Ward,QB,3
+2026,1418355717034852352,6,waiver,complete,1792524864018,2026-10-20,7,KingTowsk,add,13425,Jalon Daniels,QB,4
+2026,1418355717034852352,6,waiver,complete,1792524864018,2026-10-20,7,KingTowsk,drop,7042,Tyler Bass,K,
+2026,1418338593226682368,6,waiver,failed,1792520781384,2026-10-20,3,MaxSirianni,add,11655,Tyrone Tracy Jr.,RB,10
+2026,1418301219192971264,6,waiver,complete,1792511870720,2026-10-20,12,akepple9,add,12522,Cam Ward,QB,16
+2026,1418270720659623936,6,waiver,failed,1792504599303,2026-10-20,1,bgreenblatt,add,4950,Christian Kirk,WR,0
+2026,1418259413608792064,6,waiver,complete,1792501903491,2026-10-20,1,bgreenblatt,add,12487,Terrance Ferguson,TE,0
+2026,1418259413608792064,6,waiver,complete,1792501903491,2026-10-20,1,bgreenblatt,drop,11533,Brandon Aubrey,K,
+2026,1418096136014626816,6,waiver,complete,1792462975080,2026-10-19,1,bgreenblatt,add,TEN,Tennessee Titans,DEF,0
+2026,1418096136014626816,6,waiver,complete,1792462975080,2026-10-19,1,bgreenblatt,drop,KC,Kansas City Chiefs,DEF,
+2026,1418072925788975104,6,waiver,failed,1792457441331,2026-10-19,6,JSanDusky69,add,12522,Cam Ward,QB,0
 2026,1418040128571469824,6,free_agent,complete,1792449621865,2026-10-19,1,bgreenblatt,add,11792,Will Reichard,K,
 2026,1418040128571469824,6,free_agent,complete,1792449621865,2026-10-19,1,bgreenblatt,drop,3321,Tyreek Hill,WR,
 2026,1417917863590707200,6,waiver,complete,1792420471621,2026-10-19,7,KingTowsk,add,13414,Kaelon Black,RB,0
 2026,1417917560904519680,6,free_agent,complete,1792420399456,2026-10-19,7,KingTowsk,drop,6904,Jalen Hurts,QB,
+2026,1417642891311919104,6,waiver,complete,1792354913122,2026-10-18,6,JSanDusky69,add,7553,Kyle Pitts Sr.,TE,5
+2026,1417642891311919104,6,waiver,complete,1792354913122,2026-10-18,6,JSanDusky69,drop,2505,Darren Waller,TE,
+2026,1417639859580854272,6,waiver,complete,1792354190301,2026-10-18,1,bgreenblatt,add,11565,J.J. McCarthy,QB,60
+2026,1417639859580854272,6,waiver,complete,1792354190301,2026-10-18,1,bgreenblatt,drop,2306,Jameis Winston,QB,
 2026,1417578588315639808,6,free_agent,complete,1792339582092,2026-10-18,3,MaxSirianni,add,7600,Pat Freiermuth,TE,
 2026,1417578588315639808,6,free_agent,complete,1792339582092,2026-10-18,3,MaxSirianni,drop,11637,Keon Coleman,WR,
 2026,1417556186487590912,6,waiver,complete,1792334241081,2026-10-18,9,brockhusk,add,7528,Najee Harris,RB,1
@@ -326,3 +355,53 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2026,1416126912090181632,6,waiver,complete,1791993475509,2026-10-14,9,brockhusk,add,9757,Kendre Miller,RB,0
 2026,1416126912090181632,6,waiver,complete,1791993475509,2026-10-14,9,brockhusk,drop,11577,Will Shipley,RB,
 2026,1416088822692761600,6,waiver,failed,1791984394290,2026-10-14,9,brockhusk,add,11581,MarShawn Lloyd,RB,16
+2026,1420527233558130688,7,free_agent,complete,1793042593902,2026-10-26,1,bgreenblatt,add,13301,Antonio Williams,WR,
+2026,1420527233558130688,7,free_agent,complete,1793042593902,2026-10-26,1,bgreenblatt,drop,11631,Brian Thomas Jr.,WR,
+2026,1420210044061990912,7,free_agent,complete,1792966970032,2026-10-25,1,bgreenblatt,add,JAX,Jacksonville Jaguars,DEF,
+2026,1420210044061990912,7,free_agent,complete,1792966970032,2026-10-25,1,bgreenblatt,drop,13424,Seth McGowan,RB,
+2026,1420125865253048320,7,free_agent,complete,1792946900240,2026-10-25,9,brockhusk,add,5045,Courtland Sutton,WR,
+2026,1420112042647363584,7,waiver,complete,1792943604675,2026-10-25,12,akepple9,add,5995,Justice Hill,RB,0
+2026,1420088599092695041,7,waiver,complete,1792938015296,2026-10-25,12,akepple9,add,13150,Darius Cooper,WR,0
+2026,1420078017866211328,7,waiver,complete,1792935492535,2026-10-25,7,KingTowsk,add,11539,Jake Bates,K,0
+2026,1420078017866211328,7,waiver,complete,1792935492535,2026-10-25,7,KingTowsk,drop,12718,Konata Mumpfield,WR,
+2026,1419837995002945564,7,waiver,complete,1792878266625,2026-10-24,2,Erjohnson14,add,4950,Christian Kirk,WR,0
+2026,1419837995002945564,7,waiver,complete,1792878266625,2026-10-24,2,Erjohnson14,drop,9754,Quentin Johnston,WR,
+2026,1419219898277568512,7,free_agent,complete,1792730900882,2026-10-22,11,Jacktaco98,add,4039,Cooper Kupp,WR,
+2026,1419200139121192960,7,free_agent,complete,1792726189931,2026-10-22,6,JSanDusky69,add,CIN,Cincinnati Bengals,DEF,
+2026,1419200139121192960,7,free_agent,complete,1792726189931,2026-10-22,6,JSanDusky69,drop,IND,Indianapolis Colts,DEF,
+2026,1419141915336536064,7,free_agent,complete,1792712308299,2026-10-22,7,KingTowsk,add,12718,Konata Mumpfield,WR,
+2026,1419141915336536064,7,free_agent,complete,1792712308299,2026-10-22,7,KingTowsk,drop,2197,Brandin Cooks,WR,
+2026,1419141769198669824,7,waiver,complete,1792712273458,2026-10-22,10,cc5597,add,SF,San Francisco 49ers,DEF,1
+2026,1419141769198669824,7,waiver,complete,1792712273458,2026-10-22,10,cc5597,drop,BAL,Baltimore Ravens,DEF,
+2026,1419141051179929600,7,free_agent,complete,1792712102268,2026-10-22,1,bgreenblatt,add,13424,Seth McGowan,RB,
+2026,1419141051179929600,7,free_agent,complete,1792712102268,2026-10-22,1,bgreenblatt,drop,12718,Konata Mumpfield,WR,
+2026,1419130949274173440,7,free_agent,complete,1792709693787,2026-10-22,1,bgreenblatt,add,12718,Konata Mumpfield,WR,
+2026,1419130949274173440,7,free_agent,complete,1792709693787,2026-10-22,1,bgreenblatt,drop,13293,Ja'Kobi Lane,WR,
+2026,1419119482084864000,7,free_agent,complete,1792706959795,2026-10-22,7,KingTowsk,drop,13425,Jalon Daniels,QB,
+2026,1419117610804445184,7,trade,complete,1792706513648,2026-10-22,7,KingTowsk,add,12522,Cam Ward,QB,
+2026,1419117610804445184,7,trade,complete,1792706513648,2026-10-22,12,akepple9,drop,12522,Cam Ward,QB,
+2026,1419042714053279744,7,free_agent,complete,1792688656870,2026-10-22,11,Jacktaco98,drop,NE,New England Patriots,DEF,
+2026,1418781867208962048,7,waiver,failed,1792626466137,2026-10-21,2,Erjohnson14,add,KC,Kansas City Chiefs,DEF,0
+2026,1418781548156596225,7,waiver,complete,1792626390069,2026-10-21,2,Erjohnson14,add,5022,Dallas Goedert,TE,6
+2026,1418781548156596225,7,waiver,complete,1792626390069,2026-10-21,2,Erjohnson14,drop,5012,Mark Andrews,TE,
+2026,1418699107505106944,7,free_agent,complete,1792606734685,2026-10-21,12,akepple9,drop,5022,Dallas Goedert,TE,
+2026,1418678891098173440,7,waiver,complete,1792601914718,2026-10-21,2,Erjohnson14,add,KC,Kansas City Chiefs,DEF,2
+2026,1418678891098173440,7,waiver,complete,1792601914718,2026-10-21,2,Erjohnson14,drop,SF,San Francisco 49ers,DEF,
+2026,1418665888697094144,7,waiver,failed,1792598814705,2026-10-21,3,MaxSirianni,add,11565,J.J. McCarthy,QB,18
+2026,1418665788407136256,7,waiver,failed,1792598790794,2026-10-21,11,Jacktaco98,add,11655,Tyrone Tracy Jr.,RB,5
+2026,1418636325996781568,7,waiver,failed,1792591766407,2026-10-21,8,TylerWicks,add,9501,DeMario Douglas,WR,13
+2026,1418636157507399680,7,waiver,complete,1792591726236,2026-10-21,8,TylerWicks,add,6650,Chase McLaughlin,K,5
+2026,1418636157507399680,7,waiver,complete,1792591726236,2026-10-21,8,TylerWicks,drop,9511,Keaton Mitchell,RB,
+2026,1418633708411305984,7,waiver,failed,1792591142326,2026-10-21,7,KingTowsk,add,12634,Jordan Watkins,WR,0
+2026,1418626833972240384,7,waiver,complete,1792589503333,2026-10-21,2,Erjohnson14,add,8154,Brian Robinson Jr.,RB,0
+2026,1418626833972240384,7,waiver,complete,1792589503333,2026-10-21,2,Erjohnson14,drop,11581,MarShawn Lloyd,RB,
+2026,1418605459434160128,7,waiver,complete,1792584407246,2026-10-21,4,jdrobny,add,5001,Dalton Schultz,TE,6
+2026,1418605459434160128,7,waiver,complete,1792584407246,2026-10-21,4,jdrobny,drop,8110,Jake Ferguson,TE,
+2026,1418605281427861504,7,waiver,complete,1792584364806,2026-10-21,4,jdrobny,add,7567,Kenny Gainwell,RB,5
+2026,1418605167980412928,7,free_agent,complete,1792584337757,2026-10-21,4,jdrobny,drop,7049,Jauan Jennings,WR,
+2026,1418604466617200640,7,waiver,complete,1792584170540,2026-10-21,4,jdrobny,add,DEN,Denver Broncos,DEF,5
+2026,1418604466617200640,7,waiver,complete,1792584170540,2026-10-21,4,jdrobny,drop,NO,New Orleans Saints,DEF,
+2026,1418604373965094912,7,free_agent,complete,1792584148450,2026-10-21,4,jdrobny,drop,8180,Jalen Nailor,WR,
+2026,1418598133146943488,7,waiver,failed,1792582660522,2026-10-21,5,charliekaufmann,add,9501,DeMario Douglas,WR,8
+2026,1418597565657600000,7,waiver,complete,1792582525223,2026-10-21,5,charliekaufmann,add,11655,Tyrone Tracy Jr.,RB,12
+2026,1418597565657600000,7,waiver,complete,1792582525223,2026-10-21,5,charliekaufmann,drop,11439,Jaleel McLaughlin,RB,
