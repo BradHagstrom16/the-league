@@ -467,17 +467,6 @@
     "surplus": 70.21
    },
    {
-    "season": 2026,
-    "manager_user": "1136842855890366464",
-    "name": "Kep",
-    "player_name": "Jacoby Brissett",
-    "position": "QB",
-    "round": 12,
-    "overall_pick": 139,
-    "points": 108.7,
-    "surplus": 63.69
-   },
-   {
     "season": 2025,
     "manager_user": "1136842855890366464",
     "name": "Kep",
@@ -487,6 +476,17 @@
     "overall_pick": 43,
     "points": 229.26,
     "surplus": 62.91
+   },
+   {
+    "season": 2026,
+    "manager_user": "1136842855890366464",
+    "name": "Kep",
+    "player_name": "Jacoby Brissett",
+    "position": "QB",
+    "round": 12,
+    "overall_pick": 139,
+    "points": 108.3,
+    "surplus": 62.16
    }
   ],
   "475399371639222272": [
@@ -1102,17 +1102,17 @@
     "round": 2,
     "overall_pick": 20,
     "points": 151.2,
-    "surplus": 68.12
+    "surplus": 66.1
    },
    {
     "season": 2026,
     "manager_user": "865793938542456832",
     "name": "Beaut",
-    "player_name": "C.J. Stroud",
+    "player_name": "Bryce Young",
     "position": "QB",
-    "round": 8,
-    "overall_pick": 92,
-    "points": 129.18,
+    "round": 10,
+    "overall_pick": 116,
+    "points": 129.24,
     "surplus": 64.08
    }
   ]
@@ -1128,7 +1128,7 @@
     "round": 1,
     "overall_pick": 6,
     "points": 80.08,
-    "surplus": -52.5
+    "surplus": -53.74
    },
    {
     "season": 2025,
@@ -1150,7 +1150,7 @@
     "round": 2,
     "overall_pick": 19,
     "points": 57.5,
-    "surplus": -25.58
+    "surplus": -27.6
    },
    {
     "season": 2026,
@@ -1161,7 +1161,7 @@
     "round": 3,
     "overall_pick": 30,
     "points": 85.66,
-    "surplus": -8.08
+    "surplus": -9.22
    },
    {
     "season": 2026,
@@ -1172,7 +1172,7 @@
     "round": 8,
     "overall_pick": 91,
     "points": 61.8,
-    "surplus": -3.3
+    "surplus": -5.02
    }
   ],
   "475399371639222272": [
@@ -1267,17 +1267,6 @@
     "surplus": -61.72
    },
    {
-    "season": 2026,
-    "manager_user": "608781531883859968",
-    "name": "Benny G",
-    "player_name": "Brian Thomas",
-    "position": "WR",
-    "round": 6,
-    "overall_pick": 71,
-    "points": 24.5,
-    "surplus": -52.75
-   },
-   {
     "season": 2021,
     "manager_user": "608781531883859968",
     "name": "Benny G",
@@ -1287,6 +1276,17 @@
     "overall_pick": 42,
     "points": 125.9,
     "surplus": -51.04
+   },
+   {
+    "season": 2026,
+    "manager_user": "608781531883859968",
+    "name": "Benny G",
+    "player_name": "Brian Thomas",
+    "position": "WR",
+    "round": 6,
+    "overall_pick": 71,
+    "points": 32.7,
+    "surplus": -50.48
    }
   ],
   "710284244835979264": [
@@ -1628,7 +1628,7 @@
     "round": 8,
     "overall_pick": 87,
     "points": 2.22,
-    "surplus": -62.88
+    "surplus": -64.6
    }
   ],
   "736803054736822272": [
@@ -1766,7 +1766,7 @@
     "round": 4,
     "overall_pick": 44,
     "points": 38.0,
-    "surplus": -58.2
+    "surplus": -59.39
    },
    {
     "season": 2025,
@@ -1780,6 +1780,17 @@
     "surplus": -49.02
    },
    {
+    "season": 2026,
+    "manager_user": "865793938542456832",
+    "name": "Beaut",
+    "player_name": "Harold Fannin",
+    "position": "TE",
+    "round": 7,
+    "overall_pick": 77,
+    "points": 65.9,
+    "surplus": -9.18
+   },
+   {
     "season": 2025,
     "manager_user": "865793938542456832",
     "name": "Beaut",
@@ -1789,100 +1800,89 @@
     "overall_pick": 27,
     "points": 125.4,
     "surplus": -7.56
-   },
-   {
-    "season": 2026,
-    "manager_user": "865793938542456832",
-    "name": "Beaut",
-    "player_name": "Harold Fannin",
-    "position": "TE",
-    "round": 7,
-    "overall_pick": 77,
-    "points": 66.7,
-    "surplus": -7.27
    }
   ]
  },
  "by_round": [
   {
    "round": 1,
-   "avg_points": 208.35,
+   "avg_points": 208.59,
    "hit_rate": 0.5312
   },
   {
    "round": 2,
-   "avg_points": 179.16,
-   "hit_rate": 0.5469
+   "avg_points": 179.54,
+   "hit_rate": 0.5312
   },
   {
    "round": 3,
-   "avg_points": 151.49,
+   "avg_points": 151.7,
    "hit_rate": 0.4844
   },
   {
    "round": 4,
-   "avg_points": 153.91,
+   "avg_points": 154.13,
    "hit_rate": 0.4688
   },
   {
    "round": 5,
-   "avg_points": 137.64,
+   "avg_points": 137.99,
    "hit_rate": 0.5
   },
   {
    "round": 6,
-   "avg_points": 129.93,
-   "hit_rate": 0.5156
+   "avg_points": 131.05,
+   "hit_rate": 0.5312
   },
   {
    "round": 7,
-   "avg_points": 123.08,
+   "avg_points": 123.28,
    "hit_rate": 0.4844
   },
   {
    "round": 8,
-   "avg_points": 113.34,
-   "hit_rate": 0.4688
+   "avg_points": 113.66,
+   "hit_rate": 0.4844
   },
   {
    "round": 9,
-   "avg_points": 103.9,
+   "avg_points": 104.53,
    "hit_rate": 0.5156
   },
   {
    "round": 10,
-   "avg_points": 120.45,
-   "hit_rate": 0.4688
+   "avg_points": 120.97,
+   "hit_rate": 0.5
   },
   {
    "round": 11,
-   "avg_points": 89.8,
-   "hit_rate": 0.4844
+   "avg_points": 90.35,
+   "hit_rate": 0.4688
   },
   {
    "round": 12,
-   "avg_points": 79.13,
-   "hit_rate": 0.375
+   "avg_points": 79.34,
+   "hit_rate": 0.3906
   },
   {
    "round": 13,
-   "avg_points": 78.79,
+   "avg_points": 78.95,
    "hit_rate": 0.4375
   },
   {
    "round": 14,
-   "avg_points": 83.35,
+   "avg_points": 83.41,
    "hit_rate": 0.5312
   },
   {
    "round": 15,
-   "avg_points": 69.54,
+   "avg_points": 69.56,
    "hit_rate": 0.4375
   },
   {
    "round": 16,
-   "avg_points": 68.8,
-   "hit_rate": 0.3906
+   "avg_points": 69.07,
+   "hit_rate": 0.4219
   },
   {
    "round": 17,

@@ -71,30 +71,30 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,6,10,cc5597,D. Adams Ramily,138.57,2,Erjohnson14,103.75,W,False
 2026,6,11,Jacktaco98,Young Stroud boys,152.32,12,akepple9,141.3,W,False
 2026,6,12,akepple9,Project Skrilla ,141.3,11,Jacktaco98,152.32,L,False
-2026,7,1,bgreenblatt,Tuten & The Blowfish,151.66,10,cc5597,105.62,W,False
-2026,7,2,Erjohnson14,McJohnsons Johnson,114.59,6,JSanDusky69,147.5,L,False
+2026,7,1,bgreenblatt,Tuten & The Blowfish,151.66,10,cc5597,106.12,W,False
+2026,7,2,Erjohnson14,McJohnsons Johnson,113.59,6,JSanDusky69,147.5,L,False
 2026,7,3,MaxSirianni,Maye you CeeDeez Nuts,124.42,7,KingTowsk,119.21,W,False
-2026,7,4,jdrobny,Stick em up,133.37,8,TylerWicks,158.19,L,False
+2026,7,4,jdrobny,Stick em up,133.37,8,TylerWicks,158.09,L,False
 2026,7,5,charliekaufmann,Clownin’ Around,139.05,12,akepple9,117.17,W,False
-2026,7,6,JSanDusky69,The Stanky Knee,147.5,2,Erjohnson14,114.59,W,False
+2026,7,6,JSanDusky69,The Stanky Knee,147.5,2,Erjohnson14,113.59,W,False
 2026,7,7,KingTowsk,Injured Reserve,119.21,3,MaxSirianni,124.42,L,False
-2026,7,8,TylerWicks,Don’t Stop Bo-lievin’,158.19,4,jdrobny,133.37,W,False
+2026,7,8,TylerWicks,Don’t Stop Bo-lievin’,158.09,4,jdrobny,133.37,W,False
 2026,7,9,brockhusk,Just End The Season,123.76,11,Jacktaco98,139.24,L,False
-2026,7,10,cc5597,D. Adams Ramily,105.62,1,bgreenblatt,151.66,L,False
+2026,7,10,cc5597,D. Adams Ramily,106.12,1,bgreenblatt,151.66,L,False
 2026,7,11,Jacktaco98,Young Stroud boys,139.24,9,brockhusk,123.76,W,False
 2026,7,12,akepple9,Project Skrilla ,117.17,5,charliekaufmann,139.05,L,False
-2026,8,1,bgreenblatt,Tuten & The Blowfish,0,6,JSanDusky69,0,T,False
-2026,8,2,Erjohnson14,McJohnsons Johnson,0,7,KingTowsk,0,T,False
-2026,8,3,MaxSirianni,Maye you CeeDeez Nuts,0,11,Jacktaco98,0,T,False
-2026,8,4,jdrobny,Stick em up,0,12,akepple9,0,T,False
-2026,8,5,charliekaufmann,Clownin’ Around,0,9,brockhusk,0,T,False
-2026,8,6,JSanDusky69,The Stanky Knee,0,1,bgreenblatt,0,T,False
-2026,8,7,KingTowsk,Injured Reserve,0,2,Erjohnson14,0,T,False
-2026,8,8,TylerWicks,Don’t Stop Bo-lievin’,0,10,cc5597,0,T,False
-2026,8,9,brockhusk,Just End The Season,0,5,charliekaufmann,0,T,False
-2026,8,10,cc5597,D. Adams Ramily,0,8,TylerWicks,0,T,False
-2026,8,11,Jacktaco98,Young Stroud boys,0,3,MaxSirianni,0,T,False
-2026,8,12,akepple9,Project Skrilla ,0,4,jdrobny,0,T,False
+2026,8,1,bgreenblatt,Tuten & The Blowfish,34.1,6,JSanDusky69,16.28,W,False
+2026,8,2,Erjohnson14,McJohnsons Johnson,36.48,7,KingTowsk,36.88,L,False
+2026,8,3,MaxSirianni,Maye you CeeDeez Nuts,55.7,11,Jacktaco98,26.96,W,False
+2026,8,4,jdrobny,Stick em up,9.1,12,akepple9,28.6,L,False
+2026,8,5,charliekaufmann,Clownin’ Around,13.47,9,brockhusk,15.6,L,False
+2026,8,6,JSanDusky69,The Stanky Knee,16.28,1,bgreenblatt,34.1,L,False
+2026,8,7,KingTowsk,Injured Reserve,36.88,2,Erjohnson14,36.48,W,False
+2026,8,8,TylerWicks,Don’t Stop Bo-lievin’,66.22,10,cc5597,19.41,W,False
+2026,8,9,brockhusk,Just End The Season,15.6,5,charliekaufmann,13.47,W,False
+2026,8,10,cc5597,D. Adams Ramily,19.41,8,TylerWicks,66.22,L,False
+2026,8,11,Jacktaco98,Young Stroud boys,26.96,3,MaxSirianni,55.7,L,False
+2026,8,12,akepple9,Project Skrilla ,28.6,4,jdrobny,9.1,W,False
 2026,9,1,bgreenblatt,Tuten & The Blowfish,0,7,KingTowsk,0,T,False
 2026,9,2,Erjohnson14,McJohnsons Johnson,0,3,MaxSirianni,0,T,False
 2026,9,3,MaxSirianni,Maye you CeeDeez Nuts,0,2,Erjohnson14,0,T,False

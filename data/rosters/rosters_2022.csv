@@ -33,7 +33,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,2,Erjohnson14,Dairy Sanders,96,Aaron Rodgers,QB,PIT,starter
 2022,2,Erjohnson14,Dairy Sanders,KC,Kansas City Chiefs,DEF,KC,starter
 2022,3,MaxSirianni,Tucker right in the pu$$y,1166,Kirk Cousins,QB,LV,starter
-2022,3,MaxSirianni,Tucker right in the pu$$y,1264,Justin Tucker,K,,starter
+2022,3,MaxSirianni,Tucker right in the pu$$y,1264,Justin Tucker,K,KC,starter
 2022,3,MaxSirianni,Tucker right in the pu$$y,2309,Amari Cooper,WR,,bench
 2022,3,MaxSirianni,Tucker right in the pu$$y,4068,Mike Williams,WR,,starter
 2022,3,MaxSirianni,Tucker right in the pu$$y,4098,Kareem Hunt,RB,,bench
@@ -69,7 +69,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,5,kaufmannc,Mar-a-lago Raiders ,3163,Jared Goff,QB,DET,starter
 2022,5,kaufmannc,Mar-a-lago Raiders ,3198,Derrick Henry,RB,BAL,starter
 2022,5,kaufmannc,Mar-a-lago Raiders ,3271,Tyler Higbee,TE,LAR,starter
-2022,5,kaufmannc,Mar-a-lago Raiders ,4080,Zay Jones,WR,,bench
+2022,5,kaufmannc,Mar-a-lago Raiders ,4080,Zay Jones,WR,ARI,bench
 2022,5,kaufmannc,Mar-a-lago Raiders ,4149,Jamaal Williams,RB,,bench
 2022,5,kaufmannc,Mar-a-lago Raiders ,4983,DJ Moore,WR,BUF,starter
 2022,5,kaufmannc,Mar-a-lago Raiders ,5185,Allen Lazard,WR,,bench
