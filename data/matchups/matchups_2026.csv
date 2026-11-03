@@ -5,7 +5,7 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,1,4,jdrobny,Stick em up,109.6,3,MaxSirianni,100.34,W,False
 2026,1,5,charliekaufmann,Clownin’ Around,135.86,10,cc5597,137.26,L,False
 2026,1,6,JSanDusky69,The Stanky Knee,93.11,11,Jacktaco98,186.75,L,False
-2026,1,7,KingTowsk,Injured Reserve,147.48,9,brockhusk,71.54,W,False
+2026,1,7,KingTowsk,FireBlashill FireDavidson,147.48,9,brockhusk,71.54,W,False
 2026,1,8,TylerWicks,Don’t Stop Bo-lievin’,101.07,1,bgreenblatt,189.06,L,False
 2026,1,9,brockhusk,Just End The Season,71.54,7,KingTowsk,147.48,L,False
 2026,1,10,cc5597,D. Adams Ramily,137.26,5,charliekaufmann,135.86,W,False
@@ -17,7 +17,7 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,2,4,jdrobny,Stick em up,147.46,10,cc5597,137.25,W,False
 2026,2,5,charliekaufmann,Clownin’ Around,136.26,6,JSanDusky69,134.23,W,False
 2026,2,6,JSanDusky69,The Stanky Knee,134.23,5,charliekaufmann,136.26,L,False
-2026,2,7,KingTowsk,Injured Reserve,123.98,11,Jacktaco98,170.4,L,False
+2026,2,7,KingTowsk,FireBlashill FireDavidson,123.98,11,Jacktaco98,170.4,L,False
 2026,2,8,TylerWicks,Don’t Stop Bo-lievin’,122.12,3,MaxSirianni,129.24,L,False
 2026,2,9,brockhusk,Just End The Season,129.59,2,Erjohnson14,111.79,W,False
 2026,2,10,cc5597,D. Adams Ramily,137.25,4,jdrobny,147.46,L,False
@@ -29,7 +29,7 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,3,4,jdrobny,Stick em up,131.7,6,JSanDusky69,104.81,W,False
 2026,3,5,charliekaufmann,Clownin’ Around,139.81,7,KingTowsk,91.08,W,False
 2026,3,6,JSanDusky69,The Stanky Knee,104.81,4,jdrobny,131.7,L,False
-2026,3,7,KingTowsk,Injured Reserve,91.08,5,charliekaufmann,139.81,L,False
+2026,3,7,KingTowsk,FireBlashill FireDavidson,91.08,5,charliekaufmann,139.81,L,False
 2026,3,8,TylerWicks,Don’t Stop Bo-lievin’,150.48,12,akepple9,120.43,W,False
 2026,3,9,brockhusk,Just End The Season,132.28,1,bgreenblatt,162.64,L,False
 2026,3,10,cc5597,D. Adams Ramily,109.52,3,MaxSirianni,123.17,L,False
@@ -41,7 +41,7 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,4,4,jdrobny,Stick em up,144.97,7,KingTowsk,101.96,W,False
 2026,4,5,charliekaufmann,Clownin’ Around,130.94,2,Erjohnson14,154.36,L,False
 2026,4,6,JSanDusky69,The Stanky Knee,138.48,10,cc5597,137.95,W,False
-2026,4,7,KingTowsk,Injured Reserve,101.96,4,jdrobny,144.97,L,False
+2026,4,7,KingTowsk,FireBlashill FireDavidson,101.96,4,jdrobny,144.97,L,False
 2026,4,8,TylerWicks,Don’t Stop Bo-lievin’,112.39,9,brockhusk,99.76,W,False
 2026,4,9,brockhusk,Just End The Season,99.76,8,TylerWicks,112.39,L,False
 2026,4,10,cc5597,D. Adams Ramily,137.95,6,JSanDusky69,138.48,L,False
@@ -53,7 +53,7 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,5,4,jdrobny,Stick em up,157.41,2,Erjohnson14,159.33,L,False
 2026,5,5,charliekaufmann,Clownin’ Around,136.61,1,bgreenblatt,173.82,L,False
 2026,5,6,JSanDusky69,The Stanky Knee,154.24,3,MaxSirianni,133.61,W,False
-2026,5,7,KingTowsk,Injured Reserve,135.75,10,cc5597,123.1,W,False
+2026,5,7,KingTowsk,FireBlashill FireDavidson,135.75,10,cc5597,123.1,W,False
 2026,5,8,TylerWicks,Don’t Stop Bo-lievin’,123.3,11,Jacktaco98,90.22,W,False
 2026,5,9,brockhusk,Just End The Season,123.59,12,akepple9,193.21,L,False
 2026,5,10,cc5597,D. Adams Ramily,123.1,7,KingTowsk,135.75,L,False
@@ -65,7 +65,7 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,6,4,jdrobny,Stick em up,143.74,1,bgreenblatt,114.95,W,False
 2026,6,5,charliekaufmann,Clownin’ Around,90.06,8,TylerWicks,132.67,L,False
 2026,6,6,JSanDusky69,The Stanky Knee,161.69,7,KingTowsk,104.05,W,False
-2026,6,7,KingTowsk,Injured Reserve,104.05,6,JSanDusky69,161.69,L,False
+2026,6,7,KingTowsk,FireBlashill FireDavidson,104.05,6,JSanDusky69,161.69,L,False
 2026,6,8,TylerWicks,Don’t Stop Bo-lievin’,132.67,5,charliekaufmann,90.06,W,False
 2026,6,9,brockhusk,Just End The Season,94.34,3,MaxSirianni,107.32,L,False
 2026,6,10,cc5597,D. Adams Ramily,138.57,2,Erjohnson14,103.75,W,False
@@ -77,31 +77,31 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,7,4,jdrobny,Stick em up,133.37,8,TylerWicks,158.09,L,False
 2026,7,5,charliekaufmann,Clownin’ Around,139.05,12,akepple9,117.17,W,False
 2026,7,6,JSanDusky69,The Stanky Knee,147.5,2,Erjohnson14,113.59,W,False
-2026,7,7,KingTowsk,Injured Reserve,119.21,3,MaxSirianni,124.42,L,False
+2026,7,7,KingTowsk,FireBlashill FireDavidson,119.21,3,MaxSirianni,124.42,L,False
 2026,7,8,TylerWicks,Don’t Stop Bo-lievin’,158.09,4,jdrobny,133.37,W,False
 2026,7,9,brockhusk,Just End The Season,123.76,11,Jacktaco98,139.24,L,False
 2026,7,10,cc5597,D. Adams Ramily,106.12,1,bgreenblatt,151.66,L,False
 2026,7,11,Jacktaco98,Young Stroud boys,139.24,9,brockhusk,123.76,W,False
 2026,7,12,akepple9,Project Skrilla ,117.17,5,charliekaufmann,139.05,L,False
-2026,8,1,bgreenblatt,Tuten & The Blowfish,34.1,6,JSanDusky69,16.28,W,False
-2026,8,2,Erjohnson14,McJohnsons Johnson,36.48,7,KingTowsk,36.88,L,False
-2026,8,3,MaxSirianni,Maye you CeeDeez Nuts,55.7,11,Jacktaco98,26.96,W,False
-2026,8,4,jdrobny,Stick em up,9.1,12,akepple9,28.6,L,False
-2026,8,5,charliekaufmann,Clownin’ Around,13.47,9,brockhusk,15.6,L,False
-2026,8,6,JSanDusky69,The Stanky Knee,16.28,1,bgreenblatt,34.1,L,False
-2026,8,7,KingTowsk,Injured Reserve,36.88,2,Erjohnson14,36.48,W,False
-2026,8,8,TylerWicks,Don’t Stop Bo-lievin’,66.22,10,cc5597,19.41,W,False
-2026,8,9,brockhusk,Just End The Season,15.6,5,charliekaufmann,13.47,W,False
-2026,8,10,cc5597,D. Adams Ramily,19.41,8,TylerWicks,66.22,L,False
-2026,8,11,Jacktaco98,Young Stroud boys,26.96,3,MaxSirianni,55.7,L,False
-2026,8,12,akepple9,Project Skrilla ,28.6,4,jdrobny,9.1,W,False
+2026,8,1,bgreenblatt,Tuten & The Blowfish,134.34,6,JSanDusky69,157.74,L,False
+2026,8,2,Erjohnson14,McJohnsons Johnson,87.64,7,KingTowsk,156.61,L,False
+2026,8,3,MaxSirianni,Maye you CeeDeez Nuts,129.83,11,Jacktaco98,148.01,L,False
+2026,8,4,jdrobny,Stick em up,78.98,12,akepple9,104.13,L,False
+2026,8,5,charliekaufmann,Clownin’ Around,135.36,9,brockhusk,115.3,W,False
+2026,8,6,JSanDusky69,The Stanky Knee,157.74,1,bgreenblatt,134.34,W,False
+2026,8,7,KingTowsk,FireBlashill FireDavidson,156.61,2,Erjohnson14,87.64,W,False
+2026,8,8,TylerWicks,Don’t Stop Bo-lievin’,159.1,10,cc5597,111.61,W,False
+2026,8,9,brockhusk,Just End The Season,115.3,5,charliekaufmann,135.36,L,False
+2026,8,10,cc5597,D. Adams Ramily,111.61,8,TylerWicks,159.1,L,False
+2026,8,11,Jacktaco98,Young Stroud boys,148.01,3,MaxSirianni,129.83,W,False
+2026,8,12,akepple9,Project Skrilla ,104.13,4,jdrobny,78.98,W,False
 2026,9,1,bgreenblatt,Tuten & The Blowfish,0,7,KingTowsk,0,T,False
 2026,9,2,Erjohnson14,McJohnsons Johnson,0,3,MaxSirianni,0,T,False
 2026,9,3,MaxSirianni,Maye you CeeDeez Nuts,0,2,Erjohnson14,0,T,False
 2026,9,4,jdrobny,Stick em up,0,9,brockhusk,0,T,False
 2026,9,5,charliekaufmann,Clownin’ Around,0,11,Jacktaco98,0,T,False
 2026,9,6,JSanDusky69,The Stanky Knee,0,8,TylerWicks,0,T,False
-2026,9,7,KingTowsk,Injured Reserve,0,1,bgreenblatt,0,T,False
+2026,9,7,KingTowsk,FireBlashill FireDavidson,0,1,bgreenblatt,0,T,False
 2026,9,8,TylerWicks,Don’t Stop Bo-lievin’,0,6,JSanDusky69,0,T,False
 2026,9,9,brockhusk,Just End The Season,0,4,jdrobny,0,T,False
 2026,9,10,cc5597,D. Adams Ramily,0,12,akepple9,0,T,False
@@ -113,7 +113,7 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,10,4,jdrobny,Stick em up,0,11,Jacktaco98,0,T,False
 2026,10,5,charliekaufmann,Clownin’ Around,0,3,MaxSirianni,0,T,False
 2026,10,6,JSanDusky69,The Stanky Knee,0,12,akepple9,0,T,False
-2026,10,7,KingTowsk,Injured Reserve,0,8,TylerWicks,0,T,False
+2026,10,7,KingTowsk,FireBlashill FireDavidson,0,8,TylerWicks,0,T,False
 2026,10,8,TylerWicks,Don’t Stop Bo-lievin’,0,7,KingTowsk,0,T,False
 2026,10,9,brockhusk,Just End The Season,0,10,cc5597,0,T,False
 2026,10,10,cc5597,D. Adams Ramily,0,9,brockhusk,0,T,False
@@ -125,7 +125,7 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,11,4,jdrobny,Stick em up,0,5,charliekaufmann,0,T,False
 2026,11,5,charliekaufmann,Clownin’ Around,0,4,jdrobny,0,T,False
 2026,11,6,JSanDusky69,The Stanky Knee,0,9,brockhusk,0,T,False
-2026,11,7,KingTowsk,Injured Reserve,0,12,akepple9,0,T,False
+2026,11,7,KingTowsk,FireBlashill FireDavidson,0,12,akepple9,0,T,False
 2026,11,8,TylerWicks,Don’t Stop Bo-lievin’,0,2,Erjohnson14,0,T,False
 2026,11,9,brockhusk,Just End The Season,0,6,JSanDusky69,0,T,False
 2026,11,10,cc5597,D. Adams Ramily,0,11,Jacktaco98,0,T,False
@@ -137,7 +137,7 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,12,4,jdrobny,Stick em up,0,3,MaxSirianni,0,T,False
 2026,12,5,charliekaufmann,Clownin’ Around,0,10,cc5597,0,T,False
 2026,12,6,JSanDusky69,The Stanky Knee,0,11,Jacktaco98,0,T,False
-2026,12,7,KingTowsk,Injured Reserve,0,9,brockhusk,0,T,False
+2026,12,7,KingTowsk,FireBlashill FireDavidson,0,9,brockhusk,0,T,False
 2026,12,8,TylerWicks,Don’t Stop Bo-lievin’,0,1,bgreenblatt,0,T,False
 2026,12,9,brockhusk,Just End The Season,0,7,KingTowsk,0,T,False
 2026,12,10,cc5597,D. Adams Ramily,0,5,charliekaufmann,0,T,False
@@ -149,7 +149,7 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,13,4,jdrobny,Stick em up,0,10,cc5597,0,T,False
 2026,13,5,charliekaufmann,Clownin’ Around,0,6,JSanDusky69,0,T,False
 2026,13,6,JSanDusky69,The Stanky Knee,0,5,charliekaufmann,0,T,False
-2026,13,7,KingTowsk,Injured Reserve,0,11,Jacktaco98,0,T,False
+2026,13,7,KingTowsk,FireBlashill FireDavidson,0,11,Jacktaco98,0,T,False
 2026,13,8,TylerWicks,Don’t Stop Bo-lievin’,0,3,MaxSirianni,0,T,False
 2026,13,9,brockhusk,Just End The Season,0,2,Erjohnson14,0,T,False
 2026,13,10,cc5597,D. Adams Ramily,0,4,jdrobny,0,T,False
@@ -161,7 +161,7 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,14,4,jdrobny,Stick em up,0,6,JSanDusky69,0,T,False
 2026,14,5,charliekaufmann,Clownin’ Around,0,7,KingTowsk,0,T,False
 2026,14,6,JSanDusky69,The Stanky Knee,0,4,jdrobny,0,T,False
-2026,14,7,KingTowsk,Injured Reserve,0,5,charliekaufmann,0,T,False
+2026,14,7,KingTowsk,FireBlashill FireDavidson,0,5,charliekaufmann,0,T,False
 2026,14,8,TylerWicks,Don’t Stop Bo-lievin’,0,12,akepple9,0,T,False
 2026,14,9,brockhusk,Just End The Season,0,1,bgreenblatt,0,T,False
 2026,14,10,cc5597,D. Adams Ramily,0,3,MaxSirianni,0,T,False
@@ -173,7 +173,7 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,15,4,jdrobny,Stick em up,0,7,KingTowsk,0,T,True
 2026,15,5,charliekaufmann,Clownin’ Around,0,2,Erjohnson14,0,T,True
 2026,15,6,JSanDusky69,The Stanky Knee,0,10,cc5597,0,T,True
-2026,15,7,KingTowsk,Injured Reserve,0,4,jdrobny,0,T,True
+2026,15,7,KingTowsk,FireBlashill FireDavidson,0,4,jdrobny,0,T,True
 2026,15,8,TylerWicks,Don’t Stop Bo-lievin’,0,9,brockhusk,0,T,True
 2026,15,9,brockhusk,Just End The Season,0,8,TylerWicks,0,T,True
 2026,15,10,cc5597,D. Adams Ramily,0,6,JSanDusky69,0,T,True
@@ -185,7 +185,7 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,16,4,jdrobny,Stick em up,0,2,Erjohnson14,0,T,True
 2026,16,5,charliekaufmann,Clownin’ Around,0,1,bgreenblatt,0,T,True
 2026,16,6,JSanDusky69,The Stanky Knee,0,3,MaxSirianni,0,T,True
-2026,16,7,KingTowsk,Injured Reserve,0,10,cc5597,0,T,True
+2026,16,7,KingTowsk,FireBlashill FireDavidson,0,10,cc5597,0,T,True
 2026,16,8,TylerWicks,Don’t Stop Bo-lievin’,0,11,Jacktaco98,0,T,True
 2026,16,9,brockhusk,Just End The Season,0,12,akepple9,0,T,True
 2026,16,10,cc5597,D. Adams Ramily,0,7,KingTowsk,0,T,True
@@ -197,7 +197,7 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,17,4,jdrobny,Stick em up,0,1,bgreenblatt,0,T,True
 2026,17,5,charliekaufmann,Clownin’ Around,0,8,TylerWicks,0,T,True
 2026,17,6,JSanDusky69,The Stanky Knee,0,7,KingTowsk,0,T,True
-2026,17,7,KingTowsk,Injured Reserve,0,6,JSanDusky69,0,T,True
+2026,17,7,KingTowsk,FireBlashill FireDavidson,0,6,JSanDusky69,0,T,True
 2026,17,8,TylerWicks,Don’t Stop Bo-lievin’,0,5,charliekaufmann,0,T,True
 2026,17,9,brockhusk,Just End The Season,0,3,MaxSirianni,0,T,True
 2026,17,10,cc5597,D. Adams Ramily,0,2,Erjohnson14,0,T,True
@@ -209,7 +209,7 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,18,4,jdrobny,Stick em up,0,8,TylerWicks,0,T,True
 2026,18,5,charliekaufmann,Clownin’ Around,0,12,akepple9,0,T,True
 2026,18,6,JSanDusky69,The Stanky Knee,0,2,Erjohnson14,0,T,True
-2026,18,7,KingTowsk,Injured Reserve,0,3,MaxSirianni,0,T,True
+2026,18,7,KingTowsk,FireBlashill FireDavidson,0,3,MaxSirianni,0,T,True
 2026,18,8,TylerWicks,Don’t Stop Bo-lievin’,0,4,jdrobny,0,T,True
 2026,18,9,brockhusk,Just End The Season,0,11,Jacktaco98,0,T,True
 2026,18,10,cc5597,D. Adams Ramily,0,1,bgreenblatt,0,T,True

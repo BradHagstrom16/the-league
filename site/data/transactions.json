@@ -379,22 +379,29 @@
     "user_id": "475399371639222272",
     "name": "Clem",
     "spent": 42.0,
-    "points_after": 123.95,
-    "ppd": 2.95
-   },
-   {
-    "user_id": "716698629934481408",
-    "name": "Chuck",
-    "spent": 49.0,
-    "points_after": 104.4,
-    "ppd": 2.13
+    "points_after": 145.47,
+    "ppd": 3.46
    },
    {
     "user_id": "735974647736213504",
     "name": "Towsk",
     "spent": 82.0,
-    "points_after": 102.14,
-    "ppd": 1.25
+    "points_after": 139.64,
+    "ppd": 1.7
+   },
+   {
+    "user_id": "716698629934481408",
+    "name": "Chuck",
+    "spent": 49.0,
+    "points_after": 125.75,
+    "ppd": 2.57
+   },
+   {
+    "user_id": "865793938542456832",
+    "name": "Beaut",
+    "spent": 26.0,
+    "points_after": 75.6,
+    "ppd": 2.91
    },
    {
     "user_id": "710284244835979264",
@@ -402,13 +409,6 @@
     "spent": 83.0,
     "points_after": 73.46,
     "ppd": 0.89
-   },
-   {
-    "user_id": "865793938542456832",
-    "name": "Beaut",
-    "spent": 26.0,
-    "points_after": 73.45,
-    "ppd": 2.83
    },
    {
     "user_id": "608781531883859968",
@@ -428,34 +428,34 @@
     "user_id": "1136842855890366464",
     "name": "Kep",
     "spent": 36.0,
-    "points_after": 42.6,
-    "ppd": 1.18
+    "points_after": 44.5,
+    "ppd": 1.24
    },
    {
     "user_id": "736077599457026048",
     "name": "Johnson",
     "spent": 98.0,
-    "points_after": 16.4,
-    "ppd": 0.17
+    "points_after": 23.8,
+    "ppd": 0.24
    },
    {
     "user_id": "736803054736822272",
     "name": "Wicko",
     "spent": 14.0,
-    "points_after": 6.0,
-    "ppd": 0.43
-   },
-   {
-    "user_id": "736740647758938112",
-    "name": "BJ",
-    "spent": 11.0,
-    "points_after": 0.0,
-    "ppd": 0.0
+    "points_after": 10.0,
+    "ppd": 0.71
    },
    {
     "user_id": "736744257179770880",
     "name": "Drobny",
     "spent": 16.0,
+    "points_after": 2.1,
+    "ppd": 0.13
+   },
+   {
+    "user_id": "736740647758938112",
+    "name": "BJ",
+    "spent": 15.0,
     "points_after": 0.0,
     "ppd": 0.0
    }
@@ -2593,7 +2593,7 @@
       "Bhayshul Tuten",
       "Jaylen Waddle"
      ],
-     "points_after": 73.6
+     "points_after": 101.2
     },
     {
      "user_id": "710284244835979264",
@@ -2606,7 +2606,7 @@
     }
    ],
    "winner_user_id": "608781531883859968",
-   "margin": 48.2
+   "margin": 75.8
   },
   {
    "transaction_id": "1408599770846576640",
@@ -2620,7 +2620,7 @@
      "players_gained": [
       "Jacoby Brissett"
      ],
-     "points_after": 58.72
+     "points_after": 62.58
     },
     {
      "user_id": "1136842855890366464",
@@ -2632,7 +2632,7 @@
     }
    ],
    "winner_user_id": "1136842855890366464",
-   "margin": 10.42
+   "margin": 6.56
   },
   {
    "transaction_id": "1419117610804445184",
@@ -2720,8 +2720,8 @@
    "trades": 4
   },
   "736740647758938112": {
-   "adds": 185,
-   "drops": 184,
+   "adds": 186,
+   "drops": 185,
    "trades": 15
   },
   "736744257179770880": {

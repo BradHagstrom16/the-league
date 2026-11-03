@@ -742,71 +742,71 @@
    {
     "user_id": "1136842855890366464",
     "name": "Kep",
-    "allplay_w": 43,
-    "allplay_l": 45,
+    "allplay_w": 39,
+    "allplay_l": 49,
     "allplay_t": 66,
-    "allplay_pct": 0.4935,
-    "exp_wins": 6.91,
+    "allplay_pct": 0.4675,
+    "exp_wins": 6.55,
     "actual_wins": 3,
-    "luck_delta": -3.91,
+    "luck_delta": -3.55,
     "close_w": 0,
     "close_l": 0,
-    "sos": 0.5116
+    "sos": 0.5097
    },
    {
     "user_id": "475399371639222272",
     "name": "Clem",
-    "allplay_w": 34,
-    "allplay_l": 54,
+    "allplay_w": 33,
+    "allplay_l": 55,
     "allplay_t": 66,
-    "allplay_pct": 0.4351,
-    "exp_wins": 6.09,
+    "allplay_pct": 0.4286,
+    "exp_wins": 6.0,
     "actual_wins": 2,
-    "luck_delta": -4.09,
+    "luck_delta": -4.0,
     "close_w": 1,
     "close_l": 1,
-    "sos": 0.5051
+    "sos": 0.506
    },
    {
     "user_id": "608781531883859968",
     "name": "Benny G",
-    "allplay_w": 61,
-    "allplay_l": 27,
+    "allplay_w": 60,
+    "allplay_l": 28,
     "allplay_t": 66,
-    "allplay_pct": 0.6104,
-    "exp_wins": 8.55,
-    "actual_wins": 5,
-    "luck_delta": -3.55,
+    "allplay_pct": 0.6039,
+    "exp_wins": 8.45,
+    "actual_wins": 4,
+    "luck_delta": -4.45,
     "close_w": 0,
     "close_l": 0,
-    "sos": 0.4824
+    "sos": 0.4819
    },
    {
     "user_id": "710284244835979264",
     "name": "B-Husk",
-    "allplay_w": 22,
-    "allplay_l": 66,
+    "allplay_w": 24,
+    "allplay_l": 64,
     "allplay_t": 66,
-    "allplay_pct": 0.3571,
-    "exp_wins": 5.0,
-    "actual_wins": 2,
-    "luck_delta": -3.0,
-    "close_w": 1,
+    "allplay_pct": 0.3701,
+    "exp_wins": 5.18,
+    "actual_wins": 1,
+    "luck_delta": -4.18,
+    "close_w": 0,
     "close_l": 0,
-    "sos": 0.5148
+    "sos": 0.5102
    },
    {
     "user_id": "716698629934481408",
     "name": "Chuck",
-    "allplay_w": 38,
-    "allplay_l": 50,
+    "allplay_w": 44,
+    "allplay_l": 44,
     "allplay_t": 66,
-    "allplay_pct": 0.461,
-    "exp_wins": 6.45,
-    "actual_wins": 3,
-    "luck_delta": -3.45,
+    "allplay_pct": 0.5,
+    "exp_wins": 7.0,
+    "actual_wins": 4,
+    "luck_delta": -3.0,
     "close_w": 1,
-    "close_l": 2,
+    "close_l": 1,
     "sos": 0.493
    },
    {
@@ -819,37 +819,37 @@
     "exp_wins": 5.91,
     "actual_wins": 3,
     "luck_delta": -2.91,
-    "close_w": 1,
+    "close_w": 0,
     "close_l": 0,
-    "sos": 0.5014
+    "sos": 0.5065
    },
    {
     "user_id": "736077599457026048",
     "name": "Johnson",
-    "allplay_w": 49,
-    "allplay_l": 39,
+    "allplay_w": 42,
+    "allplay_l": 46,
     "allplay_t": 66,
-    "allplay_pct": 0.5325,
-    "exp_wins": 7.45,
+    "allplay_pct": 0.487,
+    "exp_wins": 6.82,
     "actual_wins": 4,
-    "luck_delta": -3.45,
+    "luck_delta": -2.82,
     "close_w": 1,
-    "close_l": 1,
-    "sos": 0.4958
+    "close_l": 0,
+    "sos": 0.4995
    },
    {
     "user_id": "736740647758938112",
     "name": "BJ",
-    "allplay_w": 45,
-    "allplay_l": 43,
+    "allplay_w": 52,
+    "allplay_l": 36,
     "allplay_t": 66,
-    "allplay_pct": 0.5065,
-    "exp_wins": 7.09,
-    "actual_wins": 4,
-    "luck_delta": -3.09,
+    "allplay_pct": 0.5519,
+    "exp_wins": 7.73,
+    "actual_wins": 5,
+    "luck_delta": -2.73,
     "close_w": 1,
     "close_l": 1,
-    "sos": 0.5083
+    "sos": 0.5093
    },
    {
     "user_id": "736744257179770880",
@@ -863,7 +863,7 @@
     "luck_delta": -2.55,
     "close_w": 0,
     "close_l": 1,
-    "sos": 0.4935
+    "sos": 0.494
    },
    {
     "user_id": "736803054736822272",
@@ -877,35 +877,35 @@
     "luck_delta": -1.18,
     "close_w": 0,
     "close_l": 0,
-    "sos": 0.507
+    "sos": 0.5023
    },
    {
     "user_id": "737091087440674816",
     "name": "Siri",
-    "allplay_w": 45,
-    "allplay_l": 43,
+    "allplay_w": 40,
+    "allplay_l": 48,
     "allplay_t": 66,
-    "allplay_pct": 0.5065,
-    "exp_wins": 7.09,
-    "actual_wins": 6,
-    "luck_delta": -1.09,
+    "allplay_pct": 0.474,
+    "exp_wins": 6.64,
+    "actual_wins": 5,
+    "luck_delta": -1.64,
     "close_w": 0,
     "close_l": 0,
-    "sos": 0.4986
+    "sos": 0.5005
    },
    {
     "user_id": "865793938542456832",
     "name": "Beaut",
-    "allplay_w": 63,
-    "allplay_l": 25,
+    "allplay_w": 66,
+    "allplay_l": 22,
     "allplay_t": 66,
-    "allplay_pct": 0.6234,
-    "exp_wins": 8.73,
-    "actual_wins": 5,
-    "luck_delta": -3.73,
+    "allplay_pct": 0.6429,
+    "exp_wins": 9.0,
+    "actual_wins": 6,
+    "luck_delta": -3.0,
     "close_w": 0,
     "close_l": 0,
-    "sos": 0.4884
+    "sos": 0.487
    }
   ]
  },
@@ -913,41 +913,41 @@
   {
    "user_id": "1136842855890366464",
    "name": "Kep",
-   "allplay_w": 130,
-   "allplay_l": 112,
+   "allplay_w": 126,
+   "allplay_l": 116,
    "allplay_t": 66,
-   "allplay_pct": 0.5292,
-   "exp_wins": 14.82,
+   "allplay_pct": 0.5162,
+   "exp_wins": 14.45,
    "actual_wins": 10,
-   "luck_delta": -4.82,
+   "luck_delta": -4.45,
    "close_w": 0,
    "close_l": 1,
-   "sos": 0.4986
+   "sos": 0.4977
   },
   {
    "user_id": "475399371639222272",
    "name": "Clem",
-   "allplay_w": 381,
-   "allplay_l": 356,
+   "allplay_w": 380,
+   "allplay_l": 357,
    "allplay_t": 66,
-   "allplay_pct": 0.5156,
-   "exp_wins": 42.79,
+   "allplay_pct": 0.5143,
+   "exp_wins": 42.69,
    "actual_wins": 41,
-   "luck_delta": -1.79,
+   "luck_delta": -1.69,
    "close_w": 7,
    "close_l": 4,
-   "sos": 0.4992
+   "sos": 0.4993
   },
   {
    "user_id": "608781531883859968",
    "name": "Benny G",
-   "allplay_w": 466,
-   "allplay_l": 271,
+   "allplay_w": 465,
+   "allplay_l": 272,
    "allplay_t": 66,
-   "allplay_pct": 0.6214,
-   "exp_wins": 51.58,
-   "actual_wins": 45,
-   "luck_delta": -6.58,
+   "allplay_pct": 0.6202,
+   "exp_wins": 51.47,
+   "actual_wins": 44,
+   "luck_delta": -7.47,
    "close_w": 2,
    "close_l": 3,
    "sos": 0.4834
@@ -955,29 +955,29 @@
   {
    "user_id": "710284244835979264",
    "name": "B-Husk",
-   "allplay_w": 331,
-   "allplay_l": 406,
+   "allplay_w": 333,
+   "allplay_l": 404,
    "allplay_t": 66,
-   "allplay_pct": 0.4533,
-   "exp_wins": 37.62,
-   "actual_wins": 34,
-   "luck_delta": -3.62,
-   "close_w": 2,
+   "allplay_pct": 0.4558,
+   "exp_wins": 37.83,
+   "actual_wins": 33,
+   "luck_delta": -4.83,
+   "close_w": 1,
    "close_l": 4,
-   "sos": 0.5063
+   "sos": 0.5056
   },
   {
    "user_id": "716698629934481408",
    "name": "Chuck",
-   "allplay_w": 315,
-   "allplay_l": 422,
+   "allplay_w": 321,
+   "allplay_l": 416,
    "allplay_t": 66,
-   "allplay_pct": 0.4334,
-   "exp_wins": 35.97,
-   "actual_wins": 35,
-   "luck_delta": -0.97,
+   "allplay_pct": 0.4408,
+   "exp_wins": 36.59,
+   "actual_wins": 36,
+   "luck_delta": -0.59,
    "close_w": 7,
-   "close_l": 6,
+   "close_l": 5,
    "sos": 0.5065
   },
   {
@@ -990,37 +990,37 @@
    "exp_wins": 45.89,
    "actual_wins": 40,
    "luck_delta": -5.89,
-   "close_w": 5,
+   "close_w": 4,
    "close_l": 5,
-   "sos": 0.4877
+   "sos": 0.4886
   },
   {
    "user_id": "736077599457026048",
    "name": "Johnson",
-   "allplay_w": 417,
-   "allplay_l": 319,
+   "allplay_w": 410,
+   "allplay_l": 326,
    "allplay_t": 67,
-   "allplay_pct": 0.561,
-   "exp_wins": 46.56,
+   "allplay_pct": 0.5523,
+   "exp_wins": 45.84,
    "actual_wins": 42,
-   "luck_delta": -4.56,
+   "luck_delta": -3.84,
    "close_w": 5,
-   "close_l": 2,
-   "sos": 0.4932
+   "close_l": 1,
+   "sos": 0.4938
   },
   {
    "user_id": "736740647758938112",
    "name": "BJ",
-   "allplay_w": 333,
-   "allplay_l": 404,
+   "allplay_w": 340,
+   "allplay_l": 397,
    "allplay_t": 66,
-   "allplay_pct": 0.4558,
-   "exp_wins": 37.83,
-   "actual_wins": 35,
-   "luck_delta": -2.83,
+   "allplay_pct": 0.4645,
+   "exp_wins": 38.55,
+   "actual_wins": 36,
+   "luck_delta": -2.55,
    "close_w": 4,
    "close_l": 6,
-   "sos": 0.5064
+   "sos": 0.5066
   },
   {
    "user_id": "736744257179770880",
@@ -1034,7 +1034,7 @@
    "luck_delta": 0.62,
    "close_w": 7,
    "close_l": 5,
-   "sos": 0.5042
+   "sos": 0.5043
   },
   {
    "user_id": "736803054736822272",
@@ -1048,92 +1048,38 @@
    "luck_delta": -2.23,
    "close_w": 3,
    "close_l": 3,
-   "sos": 0.5039
+   "sos": 0.5031
   },
   {
    "user_id": "737091087440674816",
    "name": "Siri",
-   "allplay_w": 310,
-   "allplay_l": 427,
+   "allplay_w": 305,
+   "allplay_l": 432,
    "allplay_t": 66,
-   "allplay_pct": 0.4271,
-   "exp_wins": 35.45,
-   "actual_wins": 34,
-   "luck_delta": -1.45,
+   "allplay_pct": 0.4209,
+   "exp_wins": 34.94,
+   "actual_wins": 33,
+   "luck_delta": -1.94,
    "close_w": 2,
    "close_l": 5,
-   "sos": 0.5127
+   "sos": 0.513
   },
   {
    "user_id": "865793938542456832",
    "name": "Beaut",
-   "allplay_w": 138,
-   "allplay_l": 104,
+   "allplay_w": 141,
+   "allplay_l": 101,
    "allplay_t": 66,
-   "allplay_pct": 0.5552,
-   "exp_wins": 15.55,
-   "actual_wins": 14,
-   "luck_delta": -1.55,
+   "allplay_pct": 0.5649,
+   "exp_wins": 15.82,
+   "actual_wins": 15,
+   "luck_delta": -0.82,
    "close_w": 0,
    "close_l": 0,
-   "sos": 0.491
+   "sos": 0.4903
   }
  ],
  "heists": [
-  {
-   "season": 2026,
-   "week": 8,
-   "user_id": "710284244835979264",
-   "name": "B-Husk",
-   "points": 15.6,
-   "opp_points": 13.47,
-   "opp_user_id": "716698629934481408"
-  },
-  {
-   "season": 2026,
-   "week": 8,
-   "user_id": "1136842855890366464",
-   "name": "Kep",
-   "points": 28.6,
-   "opp_points": 9.1,
-   "opp_user_id": "736744257179770880"
-  },
-  {
-   "season": 2026,
-   "week": 8,
-   "user_id": "608781531883859968",
-   "name": "Benny G",
-   "points": 34.1,
-   "opp_points": 16.28,
-   "opp_user_id": "736740647758938112"
-  },
-  {
-   "season": 2026,
-   "week": 8,
-   "user_id": "735974647736213504",
-   "name": "Towsk",
-   "points": 36.88,
-   "opp_points": 36.48,
-   "opp_user_id": "736077599457026048"
-  },
-  {
-   "season": 2026,
-   "week": 8,
-   "user_id": "737091087440674816",
-   "name": "Siri",
-   "points": 55.7,
-   "opp_points": 26.96,
-   "opp_user_id": "865793938542456832"
-  },
-  {
-   "season": 2026,
-   "week": 8,
-   "user_id": "736803054736822272",
-   "name": "Wicko",
-   "points": 66.22,
-   "opp_points": 19.41,
-   "opp_user_id": "475399371639222272"
-  },
   {
    "season": 2021,
    "week": 9,
@@ -1153,6 +1099,15 @@
    "opp_user_id": "710284244835979264"
   },
   {
+   "season": 2026,
+   "week": 8,
+   "user_id": "1136842855890366464",
+   "name": "Kep",
+   "points": 104.13,
+   "opp_points": 78.98,
+   "opp_user_id": "736744257179770880"
+  },
+  {
    "season": 2022,
    "week": 6,
    "user_id": "710284244835979264",
@@ -1169,6 +1124,51 @@
    "points": 107.32,
    "opp_points": 94.34,
    "opp_user_id": "710284244835979264"
+  },
+  {
+   "season": 2025,
+   "week": 12,
+   "user_id": "736077599457026048",
+   "name": "Johnson",
+   "points": 108.62,
+   "opp_points": 81.01,
+   "opp_user_id": "710284244835979264"
+  },
+  {
+   "season": 2025,
+   "week": 11,
+   "user_id": "865793938542456832",
+   "name": "Beaut",
+   "points": 109.29,
+   "opp_points": 102.92,
+   "opp_user_id": "737091087440674816"
+  },
+  {
+   "season": 2026,
+   "week": 1,
+   "user_id": "736744257179770880",
+   "name": "Drobny",
+   "points": 109.6,
+   "opp_points": 100.34,
+   "opp_user_id": "737091087440674816"
+  },
+  {
+   "season": 2024,
+   "week": 3,
+   "user_id": "716698629934481408",
+   "name": "Chuck",
+   "points": 112.04,
+   "opp_points": 111.93,
+   "opp_user_id": "475399371639222272"
+  },
+  {
+   "season": 2023,
+   "week": 9,
+   "user_id": "608781531883859968",
+   "name": "Benny G",
+   "points": 112.14,
+   "opp_points": 99.51,
+   "opp_user_id": "736803054736822272"
   }
  ],
  "robbed": [

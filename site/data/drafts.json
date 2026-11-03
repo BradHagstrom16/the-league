@@ -467,6 +467,17 @@
     "surplus": 70.21
    },
    {
+    "season": 2026,
+    "manager_user": "1136842855890366464",
+    "name": "Kep",
+    "player_name": "Jaylen Warren",
+    "position": "RB",
+    "round": 7,
+    "overall_pick": 78,
+    "points": 144.8,
+    "surplus": 63.34
+   },
+   {
     "season": 2025,
     "manager_user": "1136842855890366464",
     "name": "Kep",
@@ -476,17 +487,6 @@
     "overall_pick": 43,
     "points": 229.26,
     "surplus": 62.91
-   },
-   {
-    "season": 2026,
-    "manager_user": "1136842855890366464",
-    "name": "Kep",
-    "player_name": "Jacoby Brissett",
-    "position": "QB",
-    "round": 12,
-    "overall_pick": 139,
-    "points": 108.3,
-    "surplus": 62.16
    }
   ],
   "475399371639222272": [
@@ -1097,23 +1097,23 @@
     "season": 2026,
     "manager_user": "865793938542456832",
     "name": "Beaut",
-    "player_name": "Kenneth Walker",
-    "position": "RB",
-    "round": 2,
-    "overall_pick": 20,
-    "points": 151.2,
-    "surplus": 66.1
+    "player_name": "Geno Smith",
+    "position": "QB",
+    "round": 14,
+    "overall_pick": 164,
+    "points": 123.12,
+    "surplus": 71.77
    },
    {
     "season": 2026,
     "manager_user": "865793938542456832",
     "name": "Beaut",
-    "player_name": "Bryce Young",
-    "position": "QB",
-    "round": 10,
-    "overall_pick": 116,
-    "points": 129.24,
-    "surplus": 64.08
+    "player_name": "Kenneth Walker",
+    "position": "RB",
+    "round": 2,
+    "overall_pick": 20,
+    "points": 163.6,
+    "surplus": 69.48
    }
   ]
  },
@@ -1128,7 +1128,7 @@
     "round": 1,
     "overall_pick": 6,
     "points": 80.08,
-    "surplus": -53.74
+    "surplus": -71.57
    },
    {
     "season": 2025,
@@ -1149,19 +1149,8 @@
     "position": "RB",
     "round": 2,
     "overall_pick": 19,
-    "points": 57.5,
-    "surplus": -27.6
-   },
-   {
-    "season": 2026,
-    "manager_user": "1136842855890366464",
-    "name": "Kep",
-    "player_name": "Jayden Daniels",
-    "position": "QB",
-    "round": 3,
-    "overall_pick": 30,
-    "points": 85.66,
-    "surplus": -9.22
+    "points": 62.2,
+    "surplus": -31.92
    },
    {
     "season": 2026,
@@ -1172,7 +1161,18 @@
     "round": 8,
     "overall_pick": 91,
     "points": 61.8,
-    "surplus": -5.02
+    "surplus": -10.84
+   },
+   {
+    "season": 2026,
+    "manager_user": "1136842855890366464",
+    "name": "Kep",
+    "player_name": "Jayden Daniels",
+    "position": "QB",
+    "round": 3,
+    "overall_pick": 30,
+    "points": 100.64,
+    "surplus": -1.42
    }
   ],
   "475399371639222272": [
@@ -1221,15 +1221,15 @@
     "surplus": -59.68
    },
    {
-    "season": 2022,
+    "season": 2026,
     "manager_user": "475399371639222272",
     "name": "Clem",
-    "player_name": "Dak Prescott",
+    "player_name": "Caleb Williams",
     "position": "QB",
-    "round": 3,
-    "overall_pick": 27,
-    "points": 126.78,
-    "surplus": -54.66
+    "round": 1,
+    "overall_pick": 12,
+    "points": 96.08,
+    "surplus": -55.57
    }
   ],
   "608781531883859968": [
@@ -1267,6 +1267,17 @@
     "surplus": -61.72
    },
    {
+    "season": 2026,
+    "manager_user": "608781531883859968",
+    "name": "Benny G",
+    "player_name": "Brian Thomas",
+    "position": "WR",
+    "round": 6,
+    "overall_pick": 71,
+    "points": 32.7,
+    "surplus": -54.86
+   },
+   {
     "season": 2021,
     "manager_user": "608781531883859968",
     "name": "Benny G",
@@ -1276,17 +1287,6 @@
     "overall_pick": 42,
     "points": 125.9,
     "surplus": -51.04
-   },
-   {
-    "season": 2026,
-    "manager_user": "608781531883859968",
-    "name": "Benny G",
-    "player_name": "Brian Thomas",
-    "position": "WR",
-    "round": 6,
-    "overall_pick": 71,
-    "points": 32.7,
-    "surplus": -50.48
    }
   ],
   "710284244835979264": [
@@ -1628,7 +1628,7 @@
     "round": 8,
     "overall_pick": 87,
     "points": 2.22,
-    "surplus": -64.6
+    "surplus": -70.42
    }
   ],
   "736803054736822272": [
@@ -1765,8 +1765,8 @@
     "position": "WR",
     "round": 4,
     "overall_pick": 44,
-    "points": 38.0,
-    "surplus": -59.39
+    "points": 56.3,
+    "surplus": -50.43
    },
    {
     "season": 2025,
@@ -1783,12 +1783,12 @@
     "season": 2026,
     "manager_user": "865793938542456832",
     "name": "Beaut",
-    "player_name": "Harold Fannin",
-    "position": "TE",
-    "round": 7,
-    "overall_pick": 77,
-    "points": 65.9,
-    "surplus": -9.18
+    "player_name": "Amon-Ra St. Brown",
+    "position": "WR",
+    "round": 1,
+    "overall_pick": 5,
+    "points": 140.0,
+    "surplus": -11.65
    },
    {
     "season": 2025,
@@ -1806,83 +1806,83 @@
  "by_round": [
   {
    "round": 1,
-   "avg_points": 208.59,
-   "hit_rate": 0.5312
+   "avg_points": 211.93,
+   "hit_rate": 0.5469
   },
   {
    "round": 2,
-   "avg_points": 179.54,
+   "avg_points": 181.23,
    "hit_rate": 0.5312
   },
   {
    "round": 3,
-   "avg_points": 151.7,
-   "hit_rate": 0.4844
+   "avg_points": 153.05,
+   "hit_rate": 0.4531
   },
   {
    "round": 4,
-   "avg_points": 154.13,
+   "avg_points": 155.89,
    "hit_rate": 0.4688
   },
   {
    "round": 5,
-   "avg_points": 137.99,
+   "avg_points": 140.38,
    "hit_rate": 0.5
   },
   {
    "round": 6,
-   "avg_points": 131.05,
-   "hit_rate": 0.5312
+   "avg_points": 131.87,
+   "hit_rate": 0.5469
   },
   {
    "round": 7,
-   "avg_points": 123.28,
+   "avg_points": 124.48,
    "hit_rate": 0.4844
   },
   {
    "round": 8,
-   "avg_points": 113.66,
+   "avg_points": 114.76,
    "hit_rate": 0.4844
   },
   {
    "round": 9,
-   "avg_points": 104.53,
-   "hit_rate": 0.5156
+   "avg_points": 105.5,
+   "hit_rate": 0.5312
   },
   {
    "round": 10,
-   "avg_points": 120.97,
+   "avg_points": 121.46,
    "hit_rate": 0.5
   },
   {
    "round": 11,
-   "avg_points": 90.35,
-   "hit_rate": 0.4688
+   "avg_points": 91.27,
+   "hit_rate": 0.4844
   },
   {
    "round": 12,
-   "avg_points": 79.34,
+   "avg_points": 79.98,
    "hit_rate": 0.3906
   },
   {
    "round": 13,
-   "avg_points": 78.95,
-   "hit_rate": 0.4375
+   "avg_points": 80.38,
+   "hit_rate": 0.4531
   },
   {
    "round": 14,
-   "avg_points": 83.41,
+   "avg_points": 84.1,
    "hit_rate": 0.5312
   },
   {
    "round": 15,
-   "avg_points": 69.56,
+   "avg_points": 69.95,
    "hit_rate": 0.4375
   },
   {
    "round": 16,
-   "avg_points": 69.07,
-   "hit_rate": 0.4219
+   "avg_points": 70.36,
+   "hit_rate": 0.4375
   },
   {
    "round": 17,

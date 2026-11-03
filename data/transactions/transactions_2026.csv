@@ -428,6 +428,8 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2026,1418598133146943488,7,waiver,failed,1792582660522,2026-10-21,5,charliekaufmann,add,9501,DeMario Douglas,WR,8
 2026,1418597565657600000,7,waiver,complete,1792582525223,2026-10-21,5,charliekaufmann,add,11655,Tyrone Tracy Jr.,RB,12
 2026,1418597565657600000,7,waiver,complete,1792582525223,2026-10-21,5,charliekaufmann,drop,11439,Jaleel McLaughlin,RB,
+2026,1422914649841491968,8,waiver,complete,1793611798299,2026-11-02,6,JSanDusky69,add,6130,Devin Singletary,RB,4
+2026,1422732910414270464,8,free_agent,complete,1793568468243,2026-11-01,6,JSanDusky69,drop,5870,Daniel Jones,QB,
 2026,1422668127962955776,8,free_agent,complete,1793553022904,2026-11-01,4,jdrobny,add,8110,Jake Ferguson,TE,
 2026,1422660280659226624,8,free_agent,complete,1793551151961,2026-11-01,4,jdrobny,drop,7567,Kenny Gainwell,RB,
 2026,1422648033748729899,8,waiver,complete,1793548232070,2026-11-01,8,TylerWicks,add,4147,Samaje Perine,RB,4
