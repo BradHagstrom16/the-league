@@ -33,7 +33,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,3,MaxSirianni,Joeybagofdonuts2.0,11624,Xavier Worthy,WR,KC,bench
 2024,3,MaxSirianni,Joeybagofdonuts2.0,11651,Isaac Guerendo,RB,SF,starter
 2024,3,MaxSirianni,Joeybagofdonuts2.0,1373,Geno Smith,QB,NYJ,starter
-2024,3,MaxSirianni,Joeybagofdonuts2.0,1479,Keenan Allen,WR,IND,bench
+2024,3,MaxSirianni,Joeybagofdonuts2.0,1479,Keenan Allen,WR,SF,bench
 2024,3,MaxSirianni,Joeybagofdonuts2.0,2133,Davante Adams,WR,LAR,starter
 2024,3,MaxSirianni,Joeybagofdonuts2.0,4018,Joe Mixon,RB,,starter
 2024,3,MaxSirianni,Joeybagofdonuts2.0,4037,Chris Godwin Jr.,WR,TB,ir
@@ -128,7 +128,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2024,8,TylerWicks,Dont stop Bo-lievin’,BUF,Buffalo Bills,DEF,BUF,starter
 2024,8,TylerWicks,Dont stop Bo-lievin’,DEN,Denver Broncos,DEF,DEN,bench
 2024,9,brockhusk,Brauk Tua Spit On That,10444,Cedric Tillman,WR,NO,bench
-2024,9,brockhusk,Brauk Tua Spit On That,1166,Kirk Cousins,QB,LV,bench
+2024,9,brockhusk,Brauk Tua Spit On That,1166,Kirk Cousins,QB,MIN,bench
 2024,9,brockhusk,Brauk Tua Spit On That,1426,DeAndre Hopkins,WR,,starter
 2024,9,brockhusk,Brauk Tua Spit On That,3451,Ka'imi Fairbairn,K,HOU,starter
 2024,9,brockhusk,Brauk Tua Spit On That,4892,Baker Mayfield,QB,TB,starter

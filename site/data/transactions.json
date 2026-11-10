@@ -376,88 +376,88 @@
   ],
   "2026": [
    {
+    "user_id": "735974647736213504",
+    "name": "Towsk",
+    "spent": 83.0,
+    "points_after": 158.24,
+    "ppd": 1.91
+   },
+   {
     "user_id": "475399371639222272",
     "name": "Clem",
     "spent": 42.0,
-    "points_after": 145.47,
-    "ppd": 3.46
-   },
-   {
-    "user_id": "735974647736213504",
-    "name": "Towsk",
-    "spent": 82.0,
-    "points_after": 139.64,
-    "ppd": 1.7
+    "points_after": 157.27,
+    "ppd": 3.74
    },
    {
     "user_id": "716698629934481408",
     "name": "Chuck",
-    "spent": 49.0,
-    "points_after": 125.75,
-    "ppd": 2.57
+    "spent": 63.0,
+    "points_after": 153.7,
+    "ppd": 2.44
    },
    {
     "user_id": "865793938542456832",
     "name": "Beaut",
-    "spent": 26.0,
-    "points_after": 75.6,
-    "ppd": 2.91
+    "spent": 49.0,
+    "points_after": 82.3,
+    "ppd": 1.68
    },
    {
     "user_id": "710284244835979264",
     "name": "B-Husk",
-    "spent": 83.0,
-    "points_after": 73.46,
-    "ppd": 0.89
+    "spent": 86.0,
+    "points_after": 72.46,
+    "ppd": 0.84
    },
    {
     "user_id": "608781531883859968",
     "name": "Benny G",
     "spent": 125.0,
-    "points_after": 60.9,
-    "ppd": 0.49
+    "points_after": 67.18,
+    "ppd": 0.54
    },
    {
     "user_id": "737091087440674816",
     "name": "Siri",
-    "spent": 66.0,
-    "points_after": 53.5,
-    "ppd": 0.81
-   },
-   {
-    "user_id": "1136842855890366464",
-    "name": "Kep",
-    "spent": 36.0,
-    "points_after": 44.5,
-    "ppd": 1.24
+    "spent": 83.0,
+    "points_after": 66.1,
+    "ppd": 0.8
    },
    {
     "user_id": "736077599457026048",
     "name": "Johnson",
     "spent": 98.0,
-    "points_after": 23.8,
-    "ppd": 0.24
+    "points_after": 57.9,
+    "ppd": 0.59
+   },
+   {
+    "user_id": "1136842855890366464",
+    "name": "Kep",
+    "spent": 36.0,
+    "points_after": 48.7,
+    "ppd": 1.35
    },
    {
     "user_id": "736803054736822272",
     "name": "Wicko",
-    "spent": 14.0,
-    "points_after": 10.0,
-    "ppd": 0.71
+    "spent": 40.0,
+    "points_after": 20.0,
+    "ppd": 0.5
    },
    {
     "user_id": "736744257179770880",
     "name": "Drobny",
-    "spent": 16.0,
-    "points_after": 2.1,
-    "ppd": 0.13
+    "spent": 37.0,
+    "points_after": 9.25,
+    "ppd": 0.25
    },
    {
     "user_id": "736740647758938112",
     "name": "BJ",
-    "spent": 15.0,
-    "points_after": 0.0,
-    "ppd": 0.0
+    "spent": 26.0,
+    "points_after": 5.3,
+    "ppd": 0.2
    }
   ]
  },
@@ -2593,7 +2593,7 @@
       "Bhayshul Tuten",
       "Jaylen Waddle"
      ],
-     "points_after": 101.2
+     "points_after": 113.3
     },
     {
      "user_id": "710284244835979264",
@@ -2606,7 +2606,7 @@
     }
    ],
    "winner_user_id": "608781531883859968",
-   "margin": 75.8
+   "margin": 87.9
   },
   {
    "transaction_id": "1408599770846576640",
@@ -2628,11 +2628,11 @@
      "players_gained": [
       "Michael Penix Jr."
      ],
-     "points_after": 69.14
+     "points_after": 82.62
     }
    ],
    "winner_user_id": "1136842855890366464",
-   "margin": 6.56
+   "margin": 20.04
   },
   {
    "transaction_id": "1419117610804445184",
@@ -2681,13 +2681,41 @@
    ],
    "winner_user_id": "736077599457026048",
    "margin": 0.0
+  },
+  {
+   "transaction_id": "1424076242663038976",
+   "season": 2026,
+   "week": 9,
+   "date": "2026-11-05",
+   "sides": [
+    {
+     "user_id": "736077599457026048",
+     "name": "Johnson",
+     "players_gained": [
+      "Brock Bowers",
+      "Emeka Egbuka"
+     ],
+     "points_after": 0.0
+    },
+    {
+     "user_id": "710284244835979264",
+     "name": "B-Husk",
+     "players_gained": [
+      "Dallas Goedert",
+      "Bijan Robinson"
+     ],
+     "points_after": 0.0
+    }
+   ],
+   "winner_user_id": "736077599457026048",
+   "margin": 0.0
   }
  ],
  "activity": {
   "736077599457026048": {
-   "adds": 220,
-   "drops": 217,
-   "trades": 24
+   "adds": 222,
+   "drops": 219,
+   "trades": 25
   },
   "475399371639222272": {
    "adds": 167,
@@ -2695,53 +2723,53 @@
    "trades": 15
   },
   "736803054736822272": {
-   "adds": 93,
-   "drops": 91,
+   "adds": 95,
+   "drops": 93,
    "trades": 7
   },
   "608781531883859968": {
-   "adds": 309,
-   "drops": 317,
+   "adds": 312,
+   "drops": 321,
    "trades": 22
   },
   "710284244835979264": {
-   "adds": 138,
-   "drops": 136,
-   "trades": 8
+   "adds": 144,
+   "drops": 143,
+   "trades": 9
   },
   "735974647736213504": {
-   "adds": 369,
-   "drops": 363,
+   "adds": 371,
+   "drops": 365,
    "trades": 30
   },
   "737091087440674816": {
-   "adds": 87,
-   "drops": 86,
+   "adds": 89,
+   "drops": 89,
    "trades": 4
   },
   "736740647758938112": {
-   "adds": 186,
-   "drops": 185,
+   "adds": 190,
+   "drops": 189,
    "trades": 15
   },
   "736744257179770880": {
-   "adds": 129,
+   "adds": 130,
    "drops": 127,
    "trades": 6
   },
   "716698629934481408": {
-   "adds": 135,
-   "drops": 135,
+   "adds": 137,
+   "drops": 137,
    "trades": 11
   },
   "865793938542456832": {
-   "adds": 34,
-   "drops": 33,
+   "adds": 37,
+   "drops": 36,
    "trades": 0
   },
   "1136842855890366464": {
-   "adds": 23,
-   "drops": 25,
+   "adds": 25,
+   "drops": 26,
    "trades": 2
   }
  }

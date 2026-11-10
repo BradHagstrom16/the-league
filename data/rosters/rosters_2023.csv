@@ -1,6 +1,6 @@
 season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,1,bgreenblatt,Taylor Park Boys,11533,Brandon Aubrey,K,DAL,starter
-2023,1,bgreenblatt,Taylor Park Boys,1479,Keenan Allen,WR,IND,ir
+2023,1,bgreenblatt,Taylor Park Boys,1479,Keenan Allen,WR,SF,ir
 2023,1,bgreenblatt,Taylor Park Boys,2505,Darren Waller,TE,CAR,starter
 2023,1,bgreenblatt,Taylor Park Boys,4035,Alvin Kamara,RB,NO,starter
 2023,1,bgreenblatt,Taylor Park Boys,559,Tim Tebow,TE,,bench
@@ -96,7 +96,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,6,JSanDusky69,Tua Girls One Kupp,8155,Breece Hall,RB,NYJ,starter
 2023,6,JSanDusky69,Tua Girls One Kupp,DEN,Denver Broncos,DEF,DEN,starter
 2023,7,KingTowsk,Leeroy Jenkins,10222,Jayden Reed,WR,GB,starter
-2023,7,KingTowsk,Leeroy Jenkins,10937,Jake Moody,K,BAL,starter
+2023,7,KingTowsk,Leeroy Jenkins,10937,Jake Moody,K,ATL,starter
 2023,7,KingTowsk,Leeroy Jenkins,1466,Travis Kelce,TE,KC,starter
 2023,7,KingTowsk,Leeroy Jenkins,3321,Tyreek Hill,WR,,starter
 2023,7,KingTowsk,Leeroy Jenkins,4199,Aaron Jones Sr.,RB,MIN,starter
