@@ -16,7 +16,7 @@
    "titles": 0,
    "playoff_apps": 1,
    "last_places": 0,
-   "longest_win_streak": 4,
+   "longest_win_streak": 5,
    "longest_loss_streak": 2,
    "active": true
   },
@@ -216,7 +216,7 @@
    "titles": 0,
    "playoff_apps": 3,
    "last_places": 1,
-   "longest_win_streak": 7,
+   "longest_win_streak": 8,
    "longest_loss_streak": 6,
    "active": true
   },

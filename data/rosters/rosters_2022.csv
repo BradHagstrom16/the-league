@@ -5,7 +5,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,1,bgreenblatt,Taylor Park Boys,4866,Saquon Barkley,RB,PHI,starter
 2022,1,bgreenblatt,Taylor Park Boys,4881,Lamar Jackson,QB,BAL,bench
 2022,1,bgreenblatt,Taylor Park Boys,503,Graham Gano,K,,starter
-2022,1,bgreenblatt,Taylor Park Boys,5848,Marquise Brown,WR,PHI,bench
+2022,1,bgreenblatt,Taylor Park Boys,5848,Marquise Brown,WR,,bench
 2022,1,bgreenblatt,Taylor Park Boys,6803,Brandon Aiyuk,WR,SF,bench
 2022,1,bgreenblatt,Taylor Park Boys,7523,Trevor Lawrence,QB,JAX,starter
 2022,1,bgreenblatt,Taylor Park Boys,7611,Rhamondre Stevenson,RB,NE,starter
@@ -107,7 +107,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,7,KingTowsk,Leeroy Jenkins,6011,Gardner Minshew II,QB,ARI,starter
 2022,7,KingTowsk,Leeroy Jenkins,6790,D'Andre Swift,RB,CHI,starter
 2022,7,KingTowsk,Leeroy Jenkins,6819,Michael Pittman Jr.,WR,PIT,bench
-2022,7,KingTowsk,Leeroy Jenkins,7922,Riley Patterson,K,,starter
+2022,7,KingTowsk,Leeroy Jenkins,7922,Riley Patterson,K,BAL,starter
 2022,7,KingTowsk,Leeroy Jenkins,8122,Zonovan Knight,RB,ARI,bench
 2022,7,KingTowsk,Leeroy Jenkins,8167,Christian Watson,WR,GB,starter
 2022,7,KingTowsk,Leeroy Jenkins,8205,Isiah Pacheco,RB,DET,starter
@@ -138,7 +138,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2022,9,brockhusk,Super Flex Offenders ,6786,CeeDee Lamb,WR,DAL,starter
 2022,9,brockhusk,Super Flex Offenders ,6943,Gabe Davis,WR,,bench
 2022,9,brockhusk,Super Flex Offenders ,7547,Amon-Ra St. Brown,WR,DET,starter
-2022,9,brockhusk,Super Flex Offenders ,7607,Michael Carter,RB,TEN,bench
+2022,9,brockhusk,Super Flex Offenders ,7607,Michael Carter,RB,,bench
 2022,9,brockhusk,Super Flex Offenders ,8112,Drake London,WR,ATL,bench
 2022,9,brockhusk,Super Flex Offenders ,8146,Garrett Wilson,WR,NYJ,starter
 2022,9,brockhusk,Super Flex Offenders ,8259,Cameron Dicker,K,LAC,starter

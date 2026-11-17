@@ -117,7 +117,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,7,KingTowsk,The Toilet Bowl Champ,4881,Lamar Jackson,QB,BAL,ir
 2021,7,KingTowsk,The Toilet Bowl Champ,5095,Daniel Carlson,K,,starter
 2021,7,KingTowsk,The Toilet Bowl Champ,5284,Jeff Wilson,RB,,starter
-2021,7,KingTowsk,The Toilet Bowl Champ,5848,Marquise Brown,WR,PHI,starter
+2021,7,KingTowsk,The Toilet Bowl Champ,5848,Marquise Brown,WR,,starter
 2021,7,KingTowsk,The Toilet Bowl Champ,5937,Diontae Johnson,WR,,starter
 2021,7,KingTowsk,The Toilet Bowl Champ,6790,D'Andre Swift,RB,CHI,bench
 2021,7,KingTowsk,The Toilet Bowl Champ,6803,Brandon Aiyuk,WR,SF,bench
@@ -125,7 +125,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2021,7,KingTowsk,The Toilet Bowl Champ,6828,AJ Dillon,RB,CAR,bench
 2021,7,KingTowsk,The Toilet Bowl Champ,6943,Gabe Davis,WR,,ir
 2021,7,KingTowsk,The Toilet Bowl Champ,7526,Jaylen Waddle,WR,DEN,starter
-2021,7,KingTowsk,The Toilet Bowl Champ,7607,Michael Carter,RB,TEN,starter
+2021,7,KingTowsk,The Toilet Bowl Champ,7607,Michael Carter,RB,,starter
 2021,7,KingTowsk,The Toilet Bowl Champ,954,Cam Newton,QB,,bench
 2021,7,KingTowsk,The Toilet Bowl Champ,GB,Green Bay Packers,DEF,GB,bench
 2021,7,KingTowsk,The Toilet Bowl Champ,PHI,Philadelphia Eagles,DEF,PHI,starter

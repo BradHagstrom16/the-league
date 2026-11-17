@@ -949,18 +949,18 @@ season,week,roster_id,manager,team_name,points,opponent_roster_id,opponent_manag
 2026,9,10,cc5597,D. Adams Ramily,86.93,12,akepple9,132.99,L,False
 2026,9,11,Jacktaco98,Young Stroud boys,176.6,5,charliekaufmann,120.25,W,False
 2026,9,12,akepple9,Project Skrilla ,132.99,10,cc5597,86.93,W,False
-2026,10,1,bgreenblatt,Tuten & The Blowfish,0,2,Erjohnson14,0,T,False
-2026,10,2,Erjohnson14,McJohnsons Johnson,0,1,bgreenblatt,0,T,False
-2026,10,3,MaxSirianni,Maye you CeeDeez Nuts,0,5,charliekaufmann,0,T,False
-2026,10,4,jdrobny,Stick em up,0,11,Jacktaco98,0,T,False
-2026,10,5,charliekaufmann,Clownin’ Around,0,3,MaxSirianni,0,T,False
-2026,10,6,JSanDusky69,The Stanky Knee,0,12,akepple9,0,T,False
-2026,10,7,KingTowsk,FireBlashill FireDavidson,0,8,TylerWicks,0,T,False
-2026,10,8,TylerWicks,Don’t Stop Bo-lievin’,0,7,KingTowsk,0,T,False
-2026,10,9,brockhusk,Just End The Season,0,10,cc5597,0,T,False
-2026,10,10,cc5597,D. Adams Ramily,0,9,brockhusk,0,T,False
-2026,10,11,Jacktaco98,Young Stroud boys,0,4,jdrobny,0,T,False
-2026,10,12,akepple9,Project Skrilla ,0,6,JSanDusky69,0,T,False
+2026,10,1,bgreenblatt,Tuten & The Blowfish,179.97,2,Erjohnson14,174.05,W,False
+2026,10,2,Erjohnson14,McJohnsons Johnson,174.05,1,bgreenblatt,179.97,L,False
+2026,10,3,MaxSirianni,Maye you CeeDeez Nuts,106.72,5,charliekaufmann,189.47,L,False
+2026,10,4,jdrobny,Stick em up,115.49,11,Jacktaco98,127.19,L,False
+2026,10,5,charliekaufmann,Clownin’ Around,189.47,3,MaxSirianni,106.72,W,False
+2026,10,6,JSanDusky69,The Stanky Knee,150.44,12,akepple9,141.35,W,False
+2026,10,7,KingTowsk,FireBlashill FireDavidson,92.66,8,TylerWicks,147.45,L,False
+2026,10,8,TylerWicks,Don’t Stop Bo-lievin’,147.45,7,KingTowsk,92.66,W,False
+2026,10,9,brockhusk,Just End The Season,153.43,10,cc5597,117.58,W,False
+2026,10,10,cc5597,D. Adams Ramily,117.58,9,brockhusk,153.43,L,False
+2026,10,11,Jacktaco98,Young Stroud boys,127.19,4,jdrobny,115.49,W,False
+2026,10,12,akepple9,Project Skrilla ,141.35,6,JSanDusky69,150.44,L,False
 2026,11,1,bgreenblatt,Tuten & The Blowfish,0,3,MaxSirianni,0,T,False
 2026,11,2,Erjohnson14,McJohnsons Johnson,0,8,TylerWicks,0,T,False
 2026,11,3,MaxSirianni,Maye you CeeDeez Nuts,0,1,bgreenblatt,0,T,False

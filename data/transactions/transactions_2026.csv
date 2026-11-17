@@ -483,6 +483,17 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2026,1421179450837483520,8,waiver,complete,1793198094619,2026-10-28,9,brockhusk,drop,NYJ,New York Jets,DEF,
 2026,1421157207638052864,8,waiver,failed,1793192791427,2026-10-28,6,JSanDusky69,add,11533,Brandon Aubrey,K,0
 2026,1421152695019933696,8,free_agent,complete,1793191715535,2026-10-28,2,Erjohnson14,drop,8154,Brian Robinson Jr.,RB,
+2026,1426104413931438080,9,waiver,complete,1794372297322,2026-11-10,4,jdrobny,add,12634,Jordan Watkins,WR,14
+2026,1426104413931438080,9,waiver,complete,1794372297322,2026-11-10,4,jdrobny,drop,8110,Jake Ferguson,TE,
+2026,1426104260180852736,9,waiver,complete,1794372260664,2026-11-10,4,jdrobny,add,5947,Jakobi Meyers,WR,21
+2026,1426104260180852736,9,waiver,complete,1794372260664,2026-11-10,4,jdrobny,drop,5001,Dalton Schultz,TE,
+2026,1425967963038560256,9,waiver,complete,1794339764894,2026-11-10,1,bgreenblatt,add,13272,Carson Beck,QB,0
+2026,1425967963038560256,9,waiver,complete,1794339764894,2026-11-10,1,bgreenblatt,drop,3161,Carson Wentz,QB,
+2026,1425886222248579072,9,waiver,failed,1794320276370,2026-11-10,6,JSanDusky69,add,7042,Tyler Bass,K,0
+2026,1425571341590913024,9,waiver,complete,1794245202972,2026-11-09,12,akepple9,add,12524,Shedeur Sanders,QB,11
+2026,1425529144132861952,9,waiver,failed,1794235142314,2026-11-09,6,JSanDusky69,add,11603,AJ Barner,TE,0
+2026,1425249912148238336,9,waiver,complete,1794168568220,2026-11-08,6,JSanDusky69,add,2505,Darren Waller,TE,0
+2026,1425249912148238336,9,waiver,complete,1794168568220,2026-11-08,6,JSanDusky69,drop,7553,Kyle Pitts Sr.,TE,
 2026,1425221807740399616,9,waiver,complete,1794161867608,2026-11-08,6,JSanDusky69,add,96,Aaron Rodgers,QB,7
 2026,1425221807740399616,9,waiver,complete,1794161867608,2026-11-08,6,JSanDusky69,drop,12524,Shedeur Sanders,QB,
 2026,1425204302208618496,9,free_agent,complete,1794157693964,2026-11-08,12,akepple9,drop,13545,Trey Smack,K,
@@ -542,3 +553,46 @@ season,transaction_id,week,type,status,created_ms,created_date,roster_id,manager
 2026,1423700325251993600,9,waiver,complete,1793799117914,2026-11-04,9,brockhusk,add,3451,Ka'imi Fairbairn,K,3
 2026,1423700230141931520,9,free_agent,complete,1793799095239,2026-11-04,9,brockhusk,drop,12711,Tyler Loop,K,
 2026,1423700121870204928,9,free_agent,complete,1793799069424,2026-11-04,9,brockhusk,drop,8122,Zonovan Knight,RB,
+2026,1428489394389536768,10,free_agent,complete,1794940920973,2026-11-17,3,MaxSirianni,drop,11579,Audric Estime,RB,
+2026,1428308042331455488,10,free_agent,complete,1794897683273,2026-11-17,6,JSanDusky69,drop,9756,Jordan Addison,WR,
+2026,1427831400408547328,10,free_agent,complete,1794784042983,2026-11-15,1,bgreenblatt,add,PIT,Pittsburgh Steelers,DEF,
+2026,1427831400408547328,10,free_agent,complete,1794784042983,2026-11-15,1,bgreenblatt,drop,11631,Brian Thomas Jr.,WR,
+2026,1427830833716150272,10,free_agent,complete,1794783907873,2026-11-15,1,bgreenblatt,add,11557,Joe Milton,QB,
+2026,1427830833716150272,10,free_agent,complete,1794783907873,2026-11-15,1,bgreenblatt,drop,13272,Carson Beck,QB,
+2026,1427798033956892672,10,free_agent,complete,1794776087801,2026-11-15,6,JSanDusky69,drop,GB,Green Bay Packers,DEF,
+2026,1427751335230443520,10,free_agent,complete,1794764953958,2026-11-15,3,MaxSirianni,add,9502,Tank Dell,WR,
+2026,1427751335230443520,10,free_agent,complete,1794764953958,2026-11-15,3,MaxSirianni,drop,7600,Pat Freiermuth,TE,
+2026,1427720283740991488,10,waiver,complete,1794757550705,2026-11-15,10,cc5597,add,7553,Kyle Pitts Sr.,TE,1
+2026,1427720283740991488,10,waiver,complete,1794757550705,2026-11-15,10,cc5597,drop,13414,Kaelon Black,RB,
+2026,1427571042829766656,10,free_agent,complete,1794721968899,2026-11-14,11,Jacktaco98,drop,13305,Mike Washington Jr.,RB,
+2026,1427412058659368960,10,waiver,complete,1794684064119,2026-11-14,9,brockhusk,add,12540,Chimere Dike,WR,0
+2026,1426726236708691968,10,free_agent,complete,1794520551425,2026-11-12,4,jdrobny,add,MIA,Miami Dolphins,DEF,
+2026,1426726236708691968,10,free_agent,complete,1794520551425,2026-11-12,4,jdrobny,drop,DEN,Denver Broncos,DEF,
+2026,1426704093098823680,10,free_agent,complete,1794515271976,2026-11-12,12,akepple9,add,IND,Indianapolis Colts,DEF,
+2026,1426704093098823680,10,free_agent,complete,1794515271976,2026-11-12,12,akepple9,drop,PIT,Pittsburgh Steelers,DEF,
+2026,1426678374658482176,10,free_agent,complete,1794509140222,2026-11-12,8,TylerWicks,add,5119,Jason Sanders,K,
+2026,1426678374658482176,10,free_agent,complete,1794509140222,2026-11-12,8,TylerWicks,drop,4147,Samaje Perine,RB,
+2026,1426672307815854080,10,free_agent,complete,1794507693774,2026-11-12,3,MaxSirianni,add,7562,Tutu Atwell,WR,
+2026,1426364126417948672,10,waiver,complete,1794434217604,2026-11-11,9,brockhusk,add,12491,Corey Kiner,RB,3
+2026,1426364126417948672,10,waiver,complete,1794434217604,2026-11-11,9,brockhusk,drop,9482,Michael Mayer,TE,
+2026,1426363778164854784,10,waiver,complete,1794434134573,2026-11-11,9,brockhusk,add,4993,Mike Gesicki,TE,0
+2026,1426363778164854784,10,waiver,complete,1794434134573,2026-11-11,9,brockhusk,drop,13330,Kenyon Sadiq,TE,
+2026,1426295468253515776,10,waiver,complete,1794417848222,2026-11-11,12,akepple9,add,12504,Kaleb Johnson,RB,0
+2026,1426295468253515776,10,waiver,complete,1794417848222,2026-11-11,12,akepple9,drop,CHI,Chicago Bears,DEF,
+2026,1426274600328630272,10,waiver,failed,1794412872920,2026-11-11,12,akepple9,add,12504,Kaleb Johnson,RB,6
+2026,1426268946234888192,10,waiver,complete,1794411524880,2026-11-11,11,Jacktaco98,add,7042,Tyler Bass,K,2
+2026,1426268946234888192,10,waiver,complete,1794411524880,2026-11-11,11,Jacktaco98,drop,2020,Cairo Santos,K,
+2026,1426256050146799616,10,waiver,complete,1794408450213,2026-11-11,9,brockhusk,add,BAL,Baltimore Ravens,DEF,4
+2026,1426256050146799616,10,waiver,complete,1794408450213,2026-11-11,9,brockhusk,drop,NE,New England Patriots,DEF,
+2026,1426255824241557504,10,waiver,complete,1794408396352,2026-11-11,9,brockhusk,add,12494,Kyle McCord,QB,3
+2026,1426255824241557504,10,waiver,complete,1794408396352,2026-11-11,9,brockhusk,drop,11557,Joe Milton,QB,
+2026,1426248519370420224,10,waiver,failed,1794406654736,2026-11-11,3,MaxSirianni,add,9502,Tank Dell,WR,5
+2026,1426248345109680128,10,waiver,complete,1794406613189,2026-11-11,3,MaxSirianni,add,11579,Audric Estime,RB,7
+2026,1426248345109680128,10,waiver,complete,1794406613189,2026-11-11,3,MaxSirianni,drop,7561,Elijah Mitchell,RB,
+2026,1426246849924173824,10,waiver,complete,1794406256709,2026-11-11,8,TylerWicks,add,11637,Keon Coleman,WR,8
+2026,1426246849924173824,10,waiver,complete,1794406256709,2026-11-11,8,TylerWicks,drop,12469,Dylan Sampson,RB,
+2026,1426246613176705024,10,waiver,failed,1794406200264,2026-11-11,8,TylerWicks,add,5947,Jakobi Meyers,WR,6
+2026,1426235866098970624,10,waiver,complete,1794403637960,2026-11-11,5,charliekaufmann,add,BUF,Buffalo Bills,DEF,4
+2026,1426235866098970624,10,waiver,complete,1794403637960,2026-11-11,5,charliekaufmann,drop,CLE,Cleveland Browns,DEF,
+2026,1426235740106280960,10,waiver,complete,1794403607921,2026-11-11,5,charliekaufmann,add,11786,Cam Little,K,4
+2026,1426235740106280960,10,waiver,complete,1794403607921,2026-11-11,5,charliekaufmann,drop,650,Nick Folk,K,
