@@ -430,98 +430,98 @@
    {
     "user_id": "1136842855890366464",
     "name": "Kep",
-    "actual": 1357.49,
-    "optimal": 1503.97,
-    "efficiency": 0.9026,
-    "bench_left": 146.48
+    "actual": 1487.0,
+    "optimal": 1636.28,
+    "efficiency": 0.9088,
+    "bench_left": 149.28
    },
    {
     "user_id": "475399371639222272",
     "name": "Clem",
-    "actual": 1205.89,
-    "optimal": 1351.77,
-    "efficiency": 0.8921,
-    "bench_left": 145.88
+    "actual": 1317.87,
+    "optimal": 1469.35,
+    "efficiency": 0.8969,
+    "bench_left": 151.48
    },
    {
     "user_id": "608781531883859968",
     "name": "Benny G",
-    "actual": 1435.08,
-    "optimal": 1543.9,
-    "efficiency": 0.9295,
-    "bench_left": 108.82
+    "actual": 1555.12,
+    "optimal": 1689.26,
+    "efficiency": 0.9206,
+    "bench_left": 134.14
    },
    {
     "user_id": "710284244835979264",
     "name": "B-Husk",
-    "actual": 1197.45,
-    "optimal": 1329.11,
-    "efficiency": 0.9009,
+    "actual": 1340.43,
+    "optimal": 1472.09,
+    "efficiency": 0.9106,
     "bench_left": 131.66
    },
    {
     "user_id": "716698629934481408",
     "name": "Chuck",
-    "actual": 1353.67,
-    "optimal": 1476.76,
-    "efficiency": 0.9166,
-    "bench_left": 123.09
+    "actual": 1503.17,
+    "optimal": 1644.1,
+    "efficiency": 0.9143,
+    "bench_left": 140.93
    },
    {
     "user_id": "735974647736213504",
     "name": "Towsk",
-    "actual": 1167.24,
-    "optimal": 1357.97,
-    "efficiency": 0.8595,
-    "bench_left": 190.73
+    "actual": 1285.67,
+    "optimal": 1487.35,
+    "efficiency": 0.8644,
+    "bench_left": 201.68
    },
    {
     "user_id": "736077599457026048",
     "name": "Johnson",
-    "actual": 1413.67,
-    "optimal": 1611.77,
-    "efficiency": 0.8771,
-    "bench_left": 198.1
+    "actual": 1580.62,
+    "optimal": 1784.72,
+    "efficiency": 0.8856,
+    "bench_left": 204.1
    },
    {
     "user_id": "736740647758938112",
     "name": "BJ",
-    "actual": 1360.0,
-    "optimal": 1518.99,
-    "efficiency": 0.8953,
-    "bench_left": 158.99
+    "actual": 1504.94,
+    "optimal": 1664.33,
+    "efficiency": 0.9042,
+    "bench_left": 159.39
    },
    {
     "user_id": "736744257179770880",
     "name": "Drobny",
-    "actual": 1290.49,
-    "optimal": 1367.11,
-    "efficiency": 0.944,
-    "bench_left": 76.62
+    "actual": 1403.55,
+    "optimal": 1486.97,
+    "efficiency": 0.9439,
+    "bench_left": 83.42
    },
    {
     "user_id": "736803054736822272",
     "name": "Wicko",
-    "actual": 1367.68,
-    "optimal": 1554.09,
-    "efficiency": 0.8801,
+    "actual": 1467.23,
+    "optimal": 1653.64,
+    "efficiency": 0.8873,
     "bench_left": 186.41
    },
    {
     "user_id": "737091087440674816",
     "name": "Siri",
-    "actual": 1291.34,
-    "optimal": 1364.52,
-    "efficiency": 0.9464,
-    "bench_left": 73.18
+    "actual": 1399.22,
+    "optimal": 1473.9,
+    "efficiency": 0.9493,
+    "bench_left": 74.68
    },
    {
     "user_id": "865793938542456832",
     "name": "Beaut",
-    "actual": 1502.94,
-    "optimal": 1666.1,
-    "efficiency": 0.9021,
-    "bench_left": 163.16
+    "actual": 1647.36,
+    "optimal": 1820.7,
+    "efficiency": 0.9048,
+    "bench_left": 173.34
    }
   ]
  },
@@ -529,98 +529,98 @@
   {
    "user_id": "1136842855890366464",
    "name": "Kep",
-   "actual": 3287.5,
-   "optimal": 3716.21,
-   "efficiency": 0.8846,
-   "bench_left": 428.71
+   "actual": 3417.01,
+   "optimal": 3848.52,
+   "efficiency": 0.8879,
+   "bench_left": 431.51
   },
   {
    "user_id": "475399371639222272",
    "name": "Clem",
-   "actual": 10796.58,
-   "optimal": 12109.23,
-   "efficiency": 0.8916,
-   "bench_left": 1312.65
+   "actual": 10908.56,
+   "optimal": 12226.81,
+   "efficiency": 0.8922,
+   "bench_left": 1318.25
   },
   {
    "user_id": "608781531883859968",
    "name": "Benny G",
-   "actual": 11697.57,
-   "optimal": 12739.62,
-   "efficiency": 0.9182,
-   "bench_left": 1042.05
+   "actual": 11817.61,
+   "optimal": 12884.98,
+   "efficiency": 0.9172,
+   "bench_left": 1067.37
   },
   {
    "user_id": "710284244835979264",
    "name": "B-Husk",
-   "actual": 10631.71,
-   "optimal": 11868.75,
-   "efficiency": 0.8958,
+   "actual": 10774.69,
+   "optimal": 12011.73,
+   "efficiency": 0.897,
    "bench_left": 1237.04
   },
   {
    "user_id": "716698629934481408",
    "name": "Chuck",
-   "actual": 10424.88,
-   "optimal": 11782.96,
-   "efficiency": 0.8847,
-   "bench_left": 1358.08
+   "actual": 10574.38,
+   "optimal": 11950.3,
+   "efficiency": 0.8849,
+   "bench_left": 1375.92
   },
   {
    "user_id": "735974647736213504",
    "name": "Towsk",
-   "actual": 11063.78,
-   "optimal": 12331.83,
-   "efficiency": 0.8972,
-   "bench_left": 1268.05
+   "actual": 11182.21,
+   "optimal": 12461.21,
+   "efficiency": 0.8974,
+   "bench_left": 1279.0
   },
   {
    "user_id": "736077599457026048",
    "name": "Johnson",
-   "actual": 11217.35,
-   "optimal": 12955.26,
-   "efficiency": 0.8659,
-   "bench_left": 1737.91
+   "actual": 11384.3,
+   "optimal": 13128.21,
+   "efficiency": 0.8672,
+   "bench_left": 1743.91
   },
   {
    "user_id": "736740647758938112",
    "name": "BJ",
-   "actual": 10446.67,
-   "optimal": 11925.07,
-   "efficiency": 0.876,
-   "bench_left": 1478.4
+   "actual": 10591.61,
+   "optimal": 12070.41,
+   "efficiency": 0.8775,
+   "bench_left": 1478.8
   },
   {
    "user_id": "736744257179770880",
    "name": "Drobny",
-   "actual": 10639.27,
-   "optimal": 12006.0,
-   "efficiency": 0.8862,
-   "bench_left": 1366.73
+   "actual": 10752.33,
+   "optimal": 12125.86,
+   "efficiency": 0.8867,
+   "bench_left": 1373.53
   },
   {
    "user_id": "736803054736822272",
    "name": "Wicko",
-   "actual": 10706.79,
-   "optimal": 12059.06,
-   "efficiency": 0.8879,
+   "actual": 10806.34,
+   "optimal": 12158.61,
+   "efficiency": 0.8888,
    "bench_left": 1352.27
   },
   {
    "user_id": "737091087440674816",
    "name": "Siri",
-   "actual": 10231.03,
-   "optimal": 11659.53,
-   "efficiency": 0.8775,
-   "bench_left": 1428.5
+   "actual": 10338.91,
+   "optimal": 11768.91,
+   "efficiency": 0.8785,
+   "bench_left": 1430.0
   },
   {
    "user_id": "865793938542456832",
    "name": "Beaut",
-   "actual": 3333.33,
-   "optimal": 3682.34,
-   "efficiency": 0.9052,
-   "bench_left": 349.01
+   "actual": 3477.75,
+   "optimal": 3836.94,
+   "efficiency": 0.9064,
+   "bench_left": 359.19
   }
  ],
  "worst_benchings": [

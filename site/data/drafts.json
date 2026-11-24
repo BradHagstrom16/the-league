@@ -165,6 +165,17 @@
    "surplus": 133.14
   },
   {
+   "season": 2026,
+   "manager_user": "608781531883859968",
+   "name": "Benny G",
+   "player_name": "Chuba Hubbard",
+   "position": "RB",
+   "round": 11,
+   "overall_pick": 122,
+   "points": 207.3,
+   "surplus": 132.22
+  },
+  {
    "season": 2024,
    "manager_user": "736077599457026048",
    "name": "Johnson",
@@ -251,17 +262,6 @@
    "overall_pick": 111,
    "points": 257.66,
    "surplus": 125.51
-  },
-  {
-   "season": 2022,
-   "manager_user": "736744257179770880",
-   "name": "Drobny",
-   "player_name": "Josh Jacobs",
-   "position": "RB",
-   "round": 6,
-   "overall_pick": 57,
-   "points": 286.8,
-   "surplus": 125.01
   }
  ],
  "busts": [
@@ -409,6 +409,17 @@
    "surplus": -125.05
   },
   {
+   "season": 2026,
+   "manager_user": "1136842855890366464",
+   "name": "Kep",
+   "player_name": "Lamar Jackson",
+   "position": "QB",
+   "round": 1,
+   "overall_pick": 6,
+   "points": 80.08,
+   "surplus": -122.6
+  },
+  {
    "season": 2021,
    "manager_user": "736803054736822272",
    "name": "Wicko",
@@ -418,21 +429,32 @@
    "overall_pick": 47,
    "points": 54.6,
    "surplus": -122.34
-  },
-  {
-   "season": 2023,
-   "manager_user": "736740647758938112",
-   "name": "BJ",
-   "player_name": "J.K. Dobbins",
-   "position": "RB",
-   "round": 8,
-   "overall_pick": 76,
-   "points": 11.7,
-   "surplus": -121.19
   }
  ],
  "steals_by_manager": {
   "1136842855890366464": [
+   {
+    "season": 2026,
+    "manager_user": "1136842855890366464",
+    "name": "Kep",
+    "player_name": "Jacoby Brissett",
+    "position": "QB",
+    "round": 12,
+    "overall_pick": 139,
+    "points": 139.2,
+    "surplus": 72.1
+   },
+   {
+    "season": 2026,
+    "manager_user": "1136842855890366464",
+    "name": "Kep",
+    "player_name": "Isaiah Likely",
+    "position": "TE",
+    "round": 10,
+    "overall_pick": 115,
+    "points": 161.0,
+    "surplus": 71.7
+   },
    {
     "season": 2025,
     "manager_user": "1136842855890366464",
@@ -465,28 +487,6 @@
     "overall_pick": 139,
     "points": 138.6,
     "surplus": 70.21
-   },
-   {
-    "season": 2026,
-    "manager_user": "1136842855890366464",
-    "name": "Kep",
-    "player_name": "Isaiah Likely",
-    "position": "TE",
-    "round": 10,
-    "overall_pick": 115,
-    "points": 156.5,
-    "surplus": 69.95
-   },
-   {
-    "season": 2026,
-    "manager_user": "1136842855890366464",
-    "name": "Kep",
-    "player_name": "Jaylen Warren",
-    "position": "RB",
-    "round": 7,
-    "overall_pick": 78,
-    "points": 152.9,
-    "surplus": 62.96
    }
   ],
   "475399371639222272": [
@@ -559,6 +559,17 @@
     "surplus": 133.14
    },
    {
+    "season": 2026,
+    "manager_user": "608781531883859968",
+    "name": "Benny G",
+    "player_name": "Chuba Hubbard",
+    "position": "RB",
+    "round": 11,
+    "overall_pick": 122,
+    "points": 207.3,
+    "surplus": 132.22
+   },
+   {
     "season": 2023,
     "manager_user": "608781531883859968",
     "name": "Benny G",
@@ -579,17 +590,6 @@
     "overall_pick": 119,
     "points": 217.6,
     "surplus": 111.91
-   },
-   {
-    "season": 2026,
-    "manager_user": "608781531883859968",
-    "name": "Benny G",
-    "player_name": "Chuba Hubbard",
-    "position": "RB",
-    "round": 11,
-    "overall_pick": 122,
-    "points": 180.8,
-    "surplus": 111.69
    },
    {
     "season": 2021,
@@ -684,6 +684,17 @@
     "surplus": 105.22
    },
    {
+    "season": 2026,
+    "manager_user": "716698629934481408",
+    "name": "Chuck",
+    "player_name": "Brock Purdy",
+    "position": "QB",
+    "round": 4,
+    "overall_pick": 41,
+    "points": 230.16,
+    "surplus": 87.96
+   },
+   {
     "season": 2022,
     "manager_user": "716698629934481408",
     "name": "Chuck",
@@ -693,17 +704,6 @@
     "overall_pick": 160,
     "points": 150.0,
     "surplus": 79.56
-   },
-   {
-    "season": 2026,
-    "manager_user": "716698629934481408",
-    "name": "Chuck",
-    "player_name": "Brock Purdy",
-    "position": "QB",
-    "round": 4,
-    "overall_pick": 41,
-    "points": 207.96,
-    "surplus": 79.53
    },
    {
     "season": 2025,
@@ -1004,6 +1004,17 @@
   ],
   "737091087440674816": [
    {
+    "season": 2026,
+    "manager_user": "737091087440674816",
+    "name": "Siri",
+    "player_name": "CeeDee Lamb",
+    "position": "WR",
+    "round": 2,
+    "overall_pick": 16,
+    "points": 255.2,
+    "surplus": 125.3
+   },
+   {
     "season": 2025,
     "manager_user": "737091087440674816",
     "name": "Siri",
@@ -1013,17 +1024,6 @@
     "overall_pick": 129,
     "points": 191.68,
     "surplus": 110.75
-   },
-   {
-    "season": 2026,
-    "manager_user": "737091087440674816",
-    "name": "Siri",
-    "player_name": "CeeDee Lamb",
-    "position": "WR",
-    "round": 2,
-    "overall_pick": 16,
-    "points": 224.5,
-    "surplus": 104.78
    },
    {
     "season": 2025,
@@ -1068,8 +1068,8 @@
     "position": "QB",
     "round": 8,
     "overall_pick": 92,
-    "points": 186.98,
-    "surplus": 97.18
+    "points": 207.44,
+    "surplus": 112.22
    },
    {
     "season": 2025,
@@ -1081,6 +1081,17 @@
     "overall_pick": 46,
     "points": 258.08,
     "surplus": 91.73
+   },
+   {
+    "season": 2026,
+    "manager_user": "865793938542456832",
+    "name": "Beaut",
+    "player_name": "Geno Smith",
+    "position": "QB",
+    "round": 14,
+    "overall_pick": 164,
+    "points": 155.88,
+    "surplus": 89.5
    },
    {
     "season": 2025,
@@ -1097,23 +1108,12 @@
     "season": 2026,
     "manager_user": "865793938542456832",
     "name": "Beaut",
-    "player_name": "Kenneth Walker",
-    "position": "RB",
-    "round": 2,
-    "overall_pick": 20,
-    "points": 200.4,
-    "surplus": 80.68
-   },
-   {
-    "season": 2025,
-    "manager_user": "865793938542456832",
-    "name": "Beaut",
-    "player_name": "Travis Etienne",
-    "position": "RB",
-    "round": 6,
-    "overall_pick": 70,
-    "points": 190.3,
-    "surplus": 74.58
+    "player_name": "Bryce Young",
+    "position": "QB",
+    "round": 10,
+    "overall_pick": 116,
+    "points": 174.14,
+    "surplus": 84.84
    }
   ]
  },
@@ -1128,7 +1128,7 @@
     "round": 1,
     "overall_pick": 6,
     "points": 80.08,
-    "surplus": -113.25
+    "surplus": -122.6
    },
    {
     "season": 2025,
@@ -1149,8 +1149,8 @@
     "position": "RB",
     "round": 2,
     "overall_pick": 19,
-    "points": 85.2,
-    "surplus": -34.52
+    "points": 95.5,
+    "surplus": -34.4
    },
    {
     "season": 2026,
@@ -1160,19 +1160,19 @@
     "position": "RB",
     "round": 8,
     "overall_pick": 91,
-    "points": 61.8,
-    "surplus": -28.0
+    "points": 63.6,
+    "surplus": -31.62
    },
    {
-    "season": 2025,
+    "season": 2026,
     "manager_user": "1136842855890366464",
     "name": "Kep",
-    "player_name": "DK Metcalf",
+    "player_name": "Drake London",
     "position": "WR",
-    "round": 5,
-    "overall_pick": 54,
-    "points": 167.0,
-    "surplus": 7.57
+    "round": 4,
+    "overall_pick": 43,
+    "points": 140.0,
+    "surplus": -2.2
    }
   ],
   "475399371639222272": [
@@ -1206,8 +1206,19 @@
     "position": "QB",
     "round": 1,
     "overall_pick": 12,
-    "points": 109.84,
-    "surplus": -83.49
+    "points": 124.18,
+    "surplus": -78.5
+   },
+   {
+    "season": 2026,
+    "manager_user": "475399371639222272",
+    "name": "Clem",
+    "player_name": "TreVeyon Henderson",
+    "position": "RB",
+    "round": 6,
+    "overall_pick": 61,
+    "points": 33.8,
+    "surplus": -74.51
    },
    {
     "season": 2023,
@@ -1219,17 +1230,6 @@
     "overall_pick": 46,
     "points": 70.68,
     "surplus": -71.14
-   },
-   {
-    "season": 2026,
-    "manager_user": "475399371639222272",
-    "name": "Clem",
-    "player_name": "TreVeyon Henderson",
-    "position": "RB",
-    "round": 6,
-    "overall_pick": 61,
-    "points": 33.8,
-    "surplus": -69.3
    }
   ],
   "608781531883859968": [
@@ -1259,23 +1259,12 @@
     "season": 2026,
     "manager_user": "608781531883859968",
     "name": "Benny G",
-    "player_name": "David Montgomery",
-    "position": "RB",
-    "round": 5,
-    "overall_pick": 50,
-    "points": 45.5,
-    "surplus": -65.42
-   },
-   {
-    "season": 2026,
-    "manager_user": "608781531883859968",
-    "name": "Benny G",
     "player_name": "Brian Thomas",
     "position": "WR",
     "round": 6,
     "overall_pick": 71,
     "points": 38.6,
-    "surplus": -64.5
+    "surplus": -69.71
    },
    {
     "season": 2025,
@@ -1287,6 +1276,17 @@
     "overall_pick": 73,
     "points": 47.8,
     "surplus": -61.72
+   },
+   {
+    "season": 2026,
+    "manager_user": "608781531883859968",
+    "name": "Benny G",
+    "player_name": "David Montgomery",
+    "position": "RB",
+    "round": 5,
+    "overall_pick": 50,
+    "points": 61.4,
+    "surplus": -59.25
    }
   ],
   "710284244835979264": [
@@ -1370,6 +1370,17 @@
     "surplus": -125.82
    },
    {
+    "season": 2026,
+    "manager_user": "716698629934481408",
+    "name": "Chuck",
+    "player_name": "De'Von Achane",
+    "position": "RB",
+    "round": 2,
+    "overall_pick": 17,
+    "points": 24.6,
+    "surplus": -105.3
+   },
+   {
     "season": 2023,
     "manager_user": "716698629934481408",
     "name": "Chuck",
@@ -1390,17 +1401,6 @@
     "overall_pick": 41,
     "points": 69.0,
     "surplus": -97.35
-   },
-   {
-    "season": 2026,
-    "manager_user": "716698629934481408",
-    "name": "Chuck",
-    "player_name": "De'Von Achane",
-    "position": "RB",
-    "round": 2,
-    "overall_pick": 17,
-    "points": 24.6,
-    "surplus": -95.12
    }
   ],
   "735974647736213504": [
@@ -1457,7 +1457,7 @@
     "round": 2,
     "overall_pick": 24,
     "points": 22.8,
-    "surplus": -96.92
+    "surplus": -107.1
    }
   ],
   "736077599457026048": [
@@ -1598,6 +1598,17 @@
     "surplus": -127.3
    },
    {
+    "season": 2026,
+    "manager_user": "736744257179770880",
+    "name": "Drobny",
+    "player_name": "Jeremiyah Love",
+    "position": "RB",
+    "round": 3,
+    "overall_pick": 34,
+    "points": 53.4,
+    "surplus": -89.75
+   },
+   {
     "season": 2024,
     "manager_user": "736744257179770880",
     "name": "Drobny",
@@ -1618,17 +1629,6 @@
     "overall_pick": 37,
     "points": 70.8,
     "surplus": -75.88
-   },
-   {
-    "season": 2026,
-    "manager_user": "736744257179770880",
-    "name": "Drobny",
-    "player_name": "Fernando Mendoza",
-    "position": "QB",
-    "round": 8,
-    "overall_pick": 87,
-    "points": 16.14,
-    "surplus": -73.66
    }
   ],
   "736803054736822272": [
@@ -1723,6 +1723,17 @@
     "surplus": -80.75
    },
    {
+    "season": 2026,
+    "manager_user": "737091087440674816",
+    "name": "Siri",
+    "player_name": "Josh Jacobs",
+    "position": "RB",
+    "round": 6,
+    "overall_pick": 64,
+    "points": 42.8,
+    "surplus": -65.51
+   },
+   {
     "season": 2021,
     "manager_user": "737091087440674816",
     "name": "Siri",
@@ -1732,17 +1743,6 @@
     "overall_pick": 17,
     "points": 132.48,
     "surplus": -65.43
-   },
-   {
-    "season": 2025,
-    "manager_user": "737091087440674816",
-    "name": "Siri",
-    "player_name": "Justin Jefferson",
-    "position": "WR",
-    "round": 1,
-    "overall_pick": 9,
-    "points": 158.4,
-    "surplus": -63.07
    }
   ],
   "865793938542456832": [
@@ -1765,8 +1765,8 @@
     "position": "WR",
     "round": 4,
     "overall_pick": 44,
-    "points": 79.4,
-    "surplus": -49.03
+    "points": 90.7,
+    "surplus": -51.5
    },
    {
     "season": 2025,
@@ -1780,17 +1780,6 @@
     "surplus": -49.02
    },
    {
-    "season": 2026,
-    "manager_user": "865793938542456832",
-    "name": "Beaut",
-    "player_name": "Amon-Ra St. Brown",
-    "position": "WR",
-    "round": 1,
-    "overall_pick": 5,
-    "points": 183.9,
-    "surplus": -9.43
-   },
-   {
     "season": 2025,
     "manager_user": "865793938542456832",
     "name": "Beaut",
@@ -1800,88 +1789,99 @@
     "overall_pick": 27,
     "points": 125.4,
     "surplus": -7.56
+   },
+   {
+    "season": 2026,
+    "manager_user": "865793938542456832",
+    "name": "Beaut",
+    "player_name": "Amon-Ra St. Brown",
+    "position": "WR",
+    "round": 1,
+    "overall_pick": 5,
+    "points": 198.6,
+    "surplus": -4.08
    }
   ]
  },
  "by_round": [
   {
    "round": 1,
-   "avg_points": 219.74,
-   "hit_rate": 0.5781
+   "avg_points": 221.5,
+   "hit_rate": 0.5625
   },
   {
    "round": 2,
-   "avg_points": 186.03,
-   "hit_rate": 0.5469
+   "avg_points": 187.94,
+   "hit_rate": 0.5156
   },
   {
    "round": 3,
-   "avg_points": 157.54,
-   "hit_rate": 0.5
+   "avg_points": 160.75,
+   "hit_rate": 0.4688
   },
   {
    "round": 4,
-   "avg_points": 159.95,
+   "avg_points": 162.53,
    "hit_rate": 0.5
   },
   {
    "round": 5,
-   "avg_points": 143.98,
-   "hit_rate": 0.5156
+   "avg_points": 145.81,
+   "hit_rate": 0.5312
   },
   {
    "round": 6,
-   "avg_points": 134.78,
-   "hit_rate": 0.5781
+   "avg_points": 135.76,
+   "hit_rate": 0.5625
   },
   {
    "round": 7,
-   "avg_points": 126.07,
+   "avg_points": 127.76,
    "hit_rate": 0.4688
   },
   {
    "round": 8,
-   "avg_points": 117.97,
+   "avg_points": 118.99,
    "hit_rate": 0.4844
   },
   {
    "round": 9,
-   "avg_points": 107.77,
-   "hit_rate": 0.5469
+   "avg_points": 109.2,
+   "hit_rate": 0.5312
   },
   {
    "round": 10,
-   "avg_points": 124.98,
-   "hit_rate": 0.5
+   "avg_points": 125.49,
+   "hit_rate": 0.4844
   },
   {
    "round": 11,
-   "avg_points": 93.67,
-   "hit_rate": 0.4688
+   "avg_points": 94.79,
+   "hit_rate": 0.4531
   },
   {
    "round": 12,
-   "avg_points": 82.43,
+   "avg_points": 83.27,
    "hit_rate": 0.4062
   },
   {
    "round": 13,
-   "avg_points": 82.67,
+   "avg_points": 84.3,
    "hit_rate": 0.4844
   },
   {
    "round": 14,
-   "avg_points": 86.13,
-   "hit_rate": 0.5
+   "avg_points": 86.91,
+   "hit_rate": 0.5156
   },
   {
    "round": 15,
-   "avg_points": 71.51,
-   "hit_rate": 0.4219
+   "avg_points": 72.01,
+   "hit_rate": 0.4688
   },
   {
    "round": 16,
-   "avg_points": 72.55,
+   "avg_points": 73.38,
    "hit_rate": 0.4219
   },
   {

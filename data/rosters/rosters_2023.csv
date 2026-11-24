@@ -18,7 +18,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,2,Erjohnson14,Johnson’s Lil Johnson,10229,Rashee Rice,WR,KC,starter
 2023,2,Erjohnson14,Johnson’s Lil Johnson,1373,Geno Smith,QB,NYJ,starter
 2023,2,Erjohnson14,Johnson’s Lil Johnson,184,Adrian Peterson,RB,,bench
-2023,2,Erjohnson14,Johnson’s Lil Johnson,2197,Brandin Cooks,WR,SF,bench
+2023,2,Erjohnson14,Johnson’s Lil Johnson,2197,Brandin Cooks,WR,,bench
 2023,2,Erjohnson14,Johnson’s Lil Johnson,3198,Derrick Henry,RB,BAL,starter
 2023,2,Erjohnson14,Johnson’s Lil Johnson,4046,Patrick Mahomes,QB,KC,starter
 2023,2,Erjohnson14,Johnson’s Lil Johnson,4663,Austin Ekeler,RB,WAS,bench
@@ -71,7 +71,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2023,5,kaufmannc,London Has Fallen,5119,Jason Sanders,K,NYJ,starter
 2023,5,kaufmannc,London Has Fallen,5854,Drew Lock,QB,SEA,bench
 2023,5,kaufmannc,London Has Fallen,5927,Terry McLaurin,WR,WAS,starter
-2023,5,kaufmannc,London Has Fallen,6803,Brandon Aiyuk,WR,SF,starter
+2023,5,kaufmannc,London Has Fallen,6803,Brandon Aiyuk,WR,,starter
 2023,5,kaufmannc,London Has Fallen,7591,Justin Fields,QB,KC,starter
 2023,5,kaufmannc,London Has Fallen,7611,Rhamondre Stevenson,RB,NE,bench
 2023,5,kaufmannc,London Has Fallen,8112,Drake London,WR,ATL,starter

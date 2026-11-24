@@ -6,7 +6,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,1,bgreenblatt,Young and Beautiful ,12514,Emeka Egbuka,WR,TB,starter
 2025,1,bgreenblatt,Young and Beautiful ,12526,Tetairoa McMillan,WR,CAR,starter
 2025,1,bgreenblatt,Young and Beautiful ,3257,Jacoby Brissett,QB,BAL,starter
-2025,1,bgreenblatt,Young and Beautiful ,6803,Brandon Aiyuk,WR,SF,bench
+2025,1,bgreenblatt,Young and Beautiful ,6803,Brandon Aiyuk,WR,,bench
 2025,1,bgreenblatt,Young and Beautiful ,7021,Rico Dowdle,RB,PIT,starter
 2025,1,bgreenblatt,Young and Beautiful ,7594,Chuba Hubbard,RB,CAR,bench
 2025,1,bgreenblatt,Young and Beautiful ,8112,Drake London,WR,ATL,starter
@@ -74,7 +74,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,5,charliekaufmann,Clownin’ Around,5967,Tony Pollard,RB,TEN,bench
 2025,5,charliekaufmann,Clownin’ Around,6801,Tee Higgins,WR,CIN,starter
 2025,5,charliekaufmann,Clownin’ Around,7526,Jaylen Waddle,WR,DEN,starter
-2025,5,charliekaufmann,Clownin’ Around,7607,Michael Carter,RB,,starter
+2025,5,charliekaufmann,Clownin’ Around,7607,Michael Carter,RB,TEN,starter
 2025,5,charliekaufmann,Clownin’ Around,8110,Jake Ferguson,TE,DAL,bench
 2025,5,charliekaufmann,Clownin’ Around,8183,Brock Purdy,QB,SF,starter
 2025,5,charliekaufmann,Clownin’ Around,96,Aaron Rodgers,QB,PIT,bench
@@ -107,7 +107,7 @@ season,roster_id,manager,team_name,player_id,player_name,position,nfl_team,slot
 2025,7,KingTowsk,Aaron Yeo’s future team,1373,Geno Smith,QB,NYJ,starter
 2025,7,KingTowsk,Aaron Yeo’s future team,2747,Jason Myers,K,SEA,starter
 2025,7,KingTowsk,Aaron Yeo’s future team,331,Philip Rivers,QB,,bench
-2025,7,KingTowsk,Aaron Yeo’s future team,5870,Daniel Jones,QB,IND,ir
+2025,7,KingTowsk,Aaron Yeo’s future team,5870,Daniel Jones,QB,,ir
 2025,7,KingTowsk,Aaron Yeo’s future team,6770,Joe Burrow,QB,CIN,starter
 2025,7,KingTowsk,Aaron Yeo’s future team,6786,CeeDee Lamb,WR,DAL,starter
 2025,7,KingTowsk,Aaron Yeo’s future team,8148,Jameson Williams,WR,DET,starter
